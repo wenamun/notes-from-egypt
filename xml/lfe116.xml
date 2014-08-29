@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>May, 1868: Sir Alexander Duff Gordon, MINIEH, May, 1868.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> We are just arriving at Minieh whence the railway will take letters quickly. We dined
+            at Keneh and at Siout with some friends, and had fantasia at Keneh. Omar desires his
+            dutiful salaams to you and hopes you will be satisfied with the care he has taken of
+            ‘the child.’ How you would have been amused to hear the girl who came to dance for us at
+            Esneh lecture Maurice about evil ways, but she was an old friend of mine, and gave good
+            and sound advice. </p>
+         <p> Everyone is delighted about Abyssinia. ‘Thank God our Pasha will fear the English more
+            than before, and the Sultan also,’ and when I lamented the expense, they all exclaimed,
+            ‘Never mind the expense, it is worth more than ten millions to you; your faces are
+            whitened and your power enlarged before all the world; but why don’t you take us on your
+            way back.’ </p>
+         <p> I saw a very interesting man at Keneh, one Faam, a Copt, who has turned Presbyterian,
+            and has induced a hundred others at Koos to do likewise: an American missionary is their
+            minister. Faam was sent off to the Soudan by the Patriarch, but brought back. He is a
+            splendid old fellow, and I felt I looked on the face of a Christian martyr, a curious
+            sight in the nineteenth century: the calm, fearless, rapt expression was like what you
+            see in noble old Italian pictures, and he had the perfect absence of ‘doing pious’ which
+            shows the undoubting faith. He and the Mufti, also a noble fellow, sparred about
+            religion in a jocose and friendly tone which would be quite unintelligible in Exeter
+            Hall. When he was gone the Mufti said, ‘Ah! we thank them, for though they know not the
+            truth of Islam, they are good men, and walk straight, and would die for their religion:
+            their example is excellent; praise be to God for them.’</p>
+      </body>
+   </text>
+</TEI>

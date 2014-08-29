@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>May 12, 1863: To Mrs. Austin, ALEXANDRIA, May 12, 1863.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST MUTTER,</p>
+
+         <p>I have been here a fortnight, but the climate disagrees so much with me that I am going
+            back to <placeName ref="Cairo">Cairo</placeName> at once by the advice of the doctor of
+            the Suez Canal. I cannot shake off my cough here. Mr. Thayer kindly lends me his nice
+            little bachelor house, and I take Omar back again for the job. It is very hot here, but
+            with a sea-breeze which strikes me like ice; strong people enjoy it, but it gives even
+            Janet cold in the head. She is very well, I think, and seems very happy. She is _Times_
+            correspondent and does it very well.</p>
+
+         <p>I am terribly disappointed at not being as materially better as I had hoped I should be
+            while in Upper Egypt. I cannot express the longing I have for home and my children, and
+            how much I feel the sort of suspense it all causes to you and to Alick, and my desire to
+            be with you.</p>
+
+         <p>One must come to the East to understand absolute equality. As there is no education and
+            no reason why the donkey-boy who runs behind me may not become a great man, and as all
+            Muslims are _ipso facto_ equal; money and rank are looked on as mere accidents, and my
+            _savoir vivre_ was highly thought of because I sat down with Fellaheen and treated
+            everyone as they treat each other. In Alexandria all that is changed. The European ideas
+            and customs have extinguished the Arab altogether, and those who remain are not improved
+            by the contact. Only the _Bedaween_ preserve their haughty _nonchalance_. I found the
+            Mograbee bazaar full of them when I went to buy a white cloak, and was amused at the way
+            in which one splendid bronze figure, who lay on the shop-front, moved one leg to let me
+            sit down. They got interested in my purchase, and assisted in making the bargain and
+            wrapping the cloak round me Bedawee fashion, and they too complimented me on having ‘the
+            face of the Arab,’ which means Bedaween. I wanted a little Arab dress for Rainie, but
+            could not find one, as at her age none are worn in the desert.</p>
+
+         <p>I dined one day with Omar, or rather I ate at his house, for he would not eat with me.
+            His sister-in-law cooked a most admirable dinner, and everyone was delighted. It was an
+            interesting family circle. A very respectable elder brother a confectioner, whose elder
+            wife was a black woman, a really remarkable person, who speaks Italian perfectly, and
+            gave me a great deal of information and asked such intelligent questions. She ruled the
+            house but had no children, so he had married a fair, gentle-looking Arab woman who had
+            six children, and all lived in perfect harmony. Omar’s wife is a tall, handsome girl of
+            his own age, with very good manners. She had been outside the door of the close little
+            court which constituted the house _once_ since her marriage. I now begin to understand
+            all about the _wesen_ with the women. There is a good deal of chivalry in some respects,
+            and in the respectable lower and middle classes the result is not so bad. I suspect that
+            among the rich few are very happy. But I don’t know them, or anything of the Turkish
+            ways. I will go and see the black woman again and hear more, her conversation was really
+            interesting.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>April 19, 1867: Sir Alexander Duff Gordon, LUXOR, April 19, 1867.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> I have been much amused lately by a new acquaintance, who, in romances of the last
+            century, would be called an ‘Arabian sage.’ Sheykh Abdurrachman lives in a village half
+            a day’s journey off, and came over to visit me and to doctor me according to the science
+            of Galen and Avicenna. Fancy a tall, thin, graceful man, with a grey beard and liquid
+            eyes, absorbed in studies of the obsolete kind, a doctor of theology, law, medicine and
+            astronomy. We spent three days in arguing and questioning; I consented to swallow a
+            potion or two which he made up before me, of very innocent materials. My friend is
+            neither a quack nor superstitious, and two hundred years ago would have been a better
+            physician than most in Europe. Indeed I would rather swallow his physic now than that of
+            many a M.D. I found him like all the learned theologians I have known, extremely liberal
+            and tolerant. You can conceive nothing more interesting and curious than the
+            conversation of a man learned and intelligent, and utterly ignorant of all our modern
+            Western science. If I was pleased with him, he was enchanted with me, and swore by God
+            that I was a Mufti indeed, and that a man could nowhere spend time so delightfully as in
+            conversation with me. He said he had been acquainted with two or three Englishmen who
+            had pleased him much, but that if all Englishwomen were like me the power must
+            necessarily be in our hands, for that my _akl_ (brain, intellect) was far above that of
+            the men he had known. He objected to our medicine that it seemed to consist in
+            palliatives, which he rather scorned, and aimed always at a radical cure. I told him
+            that if he had studied anatomy he would know that radical cures were difficult of
+            performance, and he ended by lamenting his ignorance of English or some European
+            language, and that he had not learned our _Ilm_ (science) also. Then we plunged into
+            sympathies, mystic numbers, and the occult virtues of stones, etc., and I swallowed my
+            mixture (consisting of liquorice, cummin and soda) just as the sun entered a particular
+            house, and the moon was in some favourable aspect. He praised to me his friend, a
+            learned Jew of <placeName ref="Cairo">Cairo</placeName>. I could have fancied myself
+            listening to Abu Suleyman of Cordova, in the days when we were the barbarians and the
+            Arabs were the learned race. There is something very winning in the gentle, dignified
+            manners of all the men of learning I have seen here, and their homely dress and habits
+            make it still more striking. I longed to photograph my Sheykh as he sat on the divan
+            pulling MSS. out of his bosom to read me the words of _El-Hakeem Lokman_, or to
+            overwhelm me with the authority of some physician whose very name I had never heard. </p>
+         <p> The hand of the Government is awfully heavy upon us. All this week the people have been
+            working night and day cutting their unripe corn, because three hundred and ten men are
+            to go to-morrow to work on the railroad below Siout. This green corn is, of course,
+            valueless to sell and unwholesome to eat; so the magnificent harvest of this year is
+            turned to bitterness at the last moment. From a neighbouring village all the men are
+            gone, and seven more are wanted to make up the _corvée_. The population of Luxor is
+            1,000 males of all ages, so you can guess how many strong men are left after three
+            hundred and ten are taken. </p>
+         <p> I don’t like to think too much about seeing you and Maurice next winter for fear I
+            should be disappointed. If I am too sick and wretched I can hardly wish you to come
+            because I know what a nuisance it is to be with one always coughing and panting, and
+            unable to do like other people. But if I pick up tolerably this summer I shall indeed be
+            glad to see you and him once more. </p>
+         <p> This house is falling sadly to decay, which produces snakes and scorpions. I sent for
+            the _hawee_ (snake-catcher) who caught a snake, but who can’t conjure the scorpions out
+            of their holes. One of my fat turkeys has just fallen a victim, and I am in constant
+            fear for little Bob, only he is always in Omar’s arms. I think I described to you the
+            festival of Sheykh Gibrieel: the dinner, and the poets who improvised; this year I had a
+            fine piece of declamation in my honour. A real calamity is the loss of our good Maōhn,
+            Seleem Effendi. The Mudir hailed him from his steamer to go to Keneh directly, with no
+            further notice. We hoped some good luck for him, and so it would have been to a Turk. He
+            is made overseer over the poor people at the railway work, and only gets two pounds five
+            shillings per month additional, he has to keep a horse and a donkey, and to buy them and
+            to hire a sais, and he does _not_ know how to squeeze the fellaheen. It is true ‘however
+            close you skin an onion, a clever man can always peel it again,’ which means that even
+            the poorest devils at the works can be beaten into giving a little more; but our dear
+            Seleem, God bless him, will be ruined and made miserable by his promotion. I had a very
+            woeful letter from him yesterday.</p>
+      </body>
+   </text>
+</TEI>

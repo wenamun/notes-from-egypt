@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>January 8, 1865: Dowager Lady Duff Gordon, LUXOR, January 8, 1865.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAR OLD LADY, </p>
+         <p> I received your kind letter in the midst of the drumming and piping and chanting and
+            firing of guns and pistols and scampering of horses which constitute a religious
+            festival in Egypt. The last day of the _moolid_ of Abu-l-Hajjaj fell on the 1st January
+            so you came to wish me ‘May all the year be good to thee’ as the people here were civil
+            enough to do when I told them it was the first day of the _Frankish_ year. (The
+            _Christian_ year here begins in September.) </p>
+         <p> I was very sorry to hear of poor Lady Theresa’s (Lady Theresa Lewis) death. I feel as
+            if I had no right to survive people whom I left well and strong when I came away so ill.
+            As usual the air of Upper Egypt has revived me again, but I am still weak and thin, and
+            hear many lamentations at my altered looks. However, ‘_Inshallah_, thou wilt soon be
+            better.’ </p>
+         <p> Why don’t you make Alexander edit your letters from Spain? I am sure they would be far
+            more amusing than mine can possibly be—for you _can_ write letters and I never could. I
+            wish I had Miss Berry’s though I never did think her such a genius as most people, but
+            her letters must be amusing from the time when they were written. Alexander will tell
+            you how heavy the hand of Pharaoh is upon this poor people. ‘My father scourged you with
+            whips but I will scourge you with scorpions,’ did not Rehoboam say so? or I forget which
+            King of Judah. The distress here is frightful in all classes, and no man’s life is safe. </p>
+         <p> Ali Bey Rheda told me the other day that Prince Arthur is coming here and that he was
+            coming up with him after taking a Prince of Hohenzollern back to <placeName ref="Cairo"
+               >Cairo</placeName>. There will be all the _fantasia_ possible for him here. Every man
+            that has a horse will gallop him to pieces in honour of the son of the Queen of the
+            English, and not a charge of powder will be spared. If you see Layard tell him that
+            Mustapha A’gha had the whole Koran read for his benefit at the tomb of Abu-l-Hajjaj
+            besides innumerable _fathahs_ which he said for him himself. He consulted me as to the
+            propriety of sending Layard a backsheesh, but I declared that Layard was an Emeer of the
+            Arabs and a giver, not a taker of backsheesh.</p>
+      </body>
+   </text>
+</TEI>

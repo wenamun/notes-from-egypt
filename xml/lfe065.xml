@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>December 5, 1865: Mrs. Austin, CAIRO, December 5, 1865.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST MUTTER, </p>
+         <p> _Alhamdulillah_—now I am at rest. I have got all the boat in order. My captain, Reis
+            Mohammed, is very satisfactory, and to-day we sail as soon as Omar comes back with the
+            meat, etc. from market. </p>
+         <p> I received Meadow’s review; I wish he had not said so much about me in it. </p>
+         <p> Mohammed Gazowee begs to give his best Salaam to Sheykh Stanley whom he longs to see
+            again. He says that all the people said he was not a Christian, for he was not proud
+            ever towards them as Christians are, but a real Sheykh, and that the Bedaween still talk
+            of Sheykh Stanley and of his piety. The old half-witted jester of Luxor has found me
+            out—he has wandered down here to see his eldest son who is serving in the army. He had
+            brought a little boy with him, but is ‘afraid for him’ here, I don’t know why, and has
+            begged me to take the child up to his mother. These licensed _possenreisser_ are like
+            our fools in old times—but less witty than we fancy them to have been—thanks to
+            Shakespeare, I suppose. Each district has one who attends all _moolids_ and other
+            gatherings of the people, and picks up a living. He tells me that the Turkish Názir of
+            Zeneea has begun some business against our Kadee, Sheykh Ibraheem, and Sheykh Yussuf,
+            accused them of something—he does not know what—_perhaps of being friends of Hajjee
+            Sultan, or of stealing wood_!! If all the friends of Hajjee Sultan are to be prosecuted
+            that will include the whole Saeed. </p>
+         <p> Of course I am anxious about my friends. All Haleem Pasha Oghdee’s villages have been
+            confiscated (those tributary to him for work) _sous prétexte_ that he ill-used the
+            people, _n.b._ he alone paid them—a bad example. Pharoah is indeed laying intolerable
+            burthens—not on the Israelites—but on the fellaheen. </p>
+         <p> Omar said of the great dinner to-day, ‘I think all the food will taste of blood, it is
+            the blood of the poor, and more _haram_ than any pork or wine or blood of beasts.’ Of
+            course such sentiments are not to be repeated—but they are general. The _meneggets_ who
+            picked and made ten mattrasses and fourteen cushions for me in half a day, were laughing
+            and saying, ‘for the Pasha’s boat we work also, at so much a day and we should have done
+            it in four days.’ ‘And for me if I paid by the day instead of by the piece, how long?’
+            ‘One day instead of half, O Lady, for fear thou shouldest say to us, you have finished
+            in half a day and half the wages is enough for you.’ That is the way in which all the
+            work is done for _Effendeena_—no wonder his steamers don’t pay. </p>
+         <p> I saw Ross yesterday—he tells me the Shereef of Mecca has sent him a horse.</p>
+      </body>
+   </text>
+</TEI>

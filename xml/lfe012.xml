@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>May 12, 1863: To Sir Alexander Duff Gordon, ALEXANDRIA, May 12, 1863.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK,</p>
+
+         <p>I only got your letter an hour ago, and the mail goes out at four. I enclose to you the
+            letter I had written to my mother, so I need not repeat about my plans. Continue to
+            write here, a letter comes as soon and safer. My general health is so much stronger and
+            better—especially before I had this last severe attack—that I still hope, though it is a
+            severe trial of patience not to throw it up and come home for good. It would be
+            delightful to have you at <placeName ref="Cairo">Cairo</placeName> now I have pots and
+            pans and all needful for a house, but a carpet and a few mattresses, if you could camp
+            with me _à l’Arabe_.</p>
+
+         <p>How you would revel in old Masr el-Kahira, peep up at lattice windows, gape like a
+            _gasheem_ (green one) in the bazaar, go wild over the mosques, laugh at portly Turks and
+            dignified Sheykhs on their white donkeys, drink sherbet in the streets, ride wildly
+            about on a donkey, peer under black veils at beautiful eyes and feel generally
+            intoxicated! I am quite a good cicerone now of the glorious old city. Omar is in
+            raptures at the idea that the Sidi el Kebir (the Great Master) might come, and still
+            more if he brought the ‘little master.’ He plans meeting you on the steamboat and
+            bringing you to me, that I may kiss your hand first of all. Mashallah! How our hearts
+            would be dilated!</p>
+      </body>
+   </text>
+</TEI>

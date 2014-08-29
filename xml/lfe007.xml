@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>March 10, 1863: To Sir Alexander Duff Gordon, March 10, 1863.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+         <lg>
+            <l>‘If in the street I led thee, dearest,</l>
+            <l>Though the veil hid thy face divine,</l>
+            <l>They who beheld thy graceful motion</l>
+            <l>Would stagger as though drunk with wine.</l>
+         </lg>
+
+         <lg>
+            <l>Nay, e’en the holy Sheykh, while praying</l>
+            <l>For guidance in the narrow way,</l>
+            <l>Must needs leave off, and on the traces</l>
+            <l>Of thine enchanting footsteps stray.</l>
+         </lg>
+
+         <lg>
+            <l>O ye who go down in the boats to Dumyat,</l>
+            <l>Cross, I beseech ye, the stream to Budallah;</l>
+            <l>Seek my beloved, and beg that she will not</l>
+            <l>Forget me, I pray and implore her by Allah.</l>
+         </lg>
+
+         <lg>
+            <l>‘Fair as two moons is the face of my sweetheart,</l>
+            <l>And as to her neck and her bosom—Mashallah.</l>
+            <l>And unless to my love I am soon reunited</l>
+            <l>Death is my portion—I swear it by Allah.’</l>
+         </lg>
+
+         <p>Thus sings Ali Asleemee, the most _debraillé_ of my crew, a _hashshásh_, {48} but a
+            singer and a good fellow. The translation is not free, though the sentiments are. I
+            merely rhymed Omar’s literal word-for-word interpretation. The songs are all in a
+            similar strain, except one funny one abusing the ‘Sheykh el-Beled, may the fleas bite
+            him.’ Horrid imprecation! as I know to my cost, for after visiting the Coptic monks at
+            Girgeh I came home to the boat with myriads. Sally said she felt like Rameses the Great,
+            so tremendous was the slaughter of the active enemy.</p>
+
+         <p>I had written the first page just as I got to Siout and was stopped by bad news of
+            Janet; but now all is right again, and I am to meet her in <placeName ref="Cairo"
+               >Cairo</placeName>, and she proposes a jaunt to Suez and to Damietta. I have got a
+            superb illumination to-night, improvised by Omar in honour of the Prince of Wales’s
+            marriage, and consequently am writing with flaring candles, my lantern being on duty at
+            the masthead, and the men are singing an epithalamium and beating the tarabookeh as loud
+            as they can.</p>
+
+         <p>You will have seen my letter to my mother, and heard how much better I am for the
+            glorious air of Nubia and the high up-country. Already we are returning into misty
+            weather. I dined and spent the day with Wassef and his Hareem, such an amiable, kindly
+            household. I was charmed with their manner to each other, to the slaves and family. The
+            slaves (all Muslims) told Omar what an excellent master they had. He had meant to make a
+            dance-fantasia, but as I had not good news it was countermanded. Poor Wassef ate his
+            boiled beans rather ruefully, while his wife and I had an excellent dinner, she being
+            excused fasting on account of a coming baby. The Copt fast is no joke, neither butter,
+            milk, eggs nor fish being allowed for fifty-five days. They made Sally dine with us, and
+            Omar was admitted to wait and interpret. Wassef’s younger brother waited on him as in
+            the Bible, and his clerk, a nice young fellow, assisted. Black slaves brought the dishes
+            in, and capital the food was. There was plenty of joking between the lady and Omar about
+            Ramadan, which he had broken, and the Nasranee fast, and also about the number of wives
+            allowed, the young clerk intimating that he rather liked that point in Islam. I have
+            promised to spend ten or twelve days at their house if ever I go up the Nile again. I
+            have also promised to send Wassef all particulars as to the expense, etc. of educating
+            his boy in England, and to look after him and have him to our house in the holidays. I
+            can’t describe how anxiously kind these people were to me. One gets such a wonderful
+            amount of sympathy and real hearty kindness here. A curious instance of the affinity of
+            the British mind for prejudice is the way in which every Englishman I have seen scorns
+            the Eastern Christians, and droll enough that sinners like Kinglake and I should be the
+            only people to feel the tie of the ‘common faith’ (_vide_ ‘Eothen’). A very pious Scotch
+            gentleman wondered that I could think of entering a Copt’s house, adding that they were
+            the publicans (tax-gatherers) of this country, which is partly true. I felt inclined to
+            mention that better company than he or I had dined with publicans, and even sinners.</p>
+
+         <p>The Copts are evidently the ancient Egyptians. The slightly aquiline nose and long eye
+            are the very same as the profiles of the tombs and temples, and also like the very
+            earliest Byzantine pictures; _du reste_, the face is handsome, but generally sallow and
+            rather inclined to puffiness, and the figure wants the grace of the Arabs. Nor has any
+            Copt the thoroughbred, _distingué_ look of the meanest man or woman of good Arab blood.
+            Their feet are the long-toed, flattish foot of the Egyptian statue, while the Arab foot
+            is classically perfect and you could put your hand under the instep. The beauty of the
+            Ababdeh, black, naked, and shaggy-haired, is quite marvellous. I never saw such delicate
+            limbs and features, or such eyes and teeth.</p>
+
+         <p>CAIRO, _March_ 19.</p>
+
+         <p>After leaving Siout I caught cold. The worst of going up the Nile is that one must come
+            down again and find horrid fogs, and cold nights with sultry days. So I did not attempt
+            Sakhara and the Pyramids, but came a day before my appointed time to <placeName
+               ref="Cairo">Cairo</placeName>. Up here in the town it is much warmer and dryer, and
+            my cough is better already. I found all your letters in many volumes, and was so excited
+            over reading them that I could not sleep one moment last night, so excuse dulness, but I
+            thought you’d like to know I was safe in Briggs’ bank, and expecting Janet and Ross
+            to-night.</p>
+      </body>
+   </text>
+</TEI>

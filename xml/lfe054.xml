@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>March 25, 1865: Mrs. Ross, LUXOR, March 25, 1865.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST JANET, </p>
+         <p> I hope you have not had visions of me plundered and massacred by the crazy darweesh who
+            has caused the destruction of Gau and three other villages. I assure you we are quite
+            quiet here and moreover have arranged matters for our defence if Achmet et Tayib should
+            honour us with a visit. The heat has just set in, thermometer 89° to-day, of course I am
+            much better, fatter and cough less. </p>
+         <p> Many thanks to Henry about Achmet Ibn-Mustapha, but his father is going to send him to
+            England into Mr. Fowler’s workshop, which will be a much better training I think. Mr.
+            Fowler takes him without a premium most kindly. Lord Dudley will tell you what a
+            splendid entertainment I gave him; I think he was quite frightened at the sight of the
+            tray and the black fingers in the dishes. </p>
+         <p> The Abab’deh Sheykh and his handsome brother propose to take me to the moolid of
+            Sheykh-el-Shadhilee (the coffee saint) in the desert to see all the wild Abab’deh and
+            Bishareeyeh. It is very tempting, if I feel pretty well I must go I think and perhaps
+            the change might do me good. They believe no European ever went to that festival. There
+            are camel-races and a great show of pretty girls says the handsome Hassan. A fine young
+            Circassian cawass here has volunteered to be my servant anywhere and to fight anybody
+            for me because I have cured his pretty wife. You would love Kursheed with his clear blue
+            eyes, fair face and brisk neat soldierly air. He has a Crimean medal and such a lot of
+            daggers and pistols and is such a tremendous Muslim, but never-the-less he loves me and
+            tells me all his affairs and how tiresome his wife’s mother is. I tell him all wives’
+            mothers always are, but he swears _Wallahi_, _Howagah_ (Mr.) Ross don’t say so,
+            _Wallahi_, _Inshallah_! </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>January 9, 1865: Mrs. Austin, LUXOR, January 9, 1865.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>I gave Sheykh Yussuf your knife to cut his _kalem_ (reed pen) with, and to his little
+            girl the coral waistband clasp you gave me _as from you_. He was much pleased. I also
+            brought the Shereef the psalms in Arabic to his great delight. The old man called on all
+            ‘our family’ to say a _fathah_ for their sister, after making us all laugh by shouting
+            out ‘_Alhamdulillah_! here is our darling safe back again.’ </p>
+         <p> I wish you could have seen me in the crowd at Keneh holding on to the Kadee’s
+            _farageeyeh_ (a loose robe worn by the Ulema). He is the real original Kadee of the
+            Thousand and One Nights. Did ever Kadee tow an Englishwoman round a Sheykh’s tomb
+            before? but I thought his determination to show the people that he considered a
+            Christian not out of place in a Muslim holy place very edifying. </p>
+         <p> I find an exceedingly pleasant man here, an Abab’deh, a very great Sheykh from beyond
+            Khartoum, a man of fifty I suppose, with manners like an English nobleman, simple and
+            polite and very intelligent. He wants to take me to Khartoum for two months up and back,
+            having a tent and a _takhterawan_ (camel-litter) and to show me the Bishareen in the
+            desert. We traced the route on my map which to my surprise he understood, and I found he
+            had travelled into Zanzibar and knew of the existence of the Cape of Good Hope and the
+            English colony there. He had also travelled in the Dinka and Shurook country where the
+            men are seven feet and over high (Alexander saw a Dinka girl at <placeName ref="Cairo"
+               >Cairo</placeName> three inches taller than himself!). He knows Madlle. Tiné and says
+            she is ‘on everyone’s head and in their eyes’ where she has been. You may fancy that I
+            find Sheykh Alee very good company. </p>
+         <p> To-day the sand in front of the house is thronged with all the poor people with their
+            camels, of which the Government has made a new levy of eight camels to every thousand
+            feddans. The poor beasts are sent off to transport troops in the Soudan, and not being
+            used to the desert, they all die—at all events their owners never see one of them again.
+            The discontent is growing stronger every day. Last week the people were cursing the
+            Pasha in the streets of Assouan, and every one talks aloud of what they think. </p>
+         <p> _January_ 11.—The whole place is in desolation, the men are being beaten, one because
+            his camel is not good enough, another because its saddle is old and shabby, and the rest
+            because they have not money enough to pay two months’ food and the wages of one man, to
+            every four camels, to be paid for the use of the Government beforehand. The _courbash_
+            has been going on my neighbours’ backs and feet all the morning. It is a new sensation
+            too when a friend turns up his sleeve and shows the marks of the wooden handcuffs and
+            the gall of the chain on his throat. The system of wholesale extortion and spoliation
+            has reached a point beyond which it would be difficult to go. The story of Naboth’s
+            vineyard is repeated daily on the largest scale. I grieve for Abdallah-el-Habbashee and
+            men of high position like him, sent to die by disease (or murder), in Fazoghou, but I
+            grieve still more over the daily anguish of the poor fellaheen, who are forced to take
+            the bread from the mouths of their starving families and to eat it while toiling for the
+            private profit of one man. Egypt is one vast ‘plantation’ where the master works his
+            slaves without even feeding them. From my window now I see the men limping about among
+            the poor camels that are waiting for the Pasha’s boats to take them, and the great heaps
+            of maize which they are forced to bring for their food. I can tell you the tears such a
+            sight brings to one’s eyes are hot and bitter. These are no sentimental grievances;
+            hunger, and pain, and labour without hope and without reward, and the constant
+            bitterness of impotent resentment. To you all this must sound remote and almost
+            fabulous. But try to imagine Farmer Smith’s team driven off by the police and himself
+            beaten till he delivered his hay, his oats and his farm-servant for the use of the Lord
+            Lieutenant, and his two sons dragged in chains to work at railway embankments—and you
+            will have some idea of my state of mind to-day. I fancy from the number of troops going
+            up to Assouan that there is another rising among the blacks. Some of the black regiments
+            revolted up in the Soudan last summer, and now I hear Shaheen Pasha is to be here in a
+            day or two on his way up, and the camels are being sent off by hundreds from all the
+            villages every day. But I am weary of telling, and you will sicken of hearing my
+            constant lamentations. </p>
+         <p> Sheykh Hassan dropped in and dined with me yesterday and described his mother and her
+            high-handed rule over him. It seems he had a ‘jeunesse orageuse’ and she defended him
+            against his father’s displeasure, but when the old Sheykh died she informed her son that
+            if he ever again behaved in a manner unworthy of a Sheykh-el-Arab she would not live to
+            see it. ‘Now if my mother told me to jump into the river and drown I should say _hader_
+            (ready), for I fear her exceedingly and love her above all people in the world, and have
+            left everything in her hand.’ He was good enough to tell me that I was the only woman he
+            knew like his mother and that was why he loved me so much. I am to visit this Arab
+            Deborah at the Abab’deh village two days ride from the first Cataract. She will come and
+            meet me at the boat. Hassan was splendid when he said how he feared his mother
+            exceedingly. </p>
+         <p> To my amazement to-day in walked the tremendous Alim from Tunis, Sheykh
+            Abd-el-Moutovil, who used to look so black at me. He was very civil and pleasant and
+            asked no end of questions about steam engines, and telegraphs and chemistry; especially
+            whether it was true that the Europeans still fancied they could make gold. I said that
+            no one had believed that for nearly two hundred years, and he said that the Arabs also
+            knew it was ‘a lie,’ and he wondered to hear that Europeans, who were so clever,
+            believed it. He had just been across the Nile to see the tombs of the Kings and of
+            course ‘improved the occasion’ and uttered a number of the usual fine sayings about the
+            vanity of human things. He told me I was the only Frank he had ever spoken to. I
+            observed he did not say a word about religion, or use the usual pious phrases. By the
+            bye, Sheykh Yussuf filled up my inkstand for me the other evening and in pouring the ink
+            said ‘Bismillah el-Rachman el-Racheem’ (In the name of God, the merciful, the
+            compassionate). I said ‘I like that custom, it is good to remind us that ink may be a
+            cruel poison or a good medicine.’ </p>
+         <p> I am better, and have hardly any cough. The people here think it is owing to the
+            intercession of Abu-l-Hajjaj who specially protects me. I was obliged to be wrapped in
+            the green silk cover of his tomb when it was taken off to be carried in procession,
+            partly for my health and general welfare, and as a sort of adoption into the family. I
+            made a feeble resistance on the score of being a Nazraneeyeh but was told ‘Never fear,
+            does not God know thee and the Sheykh also? no evil will come to thee on that account
+            but good.’ And I rather think that general goodwill and kindness is wholesome.</p>
+      </body>
+   </text>
+</TEI>

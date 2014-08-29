@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>December 20, 1867: Sir Alexander Duff Gordon, LUXOR, December 20, 1867.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> We arrived here all safe three days ago. I think of starting for Nubia directly after
+            Christmas Day, which we must keep here. We have lovely weather. Maurice is going with a
+            friend of my friends, a Bedawee, to shoot, I hope among the Abab’deh he will get some
+            gazelle shooting. I shall stop at Syaleh to visit the Sheykh’s mother, and with them
+            Maurice could go for some days into the desert. As to crocodiles, Inshallah, we will eat
+            their hearts, and not they ours. You may rely on it that Maurice is ‘on the head and in
+            the eye’ of all my crew, and will not be allowed to bathe in ‘unclean places.’ Reis
+            Mohammed stopped him at Gebel Abu’l Foda. You would be delighted to see how different he
+            looks; all his clothes are too tight now. He says he is thoroughly happy, and that he
+            was never more amused than when with me, which I think very flattering. </p>
+         <p> Half of the old house at Luxor fell down into the temple beneath six days before I
+            arrived; so there is an end of the _Maison de France_, I suppose. It might be made very
+            nice again at a small expense, but I suppose the Consul will not do it, and certainly I
+            shall not unless I want it again. Nothing now remains solid but the three small front
+            rooms and the big hall with two rooms off it. All the part I lived in is gone, and the
+            steps, so one cannot get in. Luckily Yussuf had told Mohammed to move my little
+            furniture to the part which is solid, having a misgiving of the rest. He has the most
+            exquisite baby, an exact minature of himself. He is in a manner my godson, being named
+            Noor ed-Deen Hishan Abu-l-Hajjaj, to be called _Noor_ like me.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>February 7, 1867: Sir Alexander Duff Gordon, LUXOR, February 7, 1867.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> I am enjoying a ‘great indulgence of talk’ with M. Prévost Paradol as heartily as any
+            nigger. He is a delightful person. This evening he is coming with Arakel Bey, his
+            Armenian companion, and I will invite a few Arabs to show him. I sent off the proofs
+            yesterday per passenger steamer. I trust they will arrive safe. It is too disheartening
+            about letters, so many are lost. I am dreadfully disappointed in my letters, I _really_
+            don’t think them good—you know I don’t _blaguer_ about my own performances. I am very
+            glad people like my Cape letters which I forget—but honestly I don’t think the Egyptian
+            good. You know I don’t ‘pretend’ if I think I have done something well and I was
+            generally content with my translations, but I feel these all to be poor and what Maurice
+            calls ‘dry’ when I know how curious and interesting and poetical the country really is. </p>
+         <p> I paid Fadil Pasha a visit on his boat, and it was just like the middle ages. In order
+            to amuse me he called up a horrid little black boy of about four to do tricks like a
+            dancing dog, which ended in a performance of the Mussulman prayer. The little beast was
+            dressed in a Stamboulee dress of scarlet cloth. </p>
+         <p> All the Arab doctors come to see me now as they go up and down the river to give me
+            help if I want it. Some are very pleasant men. Mourad Effendi speaks German exactly like
+            a German. The old Sheykh-el-Beled of Erment who visits me whenever he comes here, and
+            has the sweetest voice I ever heard, complained of the climate of <placeName ref="Cairo"
+               >Cairo</placeName>. ‘There is no sun there at all, it is no brighter or warmer than
+            the moon.’ What do you think our sun must be now you know <placeName ref="Cairo"
+               >Cairo</placeName>. We have had a glorious winter, like the finest summer weather at
+            home only so much finer. </p>
+         <p> Janet wishes to go with me if I go to Soden, I must make enquiries about the climate.
+            Ross fears it is too cold for an Egyptian like me. I should enjoy to have all the family
+            _au grand complet_. I will leave Luxor in May and get to you towards the latter part of
+            June, if that pleases you, _Inshallah_! </p>
+      </body>
+   </text>
+</TEI>

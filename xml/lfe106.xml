@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>July 29, 1867: Sir Alexander Duff Gordon, BOULAK, July 29, 1867.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> Your letter has arrived to my great relief—only I fear you are not at all well. About
+            Maurice. If he wishes to see the Nile let him come, but if he is only to be sent because
+            of me, let it alone. I know I am oppressive company now, and am apt, like Mr. Wodehouse
+            in ‘Emma,’ to say, ‘Let us all have some gruel.’ </p>
+         <p> We know nothing here of a prohibition of gunpowder, at this moment some Europeans are
+            popping away incessantly at Embabeh just opposite. Evidently the Pasha wants to
+            establish a right of search on the Nile. That absurd speech about slaves he made in
+            Paris shows that. With 3,000 in his hareem, several slave regiments, and lots of gangs
+            on all his sugar plantations, his impudence is wonderful. He is himself the greatest
+            living slave trader as well as owner. My lads are afraid to go out alone for fear of
+            being snapped up by cawasses and taken to the army or the sugar works. You will be sorry
+            to hear that your stalwart friend Hassan has had fifty blows on each foot-sole, and had
+            to pay six pounds. He was taking two donkeys to Shepheard’s hotel before sunrise for a
+            French lady and gentleman to go to the Pyramids, when a cawass met him, seized the
+            donkeys, and on Hassan’s refusal to give them up, spat on the side-saddle and reviled
+            Hassan’s own Hareem and began to beat him with his courbash. Hassan got impatient, took
+            the cawass up in his arms and threw him on the ground, and went on. Presently four
+            cawasses came after him, seized him and took him to the Zaptieh (police office), where
+            they all swore he had beaten them, torn their clothes, and robbed one of an imaginary
+            gold watch—all valued at twenty-four pounds. After the beating he was carried to prison
+            in chains, and there sentenced to be a soldier. A friend however interfered and settled
+            the matter for six pounds. Hassan sends you his best salaam. </p>
+         <p> Last night was very pretty—all the boats starting for the _moolid_ of Seyd el-Bedawee
+            at Tanta. Every boat had a sort of pyramid of lanterns, and the derweeshes chanted, and
+            the worldly folks had profane music and singing, and I sat and looked and listened, and
+            thought how many thousand years ago just the same thing was going on in honour of
+            Bubastis. </p>
+      </body>
+   </text>
+</TEI>

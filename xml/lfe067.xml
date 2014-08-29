@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>January 3, 1866: Maurice Duff Gordon, LUXOR, January 3, 1866.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>MY DARLING MAURICE, </p>
+         <p> I was delighted to get your note, which arrived on New Year’s day in the midst of the
+            hubbub of the great festival in honour of the Saint of Luxor. I wish you could have seen
+            two young Arabs (real Arabs from the Hedjaz, in Arabia) ride and play with spears and
+            lances. I never saw anything like it—a man who played the tom-fool stood in the middle,
+            and they galloped round and round him, with their spears crossed and the points resting
+            on the ground, in so small a circle that his clothes whisked round with the wind of the
+            horses’ legs. Then they threw jereeds and caught them as they galloped: the beautiful
+            thing was the perfect mastery of the horses: they were ‘like water in their hands,’ as
+            Sheykh Hassan remarked. I perceived that I had never seen _real_ horsemanship in my life
+            before. </p>
+         <p> I am now in the ‘palace’ at Luxor with my dahabieh, ‘Arooset er-Ralee’ (the Darling
+            Bride), under my windows; quite like a Pasha. </p>
+         <p> In coming up we had an alarm of robbers. Under the mountain called Gebel Foodah, we
+            were entangled in shoals, owing to a change in the bed of the river, and forced to stay
+            all night; and at three in the morning, the Reis sent in the boy to say he had seen a
+            man creeping on all fours—would I fire my pistol? As my revolver had been stolen in
+            Janet’s house, I was obliged to beg him to receive any possible troop of armed robbers
+            very civilly, and to let them take what they pleased. However, Omar blazed away with
+            your father’s old cavalry pistols (which had no bullets) and whether the robbers were
+            frightened, or the man was only a wolf, we heard no more of the affair. My crew were
+            horribly frightened, and kept awake till daybreak. </p>
+         <p> The last night before reaching Keneh, the town forty miles north of Luxor, my men held
+            a grand fantasia on the bank. There was no wind, and we found a lot of old maize stalks;
+            so there was a bonfire, and no end of drumming, singing and dancing. Even Omar relaxed
+            his dignity so far as to dance the dance of the Alexandria young men; and very funny it
+            all was. I laughed consumedly; especially at the modest airs and graces of a great
+            lubberly fellow—one Hezayin, who acted the bride—in a representation of a Nubian wedding
+            festivity. The new song of this year is very pretty—a declaration of love to a young
+            Mohammed, sung to a very pretty tune. There is another, rather like the air of ‘Di
+            Provenza al mar’ in the ‘Traviata,’ with extremely pretty words. As in England, every
+            year has its new song, which all the boys sing about the streets. </p>
+         <p> I hope, darling, you are sapping this year, and intend to make up a bit for lost time.
+            I hear you have lost no time in growing tall at all events—‘ill weeds, etc.’—you know
+            Omar desires all sorts of messages to you.</p>
+      </body>
+   </text>
+</TEI>

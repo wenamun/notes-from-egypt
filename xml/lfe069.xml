@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>February 7, 1886: Mrs. Austin, Tuesday, 7 Ramadan.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST MUTTER, </p>
+         <p> I have just received your letter of Christmas-day, and am glad to answer it with a
+            really amended report of myself. I had a very slight return a week ago, but for the last
+            five or six days the daily flushing and fever has also ceased. I sent for one of the
+            Arab doctors of the Azizeeyeh steamer to see Omar, and myself also, and he was very
+            attentive, and took a note of medicines to send me from <placeName ref="Cairo"
+               >Cairo</placeName> by a _confrère_: and when I offered a fee he said, ‘God forbid—it
+            is only our duty to do anything in the world for you.’ Likewise a very nice Dr. Ingram
+            saw some of my worst cases for me, and gave me good advice and help; but I want better
+            books—Kesteven is very useful, as far as it goes, but I want something more
+            _ausführlich_ and scientific. Ramadan is a great trouble to me, though Sheykh Yussuf
+            tells the people not to fast, if I forbid it: but many are ill from having begun it, and
+            one fine old man of about fifty-five died of apoplexy on the fourth night. My Christian
+            patient is obstinate, and fasts, in spite of me, and will, I think, seal his fate; he
+            was so much better after the blistering and Dr. Ingram’s mixture. I wish you could have
+            seen a lad of eighteen or so, who came here to-day for medicine. I think I never saw
+            such sweet frank, engaging manners, or ever heard any one express himself better: quite
+            _une nature distinguée_, not the least handsome, but the most charming countenance and
+            way of speaking. </p>
+         <p> My good friend the Maōhn spent the evening with me, and told me all the story of his
+            marriage, though quite ‘unfit to meet the virtuous eyes of British propriety—’ as I read
+            the other day in some paper apropos of I forget what—it will give you an idea of the
+            feelings of a Muslim _honnête homme_, which Seleem is through and through. He knew his
+            wife before he married her, she being twenty-five or twenty-six, and he a boy; she fell
+            in love with him, and at seventeen he married her, and they have had ten children, all
+            alive but two, and a splendid race they are. He told me how she courted him with glasses
+            of sherbet and trays of sweatmeats, and how her mother proposed the marriage, and how
+            she hesitated on account of the difference of age, but, of course, at last consented:
+            all with the naïvest vanity in his own youthful attractions, and great extolling of her
+            personal charms, and of her many virtues. When he was sent up here she would not, or
+            could not, leave her children. On the Sitt’s arrival his slave girl was arrogant, and
+            refused to kiss her hand, and spoke saucily of her age, whereupon Seleem gave her in
+            marriage to a black man and pays for her support, as long as she likes to suckle the
+            child he (Seleem) had by her, which child will in due time return to his house. _Kurz_,
+            the fundamental idea in it all, in the mind of an upright man, is, that if a man ‘takes
+            up’ with a woman at all, he must make himself responsible for her before the world; and
+            above all for the fate of any child he may have by her (you see the Prophet of the Arabs
+            did not contemplate ladies _qui savent nager_ so well in the troubled waters of life as
+            we are now blessed with. I don’t mean to say that many men are as scrupulous as my
+            excellent friend Seleem, either here or even in our own moral society). All this was
+            told with expressions quite incompatible with our manners, though not at all _leste_—and
+            he expatiated on his wife’s personal charms in a very quaint way; the good lady is now
+            hard upon sixty and looks it fully; but he evidently is as fond of her as ever. As a
+            curious trait of primitive manners, he told me of her piety and boundless hospitality;
+            how when some friends came late one evening, unexpectedly, and there was only a bit of
+            meat, she killed a sheep and cooked it for them with her own hands. And this is a
+            Cairene lady, and quite a lady too, in manners and appearance. The day I dined there she
+            was dressed in very ragged, old cotton clothes, but spotlessly clean; and she waited on
+            me with a kind, motherly pleasure, that quite took away the awkwardness I felt at
+            sitting down while she stood. In a few days she and her husband are to dine with me, a
+            thing which no Arab couple ever did before (I mean dine out together), and the old lady
+            was immensely amused at the idea. Omar will cook and all male visitors will be sent to
+            the kitchen. Now that I understand all that is said to me, and a great deal of the
+            general conversation, it is much more amusing. Seleem Effendi jokes me a great deal
+            about my blunders, especially my lack of _politikeh_, the Greek word for what we should
+            call flummery; and my saying _lazim_ (you must, or rather _il faut_), instead of humble
+            entreaties. I told him to teach me better, but he laughed heartily, and said, ‘No, no,
+            when you say _lazim_, it is _lazim_, and nobody wants the stick to force him to say
+            _Hadr_ (ready) O Sheykh-el-Arab, O Emeereh.’ </p>
+         <p> Fancy my surprise the other day just when I was dictating letters to Sheykh Yussuf
+            (letters of introduction for Ross’s inspecting agent) with three or four other people
+            here, in walked Miss North (Pop) whom I have not seen since she was a child. She and her
+            father were going up the second cataract. She has done some sketches which, though
+            rather unskilful, were absolutely true in colour and effect, and are the very first that
+            I have seen that are so. I shall see something of them on their return. She seemed very
+            pleasant. Mr. North looked rather horrified at the turbaned society in which he found
+            himself. I suppose it did look odd to English eyes. </p>
+         <p> We have had three days of the south wind, which the ‘Saturday Review’ says I am not to
+            call Samoom; and I was poorly, and kept in bed two days with a cold. Apropos, I will
+            give you the Luxor contribution towards the further confusion of the Samoom (or Simoom)
+            controversy. I told Sheykh Yussuf that an English newspaper, written by particularly
+            clever people, said that I was wrong to call the bad wind here ‘Samoom,’ (it was in an
+            article on Palgrave’s book, I think). Sheykh Yussuf said, ‘True, oh lady, no doubt those
+            learned gentlemen’ (politely saluting them with his hand) ‘thought one such as thou
+            shouldest have written classical Arabic (_Arabi fossieh_), and have called it “_al
+            Daboor_;” nevertheless, it is proper to write it “Samoom,” not, as some do “Simoom,”
+            which is the plural of _sim_ (poison).’ I shook my head, and said, I did not recollect
+            _al Daboor_. Then my Reis, sitting at the door, offered his suggestion. ‘Probably the
+            English, who it is well known are a nation of sailors, use the name given to the land
+            wind by _el-baharieh_ (the boatmen), and call it _el-mereeseh_.’ ‘But,’ said I, ‘the
+            clever gentlemen say that I am wrong altogether, and never can have seen a _real_
+            Samoom, for that would have killed me in ten minutes.’ Hereupon Sheykh Mohammed
+            el-Abab’deh, who is not nearly so polished as his brother Hassan, burst into a regular
+            bedawee roar of laughter, and said, ‘Yah! do the _Ganassil_ (Europeans) take thee for a
+            rat, oh lady? Whoever heard of _el Beni Adam_ (the children of Adam) dying of the wind?
+            Men die of thirst quicker when the Samoom blows and they have no water. But no one ever
+            died of the wind alone, except the rats—they do.’ I give you the opinion of three
+            ‘representative men—’ scholar, sailor, and bedawee; if that helps you to a solution of
+            the controversy. </p>
+         <p> We have just had a scene, rather startling to notions about fatalism, etc. Owing to the
+            importation of a good deal of cattle from the Soudan, there is an expectation of the
+            prevalence of small-pox, and the village barbers are busy vaccinating in all directions
+            to prevent the infection brought, either by the cattle or, more likely, by their
+            drivers. Now, my maid had told me she had never been vaccinated, and I sent for Hajjee
+            Mahmood to cut my hair and vaccinate her. To my utter amazement the girl, who had never
+            shown any religious bigotry, and does not fast, or make any demonstrations, refused
+            peremptorily. It appears that the priests and sisters appointed by the enlightened
+            administration of Prussia instil into their pupils and penitents that vaccination is a
+            ‘tempting of God.’ _Oh oui_, she said, _je sais bien que chez nous mes parents pouvaient
+            recevoir un procès verbal, mais il vaut mieux cela que d’aller contre la volonté de
+            Dieu. Si Dieu le veut, j’aurai la petite-vérole, et s’il ne veut pas, je ne l’aurai
+            pas_. I scolded her pretty sharply, and said it was not only stupid, but selfish. ‘But
+            what can one do?’ as Hajjee Mahmood said, with a pitying shake of his head; ‘these
+            Christians are so ignorant!’ He blushed, and apologized to me, and said, ‘It is not
+            their fault; all this want of sense is from the priests who talk folly to them for
+            money, and to keep them afraid before themselves. Poor things, _they_ don’t know the
+            Word of God.—“Help thyself, oh my servant, and I will help thee.”’ This is the second
+            contest I have had on this subject. Last year it was with a Copt, who was all _Allah
+            kereem_ and so on about his baby, with his child of four dying of small-pox. ‘Oh, man,’
+            said Sheykh Yussuf, ‘if the wall against which I am now sitting were to shake above my
+            head, should I fold my feet under me and say _Allah kereem_, or should I use the legs
+            God has given me to escape from it?’ </p>
+         <p> I had a visit the other day from a lady who, as I was informed, had been a harlot in
+            Siout. She has repented, and married a converted Copt. They are a droll pair of
+            penitents, so very smart in their dress and manner. But no one _se scandalise_ at their
+            antecedents—neither is it proper to repent in sackcloth and ashes, or to confess sins,
+            except to God alone. You are not to _indulge_ in telling them to others; it is an
+            offence. Repent inwardly, and be ashamed to show it before the people—ask pardon of God
+            only. A little of this would do no harm in Europe, methinks. </p>
+         <p> Here is a pretty story for you from the _Hadeth en-Nebbee_ (sayings of the Prophet).
+            ‘Two prophets were sitting together, and discoursing of prayer and the difficulty of
+            fixing the attention entirely on the act. One said to the other, “Not even for the
+            duration of two _rekahs_ (prayers ending with the prostration and _Allah akbar_) can a
+            man fix his mind on God alone.” The other said, “Nay, but I can do it!” “Say then two
+            _rekahs_,” replied the elder of the two; “I will give thee my cloak.” Now he wore two
+            cloaks—a new handsome red one and an old shabby blue one. The younger prophet rose,
+            raised his hands to his head, said _Allah akbar_, and bent to the ground for his first
+            _rekah_; as he rose again he thought “Will he give me the red cloak or the blue, I
+            wonder?”’ It is very stupid of me not to write down all the pretty stories I hear, but
+            this one is a capital specimen of Arab wit. Some day I must bring over Omar with me,
+            Inshallah, to England, and he will tell you stories like Scheherazade herself. A jolly
+            Nubian Alim told me the other night how in his village no man ever eats meat, except on
+            Bairam day: but one night a woman had a piece of meat given her by a traveller; she put
+            it in the oven and went out. During her absence her husband came in and smelt it, and as
+            it was just the time of the _eshé_ (first prayers one hour after sunset), he ran up to
+            the hill outside the village, and began to chaunt forth the _tekbeer_ with all his
+            might—_Allah akbar_, _Allah akbar_, etc. etc., till the people ran to see what was the
+            matter. ‘Why, to-day is Bairam,’ says he. ‘Where is thy witness, O man?’ ‘The meat in
+            the oven—the meat in the oven.’</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>May 23, 1864: Mrs. Austin, LUXOR, Monday, May 23, 1864.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST MUTTER, </p>
+         <p> I meant to have written to you by Arthur Taylor, who left for <placeName ref="Cairo"
+               >Cairo</placeName> yesterday morning, but the Simoom made me so stupid that I could
+            hardly finish a letter to Alick. So I begin one to-day to recount the wonders of the
+            season here. I went over to Mustapha’s island to spend the day in the tent, or rather
+            the hut, of dourrah-stalks and palm-branches, which he has erected there for the
+            threshing and winnowing. He had invited me and ‘his worship’ the Maōhn to a picnic. Only
+            imagine that it _rained_! all day, a gentle slight rain, but enough to wet all the
+            desert. I laughed and said I had brought English weather, but the Maōhn shook his head
+            and opined that we were suffering the anger of God. Rain in summer-time was quite a
+            terror. However, we consoled ourselves, and Mustapha called a nice little boy to recite
+            the ‘noble Koran’ for our amusement, and out of compliment to me he selected the chapter
+            of the family of Amran (the history of Jesus), and recited it with marvellous readiness
+            and accuracy. A very pleasant-mannered man of the Shourafa of Gurneh came and joined us,
+            and was delighted because I sent away a pipe which Abdurachman brought me (it is highly
+            improper to smoke while the Koran is being read or recited). He thanked me for the
+            respect, and I told him I knew he would not smoke in a church, or while I prayed; why
+            should I? It rather annoys me to find that they always expect from us irreverence to
+            their religion which they would on no account be guilty of to ours. The little boy was a
+            _fellah_, the child of my friend Omar, who has lost all his cattle, but who came as
+            pleasant and smiling as ever to kiss my hand and wait upon me. After that the Maōhn read
+            the second chapter, ‘the Cow,’ in a rather nasal, quavering chant. I perceived that no
+            one present understood any of it, except just a few words here and there—not much more
+            than I could follow myself from having read the translation. I think it is not any
+            nearer spoken Arabic than Latin is to Italian. After this, Mustapha, the Maōhn, Omar,
+            Sally and I, sat down round the dinner-tray, and had a very good dinner of lamb, fowls
+            and vegetables, such as bahmias and melucheeah, both of the mallow order, and both
+            excellent cooked with meat; rice, stewed apricots (mish-mish), with nuts and raisins in
+            it, and cucumbers and water-melons strewed the ground. One eats all _durcheinander_ with
+            bread and fingers, and a spoon for the rice, and green limes to squeeze over one’s own
+            bits for sauce. We were very merry, if not very witty, and the Maōhn declared,
+            ‘_Wallahi_! the English are fortunate in their customs, and in the enjoyment of the
+            society of learned and excellent _Hareemat_;’ and Omar, lying on the rushes, said: ‘This
+            is the happiness of the Arab. Green trees, sweet water, and a kind face, make the
+            “garden”’ (paradise), an Arab saying. The Maōhn joked him as to how a ‘child of
+               <placeName ref="Cairo">Cairo</placeName>’ could endure _fellah_ life. I was looking
+            at the heaps of wheat and thinking of Ruth, when I started to hear the soft Egyptian
+            lips utter the very words which the Egyptian girl spake more than a thousand years ago:
+            ‘Behold my mother! where she stays I stay, and where she goes I will go; her family is
+            my family, and if it pleaseth God, nothing but the Separator of friends (death) shall
+            divide me from her.’ I really could not speak, so I kissed the top of Omar’s turban,
+            Arab fashion, and the Maōhn blessed him quite solemnly, and said: ‘God reward thee, my
+            son; thou hast honoured thy lady greatly before thy people, and she has honoured thee,
+            and ye are an example of masters and servants, and of kindness and fidelity;’ and the
+            brown labourers who were lounging about said: ‘Verily, it is true, and God be praised
+            for people of excellent conduct.’ I never expected to feel like Naomi, and possibly many
+            English people might only think Omar’s unconscious repetition of Ruth’s words rather
+            absurd, but to me they sounded in perfect harmony with the life and ways of this country
+            and these people, who are so full of tender and affectionate feelings, when they have
+            not been crushed out of them. It is not humbug; I have seen their actions. Because they
+            use grand compliments, Europeans think they are never sincere, but the compliments are
+            not meant to deceive, they only profess to be forms. Why do the English talk of the
+            beautiful sentiment of the Bible and pretend to feel it so much, and when they come and
+            see the same life before them they ridicule it. </p>
+         <p> [Picture: Omar, 1864, from a photograph] </p>
+         <p> _Tuesday_.—We have a family quarrel going on. Mohammed’s wife, a girl of eighteen or
+            so, wanted to go home on Bairam day for her mother to wash her head and unplait her
+            hair. Mohammed told her not to leave him on that day, and to send for a woman to do it
+            for her; whereupon she cut off her hair, and Mohammed, in a passion, told her to ‘cover
+            her face’ (that is equivalent to a divorce) and take her baby and go home to her
+            father’s house. Ever since he has been mooning about the yard and in and out of the
+            kitchen very glum and silent. This morning I went into the kitchen and found Omar
+            cooking with a little baby in his arms, and giving it sugar. ‘Why what is that?’ say I.
+            ‘Oh don’t say anything. I sent Achmet to fetch Mohammed’s baby, and when he comes here
+            he will see it, and then in talking I can say so and so, and how the man must be good to
+            the _Hareem_, and what this poor, small girl do when she big enough to ask for her
+            father.’ In short, Omar wants to exercise his diplomacy in making up the quarrel. After
+            writing this I heard Mohammed’s low, quiet voice, and Omar’s boyish laugh, and then
+            silence, and went to see the baby and its father. My kitchen was a pretty scene.
+            Mohammed, in his ample brown robes and white turban, lay asleep on the floor with the
+            baby’s tiny pale face and little eyelids stained with kohl against his coffee-brown
+            cheek, both fast asleep, baby in her father’s arms. Omar leant against the _fournaise_
+            in his house-dress, a white shirt open at the throat and white drawers reaching to the
+            knees, with the red tarboosh and red and yellow _kufyeh_ (silk handkerchief) round it
+            turban-wise, contemplating them with his great, soft eyes. The two young men made an
+            excellent contrast between Upper and Lower Egypt. Mohammed is the true Arab
+            type—coffee-brown, thin, spare, sharp-featured, elegant hands and feet, bright
+            glittering small eyes and angular jaw—not a handsome Arab, but _bien charactérisé_.
+            Omar, the colour of new boxwood or old ivory, pale, with eyes like a cow, full lips,
+            full chin and short nose, not the least negro, but perfectly Egyptian, the eyes wide
+            apart—unlike the Arab—moustache like a woman’s eyebrow, curly brown hair, bad hands and
+            feet and not well made, but graceful in movement and still more in countenance, very
+            inferior in beauty to the pure Arab blood which prevails here, but most sweet in
+            expression. He is a true _Akh-ul-Benât_ (brother of girls), and truly chivalrous to
+            _Hareem_. How astonished Europeans would be to hear Omar’s real opinion of their conduct
+            to women. He mentioned some Englishman who had divorced his wife and made her frailty
+            public. You should have seen him spit on the floor in abhorrence. Here it is quite
+            blackguard not to forfeit the money and take all the blame in a divorce. </p>
+         <p> _Friday_.—We have had better weather again, easterly wind and pretty cool, and I am
+            losing the cough and languor which the damp of the Simoom brought me. Sheykh Yussuf has
+            just come back from Keneh, whither he and the Kadee went on their donkeys for some law
+            business. He took our saddle bags at Omar’s request, and brought us back a few pounds of
+            sugar and some rice and tobacco (isn’t it like Fielding’s novels?). It is two days’
+            journey, so they slept in the mosque at Koos half way. I told Yussuf how Suleyman’s
+            child has the smallpox and how Mohammed only said it was _Min Allah_ (from God) when I
+            suggested that his baby should be vaccinated at once. Yussuf called him in and said: ‘Oh
+            man, when thou wouldst build a house dost thou throw the bricks in a heap on the ground
+            and say the building thereof is from God, or dost thou use the brains and hands which
+            God has given thee, and then pray to Him to bless thy work? In all things do the best of
+            thy understanding and means, and then say _Min Allah_, for the end is with Him!’ There
+            is not a pin to choose in fatalism here between Muslim and Christian, the lazy, like
+            Mohammed and Suleyman (one Arab the other Copt), say _Min Allah_ or any form of dawdle
+            you please; but the true Muslim doctrine is just what Yussuf laid down—‘do all you can
+            and be resigned to whatever be the result.’ _Fais ce que dois advienne qui pourra_ is
+            good doctrine. In fact, I am very much puzzled to discover the slightest difference
+            between Christian and Muslim morality or belief—if you exclude certain dogmas—and in
+            fact, very little is felt here. No one attempts to apply different standards of morals
+            or of piety to a Muslim and a Copt. East and West is the difference, not Muslim and
+            Christian. As to that difference I could tell volumes. Are they worse? Are they better?
+            Both and neither. I am, perhaps, not quite impartial, because I am _sympathique_ to the
+            Arabs and they to me, and I am inclined to be ‘kind’ to their virtues if not ‘blind’ to
+            their faults, which are visible to the most inexperienced traveller. You see all our own
+            familiar ‘bunkum’ (excuse the vulgarity) falls so flat on their ears, bravado about
+            ‘honour,’ ‘veracity,’ etc., etc., they look blank and bored at. The schoolboy morality
+            as set forth by Maurice is current here among grown men. Of course we tell lies to
+            Pashas and Beys, why shouldn’t we? But shall I call in that ragged sailor and give him
+            an order to bring me up £500 in cash from <placeName ref="Cairo">Cairo</placeName> when
+            he happens to come? It would not be an unusual proceeding. I sleep every night in a
+            _makaab_ (sort of verandah) open to all Luxor, and haven’t a door that has a lock. They
+            bother me for backsheesh; but oh how poor they are, and how rich must be a woman whose
+            very servants drink sugar to their coffee! and who lives in the _Kasr_ (palace) and is
+            respectfully visited by Ali Bey—and, come to that, Ali Bey would like a present even
+            better than the poorest fellah, who also loves to give one. When I know, as I now do
+            thoroughly, all Omar’s complete integrity—without any sort of mention of it—his
+            self-denial in going ragged and shabby to save his money for his wife and child (a very
+            great trial to a good-looking young Arab), and the equally unostentatious love he has
+            shown to me, and the delicacy and real nobleness of feeling which come out so oddly in
+            the midst of sayings which, to our ideas, seem very shabby and time-serving, very often
+            I wonder if there be anything as good in the civilized West. And as Sally most justly
+            says, ‘All their goodness is quite their own. God knows there is no one to teach
+            anything but harm!’ </p>
+         <p> _Tuesday_.—Two poor fellows have just come home from the Suez Canal work with gastric
+            fever, I think. I hope it won’t spread. The wife of one said to me yesterday, ‘Are there
+            more _Sittat_ (ladies) like you in your village?’ ‘Wallah,’ said I, ‘there are many
+            better, and good doctors, Alhamdullillah!’ ‘Alhamdullillah,’ said she, ‘then the poor
+            people don’t want you so much, and by God you must stay here for _we_ can’t do without
+            you, so write to your family to say so, and don’t go away and leave us.’ </p>
+         <p> _Thursday_, _June_ 2,—A steamer has just arrived which will take this letter, so I can
+            only say good-bye, my dearest Mutter, and God bless you. I continue very fairly well.
+            The epidemic here is all but over; but my medical fame has spread so, that the poor
+            souls come twenty miles (from Koos) for physic. The constant phrase of ‘Oh our sister,
+            God hath sent thee to look to us!’ is so sad. _Such_ a little help is a wonder to my
+            poor fellaheen. It is not so hot as it was I think, except at night, and I now sleep
+            half the night outside the house. The cattle are all dead; perhaps five are left in all
+            Luxor. _Allah kereem_! (God is merciful) said fellah Omar, ‘I have one left from
+            fifty-four.’ The grain is unthreshed, and butter three shillings a pound! We get nothing
+            here but by post; no papers, no nothing. I suppose the high Nile will bring up boats.
+            Now the river is down at its lowest, and now I really know how Egyptians live.</p>
+      </body>
+   </text>
+</TEI>

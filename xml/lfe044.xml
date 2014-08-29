@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>October 9, 1864: To Sir Alexander Duff Gordon, CAIRO, October 9, 1864.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> I have not written for a long time because I have had a fever. Now I am all right
+            again, only weak. If you can come please bring the books in enclosed list for an
+            American Egyptologist at Luxor—a friend of mine. My best love to Janet and my other
+            chicks. I wish I could see my Maurice. Tell Janet that Hassan donkey boy, has married a
+            girl of eleven, and Phillips that Hassan remembers him quite tenderly and is very proud
+            of having had his ‘face’ drawn by him, ‘certainly he was of the friends if not a brother
+            of the Sitt, he so loved the things of the Arabs.’ I went to the Hareem _soirée_ at
+            Hassan’s before the wedding—at that event I was ill. My good doctor was up the river,
+            and Hekekian Bey is in Italy, so I am very lonely here. The weather is bad, so very
+            damp; I stream with perspiration more than in June at Luxor, and I don’t like
+            civilization so very much. It keeps me awake at night in the grog shops and rings horrid
+            bells and fights and quarrels in the street, and disturbs my Muslim nerves till I utter
+            such epithets as _kelb_ (dog) and _khanseer_ (pig) against the Frangi, and wish I were
+            in a ‘beastly Arab’ quarter.</p>
+      </body>
+   </text>
+</TEI>

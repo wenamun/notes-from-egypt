@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>October 17, 1867: Sir Alexander Duff Gordon, BOULAK, BOAT MARIE LOUISE, October
+               17, 1867.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> You must not be wroth with me because I have not written for a long time—I have been
+            ill, but am much better. Omar will go down to Alexandria to meet Maurice on Monday. </p>
+         <p> My boat is being painted, but is nearly finished; as soon as it is done I shall move
+            back into her. I got out into a little cangia but it swarmed with bugs and wasps, and
+            was too dirty, so I moved yesterday into a good boat belonging to a dragoman, and hope
+            to be back in my own by Sunday. But oh Lord! I got hold of the Barber himself turned
+            painter; and as the little cangia was moored alongside the _Urania_ in order to hold all
+            the mattresses, carpets, etc. I was his victim. First, it was a request for ‘three
+            pounds to buy paint.’ ‘None but the best of paint is fitting for a noble person like
+            thee, and that thou knowest is costly, and I am thy servant and would do thee honour.’
+            ‘Very well,’ say I, ‘take the money, and see, oh man, that the paint is of the best, or
+            thy backsheesh will be bad also.’ Well, he begins and then rushes in to say: ‘Come oh
+            Bey, oh Pasha! and behold the brilliancy of the white paint, like milk, like glass, like
+            the full moon.’ I go and say, ‘Mashallah! but now be so good as to work fast, for my son
+            will be here in a few days, and nothing is ready.’ Fatal remark. ‘Mashallah! Bismillah!
+            may the Lord spare him, may God prolong thy days, let me advise thee how to keep the eye
+            from him, for doubtless thy son is beautiful as a memlook of 1,000 purses. Remember to
+            spit in his face when he comes on board, and revile him aloud that all the people may
+            hear thee, and compel him to wear torn and dirty clothes when he goes out:—and how many
+            children hast thou, and our master, thy master, and is he well?’ etc. etc. ‘_Shukr
+            Allah_! all is well with us,’ say I; ‘but, by the Prophet, paint, oh _Ma-alim_ (exactly
+            the German _Meister_) and do not break my head any more.’ But I was forced to take
+            refuge at a distance from Hajj’ Alee’s tongue. Read the story of the Barber, and you
+            will know exactly what Ma-alim Hajj’ Alee is. Also just as I got out of my boat and he
+            had begun, the painter whom I had last year and with whom I was dissatisfied, went to
+            the Sheykh of the painters and persuaded him to put my man in prison for working too
+            cheap—that was at daybreak. So I sent up my Reis to the Sheykh to inform him that if my
+            man did not return by next day at daybreak, I would send for an European painter and
+            force the Sheykh to pay the bill. Of course my man came. </p>
+         <p> My steersman Hassan, and a good man, Hoseyn, who can wash and is generally nice and
+            pleasant, arrived from el-Bastowee a few days ago, and are waiting here till I want
+            them. Poor little ugly black Hassan has had his house burnt down in his village, and
+            lost all the clothes which he had bought with his wages; they were very good clothes,
+            some of them, and a heavy loss. He is my Reis’s brother, and a good man, clean and
+            careful and quiet, better than my Reis even—they are a respectable family. Big stout
+            Hazazin owes me 200 piastres which he is to work out, so I have still five men and a boy
+            to get. I hope a nice boy, called Hederbee (the lizard), will come. They don’t take pay
+            till the day before we sail, except the Reis and Abdul Sadig, who are permanent. But
+            Hassan and Hoseyn are working away as merrily as if they were paid. People growl at the
+            backsheesh, but they should also remember what a quantity of service one gets for
+            nothing here, and for which, oddly enough, no one dreams of asking backsheesh. Once a
+            week we shift the anchors, for fear of their silting over, and six or eight men work for
+            an hour; then the mast is lowered—twelve or fourteen men work at this—and nobody gets a
+            farthing. </p>
+         <p> The other day Omar met in the market an ‘agreeable merchant,’ an Abyssinian fresh from
+            his own country, which he had left because of the tyranny of Kassa, alias Todoros, the
+            Sultan. The merchant had brought his wife and concubines to live here. His account is
+            that the mass of the people are delighted to hear that the English are coming to conquer
+            them, as they hope, and that everyone hates the King except two or three hundred scamps
+            who form his bodyguard. He had seen the English prisoners, who, he says, are not
+            ill-treated, but certainly in danger, as the King is with difficulty restrained from
+            killing them by the said scamps, who fear the revenge of the English; also that there is
+            one woman imprisoned with the native female prisoners. Hassan the donkeyboy, when he was
+            a _marmiton_ in <placeName ref="Cairo">Cairo</placeName>, knew the Sultan Todoros, he
+            was the only man who could be found to interpret between the then King of Abyssinia and
+            Mohammed Ali Pasha, whom Todoros had come to visit. The merchant also expressed a great
+            contempt for the Patriarch, and for their _Matraam_ or Metropolitan, whom the English
+            papers call the _Abuna_. _Abuna_ is Arabic for ‘our father.’ The man is a Cairene Copt
+            and was a hanger-on of two English missionaries (they were really Germans) here, and he
+            is more than commonly a rascal and a hypocrite. I know a respectable Jew whom he had
+            robbed of all his merchandise, only Ras Alee forced the _Matraam_ to disgorge. Pray what
+            was all that nonsense about the Armenian Patriarch of Jerusalem writing to Todoros? what
+            could he have to do with it? The Coptic Patriarch, whose place is <placeName ref="Cairo"
+               >Cairo</placeName>, could do it if he were forced. </p>
+         <p> At last my boat is finished, so to-morrow Omar will clean the windows, and on Saturday
+            move in the cushions, etc. and me, and on Sunday go to Alexandria. I hear the dreadful
+            voice of Hajj’ Alee, the painter, outside, and will retire before he gets to the cabin
+            door, for fear he should want to bore me again. I do hope Maurice will enjoy his
+            journey; everyone is anxious to please him. The Sheykh of the Hawara sent his brother to
+            remind me to stop at his ‘palace’ near Girgeh, that he might make a fantasia for my son.
+            So Maurice will see real Arab riding, and jereed, and sheep roasted whole and all the
+            rest of it. The Sheykh is the last of the great Arab chieftains of Egypt, and has
+            thousands of fellaheen and a large income. He did it for Lord Spencer and for the Duke
+            of Rutland and I shall get as good a fantasia, I have no doubt. Perhaps at Keneh Maurice
+            had better not see the dancing, for Zeyneb and Latefeeh are terribly fascinating, they
+            are such pleasant jolly girls as well as pretty and graceful, but old Oum ez-Zeyn
+            (mother of beauty), so-called on account of his hideousness, will want us to eat his
+            good dinner.</p>
+      </body>
+   </text>
+</TEI>

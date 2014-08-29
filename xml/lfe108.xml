@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>August 8, 1867: Mrs. Austin, BOULAK, August 8, 1867.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST MUTTER, </p>
+         <p> Two of my sailors were in Paris and have just come home. I hear they are dreadfully
+            shocked by the dancing, and by the French women of the lower class generally. They sit
+            in the coffee-shops like _shaers_ (poets), and tell of the wonders of Paris to admiring
+            crowds. They are enthusiastic about the courtesy of the French police, who actually did
+            not beat them when they got into a quarrel, but scolded the Frankish man instead, and
+            accompanied them back to the boat quite politely. The novelty and triumph of not being
+            beaten was quite intoxicating. There is such a curious sight of a crowd of men carrying
+            huge blocks of stone up out of a boat. One sees exactly how the stones were carried in
+            ancient times; they sway their bodies all together like one great lithe animal with many
+            legs, and hum a low chant to keep time. It is quite unlike any carrying heavy weights in
+            Europe. </p>
+         <p> It is getting dusk and too windy for candles, so I must say goodnight and eat the
+            dinner which Darfour has pressed upon me two or three times, he is a pleasant little
+            creature, so lively and so gentle. It is washing day. I wish you could see Mabrook
+            squatting out there, lathering away at the clothes with his superb black arms. He is a
+            capital washer and a fair cook, but an utter savage. </p>
+         <p> [The foregoing letter reached England the day after the death of my grandmother, Mrs.
+            Austin, which was a great shock to my mother and made her ill and unhappy; so it was
+            settled that my brother Maurice should go out and spend the winter with her on the
+            Nile.]</p>
+      </body>
+   </text>
+</TEI>
