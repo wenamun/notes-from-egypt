@@ -1,0 +1,38 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>February 22, 1866: Sir Alexander Duff Gordon, LUXOR, February 22, 1866.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> The weather here is just beginning to get warm, and I of course to get better. There
+            has been a good deal of nervous headache here this Ramadan. I had to attend the Kadee,
+            and several more. My Turkish neighbour at Karnac has got a _shaitan_ (devil), _i.e._
+            epileptic fits, and I was sent for to exorcise him, which I am endeavouring to do with
+            nitrate of silver, etc.; but I fear imagination will kill him, so I advise him to go to
+               <placeName ref="Cairo">Cairo</placeName>, and leave the devil-haunted house. I have
+            this minute killed the first snake of this year—a sign of summer. </p>
+         <p> I was so pleased to see two Mr. Watsons—your opposite neighbours—who said they saw you
+            every morning go down the street—_ojala_! that I did so too! I liked Mr. and Mrs. Webb
+            of Newstead Abbey very much; nice, hearty, pleasant, truly English people. </p>
+         <p> There have not been above twenty or thirty boats up this year—mostly Americans. There
+            are some here now, very nice people, with four little children, who create quite an
+            excitement in the place, and are ‘mashallahed’ no end. Their little fair faces do look
+            very pretty here, and excite immense admiration. </p>
+         <p> Seyd has just come in to take my letter to the steamer which is now going down. So
+            _addio_, dearest Alick. I am much better but still weakish, and very _triste_ at my long
+            separation.</p>
+      </body>
+   </text>
+</TEI>

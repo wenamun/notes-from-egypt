@@ -1,0 +1,37 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>March 6, 1866: Sir Alexander Duff Gordon, Tuesday, March 6, 1866.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> I write to be ready for the last _down_ steamer which will be here in a few days. Mr.
+            and Miss North are here working hard at sketching, and M. Brune will take a place in
+            their Dahabieh (my old Zint el Bahreyn), and leave me in six or seven days. I shall
+            quite grieve to lose his company. If ever you or yours fall in with him, pray cultivate
+            his acquaintance, he is very clever, very hard working, and a ‘thorough-bred gentleman’
+            as Omar declares. We are quite low-spirited at parting after a month spent together at
+            Thebes. </p>
+         <p> I hear that Olagnier has a big house in Old <placeName ref="Cairo">Cairo</placeName>
+            and will lodge me. The Norths go to-day (Thursday) and M. Brune does not go with them as
+            he intended, but will stay on and finish a good stroke of work and take his chance of a
+            conveyance. </p>
+         <p> I spent yesterday out in Mustapha’s tent among the bean gatherers, and will go again. I
+            think it does me good and is not too long a ride. The weather has set in suddenly very
+            hot, which rather tries everybody, but gloriously fine clear air. I hope you will get
+            this, as old fat Hassan will take it to the office in <placeName ref="Cairo">Cairo</placeName> himself—for the post is very insecure indeed. I have written very
+            often, if you don’t get my letters I suppose they interest the court of Pharaoh. </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>September 21, 1886: Sir Alexander Duff Gordon, OFF BOULAK, September 21,
+               1886.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>I am better again now and go on very comfortably with my two little boys. Omar is from
+            dawn till night at work at my boat, so I have only Mahbrook and Achmet, and you would
+            wonder to see how well I am served. Achmet cooks a very good dinner, serves it and
+            orders Mahbrook about. Sometimes I whistle and hear _hader_ (ready) from the water and
+            in tumbles Achmet, with the water running ‘down his innocent nose’ and looking just like
+            a little bronze triton of a Renaissance fountain, with a blue shirt and white skull-cap
+            added. Mahbrook is a big lubberly lad of the laugh-and-grow-fat breed, clumsy, but not
+            stupid, and very good and docile. You would delight in his guffaws, and the merry games
+            and hearty laughter of my _ménage_ is very pleasant to me. Another boy swims over from
+            Goodah’s boat (his Achmet), and then there are games at piracy, and much stealing of red
+            pots from the potter’s boats. The joke is to snatch one under the owner’s very nose, and
+            swim off brandishing it, whereupon the boatman uses eloquent language, and the boys
+            out-hector him, and everybody is much amused. I only hope Palgrave won’t come back from
+            Sookum Kaleh to fetch Mahbrook just as he has got clever—not at stealing jars, but in
+            his work. He already washes my clothes very nicely indeed; his stout black arms are made
+            for a washer-boy. Achmet looked forward with great eagerness to your coming. He is mad
+            to go to England, and in his heart planned to ingratiate himself with you, and go as a
+            ‘general servant.’ He is very little, if at all, bigger than a child of seven, but an
+            Arab boy ‘_ne doute de rien_’ and does serve admirably. What would an English
+            respectable cook say to seeing ‘two dishes and a sweet’ cooked over a little old wood on
+            a few bricks, by a baby in a blue shirt? and very well cooked too, and followed by
+            incomparable coffee. </p>
+         <p> You will be pleased to hear that your capital story of the London cabman has its exact
+            counterpart here. ‘Oh gracious God, what aileth thee, oh Achmet my brother, and why is
+            thy bosom contracted that thou hast not once said to me d------n thy father, or son of a
+            dog or pig, as thou art used to do.’ </p>
+         <p> Can’t you save up your holidays and come for four months next winter with my Maurice?
+            However perhaps you would be bored on the Nile. I don’t know. People either enjoy it
+            rapturously or are bored, I believe. I am glad to hear from Janet that you are well. I
+            am much better. The carpenter will finish in the boat to-day, then the painter begins
+            and in a week, Inshallah, I shall get back into her.</p>
+      </body>
+   </text>
+</TEI>

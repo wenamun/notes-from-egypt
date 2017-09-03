@@ -1,0 +1,86 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>July 28, 1867: Mrs. Austin, BOULAK, July 28, 1867.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST MUTTER, </p>
+         <p> I know I can write nothing more sure to please you than that I am a good deal better.
+            It has been intensely hot, and the wind very worrying, but my cough has greatly abated
+            and I do not feel so weak as I did. I am anchored here in the river at my old quarters,
+            and have not yet been ashore owing to the hot wind and the dust, which of course are far
+            less troublesome here on the river. I have seen but very few people and have but one
+            neighbour, in a boat anchored near mine, a very bewitching Circassian, the former slave
+            of a rich Pasha, now married to a respectable dragoman, and staying in his boat for a
+            week or two. She is young and pretty, and very amiable, and we visit each other often
+            and get on very well indeed. She is a very religious little lady, and was much relieved
+            when I assured her it was not part of my daily devotions to curse the Prophet, and
+            revile the noble Koran. </p>
+         <p> I am extremely glad that the English have given a hearty welcome to the Ameer
+            el-Moornemeen (Commander of the Faithful); it will have an excellent effect in all
+            Mussulman countries. A queer little Indian from Delhi who had been converted to Islam,
+            and spent four years at Mecca acting as dragoman to his own countrymen, is now settled
+            at Karnac. I sent for him, and he carne shaking in his shoes. I asked why he was afraid?
+            ‘Oh, perhaps I was angry about something, and he was my _rayah_, and I might have him
+            beaten.’ I cried out at him, ‘Ask pardon of God, O man. How could I beat thee any more
+            than thou couldst beat me? Have we not laws? and art thou not my brother, and the
+            _rayah_ of our Queen, as I am and no more?’ ‘Mashallah!’ exclaimed the six or eight
+            fellaheen who were waiting for physic, in prodigious admiration and wonder; ‘and did we
+            not tell thee that the face of the Sitt brings good fortune and not calamity and stick?’
+            I found the little Indian had been a hospital servant in Calcutta, and was practising a
+            little physic on his own account. So I gave him a few drugs especially for bad eyes,
+            which he knew a good deal about, and we became very good friends; he was miserable when
+            I left and would have liked me to have taken him as a volunteer servant. </p>
+         <p> I have come to a curious honour. _Ich bin beim lebendigem Leibe besungen_. Several
+            parties of real Arabs came with their sick on camels from the desert above Edfou. I
+            asked at last what brought them, and they told me that a _Shaer_ (bard or poet) had gone
+            about singing my praises, as how the daughter of the English was a flower on the heads
+            of the Arabs, and those who were sick should go and smell the perfume of the flower and
+            rejoice in the brightness of the light (_nooreen_)—my name. Rather a highflown way of
+            mentioning the ‘exhibition’ of a black dose. But we don’t feel that a man makes a fool
+            of himself here when he is romantic in his talk even about an old woman. </p>
+         <p> It is no use to talk of the state of things here; all classes are suffering terribly
+            under the fearful taxation, the total ruin of the fellaheen, and the destruction of
+            trade brought about by this much extolled Pasha. My grocer is half ruined by the
+            ‘improvements’ made a _l’instar de Paris_—long military straight roads cut through the
+            heart of <placeName ref="Cairo">Cairo</placeName>. The owners are expropriated, and
+            there is an end of it. Only those who have half a house left are to be pitied, because
+            they are forced to build a new front to the street on a Frankish model which renders it
+            uninhabitable to them and unsaleable. </p>
+         <p> The river men are excited about the crews gone to Paris, for fear they should be
+            forcibly detained by the _Sultaneh Franzaweeh_, I assured them that they will all come
+            home safe and happy, with a good backsheesh. Many of them think it a sort of degradation
+            to be taken for the Parisians to stare at like an anteeka, a word which here means what
+            our people call a ‘curiosity.’ </p>
+         <p> I go on very well with my two boys. Mabrook washes very well and acts as _marmiton_.
+            Darfour is housemaid and waiter in his very tiny way. He is only troublesome as being
+            given to dirty his clothes in an incredibly short time. His account of the school system
+            of Darfour is curious. How when the little boy has achieved excellence he is carried
+            home in triumph to his father’s house, who makes a festival for the master and boys. I
+            suppose you will be surprised to hear that the Darfour ‘niggers’ can nearly all read and
+            write. Poor little Darfour apologised to me for his ignorance, he was stolen he said,
+            when he had only just begun to go to school. I wish an English or French servant could
+            hear the instructions given by an Alim here to serving men. How he would resent them!
+            ‘When thou hast tired out thy back do not put thy hand behind it (do not shirk the
+            burden). Remember that thou art not only to obey, but to please thy master, whose bread
+            thou eatest;’ and much more of the like. In short, a standard of religious obedience and
+            fidelity fit for the highest Catholic idea of the ‘religious life.’ Upon the few who
+            seek instruction it does have an effect (I am sure that Omar looks on his service as a
+            religious duty), but of course they are few; and those who don’t seek it themselves get
+            none. It is curious how all children here are left utterly without any religious
+            instruction. I don’t know whether it is in consequence of this that they grow up so very
+            devout.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,31 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>October 22, 1868: Sir Alexander Duff Gordon, BOULAK, October 22, 1868.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> The unlucky journey to Syria almost cost me my life. The climate is absolute poison to
+            consumptive people. In ten days after I arrived the doctor told me to settle my affairs,
+            for I had probably only a few days to live, and certainly should never recover. However
+            I got better, and was carried on board the steamer, but am too weak for anything. We
+            were nearly shipwrecked coming back owing to the Russian captain having his bride on
+            board and not minding his ship. We bumped and scraped and rolled very unpleasantly. At
+            Beyrout the Sisters of Charity wouldn’t nurse a Protestant, nor the Prussians a
+            non-Lutheran. But Omar and Darfour nursed me better than Europeans ever do. Little
+            Blackie was as sharp about the physic as a born doctor’s boy when Omar was taking his
+            turn of sleep. I did not like the few Syrians I saw at all.</p>
+      </body>
+   </text>
+</TEI>

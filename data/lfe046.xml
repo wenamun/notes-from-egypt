@@ -1,0 +1,72 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>December 23, 1864: Mrs. Austin, ON THE NILE, Friday, December 23, 1864.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST MUTTER, </p>
+         <p> Here I am again between Benisouef and Minieh, and already better for the clear air of
+            the river and the tranquil boat life; I will send you my Christmas Salaam from Siout.
+            While Alick was with me I had as much to do as I was able and could not write for there
+            was much to see and talk about. I think he was amused but I fear he felt the Eastern
+            life to be very poor and comfortless. I have got so used to having nothing that I had
+            quite forgotten how it would seem to a stranger. </p>
+         <p> I am quite sorry to find how many of my letters must have been lost from Luxor; in
+            future I shall trust the Arab post which certainly is safer than English travellers. I
+            send you my long plaits by Alick, for I had my hair cut short as it took to falling out
+            by handfuls after my fever, and moreover it is more convenient Turkish hareem fashion. </p>
+         <p> Please tell Dean Stanley how his old dragoman Mahommed Gazawee cried with pleasure when
+            he told me he had seen Sheykh Stanley’s sister on her way to India, and the ‘little
+            ladies’ _knew his name_ and shook hands with him, which evidently was worth far more
+            than the backsheesh. I wondered who ‘Sheykh’ Stanley could be, and Mahommed (who is a
+            darweesh and very pious) told me he was the _Gassis_ (priest) who was _Imám_ (spiritual
+            guide) to the son of our Queen, ‘and in truth,’ said he, ‘he is _really_ a Sheykh and
+            one who teaches the excellent things of religion, why he was kind even to his horse! and
+            it is of the mercies of God to the English that such a one is the Imám of your Queen and
+            Prince.’ I said laughing, ‘How dost thou, a darweesh among Muslims, talk thus of a
+            Nazarene priest?’ ‘Truly oh Lady,’ he answered, ‘one who loveth all the creatures of
+            God, him God loveth also, there is no doubt of that.’ Is any one bigot enough to deny
+            that Stanley has done more for real religion in the mind of that Muslim darweesh than if
+            he had baptised a hundred savages out of one fanatical faith into another? </p>
+         <p> There is no hope of a good understanding with Orientals until Western Christians can
+            bring themselves to recognise the common faith contained in the two religions, the
+            _real_ difference consists in all the class of notions and feelings (very important
+            ones, no doubt) which we derive—not from the Gospels at all—but from Greece and Rome,
+            and which of course are altogether wanting here. </p>
+         <p> Alick will tell you how curiously Omar illustrated the patriarchal feelings of the East
+            by entirely dethroning me in favour of the ‘Master.’ ‘That _our Master_, we all eat
+            bread from his hand, and he work for _us_.’ Omar and I were equal before _our Seedee_.
+            He can sit at his ease at my feet, but when the Master comes in he must stand
+            reverently, and gave me to understand that I too must be respectful. </p>
+         <p> I have got the boat of the American Mission at an outrageous price, £60, but I could
+            get nothing under; the consolation is that the sailors profit, poor fellows, and get
+            treble wages. My crew are all Nubians. Such a handsome reis and steersman—brothers—and
+            there is a black boy, of fourteen or so, with legs and feet so sweetly beautiful as to
+            be quite touching—at least I always feel those lovely round young innocent forms to be
+            somehow affecting. Our old boat of last summer (Arthur Taylor’s) is sailing in company
+            with us, and stately old reis Mubharak hails me every morning with the Blessing of God
+            and the Peace of the Prophet. Alee Kuptan, my steamboat captain will announce our advent
+            at Thebes; he passed us to-day. This boat is a fine sailer, but iron built and therefore
+            noisy, and not convenient. The crew encourage her with ‘Get along, father of three,’
+            because she has three sails, whereas two is the usual number. They are active
+            good-humoured fellows—my men—but lack the Arab courtesy and _simpatico_ ways, and then I
+            don’t understand their language which is pretty and sounds a little like Caffre, rather
+            bird-like and sing-song, instead of the clattering guttural Arabic. I now speak pretty
+            tolerably for a stranger, _i.e._ I can keep up a conversation, and understand all that
+            is said to me much better than I can speak, and follow about half what people say to
+            each other. When I see you, _Inshallah_, next summer I shall be a good scholar, I
+            hope.</p>
+      </body>
+   </text>
+</TEI>

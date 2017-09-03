@@ -1,0 +1,41 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>August 7, 1867: Sir Alexander Duff Gordon, BOULAK, August 7, 1867.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>MY DEAREST ALICK, </p>
+         <p> Two sailors of mine of last year went to Paris in the dahabieh for the Empress, and are
+            just come back. When I see them I expect I shall have some fun out of their account of
+            their journey. Poor Adam’s father died of grief at his son’s going, nothing would
+            persuade him that Adam would come back safe, and having a heart complaint, he died. And
+            now the lad is back, well and with fine clothes, but is much cut up, I hear, by his
+            father’s death. Please send me a tremendous whistle; mine is not loud enough to wake
+            Omar at the other end of the cabin; a boatswain’s whistle or something in the line of
+            the ‘last trump’ is needed to wake sleeping Arabs. </p>
+         <p> My pretty neighbour has gone back into the town. She was a nice little woman, and
+            amused me a good deal. I see that a good respectable Turkish hareem is an excellent
+            school of useful accomplishments—needlework, cookery, etc. But I observed that she did
+            not care a bit for the Pasha, by whom she had a child, but was extremely fond of ‘her
+            lady,’ as she politely called her, also that like every Circassian I ever knew, she
+            regarded being sold as quite a desirable fate, and did not seem sorry for her parents,
+            as the negroes always are. </p>
+         <p> The heat has been prodigious, but I am a good deal better. Yesterday the Nile had risen
+            above ten cubits, and the cutting of the Kalig took place. The river is pretty full now,
+            but they say it will go down fast this year. I don’t know why. It looks very beautiful,
+            blood-red and tossed into waves by the north wind fighting the rapid stream. </p>
+         <p> Good-bye dear Alick, I hope to hear a better account of your health soon. </p>
+      </body>
+   </text>
+</TEI>

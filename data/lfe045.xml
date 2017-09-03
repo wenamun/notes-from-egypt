@@ -1,0 +1,82 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>October 21, 1864: Mrs. Austin, CAIRO, October 21, 1864.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST MUTTER, </p>
+         <p> I got your letter yesterday. I hope Alick got mine of two weeks ago before leaving, and
+            told you I was better. I am still rather weak, however I ride my donkey and the weather
+            has suddenly become gloriously dry and cool. I rather shiver with the thermometer at
+            79°—absurd is it not, but I got so used to real heat. </p>
+         <p> I never wrote about my leaving Luxor or my journey, for our voyage was quite
+            tempestuous after the three first days and I fell ill as soon as I was in my house here.
+            I hired the boat for six purses (£18) which had taken Greeks up to Assouan selling
+            groceries and strong drinks, but the reis would not bring back their cargo of black
+            slaves to dirty the boat and picked us up at Luxor. We sailed at daybreak having waited
+            all one day because it was an unlucky day. </p>
+         <p> As I sat in the boat people kept coming to ask whether I was coming back very anxiously
+            and bringing fresh bread, eggs and things as presents, and all the quality came to take
+            leave and hope, _Inshallah_, I should soon ‘come home to my village safe and bring the
+            Master, please God, to see them,’ and then to say the _Fattah_ for a safe journey and my
+            health. In the morning the balconies of my house were filled with such a group to see us
+            sail—a party of wild Abab’deh with their long Arab guns and flowing hair, a Turk
+            elegantly dressed, Mohammed in his decorous brown robes and snow-white turban, and
+            several fellaheen. As the boat moved off the Abab’deh blazed away with their guns and
+            Osman Effendi with a sort of blunderbuss, and as we dropped down the river there was a
+            general firing; even Todoros (Theodore), the Coptic Mallim, popped off his American
+            revolver. Omar keeping up a return with Alick’s old horse pistols which are much admired
+            here on account of the excessive noise they make. </p>
+         <p> Poor old Ismain, who always thought I was Mme. Belzoni and wanted to take me up to Abou
+            Simbel to meet my husband, was in dire distress that he could not go with me to
+               <placeName ref="Cairo">Cairo</placeName>. He declared he was still _shedeed_ (strong
+            enough to take care of me and to fight). He is ninety-seven and only remembers fifty or
+            sixty years ago and old wild times—a splendid old man, handsome and erect. I used to
+            give him coffee and listen to his old stories which had won his heart. His grandson, the
+            quiet, rather stately, Mohammed who is guard of the house I lived in, forgot all his
+            Muslim dignity, broke down in the middle of his set speech and flung himself down and
+            kissed and hugged my knees and cried. He had got some notion of impending ill-luck, I
+            found, and was unhappy at our departure—and the backsheesh failed to console him. Sheykh
+            Yussuf was to come with me, but a brother of his just wrote word that he was coming back
+            from the Hejaz where he had been with the troops in which he is serving his time; I was
+            very sorry to lose his company. Fancy how dreadfully irregular for one of the Ulema and
+            a heretical woman to travel together. What would our bishops say to a parson who did
+            such a thing? We had a lovely time on the river for three days, such moonlight nights,
+            so soft and lovely; and we had a sailor who was as good as a professional singer, and
+            who sang religious songs, which I observe excite people here far more than love songs.
+            One which began ‘Remove my sins from before thy sight Oh God’ was really beautiful and
+            touching, and I did not wonder at the tears which ran down Omar’s face. A very pretty
+            profane song was ‘Keep the wind from me Oh Lord, I fear it will hurt me’ (_wind_ means
+            _love_, which is like the Simoom) ‘Alas! it has struck me and I am sick. Why do ye bring
+            the physician? Oh physician put back thy medicine in the canister, for only he who has
+            hurt can cure me.’ The masculine pronoun is always used instead of _she_ in poetry out
+            of decorum—sometimes even in conversation. </p>
+         <p> _October_ 23.—Yesterday I met a Saedee—a friend of the brother of the Sheykh of the
+            wild Abab’deh, and as we stood handshaking and kissing our fingers in the road, some of
+            the Anglo-Indian travellers passed and gazed with fierce disgust; the handsome Hassan,
+            being black, was such a flagrant case of a ‘native.’ Mutter dear, it is heart-breaking
+            to see what we are sending to India now. The mail days are dreaded, we never know when
+            some outrage may not excite ‘Mussulman fanaticism.’ The English tradesmen here complain
+            as much as anyone, and I, who as the Kadee of Luxor said am ‘not outside the family’ (of
+            Ishmael, I presume), hear what the Arabs really think. There are also crowds ‘like lice’
+            as one Mohammed said, of low Italians, French, etc., and I find my stalwart Hassan’s
+            broad shoulders no superfluous _porte-respect_ in the Frangee quarter. Three times I
+            have been followed and insolently stared at (_à mon age_)!! and once Hassan had to
+            speak. Fancy how dreadful to Muslims! I hate the sight of a hat here now. </p>
+         <p> I can’t write more now my eyes are weak still. Omar begs me to give you his best salaam
+            and say, _Inshallah_, he will take great care of your daughter, which he most zealously
+            and tenderly does..</p>
+      </body>
+   </text>
+</TEI>

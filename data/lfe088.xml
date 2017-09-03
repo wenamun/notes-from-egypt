@@ -1,0 +1,49 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>October 25, 1866: Mrs. Austin, OFF BOULAK, October 25, 1866.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST MUTTER, </p>
+         <p> I have got all ready, and shall sail on Saturday. My men have baked the bread, and
+            received their wages to go to Luxor and bring the boat back to let. It is turning cold,
+            but I feel none the worse for it, though I shall be glad to go. I’ve had a dreary,
+            worrying time here, and am tired of hearing of all the meannesses and wickedness which
+            constitute the _on dits_ here. Not that I hear much, but there is nothing else. I shall
+            be best at Luxor now the winter has set in so early. You would laugh at such winter when
+            one sits out all day under an awning in English summer clothes, and wants only two
+            blankets at night; but all is comparative _ici bas_, and I call it cold, and Mabrook
+            ceases to consider his clothes such a grievance as they were to him at first, and takes
+            kindly to a rough _capote_ for the night. I have just been interrupted by my Reis and
+            one of my men, who came in to display the gorgeous printed calico they have bought; one
+            for his Luxor wife and the other for his betrothed up near Assouan. (The latter is about
+            eight years old, and Hosein has dressed her and paid her expenses these five years, as
+            is the custom up in that district.) The Reis has bought a silk head-kerchief for nine
+            shillings, but that was in the marriage contract. So I must see, admire and wish good
+            luck to the finery, and to the girls who are to wear it. Then we had a little talk about
+            the prospects of letting the boat, and, Inshallah, making some money for _el gamma_,
+            _i.e._, ‘all our company,’ or ‘all of us together.’ The Reis hopes that the _Howagat_
+            will not be too outrageous in their ways or given to use the stick, as the solution of
+            every difficulty. </p>
+         <p> The young Shurafa of Abu-l-Hajjaj came from Gama’l Azhar to-day to bid me goodbye and
+            bring their letters for Luxor. I asked them about the rumours that the Ulema are
+            preaching against the Franks (which is always being said), but they had heard nothing of
+            the sort, and said they had not heard of anything the Franks had done lately which would
+            signify to the Muslims at all. It is not the Franks who press so many soldiers, or levy
+            such heavy taxes three months in advance! I will soon write again. I feel rather like
+            the wandering Jew and long for home and rest, without being dissatisfied with what I
+            have and enjoy, God knows. If I _could_ get better and come home next summer.</p>
+      </body>
+   </text>
+</TEI>

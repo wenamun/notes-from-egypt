@@ -1,0 +1,56 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>June 14, 1868: Sir Alexander Duff Gordon, BOULAK, June 14, 1868.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> The climate has been odious for Egypt—to shiver in cold winds of June on the Nile seems
+            hard. Maurice inherits my faculty for getting on with ‘d------d niggers’; all the crew
+            kissed him on both cheeks and swore to come back again in the winter; and up the country
+            he was hand and glove with all the fellaheen, eating a good deal of what he called
+            ‘muck’ with great enjoyment, walking arm in arm with a crazy derweesh, fetching home a
+            bride at night and swearing lustily by the Prophet. The good manners of the Arab
+            _canaille_, have rubbed off the very disagreeable varnish which he got at Brussels. </p>
+         <p> Dr. Patterson wants me to go to Beyrout or one of the Greek isles for a change. I am
+            very feeble and short of breath—but I will try the experiment. Would you be shocked if a
+            nigger taught Maurice? One Hajjee Daboos I know to be a capital Arabic scholar and he
+            speaks French like a Parisian, and Italian also, only he is a real nigger and so is the
+            best music-master in <placeName ref="Cairo">Cairo</placeName>. _Que faire_? it’s not
+            catching, as Lady Morley said, and I won’t present you with a young mulatto any more
+            than with a young _brave Belge_. I may however find someone at Beyrout. <placeName ref="Cairo">Cairo</placeName> is in such a state of beggary that all educated young
+            men have fled. Maurice has no sort of idea why a nigger should not be as good as anyone
+            else, but thinks perhaps you might not approve. </p>
+         <p> You would have stared to see old Achmet Agha Abd el-Sadig, a very good friend of ours
+            at Assouan, coaxing and patting the _weled_ (boy) when he dined here the other day, and
+            laughing immoderately at Maurice’s nonsense. He is one of the M.P.’s for Assouan, and a
+            wealthy and much respected man in the Saeed. The Abyssinian affair is an awful
+            disappointment to the Pasha; he had laid his calculations for something altogether
+            different, and is furious. The Coptic clergy are ready to murder us. The Arabs are all
+            in raptures. ‘God bless the English general, he has frightened our Pasha.’ </p>
+         <p> Giafar Pasha backsheeshed me an _abbayeh_ of crimson silk and gold, also a basket of
+            coffee. I was obliged to accept them as he sent his son with them, and to refuse would
+            have been an insult, and as he is the one Turk I do think highly of I did not wish to
+            affront him. It was at Luxor on his way to Khartoum. He also invited Maurice to
+            Khartoum, and proposed to send a party to fetch him from Korosko, on the Nile. Giafar is
+            Viceroy of the Soudan, and a very quiet man, who does not ‘eat the people.’ </p>
+         <p> My best love to Janet, I’ll write soon to her, but I am _lazy_ and Maurice is worse.
+            Omar nearly cried when Maurice went to Alexandria for a week. ‘I seem to feel how dull
+            we shall be without him when he goes away for good,’ said he, and Darfour expresses his
+            intention of going with Maurice. ‘Thou must give me to the young man backsheesh,’ as he
+            puts it, ‘because I have plenty of sense and shall tell him what to do.’ That is the
+            little rascal’s sauce. Terence’s slaves are true to the life here.</p>
+      </body>
+   </text>
+</TEI>

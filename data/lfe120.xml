@@ -1,0 +1,68 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>January 25, 1869: Sir Alexander Duff Gordon, ASSOUAN, January 25, 1869.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> We have been here ten days, and I find the air quite the best for me. I cough much
+            less, only I am weak and short of breath. I have got a most excellent young Reis for my
+            boat, and a sailor who sings like a nightingale, indeed he is not a sailor at all, but a
+            professional <placeName ref="Cairo">Cairo</placeName> singer who came up with me for
+            fun. He draws crowds to hear him, and at Esneh the congregation prayed for me in the
+            mosque that God might reward me for the pleasure I had provided for them. Fancy desiring
+            the prayers of this congregation for the welfare of the lady who gave me her opera-box
+            last Saturday. If prayers could avail to cure I ought to get well rapidly. At Luxor Omar
+            killed the sheep he had vowed, and Mustapha and Mohammed each killed two, as
+            thank-offerings for my life, and all the derweeshes held two great _Zikrs_ in a tent
+            pitched behind the boat, and drummed and chanted and called on the Lord for two whole
+            nights; and every man in my boat fasted Ramadan severely, from Omar and the crew to the
+            little boys. I think Darfour was the most meritorious of all, because he has such a
+            Gargantuan appetite, but he fasted his thirty days bravely and rubbed his little nose in
+            the dust energetically in prayer. </p>
+         <p> On Christmas day I was at Esneh, it was warm and fine, and I made fantasia and had the
+            girls to dance. Zeyneb and Hillaleah claim to be my own special _Ghazawee_, so to speak
+            my _Ballerine da camera_, and they did their best. How I did long to transport the whole
+            scene before your eyes—Ramadan warbling intense lovesongs, and beating on a tiny
+            tambourine, while Zeyneb danced before him and gave the pantomime to his song; and the
+            sailors, and girls, and respectable merchants sat _pêle-mêle_ all round on the deck, and
+            the player on the rabab drew from it a wail like that of Isis for dead Osiris. I never
+            quite know whether it is now or four thousand years ago, or even ten thousand, when I am
+            in the dreamy intoxication of a real Egyptian fantasia; nothing is so antique as the
+            Ghazawee—the _real_ dancing girls. They are still subject to religious ecstasies of a
+            very curious kind, no doubt inherited from the remotest antiquity. Ask any learned
+            pundit to explain to you the _Zar_—it is really curious. </p>
+         <p> Now that I am too ill to write I feel sorry that I did not persist and write on the
+            beliefs of Egypt in spite of your fear that the learned would cut me up, for I honestly
+            believe that knowledge will die with me which few others possess. You must recollect
+            that the learned know books, and I know men, and what is still more difficult, women. </p>
+         <p> The Cataract is very bad this year, owing to want of water in the Nile, and to the
+            shameful conduct of the Maohn here. The cataract men came to me, and prayed me to ‘give
+            them my voice’ before the Mudir, which I will do. Allah ed-deen Bey seems a decent man
+            and will perhaps remove the rascal, whose robberies on travellers are notorious, and his
+            oppression of the poor savages who pull the boats up odious. Two boats have been
+            severely damaged, and my friend the Reis of the Cataract (the one I threatened to shoot
+            last year, and who has believed in me ever since) does not advise me to go up, though he
+            would take me for nothing, he swears, if I wished. So as the air is good here and
+            Maurice is happy with his companions, I will stay here. </p>
+         <p> I meant to have discharged my men, but I have grown so fond of them (having so good a
+            set), that I can’t bring myself to save £20 by turning them adrift when we are all so
+            happy and comfortable, and the poor fellows are just marrying new wives with their
+            wages. Good-bye dearest Alick, forgive a scrawl, for I am very weak all over, fingers
+            and all. Best love to my darling Rainie. Three boats have little girls of five to eight
+            on board, and I do envy them so. I think Maurice had better go home to you, when we get
+            to <placeName ref="Cairo">Cairo</placeName>. He ought to be doing something.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>February 15, 1866: Mrs. Austin, LUXOR, February 15, 1866.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST MUTTER, </p>
+         <p> I have only time for a short letter to say that the cold weather is over and that I
+            continue to improve, not very fast, but still very sensibly. </p>
+         <p> My young Frenchman turns out to be a M. Brune _grand prix de Rome_, an architect, and
+            is a very nice fellow indeed, and a thorough gentleman. His odd awkward manner proved to
+            be mere vexation at finding himself quartered _nolens volens_ on a stranger, and a
+            woman; but we have made great friends, and I have made him quite happy by telling him
+            that he shall pay his share of the food. He was going to hurry off from shyness though
+            he had begun a work here by which I fancy he hopes to get _Kudos_. I see he is poor and
+            very properly proud. He goes out to the temple at sunrise, and returns to dinner at
+            dark, and works well, and his drawings are very clever. In short, I am as much obliged
+            to the French Consul for sending me such an intelligent man as I was vexed at first. An
+            _homme sérieux_ with an absorbing pursuit is always good company in the long run.
+            Moreover M. Brune behaves like a perfect gentleman in every way. So _tout est pour le
+            mieux_. </p>
+         <p> I am sorry to say that Marie has become so excessively bored, dissatisfied, and, she
+            says, ill, that I am going to send her back rather than be worried so—and _damit hats
+            eine ende_ of European maids. Of course an ignorant girl _must_ be bored to death here—a
+            land of no amusements and no flirtation _is_ unbearable. I shall borrow a slave of a
+            friend here, an old black woman who is quite able and more than willing to serve me, and
+            when I go down to <placeName ref="Cairo">Cairo</placeName> I will get either a ci-devant
+            slave or an elderly Arab woman. Dr. Patterson strongly advised me to do so last year. He
+            had one who has been thirteen years his housekeeper, an old bedaweeyeh, I believe, and
+            as I now am no longer looked upon as a foreigner, I shall be able to get a respectable
+            Arab woman, a widow or a divorced woman of a certain age who will be too happy to have
+            ‘a good home,’ as our maids say. I think I know one, a certain Fatoomeh, a widow with no
+            children who does washing and needlework in <placeName ref="Cairo">Cairo</placeName>.
+            You need not be at all uneasy. I shall be taken good care of if I fall ill, much better
+            than I should get from a European in a sulky frame of mind. Hajjee Ali has very kindly
+            offered to take Marie down to <placeName ref="Cairo">Cairo</placeName> and start her off
+            to Alexandria, whence Ross’s people can send her home. If she wants to stay in
+            Alexandria and get placed by the nuns who piously exhorted her to extort ninety francs a
+            month from me, so much the better for me. Ali refuses to take a penny from me for her
+            journey—besides bringing me potatoes and all sorts of things: and if I remonstrate he
+            says he and all his family and all they have is mine, in consequence of my treatment of
+            his brother. </p>
+         <p> You will be amused and pleased to hear how Sheykh Yussuf was utterly puzzled and
+            bewildered by the civilities he received from the travellers this year, till an American
+            told Mustapha I had written a book which had made him (the American) wish well to the
+            poor people of this country, and desire to behave more kindly to them than would have
+            been the case before. </p>
+         <p> To-morrow is the smaller Bairam, and I shall have all the Hareem here to visit me. </p>
+         <p> Two such nice Englishmen called the other day and told me they lived in Hertford Street
+            opposite Lady D. G.’s and saw Alexander go in and out, and met Maurice in the gardens.
+            It gave me a terrible twinge of _Heimweh_, but I thought it so kind and pretty and
+            _herzlich_ of them to come and tell me how Alexander and Maurice looked as they went
+            along the street.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>April 13, 1863: To Sir Alexander Duff Gordon, CAIRO, April 13, 1863.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK,</p>
+
+         <p>You will have heard from my mother of my ill luck, falling sick again. The fact is that
+            the spring in Egypt is very trying, and I came down the river a full month too soon.
+            People do tell such lies about the heat. To-day is the first warm day we have had; till
+            now I have been shivering, and Sally too. I have been out twice, and saw the holy
+            Mahmaal rest for its first station outside the town, it is a deeply affecting sight—all
+            those men prepared to endure such hardship. They halt among the tombs of the Khalìfah,
+            such a spot. Omar’s eyes were full of tears and his voice shaking with emotion, as he
+            talked about it and pointed out the Mahmaal and the Sheykh al-Gemel, who leads the
+            sacred camel, naked to the waist with flowing hair. Muslim piety is so unlike what
+            Europeans think it is, so full of tender emotions, so much more sentimental than we
+            imagine—and it is wonderfully strong. I used to hear Omar praying outside my door while
+            I was so ill, ‘O God, make her better. O my God, let her sleep,’ as naturally as we
+            should say, ‘I hope she’ll have a good night.’</p>
+
+         <p>The Sultan’s coming is a kind of riddle. No one knows what he wants. The Pasha has
+            ordered all the women of the lower classes to keep indoors while he is here. Arab women
+            are outspoken, and might shout out their grievances to the great Sultan.</p>
+
+         <p>_April_ 15.—I continue to get better slowly, and in a few days will go down to
+            Alexandria. Omar is gone to <placeName ref="Boulak">Boulak</placeName> to inquire the
+            cost of a boat, as I am not fond of the railroad, and have a good deal of heavy baggage,
+            cooking utensils, etc., which the railway charges enormously for. The black slave girl,
+            sent as a present to the American Consul-General, is as happy as possible, and sings
+            quaint, soft little Kordofan songs all day. I hope you won’t object to my bringing her
+            home. She wails so terribly when Omar tells her she is not my slave, for fear I should
+            leave her, and insists on being my slave. She wants to be a present to Rainie, the
+            little Sitt, and laughs out so heartily at the thought of her. She is very quiet and
+            gentle, poor little savage, and the utter slavishness of the poor little soul quite
+            upsets me; she has no will of her own. Now she has taken to talking, and tells all her
+            woes and how _batal_ (bad) everyone was at Khartoum; and then she rubs her little black
+            nose on my hand, and laughs so merrily, and says all is _quyis keteer_ (very good) here,
+            and she hugs herself with delight. I think Rainie will like her very much.</p>
+
+         <p>I am going to visit an old Muslim French painter’s family. He has an Arab wife and
+            grown-up daughters, and is a very agreeable old man with a store of Arab legends; I am
+            going to persuade him to write them and let me translate them into English. The Sultan
+            goes away to-day. Even water to drink has been brought from Constantinople; I heard that
+            from Hekekian Bey, who formerly owned the eunuch who is now Kislar Aghasy to the Sultan
+            himself. Hekekian had the honour of kissing his old slave’s hand. If anyone tries to
+            make you believe any bosh about civilization in Egypt, laugh at it. The real life and
+            the real people are exactly as described in the most veracious of books, the ‘Thousand
+            and One Nights’; the tyranny is the same, the people are not altered—and very charming
+            people they are. If I could but speak the language I could get into Arab society here
+            through two or three different people, and see more than many Europeans who have lived
+            here all their lives. The Arabs are keenly alive to the least prejudice against them,
+            but when they feel quite safe on that point they rather like the amusement of a
+            stranger.</p>
+
+         <p>Omar devised a glorious scheme, if I were only well and strong, of putting me in a
+            takterrawan and taking me to Mecca in the character of his mother, supposed to be a
+            Turk. To a European man, of course, it would be impossible, but an enterprising woman
+            might do it easily with a Muslim confederate. Fancy seeing the pilgrimage! In a few days
+            I shall go down to Alexandria, if it makes me ill again I must return to Europe or go to
+            Beyrout. I can’t get a boat under £12; thus do the Arabs understand competition; the
+            owner of boats said so few were wanted, times were bad on account of the railway, etc.,
+            he must have double what he used to charge. In vain Omar argued that that was not the
+            way to get employment. ‘Maleesh!’ (Never mind!), and so I must go by rail. Is not that
+            Eastern? Up the river, where there is no railroad, I might have had it at half that
+            rate. All you have ever told me as most Spanish in Spain is in full vigour here, and
+            also I am reminded of Ireland at every turn; the same causes produce the same
+            effects.</p>
+
+         <p>To-day the Khamseen is blowing and it is decidedly hot, quite unlike the heat at the
+            Cape; this is close and gloomy, no sunshine. Altogether the climate is far less bright
+            than I expected, very, very inferior to the Cape. Nevertheless, I heartily agree to the
+            Arab saying: ‘He who has drunk Nile water will ever long to drink it again’; and when a
+            graceful woman in a blue shirt and veil lifts a huge jar from her shoulder and holds it
+            to your lips with a hearty smile and welcome, it tastes doubly sweet. _Alhamdulillah_!
+            Sally says all other water is like bad small-beer compared to sweet ale after the Nile
+            water. When the Khamseen is over, Omar insists on my going to see the tree and the well
+            where Sittina Mariam rested with Seyidna Issa {55} in her arms during the flight into
+            Egypt. It is venerated by Christian and Muslim alike, and is a great place for feasting
+            and holiday-making out of doors, which the Arabs so dearly love. Do write and tell me
+            what you wish me to do. If it were not that I cannot endure not to see you and the
+            children, I would stay here and take a house at the Abbassieh in the desert; but I could
+            not endure it. Nor can I endure this wandering life much longer. I must come home and
+            die in peace if I don’t get really better. Write to Alexandria next.</p>
+      </body>
+   </text>
+</TEI>

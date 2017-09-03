@@ -1,0 +1,29 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>July 9, 1869: Sir Alexander Duff Gordon, HELWAN, OPPOSITE BEDRESHAYN, July 9,
+               1869.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> Don’t make yourself unhappy, and don’t send out a nurse. And above all don’t think of
+            coming. I am nursed as well as possible. My two Reises, Ramadan and Yussuf, are strong
+            and tender and Omar is admirable as ever. The worst is I am so strong. </p>
+         <p> I repeat I could not be better cared for anywhere than by my good and loving crew. Tell
+            Maurice how they all cried and how Abd el-Haleem forswore drink and hasheesh. He is very
+            good too. But my Reises are incomparable. God bless you. I wish I had seen your dear
+            face once more—but not now. I would not have you here now on any account.</p>
+      </body>
+   </text>
+</TEI>

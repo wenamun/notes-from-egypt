@@ -1,0 +1,110 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>April, 1865: Sir Alexander Duff Gordon, April, 1865.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALEXANDER, </p>
+         <p> Yesterday was the Bairam I rejoice to say and I have lots of physic to make up, for all
+            the stomachs damaged by Ramadan. </p>
+         <p> I have persuaded Mr. Fowler the engineer who was with Lord Dudley to take my dear
+            little pupil Achmet son of Ibn Mustapha to learn the business at Leeds instead of idling
+            in his father’s house here. I will give the child a letter to you in case he should go
+            to London. He has been reading the gospels with me at his own desire. I refused till I
+            had asked his father’s consent, and Sheykh Yussuf who heard me begged me by all means to
+            make him read it carefully so as to guard him against the heretical inventions he might
+            be beset with among the English ‘of the vulgar sort.’ What a poser for a missionary! </p>
+         <p> I sent down the poor black lad with Arakel Bey. He took leave of me with his ugly face
+            all blubbered like a sentimental hippopotamus. He said ‘for himself, he wished to stay
+            with me, but then what would his boy, his little master do—there was only a stepmother
+            who would take all the money, and who else would work for the boy?’ Little Achmet was
+            charmed to see Khayr go, of whom he chose to be horribly jealous, and to be wroth at all
+            he did for me. Now the Sheykh-el-Beled of Baidyeh has carried off my watchman, and the
+            Christian Sheykh-el-Hara of our quarter of Luxor has taken the boy Yussuf for the Canal.
+            The former I successfully resisted and got back Mansoor, not indeed _incolumes_ for _he_
+            had been handcuffed and bastinadoed to make _me_ pay 200 piastres, but he bore it like a
+            man rather than ask me for the money and was thereupon surrendered. But the Copt will be
+            a tougher business—he will want more money and be more resolved to get it. _Veremus_. I
+            must I suppose go to the Nazir at the Canal—a Turk—and beg off my donkey boy. </p>
+         <p> [Picture: Sir Alexander Duff Gordon, from sketch by G. F. Watts, R.A.] </p>
+         <p> I saw Hassan Sheykh-el-Abab’deh yesterday, who was loud in praise of your good looks
+            and gracious manners. ‘Mashallah, thy master is a sweet man, O Lady!’ </p>
+         <p> Yesterday was Bairam, and lots of Hareem came in their best clothes to wish me a happy
+            year and enjoyed themselves much with sweet cakes, coffee, and pipes. Kursheed’s wife
+            (whom I cured completely) looked very handsome. Kursheed is a Circassian, a fine young
+            fellow much shot and hacked about and with a Crimean medal. He is cawass here and a
+            great friend of mine. He says if I ever want a servant he will go with me anywhere and
+            fight anybody—which I don’t doubt in the least. He was a Turkish memlook and his
+            condescension in wishing to serve a Christian woman is astounding. His fair face and
+            clear blue eyes, and brisk, neat, soldier-like air contrast curiously with the brown
+            fellaheen. He is like an Englishman only fairer and like them too fond of the courbash.
+            What would you say if I appeared in Germany attended by a memlook with pistols, sword,
+            dagger, carbine and courbash, and with a decided and imperious manner the very reverse
+            of the Arab softness—and such a Muslim too—prays five times a day and extra fasts
+            besides Ramadan. ‘I beat my wife’ said Kursheed, ‘oh! I beat her well! she talked so,
+            and I am like the English, I don’t like too many words.’ He was quite surprised that I
+            said I was glad _my_ master didn’t dislike talking so much. </p>
+         <p> I was talking the other day with Yussuf about people trying to make converts and I said
+            that eternal bêtise, ‘Oh they mean well.’ ‘True, oh Lady! perhaps they do mean well, but
+            God says in the Noble Koran that he who injures or torments those Christians whose
+            conduct is not evil, merely on account of religion, shall never smell the fragrance of
+            the Garden (paradise). Now when men begin to want to make others change their faith it
+            is extremely hard for them _not_ to injure or torment them and therefore I think it
+            better to abstain altogether and to wish rather to see a Christian a good Christian and
+            a Muslim a good Muslim.’ </p>
+         <p> No wonder a most pious old Scotchman told me that the truth which undeniably existed in
+            the Mussulman faith was the work of Satan and the Ulema his _meenesters_. My dear saint
+            of a Yussuf a _meenester_ of Satan! I really think I _have_ learnt some ‘Muslim
+            humility’ in that I endured the harangue, and accepted a two-penny tract quite mildly
+            and politely and didn’t argue at all. As his friend ‘Satan’ would have it, the Fikees
+            were reading the Koran in the hall at Omar’s expense who gave a Khatmeh that day, and
+            Omar came in and politely offered him some sweet prepared for the occasion. I have been
+            really amazed at several instances of English fanaticism this year. Why do people come
+            to a Mussulman country with such bitter hatred ‘in their stomachs’ as I have seen three
+            or four times. I feel quite hurt often at the way the people here thank me for what the
+            poor at home would turn up their noses at. I think hardly a dragoman has been up the
+            river since Rashedee died but has come to thank me as warmly as if I had done himself
+            some great service—and many to give some little present. While the man was ill numbers
+            of the fellaheen brought eggs, pigeons, etc. etc. even a turkey, and food is worth money
+            now, not as it used to be. I am quite weary too of hearing ‘Of all the Frangee I never
+            saw one like thee.’ Was no one ever at all humane before? For remember I give no
+            money—only a little physic and civility. How the British cottagers would ‘thank ye for
+            nothing’—and how I wish my neighbours here could afford to do the same. </p>
+         <p> After much wrangling Mustapha has got back my boy Yussuf but the Christian
+            Sheykh-el-Hara has made his brother pay £2 whereat Mohammed looks very rueful. Two
+            hundred men are gone out of our village to the works and of course the poor Hareem have
+            not bread to eat as the men had to take all they had with them. I send you a very pretty
+            story like Tannhäuser. </p>
+         <p> There was once a man who loved a woman that lived in the same quarter. But she was true
+            to her husband, and his love was hopeless, and he suffered greatly. One day as he lay on
+            his carpet sick with love, one came to him and said, O, such-a-one, thy beloved has died
+            even now, and they are carrying her out to the tomb. So the lover arose and followed the
+            funeral, and hid himself near the tomb, and when all were gone he broke it open, and
+            uncovered the face of his beloved, and looked upon her, and passion overcame him, and he
+            took from the dead that which when living she had ever denied him. </p>
+         <p> But he went back to the city and to his house in great grief and anguish of mind, and
+            his sin troubled him. So he went to a Kadee, very pious and learned in the noble Koran,
+            and told him his case, and said, ‘Oh my master the Kadee, can such a one as I obtain
+            salvation and the forgiveness of God? I fear not.’ And the Kadee gave him a staff of
+            polished wood which he held in his hand, and said ‘Who knoweth the mercy of God and his
+            justice, but God alone—take then this staff and stick it in the sand beside the tomb
+            where thou didst sin and leave it the night, and go next morning and come and tell me
+            what thou shalt find, and may the Lord pardon thee, for thy sin is great.’ </p>
+         <p> And the man went and did as the Kadee had desired, and went again at sunrise, and
+            behold the staff had sprouted and was covered with leaves and fruit. And he returned and
+            told the Kadee what had happened, and the Kadee replied, ‘Praise be to God, the
+            merciful, the compassionate.’</p>
+      </body>
+   </text>
+</TEI>

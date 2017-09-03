@@ -1,0 +1,110 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>December 31, 1886: Sir Alexander Duff Gordon, LUXOR, December 31, 1886.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> I meant to have sent you a long yarn by a steamer which went the other day, but I have
+            been in my bed. The weather set in colder than I ever felt it here, and I have been very
+            unwell for some time. Dr. Osman Ibraheem (a friend of mine, an elderly man who studied
+            in Paris in Mohammed Ali’s time) wants me to spend the summer up here and take sand
+            baths, _i.e._ bury myself up to the chin in the hot sand, and to get a Dongola slave to
+            rub me. A most fascinating derweesh from Esneh gave me the same advice; he wanted me to
+            go and live near him at Esneh, and let him treat me. I wish you could see Sheykh Seleem,
+            he is a sort of remnant of the Memlook Beys—a Circassian—who has inherited his master’s
+            property up at Esneh, and married his master’s daughter. The master was one of the Beys,
+            also a slave inheriting from his master. Well after being a terrible _Shaitan_ (devil)
+            after drink, women, etc. Seleem has repented and become a man of pilgrimage and prayer
+            and perpetual fasting; but he has retained the exquisite grace and charm of manner which
+            must have made him irresistible in his _shaitan_ days, and also the beautifully delicate
+            style of dress—a dove-coloured cloth _sibbeh_ over a pale blue silk _kuftan_, a turban
+            like a snow-drift, under which flowed the silky fair hair and beard, and the dainty
+            white hands under the long muslin shirt sleeve made a picture; and such a smile, and
+            such ready graceful talk. Sheykh Yussuf brought him to me as a sort of doctor, and also
+            to try and convert me on one point. Some Christians had made Yussuf quite miserable, by
+            telling him of the doctrine that all unbaptized infants went to eternal fire; and as he
+            knew that I had lost a child very young, it weighed on his mind that perhaps I fretted
+            about this, and so he said he could not refrain from trying to convince me that God was
+            not so cruel and unjust as the Nazarene priests represented Him, and that all infants
+            whatsoever, as well as all ignorant persons, were to be saved. ‘Would that I could take
+            the cruel error out of the minds of all the hundreds and thousands of poor Christian
+            mothers who must be tortured by it,’ said he, ‘and let them understand that their dead
+            babies are with Him who sent and who took them.’ I own I did not resent this
+            interference with my orthodoxy, especially as it is the only one I ever knew Yussuf
+            attempt. </p>
+         <p> Dr. Osman is a lecturer in the <placeName ref="Cairo">Cairo</placeName> school of
+            medicine, a Shereef, and eminently a gentleman. He came up in the passenger steamer and
+            called on me and spent all his spare time with me. I liked him better than the
+            bewitching derweesh Seleem; he is so like my old love Don Quixote. He was amazed and
+            delighted at what he heard here about me. ‘_Ah Madame, on vous aime comme une sœur, et
+            on vous respecte comme une reine; cela rejouit le cœur des honnêtes gens de voir tous
+            les préjugés oubliés et détruits à ce point_.’ We had no end of talk. Osman is the only
+            Arab I know who has read a good deal of European literature and history and is able to
+            draw comparisons. He said, ‘_Vous seule dans toute l’Egypte connaissez le peuple et
+            comprenez ce qui se passe, tous les autres Européens ne savent absolument rien que les
+            dehors; il n’y a que vous qui ayez inspiré la confiance qu’il faut pour connaître la
+            vénté_.’ Of course this is between ourselves, I tell you, but I don’t want to boast of
+            the kind thoughts people have of me, simply because I am decently civil to them. </p>
+         <p> In Egypt we are eaten up with taxes; there is not a penny left to anyone. The taxes for
+            the whole year _eight months in advance_ have been levied, as far as they can be beaten
+            out of the miserable people. I saw one of the poor dancing girls the other day, (there
+            are three in Luxor) and she told me how cruel the new tax on them is. It is left to the
+            discretion of the official who farms it to make each woman pay according to her presumed
+            gains, _i.e._ her good looks, and thus the poor women are exposed to all the caprices
+            and extortions of the police. This last new tax has excited more disgust than any. ‘We
+            now know the name of our ruler,’ said a fellah who had just heard of it, ‘he is _Mawas_
+            Pasha.’ I won’t translate—but it is a terrible epithet when uttered in a tone which
+            gives it the true meaning, though in a general way the commonest word of abuse to a
+            donkey, or a boy, or any other cattle. The wages of prostitution are unclean, and this
+            tax renders all Government salaries unlawful according to strict law. The capitation tax
+            too, which was remitted for three years on the pasha’s accession to the people of
+               <placeName ref="Cairo">Cairo</placeName>, Alexandria, Damietta and Rascheed, is now
+            called for. Omar will have to pay about £8 back tax, which he had fondly imagined
+            himself excused from. You may conceive the distress this must cause among artisans,
+            etc., who have spent their money and forgotten it, and feel cheated out of the blessings
+            they then bestowed on the Pasha—as to that they will take out the change in curses. </p>
+         <p> There was a meeting here the other day of the Kadee, Sheykh el-Beled, and other
+            notables to fix the amount of tax each man was to pay towards the increased police tax;
+            and the old Shereef at the end spoke up, and said he had heard that one man had asked me
+            to lend him money, and that he hoped such a thing would not happen again. Everyone knew
+            I had had heavy expenses this year, and most likely had not much money; that my heart
+            was soft, and that as everyone was in distress it would be ‘breaking my head,’ and in
+            short that he should think it unmanly if anyone tried to trouble a lone woman with his
+            troubles. I did offer one man £2 that he might not be forced to run away to the desert,
+            but he refused it and said, ‘I had better go at once and rob out there, and not turn
+            rogue towards thee—never could I repay it.’ The people are running away in all
+            directions. </p>
+         <p> When the Moolid of the Sheykh came the whole family Abu-l-Hajjaj could only raise six
+            hundred and twenty piastres among them to buy the buffalo cow, which by custom—strong as
+            the laws of the Medes and Persians—must be killed for the strangers who come; and a
+            buffalo cow is worth one thousand piastres. So the stout old Shereef (aged 87) took his
+            staff and the six hundred and twenty piastres, and sallied forth to walk to Erment and
+            see what God would send them; and a charitable woman in Erment did give a buffalo cow
+            for the six hundred and twenty piastres, and he drove her home the twenty miles
+            rejoicing. </p>
+         <p> There has been a burglary over at Gourneh, an unheard-of event. Some men broke into the
+            house of the Coptic _gabit_ (tax-gatherer) and stole the money-box containing about
+            sixty purses—over £150. The _gabit_ came to me sick with the fright which gave him
+            jaundice, and about eight men are gone in chains to Keneh on suspicion. Hajjee Baba too,
+            a Turkish cawass, is awfully bilious; he says he is ‘sick from beating men, and it’s no
+            use, you can’t coin money on their backs and feet when they haven’t a para in the
+            world.’ Altogether everyone is gloomy, and many desperate. I never saw the aspect of a
+            population so changed. </p>
+         <p> January 1, 1867. God bless you, dearest Alick, and grant you many good years more. I
+            must finish this to go to-morrow by the steamer. I would give a great deal to see you
+            again, but when will that be?</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,38 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>November 3, 1867: Mrs. Ross, BOULAK, November 3, 1867.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST JANET, </p>
+         <p> Maurice arrived on Friday week, and is as happy as can be, he says he never felt so
+            well and never had such good snipe shooting. Little Darfour’s amusement at Maurice is
+            boundless; he grins at him all the time he waits at table, he marvels at his dirty
+            boots, at his bathing, at his much walking out shooting, at his knowing no Arabic. The
+            dyke burst the other day up at Bahr Yussuf, and we were nearly all swept away by the
+            furious rush of water. My little boat was upset while three men in her were securing the
+            anchor, and two of them were nearly drowned, though they swim like fish; all the
+            dahabiehs were rattled and pounded awfully; and in the middle of the _fracas_, at
+            noonday, a steamer ran into us quite deliberately. I was rather frightened when the
+            steamer bumped us, and carried away the iron supports of the awning; and they cursed our
+            fathers into the bargain, which I thought needless. The English have fallen into such
+            contempt here that one no longer gets decent civility from anything in the _Miri_
+            (Government). </p>
+         <p> Olagnier has lent us a lovely little skiff, and I have had her repaired and painted, so
+            Maurice is set up for shooting and boating. Darfour calls him the ‘son of a crocodile’
+            because he loves the water, and generally delights in him hugely, and all my men are
+            enchanted with him.</p>
+      </body>
+   </text>
+</TEI>

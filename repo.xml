@@ -1,0 +1,13 @@
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>Notes from Egypt</description>
+    <author>Frank Grieshaber</author>
+    <website>https://github.com/wenamun/Notes-From-Egypt</website>
+    <status>alpha</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>notes-from-egypt</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <permissions user="frank" group="dba" mode="rw-rw-r--"/>
+<deployed>2017-09-03T11:26:57.954+02:00</deployed></meta>

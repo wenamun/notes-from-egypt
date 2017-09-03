@@ -1,0 +1,71 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>May 25, 1863: Sir Alexander Duff Gordon, CAIRO, May 25, 1863.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK,</p>
+
+         <p>I have spun such a yarn to my mother that I shall make it serve for both. It may amuse
+            you to see what impression <placeName ref="Cairo">Cairo</placeName> makes. I ride along
+            on my valiant donkey led by the stalwart Hassan and attended by Omar, and constantly
+            say, ‘Oh, if our master were here, how pleased he would be’—husband is not a correct
+            word.</p>
+
+         <p>I went out to the tombs yesterday. Fancy that Omar witnessed the destruction of some
+            sixty-eight or so of the most exquisite buildings—the tombs and mosques of the Arab
+            Khaleefehs, which Said Pasha used to divert himself with bombarding for practice for his
+            artillery. Omar was then in the boy corps of camel artillery, now disbanded. Thus the
+            Pasha added the piquancy of sacrilege to barbarity.</p>
+
+         <p>The street and the neighbours would divert you. Opposite lives a Christian dyer who must
+            be a seventh brother of the admirable barber. The same impertinence, loquacity, and love
+            of meddling in everybody’s business. I long to see him thrashed, though he is a constant
+            comedy. My delightful servant, Omar Abou-el-Halláweh (the father of sweets)—his family
+            are pastrycooks—is the type of all the amiable _jeune premiers_ of the stories. I am
+            privately of opinion that he is Bedr-ed-Deen Hassan, the more that he can make cream
+            tarts and there is no pepper in them. Cream tarts are not very good, but lamb stuffed
+            with pistachio nuts fulfils all one’s dreams of excellence. The Arabs next door and the
+            Levantines opposite are quiet enough, but how _do_ they eat all the cucumbers they buy
+            of the man who cries them every morning as ‘fruit gathered by sweet girls in the garden
+            with the early dew.’</p>
+
+         <p>The more I see of the back-slums of <placeName ref="Cairo">Cairo</placeName>, the more
+            in love I am with it. The oldest European towns are tame and regular in comparison, and
+            the people are so pleasant. If you smile at anything that amuses you, you get the
+            kindest, brightest smiles in return; they give hospitality with their faces, and if one
+            brings out a few words, ‘Mashallah! what Arabic the Sitt Ingleez speaks.’ The Arabs are
+            clever enough to understand the amusement of a stranger and to enter into it, and are
+            amused in turn, and they are wonderfully unprejudiced. When Omar explains to me their
+            views on various matters, he adds: ‘The Arab people think so—I know not if right;’ and
+            the way in which the Arab merchants worked the electric telegraph, and the eagerness of
+            the Fellaheen for steam-ploughs, are quite extraordinary. They are extremely clever and
+            nice children, easily amused, easily roused into a fury which lasts five minutes and
+            leaves no malice, and half the lying and cheating of which they are accused comes from
+            misunderstanding and ignorance. When I first took Omar he was by way of ‘ten pounds,
+            twenty pounds,’ being nothing for my dignity. But as soon as I told him that ‘my master
+            was a Bey who got £100 a month and no backsheesh,’ he was as careful as if for himself.
+            They see us come here and do what only their greatest Pashas do, hire a boat to
+            ourselves, and, of course, think our wealth is boundless. The lying is mostly from
+            fright. They dare not suggest a difference of opinion to a European, and lie to get out
+            of scrapes which blind obedience has often got them into. As to the charges of
+            shopkeepers, that is the custom, and the haggling a ceremony you must submit to. It is
+            for the purchaser or employer to offer a price and fix wages—the reverse of Europe—and
+            if you ask the price they ask something fabulous at random.</p>
+
+         <p>I hope to go home next month, as soon as it gets too hot here and is likely to be warm
+            enough in England. I do so long to see the children again.</p>
+      </body>
+   </text>
+</TEI>

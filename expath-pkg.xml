@@ -1,0 +1,4 @@
+<package xmlns="http://expath.org/ns/pkg" name="Notes From Egypt" abbrev="notes-from-egypt" version="0.1" spec="1.0">
+    <title>Notes from Egypt</title>
+    <dependency package="http://exist-db.org/apps/shared"/>
+</package>

@@ -1,0 +1,59 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>December 27, 1863: To Mrs. Austin, BOULAK, ON BOARD A RIVER STEAM-BOAT, December
+               27, 1863.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST MUTTER, </p>
+         <p> After infinite delays and worries, we are at last on board, and shall sail to-morrow
+            morning. After all was comfortably settled, Ismail Pasha sent for _all_ the steamers up
+            to Rhoda, near Minieh, and at the same time ordered a Turkish General to come up
+            instantly somehow. So Latif Pasha, the head of the steamers, had to turn me out of the
+            best cabin, and if I had not come myself, and taken rather forcible possession of the
+            forecastle cabin, the servants of the Turkish General would not have allowed Omar to
+            embark the baggage. He had been waiting all the morning in despair on the bank; but at
+            four I arrived, and ordered the _hammals_ to carry the goods into the forecabin, and
+            walked on board myself, where the Arab captain pantomimically placed me in his right eye
+            and on the top of his head. Once installed, this has become a hareem, and I may defy the
+            Turkish Effendi with success. I have got a good-sized cabin with good, clean divans
+            round three sides for Sally and myself. Omar will sleep on deck and cook where he can. A
+            poor Turkish lady is to inhabit a sort of dusthole by the side of my cabin; if she seems
+            decent, I will entertain her hospitably. There is no furniture of any sort but the
+            divan, and we cook our own food, bring our own candles, jugs, basins, beds and
+            everything. If Sally and I were not such complete Arabs we should think it very
+            miserable; but as things stand this year we say, _Alhamdulillah_ it is no worse! Luckily
+            it is a very warm night, so we can make our arrangements unchilled. There is no door to
+            the cabin, so we nail up an old plaid, and, as no one ever looks into a hareem, it is
+            quite enough. All on board are Arabs—captain, engineer, and men. An English Sitt is a
+            novelty, and the captain is unhappy that things are not _alla Franca_ for me. We are to
+            tow three dahabiehs—M. Mounier’s, one belonging to the envoy from the Sultan of Darfour,
+            and another. Three steamers were to have done it, but the Pasha had a fancy for all the
+            boats, and so our poor little craft must do her best. Only fancy the Queen ordering all
+            the river steamers up to Windsor! </p>
+         <p> At Minieh the Turkish General leaves us, and we shall have the boat to ourselves, so
+            the captain has just been down to tell me. I should like to go with the gentlemen from
+            Darfor, as you may suppose. See what strange combinations of people float on old Nile.
+            Two Englishwomen, one French (Mme. Mounier), one Frenchman, Turks, Arabs, Negroes,
+            Circassians, and men from Darfor, all in one party; perhaps the third boat contains some
+            other strange element. The Turks are from Constantinople and can’t speak Arabic, and
+            make faces at the muddy river water, which, indeed, I would rather have filtered. </p>
+         <p> I hope to have letters from home to-morrow morning. Hassan, my faithful donkey-boy,
+            will go to the post as soon as it is open and bring them down to <placeName ref="Boulak">Boulak</placeName>. Darling Rainie sent me a card with a cock robin for Christmas;
+            how terribly I miss her dear little face and talk! I am pretty well now; I only feel
+            rather weaker than before and more easily tired. I send you a kind letter of Mme.
+            Tastu’s, who got her son to lend me the house at Thebes.</p>
+      </body>
+   </text>
+</TEI>

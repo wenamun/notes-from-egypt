@@ -1,0 +1,31 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/notes-from-egypt" owner="frank" group="dba" mode="775" created="2017-09-03T11:26:56+02:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="collection.xconf" owner="frank" group="dba" mode="664" created="2017-09-03T11:26:56+02:00" modified="2017-09-03T11:26:57+02:00" filename="collection.xconf" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="expath-pkg.xml" owner="frank" group="dba" mode="664" created="2017-09-03T11:26:56+02:00" modified="2017-09-03T11:26:57+02:00" filename="expath-pkg.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="repo.xml" owner="frank" group="dba" mode="664" created="2017-09-03T11:26:56+02:00" modified="2017-09-03T11:26:57+02:00" filename="repo.xml" mimetype="text/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="build.xml" owner="frank" group="dba" mode="664" created="2017-09-03T11:26:57+02:00" modified="2017-09-03T11:26:57+02:00" filename="build.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="error-page.html" owner="frank" group="dba" mode="664" created="2017-09-03T11:26:56+02:00" modified="2017-09-03T11:26:57+02:00" filename="error-page.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="index.html" owner="frank" group="dba" mode="664" created="2017-09-03T11:26:56+02:00" modified="2017-09-03T11:26:57+02:00" filename="index.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="controller.xql" owner="frank" group="dba" mode="775" created="2017-09-03T11:26:56+02:00" modified="2017-09-03T11:26:57+02:00" filename="controller.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pre-install.xql" owner="frank" group="dba" mode="775" created="2017-09-03T11:26:56+02:00" modified="2017-09-03T11:26:57+02:00" filename="pre-install.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="resources" filename="resources"/>
+    <subcollection name="modules" filename="modules"/>
+    <subcollection name="data" filename="data"/>
+    <subcollection name="templates" filename="templates"/>
+</collection>
