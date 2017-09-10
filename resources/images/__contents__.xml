@@ -42,6 +42,9 @@
     <resource type="BinaryResource" name="page-edit-icon.png" owner="frank" group="dba" mode="664" created="2017-09-03T11:26:56+02:00" modified="2017-09-03T11:26:57+02:00" filename="page-edit-icon.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
+    <resource type="BinaryResource" name="Lucie_Gordon.jpg" owner="frank" group="dba" mode="644" created="2017-09-10T16:23:11+02:00" modified="2017-09-10T16:23:11+02:00" filename="Lucie_Gordon.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
     <resource type="BinaryResource" name="bgmenu.gif" owner="frank" group="dba" mode="664" created="2017-09-03T11:26:56+02:00" modified="2017-09-03T11:26:57+02:00" filename="bgmenu.gif" mimetype="image/gif">
         <acl entries="0" version="1"/>
     </resource>

@@ -15,7 +15,7 @@
     <resource type="XMLResource" name="error-page.html" owner="frank" group="dba" mode="664" created="2017-09-03T11:26:56+02:00" modified="2017-09-03T11:26:57+02:00" filename="error-page.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="index.html" owner="frank" group="dba" mode="664" created="2017-09-03T11:26:56+02:00" modified="2017-09-03T11:26:57+02:00" filename="index.html" mimetype="text/html">
+    <resource type="XMLResource" name="index.html" owner="frank" group="dba" mode="664" created="2017-09-03T11:26:56+02:00" modified="2017-09-10T16:44:54+02:00" filename="index.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="BinaryResource" name="controller.xql" owner="frank" group="dba" mode="775" created="2017-09-03T11:26:56+02:00" modified="2017-09-03T11:26:57+02:00" filename="controller.xql" mimetype="application/xquery">
