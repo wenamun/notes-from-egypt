@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>November 30, 1862: To Mrs. Austin. FESHN, Monday, November 30, 1862.</title>
+            <title>To Mrs. Austin. FESHN, Monday, November 30, 1862.</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -12,6 +12,18 @@
             <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/3">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <settlement ref="http://www.geonames.org/361329">Al Fashn</settlement>
+               <date when="1862-11-30">30 November 1862</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/59830344">Sarah Austin</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
    </teiHeader>
    <text>
       <body>

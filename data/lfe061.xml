@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>June 16, 1865: Sir Alexander Duff Gordon, CAIRO, June 16, 1865.</title>
+            <title>To Sir Alexander Duff Gordon, CAIRO, June 16, 1865.</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -12,6 +12,18 @@
             <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/61">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <date when="1865-06-16">16 June 1865</date>
+               <settlement ref="http://www.geonames.org/360630">Cairo</settlement>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/315623459">Sir Alexander Duff Gordon</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
    </teiHeader>
    <text>
       <body>

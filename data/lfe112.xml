@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>November 3, 1867: Mrs. Ross, BOULAK, November 3, 1867.</title>
+            <title>To Mrs. Ross, BOULAK, November 3, 1867.</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -12,6 +12,18 @@
             <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/112">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <date when="1867-11-03">3 November 1867</date>
+               <settlement ref="http://www.geonames.org/360630">Cairo</settlement>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Janet Ross</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
    </teiHeader>
    <text>
       <body>

@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>February 7, 1867: Sir Alexander Duff Gordon, LUXOR, February 7, 1867.</title>
+            <title>To Sir Alexander Duff Gordon, LUXOR, February 7, 1867.</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -12,6 +12,18 @@
             <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/51">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <settlement ref="http://www.geonames.org/360502">Luxor</settlement>
+               <date when="1865-02-07">7 February 1865</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/315623459">Sir Alexander Duff Gordon</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
    </teiHeader>
    <text>
       <body>
