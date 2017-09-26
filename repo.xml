@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <meta xmlns="http://exist-db.org/xquery/repo">
     <description>Notes from Egypt</description>
     <author>Frank Grieshaber</author>
@@ -10,4 +11,5 @@
     <prepare>pre-install.xql</prepare>
     <finish/>
     <permissions user="frank" group="dba" mode="rw-rw-r--"/>
-<deployed>2017-09-03T11:26:57.954+02:00</deployed></meta>
+<deployed>2017-09-03T11:26:57.954+02:00</deployed>
+</meta>
