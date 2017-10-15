@@ -1,0 +1,270 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter 7: On board the Mary Victoria, Nile boat, Between Minieh and Manfalout,
+               Central Egypt; December 6th, 1850.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from https://archive.org/details/lettersfromegypt00brom</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/william-arnold-bromfield/letters/7">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/160825459">William Arnold Bromfield</persName>
+               <placeName ref="http://www.geonames.org/360686">Al Minyā</placeName>
+               <placeName ref="http://www.geonames.org/352913">Manfalūţ</placeName>
+               <date when="1850-12-06">6 December 1850</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Eliza Bromfield</persName>
+               <placeName ref="http://www.geonames.org/2638911">Ryde</placeName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>My dear E</p>
+
+         <p>A charming breeze is wafting us merrily up the Nile, and the plague of flies has ceased
+            for the present, as by dint of brushing them out of the cabin with flyflaps and towels,
+            we have succeeded in reducing their numbers within the limits of moderation, and so long
+            as we continue in mid-channel, we may reckon safely on enjoying freedom from one of the
+            most serious annoyances to which travellers in Egypt are exposed. The nights are now
+            always chilly, and the early mornings, till about nine o'clock, or even later, quite
+            cold. Even in this quarter of the world, the tendency to extremes, evinced by the
+            climates of the Eastern side of all large tracts of land, is manifested; for Mr.
+            Headland, the superintendent of the sugar factory at Rhodah, told me this morning, that
+            the canes are occasionally much injured by frost in this latitude, 28°, and that in
+            January sharp hoar frosts are not un frequent, ice having been formed last winter there
+            one fourth of an inch in thickness.</p>
+
+         <p>Minieh is one of the largest provincial towns of Central Egypt, and has a garrison of
+            800 troops, the depot of four regiments of cavalry. Like all other towns in this
+            country, it is a confused assemblage of narrow streets and alleys, made up of dirt and
+            rubbish, and dilapidation; the abodes of the lower classes mere mud hovels, and those of
+            the higher, pigsties on a larger scale. We had letters to M. Mounier, who has the
+            management of a very extensive sugar manufactory close to the town, belonging to the
+            eldest son of Abbas Pasha, a boy of twelve years of age. M. Mounier received us with
+            great politeness, and conducted us over the works, which are very complete, where the
+            sugar undergoes every process, from its extraction from the cane, to its refinement as
+            loaf sugar. The evaporation of the cane juice is carried on in vacuo, as in the great
+            English refineries, and the purification is effected by animal charcoal, obtained from
+            immense neaps ot bones, calcined on the spot in proper furnaces. The machinery is of the
+            most complete description, and consists not only of the sugar mills, &amp;c, required
+            for refining, but of powerful English steam engines for driving them, and pumps of great
+            calibre for irrigating the land, of which 1500 acres are planted with canes. The labour
+            in this, and another sugar manufactory at Rhodah, a few miles further up, is forced; and
+            the poor workmen, to whom no day of rest is allowed, (not even Friday, the Moslem
+            sabbath), are paid their scanty earnings in kind, never in money, and this payment
+            consists of molasses or the refuse sugar, the delivery of which is often withheld from
+            them for weeks, whilst they are driven to the work chained together like convicted
+            felons. The accounts we hear from persons of the highest respectability of the
+            oppressive exactions and barbarities of the Egyptian government, and of the venality,
+            falsehood, and dishonesty of every official in its employ, would appear incredible, did
+            not every thing we see around us bear witness to their truth. The fearful picture of the
+            desolation of Egypt drawn by the prophet Ezekiel, chap. 29 to 31, is a vivid
+            representation of what she is at the present moment, and a signal instance of the
+            fulfilment of Scripture prophecy. Between Minieh and Manfalout we stopped to deliver
+            letters and newspapers to Mr. Headland, at Ehodah, (which word signifies in Arabic a
+            garden), the property of Ismael Bey. We saw there a steam pump, &amp;c, for irrigation,
+            and others in course of erection; the works are extensive, but the sugar is sent from
+            the manufactory to Cairo to be refined, by a large English firm in that city. The
+            appearance of tall factory chimneys vomiting out smoke, and huge boilers emitting clouds
+            of steam, not to mention an occasional steam-boat puffing and splashing against the
+            turbid stream, that has its sources in the heart of a barbarous and unknown land,
+            divests, it must be owned, the valley of the Nile of some of that romance which early
+            associations have attached to it, and perhaps speaks in significant language of its
+            restoration at no very distant day to more than its ancient glory and prosperity. Mr. H.
+            received us with great civility, and would have shewn us the works, had we not declined
+            his offer on the plea that we were anxious to profit by the then favourable wind for
+            continuing our voyage upwards; besides which, w r e had no desire to see a second sugar
+            manufactory, similar to, but less complete, than that which we had so lately visited,
+            and with the details of which we were so well acquainted. We contented ourselves
+            therefore, ( I mean Mr. Pengelly and myself, for Mr. Lakes could not of course accompany
+            us), with walking over the gardens of the governor of the district, in which Mr.
+            Headland keeps a fine young lion, just five months old, and already nearly as large as a
+            mastiff, lately brought from Nubia, and intended, I believe, as a present for Abbas
+            Pasha. The beast is allowed to roam at large over the garden, and although now only
+            exhibiting the amiable traits of leonine juvenility, he gives evidence in his rough
+            play, of great strength, and when feeding, of some ferocity; tokens, it will be well to
+            attend to in time, as in a few more months, the unrestrained liberty he now enjoys, may
+            be perverted to the harm of those about him.</p>
+
+         <p>Manfalout, December 7th. We arrived at this place, the ancient Crocodilopolis, about
+            noon, and have now completed the half of our voyage between Cairo and Thebes. The wind
+            has been exceedingly variable, and often, none at all, which has obliged us to get on by
+            polling and tracking; but on the whole, we have made thus far a fair average passage for
+            the time of year, for the month of December is always considered unfavourable for
+            ascending the river, from the unsteadiness and uncertainty of the wind, which as often
+            blows from the south as from the north, and calms, or very light airs are constantly
+            intervening. We went ashore at every large town or village on our way. Manfalout is a
+            small place compared with Minieh, and like every other Egyptian town, is principally
+            built of unburnt brick. There are two handsome minarets belonging to the principal
+            mosques, which last, with the residence of the governor or other principal officer of
+            the district, are the only buildings at all distinguishable in the cities of this
+            country, from the mass of dirty, dilapidated, or half finished habitations which compose
+            them.</p>
+
+         <p>A pretty little Egyptian boy, about ten or eleven years of age, volunteered to conduct
+            us where doves were to be found, on which gentle bipeds, I am ashamed to say, we have
+            been satiating our carnivorous appetites for this fortnight past, for which I can only
+            plead by way of excuse, their delicate flavour, so superior to that of domestic poultry,
+            and the means their death affords us of economising, or rendering the purchase of the
+            latter almost unnecessary. The little fellow failed to find us many birds, but gambolled
+            and frolicked along with us outside the town, perfectly at his ease with the giaours,
+            and at last bade us adieu at the door of his mother's house. Mr. Pengelly took such a
+            fancy to him, that he fain would have taken him away with us up the river, an
+            arrangement we should all have been equally charmed with, and to which the boy shewed no
+            sort of repugnance; but his mother told us when we made the proposition, that she could
+            not bear to part with him, although she had tour other children at home, of which he was
+            the eldest, and she appeared to entertain no distrust of our intentions. At parting, Mr.
+            Pengelly gave him a small silver coin, value a quarter piastre, or about a halfpenny
+            sterling, no despicable baksheesh to a child in this poverty stricken country. The poor
+            little fellow looked at it, and seemed for a moment as if hesitating to accept it, then
+            deposited it, on our encouraging him to do so, in a fold of his vesture, with an air of
+            shame at becoming the recipient, which astonished us in a country where avarice is the
+            ruling passion from the highest to the lowest, and where a present or remuneration is
+            demanded by every man, woman, and child, for the smallest service.</p>
+
+         <p>Manfalout boasts a tolerable bazaar, where, during our visit we were much amused by the
+            curiosity of the rude Arnout soldiery, some of whom are quartered here, in inspecting
+            our fire arms, my highly finished double barrelled gun exciting their greatest
+            admiration, especially the strength and mechanism of the percussion lock, the principle
+            of which the Oriental gunsmiths are but imperfectly acquainted with, and cannot yet
+            imitate. The fineness of our English powder too astonished them exceedingly, and we
+            parted with these intractable warriors on the best of terms. We find the people in every
+            town and village we enter extremely well disposed towards us, ready to give every
+            information in their power, and to shew us where any game is to be found; only
+            disagreeable when a bargain for meat, vegetables, bread, charcoal, fec, is negotiating,
+            when their disposition to over-reach and haggle about a para seldom fails to shew
+            itself: but this unpleasant intercourse we find it on every account best to leave to Mr.
+            L's Nubian (Berber) servant, Ameen, who speaks the language, and knowing the value of
+            the various articles we consume, conducts the greater part of our marketing, rendering
+            us an account of the money disbursed every day or two. Ameen is brother to the Nubian
+            attendant on the hippopotamus in the Zoological Gardens, who accompanied the animal from
+            its native country to England, where he still is. Ameen sometimes receives letters from
+            his brother, who wishes him to join him at the gardens, and says he has got money in a
+            Savings bank. He occasionally finds means of sending his brother Ameen little presents,
+            such as an English penknife, but the latter does not seem to relish the idea of quitting
+            Egypt for England, as from his known respectability at Cairo, Ameen is sure of a
+            comfortable livelihood, as servant or dragoman to travellers going up the Nile. Ameen is
+            much pleased at my offer to become the bearer of a letter to his brother on my return
+            home next year.</p>
+
+         <p>The scenery for several days past has been interesting, the left, or eastern bank of the
+            Nile, being uniformly bounded by a lofty limestone ridge, increasing in height and
+            boldness as we advance southward, sometimes receding to a distance of several miles from
+            the river banks, and at other times almost skirting the shore, and often jutting out
+            into bold headlands, or occasionally rising into peaks of considerable elevation. This
+            ridge, which now (at Siout, Dec. 9th,) begins to close in on the valley of the Nile on
+            both sides like a vast and magnificent wall, is a continuation of the Mokattan chain
+            which commences at the Red Sea, and is already of respectable height at Cairo, but here
+            assumes quite a mountainous aspect. The range is the boundary of the great western
+            (Lybian) and eastern deserts, and is perfectly devoid like them of even a blade of
+            grass; it now" quite shuts out by its continuous elevation every glimpse of the desert,
+            which before, (at least on the east side) often discovered its ocean-like expanse of
+            sand billows as we held on our course; now, we see only the nearlyperpendicular and
+            stratified face of its abrupt, cliff-like terminations, below which, is a broad or
+            narrow strip of land diversified with rich crops of maize, guinea-corn, sugar, clover,
+            wheat, colewort, beans, peas, carrots, cotton, and various garden esculents, as onions,
+            garlic, cabbage, ochras, fennel, coriander, Corchorus olitorius, &amp;c. blended at
+            short intervals with villages standing amidst extensive date groves, full of doves and
+            wild pigeons, and with here and there a lovely grove of 6e Sant" (Acacia Nilotica), Gum
+            tree (Acacia vera), which in Nubia and Abyssinia yields the Gum Arabic of commerce. Both
+            these trees are now loaded with all their sweet scented flowers closely compacted into
+            globose heads like little golden balls. The single fields of guinea-corn especially, are
+            of incredible extent, and afford food and shelter to wild boars, and harbour packs of
+            jackalls that nightly serenade us with their melancholy noise, a whining kind of
+            barking, much like that of a fox, but louder, and more disagreeable. Mr. Lakes shot the
+            other day with his rifle, a very large jackall, when we were out together looking for
+            game, and we anticipate fine sport during the moonlight nights, now coming on, amongst
+            the ruins of Karnac and Luxor, where we hope to eat a pic-nic dinner on Christmas day,
+            and to feast on plum pudding made by the hands of Saad, the only christian, by the way,
+            of our party, besides our three selves, and who has proved a most able cook, in addition
+            to his character as a steady, and we believe too, an honest servant. I cannot say as
+            much for his skill as a laundress, for the display of which, did he possess it, our very
+            limited means afloat afford him little opportunity; for we quite forgot to add a board
+            and smoothing irons to our outfit on leaving Cairo. We dress in linen, which has only
+            been washed over, and hastily dried in the sun and air; the fronts are all puckers, and
+            the collars the same, and without a particle of starch in them. Shaving we have quite
+            abjured in these wild regions as a tedious and unnecessary toilette operation: so we are
+            all decorated with black bushy beards and moustaches of three week's growth, and since
+            we have adopted the tarboosh, a close cap of scarlet cloth, with a huge tassel of dark
+            blue silk, worn over another small skull cap of cotton, called a takeelzel, we are half
+            moslem in appearance, if not in creed. I am sure our friends at home would laugh were
+            they to see us, nor am I certain that they would not envy us our river life, and river
+            home in this most splendid and rainless climate.</p>
+
+         <p>The soil of the valley of the Nile, particularly that part left dry by the now receding
+            waters, is a sandy loam of a deep brown colour, and of the consistence nearly of paste,
+            so that like that, it is quite plastic, and can be kneaded with the fingers as dough. It
+            is an error to suppose that the soil of the Nile is slime: it can hardly even be called
+            mud when in its state of softest consistence; and its aspect conveys the impression of
+            its exuberant fertility, which might be still further increased by the use of manures,
+            and a proper rotation of crops, of which the Egyptian farmers have no idea. The towns
+            and villages are constructed of unburnt brick made of the alluvial earth, and
+            consequently present the same colour as that of the ground they stand upon, while the
+            skins of the inhabitants are of a hue very closely approaching that of their native
+            soil, and the scanty clothing of the fellahs or agricultural labourers, as well as that
+            of the greater part of the poor in the towns and villages, is a single wrapper of a very
+            coarse and thick cloth, also of a deep brown, made probably of the undyed wool of the
+            native sheep, whose fleeces are exactly of that colour, white sheep being seldom seen in
+            this country; hence, brown is the prevailing colour in an Egyptian landscape; the
+            desert, the river, the people, the cattle, the houses, are all brown, or of a tint in
+            which brown is the chief constituent; it is a swart land of grave and sombre colours,
+            even the green of the few species of trees indigenous to, or cultivated in Egypt, is of
+            a deep and dark, rather than of a light and lively shade, that of the date palm and
+            olive is greyish or glaucous; of the acacia, mimosa, and sycamore, either dark or dull,
+            viewed in the mass. I have seen nothing as yet like the verdure I was led to expect from
+            the descriptions usually given by travellers in this country; there is no lack of green
+            it is true, but it is in strips or patches, intersecting which the native brown of the
+            soil is ever presenting itself in strong contrast. No vegetation adorns either bank of
+            the Nile along any part of the vast distance I have yet traversed from Alexandria hither
+            (to Osiout); its shores gradually increase in height as we advance, and although of a
+            rocky character in a few places, are for the most part composed of a soft dark brown
+            alluvium, which is constantly crumbling, and falling into the stream, often in masses
+            from a few hundred weight to several tons at a time, by which the course of the river is
+            constantly undergoing alteration: so that even were it navigable for vessels of any
+            great burden, which the innumerable shallows and shifting banks preclude, any survey
+            would in a few years be wholly obsolete and useless.</p>
+
+         <p>Siout, Esiout, or Osiout, December 9th. We arrived at this place, at present the capital
+            of Upper Egypt, and the ancient Lycopolis, after a tedious passage from Manfalout, owing
+            to the wind failing us entirely. As we propose stopping a day or two here on our return
+            voyage, to visit the tombs and grottos in the mountains behind the town, I will not now
+            attempt a description of a place imperfectly seen by us as yet, but will only give a
+            slight sketch of its situation, which is the most picturesque of any town we have yet
+            visited in Egypt. The valley of the Nile is here exceedingly broad, and the range of
+            lofty limestone hills which shuts it out from the desert, recedes from both banks,
+            leaving a wide plain of great fertility, and in a high state of cultivation between the
+            river banks and the hills. The town is the third in size of those in Egypt, and is
+            stated to have a population of 20,000 souls. Like Cairo, it is walled round, and the
+            bazaars rank next to those of that city for the variety of goods they display. Siout is
+            noted for its manufactures of pipe bowls, some of which we inspected, and were surprised
+            at the elegance of the designs of the better kinds, and the finish of the workmanship.
+            The limestone ranges on the western, or Lybian side of the valley, assuming here quite a
+            mountainous character, are pierced with innumerable tombs quite visible from the plain
+            below. The approach to Siout from the small village of El Khamra, which may be called
+            its port, and about the same distance from the town as Boulak is from Cairo, is
+            exceedingly pretty, passing along a broad raised causeway planted with willows, and
+            running across fertile fields and gardens to the very gate of the town. We rode to the
+            city on excellent donkeys to make purchases, followed by the greater part of our
+            Nubians, decked out in their best attire, Ameen in particular, and our boy Mohammed, far
+            outshining the others in the taste and gaiety of their costume, and bent like ourselves,
+            on marketiog at the last town where coffee, tobacco, and other requisites can be
+            obtained of good quality. Having spent an hour or two in visiting the bazaars and the
+            few other objects of interest it presents, we took leave for a time of the capital of
+            Upper Egypt, and returned to our boat at El Khamra.</p>
+
+         <p>Believe me, Dear E Your affectionate Brother, William Arnold Beomfield.</p>
+      </body>
+   </text>
+</TEI>

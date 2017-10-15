@@ -1,0 +1,146 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter 16: Head of the first Cataract just below Philae, four miles above Assouan, April 30th, 1851.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from https://archive.org/details/lettersfromegypt00brom</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/william-arnold-bromfield/letters/16">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/160825459">William Arnold Bromfield</persName>
+               <placeName ref="http://www.geonames.org/356859">Philae</placeName>
+               <placeName ref="http://www.geonames.org/359792">Aswan</placeName>
+               <date when="1851-04-30">30 April 1851</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Eliza Bromfield</persName>
+               <placeName ref="http://www.geonames.org/2638911">Ryde</placeName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>My dear E</p>
+
+         <p>I thank God! we are now (April 30th) on the eve of quitting the regions of absolute
+            savagedom for the comparative civilization of Egypt, at whose southern portal we are
+            awaiting the safe conduct of our little bark down the cataract, which is to be
+            accomplished^ we trust, early to-morrow morning (May 1st). Much care and circumspection
+            are requisite in the present extremely low state of the river, to prevent accidents from
+            the boat striking the rocks at the bottom in her descent, and hence the sheyk of the
+            cataract requires time to muster his hands, and make the necessary preparations.</p>
+
+         <p>The heat from the long continuance of northerly winds continues to be very moderate for
+            the advanced season, the thermometer at noon, and till two or three o'clock is usually
+            from 90° to 95° in our cabin. At this moment whilst I am writing, it is at 99°, and our
+            crew are stretched listlessly on deck: to myself, it is not by any means overpowering
+            whilst I continue sitting, but somewhat too high for agreeable locomotion. The fact is,
+            that for several weeks past, the thermometer having seldom been much under 100° in the
+            middle of the day, and often several degrees above it, my system has become quite
+            habituated to this high temperature, and anything under 90° feels quite cool and fresh.
+            The hot southerly winds of May called the Khamseen, must now be looked for daily, and of
+            course much hotter weather will be our portion, 110° to 120° in the shade.</p>
+
+         <p>The river has a most forlorn deserted appearance; all English tourists have long since
+            fled its narrowed currents in dread of the summer heat, and we, the last way-worn
+            travellers, are wending our solitary course far in the rear of the herd of winter
+            visitors, whose ultima Thule was Wady Halfeh, or perhaps the first cataract. Even the
+            natives gaze upon us as on a sort of unseasonable phenomenon, and we expect to look like
+            very respectable lions on our arrival at Cairo, since we shall be the very last of the
+            fashionable arrivals of the season: and the few stray birds of passage that may still be
+            in the City of Victory, at this time of universal incandescence, will have no other
+            lions to look at but ourselves.</p>
+
+         <p>During the earlier part of the night, the heat under our mosquito curtains is
+            considerable, and the temperature does not lower on the water with half the rapidity
+            with which it is radiated from the stony sandy desert, but after midnight, it becomes
+            quite cool and pleasant, and the early mornings till nine o'clock, are delightfully
+            fresh still. The dry heat of this climate, too, is far less oppressive than a much lower
+            temperature of an atmosphere holding water in solution, as India, &amp;c. I thank God,
+            that the heat agrees well with both of us: we have good appetites, and sleep well.</p>
+
+         <p>May 3rd, Nile between Assouan and Edfou. We are now on the broad stream of this ancient
+            river, beyond all further danger from rocks or cataracts, with a smooth liquid,
+            unobstructed path open to us from hence to Cairo.</p>
+
+         <p>On the 1st we shot the cataracts between Phiioe and Assouan in a masterly style, and
+            fortunately without accident: it was, however, a nervous business to every one on board
+            as we darted down the boiling flood, where the least inadvertence, want of skill or
+            presence of mind in the helmsman, must have consigned our boat to instant destruction,
+            with great loss of life amongst those on board. The river being now extremely low, the
+            cataract is greatly increased in rapidity, as well as shallower; and there is
+            consequently much danger of the boat striking the rocky bottom in her headlongcareer, or
+            of being dashed against the masses of rock that obstruct the channels between which the
+            torrent rushes. As it was, she grazed the bottom in her descent, with sufficient force
+            to render her very leaky, and I fear we shall be detained a whole day at Esneh to have
+            her haided up on shore and caulked, as the quantity of water she takes in causes her to
+            sail slowly.</p>
+
+         <p>The thermometer is now constantly at, and above 100° for some hours in the day, and the
+            breeze comes off the banks like a blast from an oven or furnace mouth, although still
+            northerly, or north-easterly; what it will be when the Khamseen begins to blow irom the
+            south, as it ought now to be doing, I cannot venture to guess, as the above is the
+            temperature in the coolest corner of the boat that I can find for the thermometer. Great
+            as this degree of heat is, it by no means interferes with our pursuits, reading,
+            writing, or even going ashore, if there is anything to be seen or done there. I have
+            been within these four hours examining the fine remains of the temple at Kom Ombes, in
+            the full blaze of the sun, whose face I do not remember to have seen obscured for above
+            a few minutes once or twice since leaving Cairo, November 24th.</p>
+
+         <p>Philae looked more lovely and picturesque to our way-worn eyes, as we passed under her
+            ruin-crowned banks than she did on our upward course; being the first herald of our
+            approach to regions of comparative civilization and plenty; for our Nubian and Ethiopian
+            trip has been somewhat trying to body as well as mind, although a great deal of
+            enjoyment has been mingled with our anxieties and occasional personal discomfort. It is
+            an expedition I am glad to have made, but never wish to repeat!</p>
+
+         <p>Great consternation prevails at this time along the valley of the Nile, on account of
+            the Pasha's troops being engaged in levying the conscription by seizing men in all the
+            towns and villages, and marching them off in chains to Cairo, &amp;c. to recruit the
+            army. Three or four days ago, we were witnesses of this act of despotic power, by seeing
+            a numerous band of these unhappy peasants-, who had been torn from their homes and
+            families, on the point of being embarked on board a vessel on the Nile, for some distant
+            part of the empire, guarded by cavalry, and tied together like dogs. The evening before,
+            we had dispatched Mohammed and Achmed on the usual errand on shore to procure milk, when
+            they found the place entirely deserted, the adult male population having fled to the
+            hills to avoid the conscription, the women and children only remaining behind.</p>
+
+         <p>Our gallant little bark is now turned into an asylum for the persecuted. Four men have
+            sought refuge and protection under the British pennant, having begged a passage to Cairo
+            to escape being taken for soldiers in their own village. Once on board a boat under a
+            consular flag, the government cannot touch them; they are under the protection of that
+            flag pro tempore, and are considered as servants in the pay and employ of the owner or
+            traveller. These poor people work their passage to the capital by taking the oars with
+            the rest of the men; they bring their own provisions (a little d'hourah merely), and all
+            we give them is lodging on deck with our own people.</p>
+
+         <p>In my next I will give you a definite direction for future letters, as I hope to quit
+            Egypt for Syria as soon as possible after visiting Damietta, Mansoureh, Rosetta, and
+            Suez, which will not occupy me long. I shall take Saad with me into Syria, whither I
+            intend to proceed alone, as I shall soon find many acquaintances through my letters for
+            Jerusalem and Bairout, and Saad is an admirable guide for the country with which he is
+            well acquainted, as well as with many people there; besides being an excellent and
+            faithful servant, now well tried. I propose visiting Jerusalem, Bairout, Damascus,
+            Constantinople, and Smyrna, and to return home either by sea in the Peninsular and
+            Oriental Company's vessels, or by the Austrian Lloyd's line to Trieste, and across the
+            continent via the north of Italy, the Rhine and Belgium.</p>
+
+         <p>I shall do all in my power not to extend my absence beyond the middle of August, but I
+            must be entirely dependent on the sailing of the different steamers, and cannot
+            therefore calculate nay return with any degree of nicety.</p>
+
+         <p>With kindest regards to all our friends, Believe me, Your affectionate Brother, William
+            Arnold Bromfield.</p>
+      </body>
+   </text>
+</TEI>

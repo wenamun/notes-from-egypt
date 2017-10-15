@@ -1,0 +1,492 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter 17: On Board the Mary Victoria Nile Boat, Between Guineh and Girzeh, Upper
+               Egypt, May 12th, 1851.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from https://archive.org/details/lettersfromegypt00brom</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/william-arnold-bromfield/letters/17">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/160825459">William Arnold Bromfield</persName>
+               <placeName ref="http://www.geonames.org/350550/qina.html">Guineh (Qina)</placeName>
+               <placeName ref="http://www.geonames.org/355026">Girga</placeName>
+               <date when="1851-05-12">12 May 1851</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Eliza Bromfield</persName>
+               <placeName ref="http://www.geonames.org/2638911">Ryde</placeName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dear E</p>
+
+         <p>We continue slowly but steadily advancing towards the Egyptian capital, having left
+            Assouan, the most southerly frontier town of this country, on the first of this month.
+            Our progress has been delayed by the necessary stoppages at that, and the other
+            considerable towns along the river, for the purpose of recruiting our nearly exhausted
+            supplies of rice, sugar, coffee, &amp;c, as also to visit our good friends the Fox's at
+            Ernout, and take a farewell view of Luxor, Karnac, and other lions, and finish the
+            campaign by visiting the few that yet remained unseen by us.</p>
+
+         <p>The weather since leaving Assouan has not increased in heat, the wind still keeping to
+            some northerly point, with no appearance at present of the regular and much dreaded
+            Khamseen from the southward. It is nevertheless quite as warm as is agreeable, and
+            rather more so during the middle of the day. By ten o'clock the thermometer lias
+            attained 90° or 95°, when it continues rising very slowly but regularly till one or two
+            p.m. at which time it has stood froin 98° to 103° for some weeks past, remaining at or
+            near that point till four or five p.m. when the heat declines, and during the evening
+            falls to 90° or a little lower; in the early morning the mercury has usually descended
+            to 84° or 85°, which is now to our feelings a delightfully cool and refreshing
+            temperature. Although the heat is not at this time of the year so great here as in the
+            upper part of the valley of the Nile at Dongola, Berber, and especially on the desert,
+            it is more felt in Upper Egypt than in Nubia, as the air begins though slightly, to
+            participate in the moisture of the Mediterranean to the northward, in addition to the
+            natural evaporation from the great river on which we are afloat; and as water does not
+            part, by radiation, with the heat it has received from the sun during the day, at all as
+            readily as the bare sand does, the nights on board are much hotter than on shore, where
+            we should therefore encamp every evening for coolness, could we escape molestation from
+            mosquitoes, and also from the dogs and natives. We have moreover exchanged the dark
+            primitive granite rocks above Assouan, for the newer white limestone of the Theban
+            mountains, whose bare craggy sides glow like the walls of a furnace in the fierce glare
+            of the noontide sun, and send back the north wind in stifling puffs, causing ever and
+            anon huge columns of sand to move in dark vortices across the country, and towering to a
+            vast height in the air like pillars of smoke from the crater of a volcano, their summits
+            expanding into a cone of a pale yellow, which gradually deepens to a dark dun red or
+            brown near the earth, according to their position with regard to the sun. When at Philae
+            on the 30th of April, we experienced a strong sand-storm, which filled the air with
+            impalpable dust mingled with coarse sand, and gave the landscape the appearance of being
+            enveloped in fog; the sky at the same time was covered with dark angry looking clouds,
+            from which fell a few heat drops, the utmost effort to produce anything like a
+            refreshing shower of which this parched climate is capable; excepting at very distant
+            intervals indeed, when a deluge of rain occasionally pours down on the Thebaid and Lower
+            Nubia for a day or two.</p>
+
+         <p>When crossing the great desert of Korosko we had, on a close calm cloudy night, several
+            vivid flashes of sheet lightning, but neither thunder nor rain accompanied these silent
+            and innocent coruscations. I may remark that falling stars are extremely common, and
+            remarkably large and brilliant in the clear nights of Nubia and Egypt: we saw several in
+            our desert wanderings of startling size and splendour traverse a considerable space in
+            the heavens with extreme velocity, and then disappear without noise.</p>
+
+         <p>The most serious inconvenience we experience from this torrid weather, is the great
+            difficulty of keeping one of our staple articles of diet, milk, for a few hours, by
+            boiling and preserving it in a vessel wrapped in wet cloths, and placed in the coolest
+            part of the boat. As we cannot always procure fresh milk at this season from the
+            herdsmen and villagers on shore, we are often deprived of it altogether, our stock taken
+            on board in the morning becoming unfit for use before dinner time; and the evening
+            supply is often precarious. Our way of procuring it in the wilds of the upper country
+            above Dongola &amp;c, by chasing the goats to milk them when the owners were not at hand
+            to do so for us, w^ould amuse you in the recital.</p>
+
+         <p>We found our good friends Mr. and Mrs. Fox (the first English faces we have seen for
+            months), at Ernout, quite well, and the immense sugar works belonging to Mustapha Bey, a
+            minor, rapidly progressing towards completion: already the huge chimneys of the engine
+            and boiling houses have risen within sight of the pylons, obelisks, and colossal pillars
+            of Luxor and Karnac, which they far overtop in height, if they do not rival them in
+            beauty and celebrity. This hospitable pair wished us to stop some days at the works, the
+            machinery for which, on a scale of great magnitude, is all from England, and is erected
+            here by native workmen from Cairo, under the sole instruction and superintendence of Mr.
+            Fox.</p>
+
+         <p>I saw there one living, and several dead specimens of the terrific scorpion spider or
+            galleode of Egypt and the adjacent countries; the latter were found drowned in a large
+            tank for supplying the engines; the former was captured in the house by Mr. Fox. The
+            outstretched legs of the largest specimen measured about eight inches in the span. The
+            general aspect of this hideous animal, is that of a gigantic spider, w T hich it
+            resembles in the great length of its hairy legs, the oblong livid body, jointed like
+            that ot the scorpion, is destitute ot any sting, instead of which the head is furnished
+            with a formidable pair of sharp and very prominent pincers, capable of inflicting an
+            extremely painful, though I believe not very venomous bite. It is a nocturnal animal,
+            frequenting out-houses, and deserted apartments, running with incredible speed, and
+            fearlessly attacking any object that is opposed to it. Mr. Fox's Arab servant hearing a
+            mouse squeaking in the room one night as if in distress, was induced to ascertain the
+            cause, when he found one of these galleodes had fastened upon it, but whether with the
+            intention of making the mouse its prey, or from accidental offence given by the latter,
+            Mr. Fox could not say. The natives regard its bite as not dangerous, and rather
+            encourage it, as a noted destroyer of its first cousins, the scorpions. I have several
+            of the above specimens (including the largest) in spirits, which I hope to send home
+            with my plants &amp;c. from Alexandria.</p>
+
+         <p>We bade adieu to Ernout on the 7 th May at 10 p.m. and rose at dawn the next morning to
+            visit the ruins of Medinet Habou; the two Colossi (one of which is the famous supposed
+            statue of Memnon); the temple, (or perhaps palace) of Rameses II. called the Memnonium;
+            and lastly, the tombs of the kings; but the latter, we were obliged to postpone till the
+            following day (9th) on account of the increasing morning heat after 9 or 10 o'clock.</p>
+
+         <p>The first of these remains, the temple of Medinet Habou, is situated near the foot of
+            the limestone range, as are likewise the Colossi and Memnonium, all three being within
+            half or three quarters of an hour's ride of each other. The remains of Medinet Habou,
+            are imposing, and very extensive, but belong to different epochs; and like many other
+            Egyptian ruins are sadly encumbered with heaps of rubbish, mounds, and paltry hovels of
+            crude brick, in which they are half buried, and their proportions concealed or
+            destroyed. Although certainly possessing much grandeur, these ruins are not of a
+            character to strike the non-antiquarian visitor as do the magnificent temples of
+            Dendereh, Esneh, Edfou, and Abou Simbal (Ipsambul), all of which are also in a more
+            perfect state.</p>
+
+         <p>The great temple-palace of Rameses II. commonly known as the Rameseum or Memnonium, must
+            have been when entire, a magnificent structure, and even in its present shattered and
+            razed condition, it may lay claim to that character, and is less encumbered than most of
+            the Egyptian temples with Roman, Christian, or Arab dwellings of hideous unburnt brick.
+            But the most remarkable object in the Memnonium, is the stupendous statue of Rameses II.
+            the founder; unquestionably the most gigantic of ancient or modern times. This now
+            prostrate and shattered colossus is of grey syenitic granite; I find no account of its
+            height when entire; but Sir Gr. Wilkinson gives its estimated weight at 887 tons. I must
+            say however that viewed as it now lies, the proportions of the statue convey but an
+            indifferent idea of the artistic skill of the sculptor; to myself, it appeared a sadly
+            coarse and clumsy piece of workmanship both in design and execution; but if originally
+            of a single piece, as really seems to have been the case, its transportation from the
+            very distant quarry to its temple abode, reflects great credit either on the patience,
+            or the engineering skill of the ancient Egyptians, I do not know which; but I believe
+            the praise should be equally awarded to both.</p>
+
+         <p>The two ill-shaped, stiff, and much mutilated sitting statues, one of which has acquired
+            such world wide notoriety as the vocal Memnon, are rather objects of wonder for their
+            magnitude, than of admiration for their beauty; and except that they possessed nothing
+            of the same life and spirit, they put me greatly in mind of two figures of Tarn
+            O'Shanter and Souter John which I recollect to have seen many years ago in London, the
+            production of the self taught Scottish artist, Thorns, who was justly admired for his
+            talented conception of the heroes of Burns' s tale. Poor Memnon, in particular, has been
+            sadly knocked about since his singing days were over; and has been so clumsily repaired
+            above the waist with unshapely blocks of sandstone (which is not the material of which
+            the rest of his person is composed), as to look more like the fragment of an old wall,
+            than a delineation in stone of the human form divine. In the huge lap of this statue,
+            which is only accessible, by climbing, to persons gifted with a stronger head than mine,
+            is a stone which emits a ringing sound when struck, and behind this is a cavity in which
+            Sir G. Wilkinson thinks a person was in the habit of concealing himself, in order to
+            produce the sound attributed by superstitious belief to the rays of the sun impinging on
+            the figure at his rising, or as Sir G. Wilkinson states, an hour or two afterwards. One
+            of our donkey boys climbed into the lap, and struck the stone repeatedly; but with all
+            my desire to hear what I was prepared to listen to, a deep, sonorous, bell like tone, I
+            could only distinguish a dull tinkling like that which any mason's trowel would elicit
+            from an ordinary block of marble or freestone. The feet and throne of the so-called
+            Memnon, (through confusion of names with the Egyptian Miamun), are covered with
+            inscriptions, chiefly Greek, of great antiquity. The fellow statue is in better
+            preservation, though of less celebrity, but the faces of both are so disfigured, that
+            the features are scarcely traceable.</p>
+
+         <p>The next morning at dawn we again started for the tombs of the Kings, attended by two
+            servants, a guide with candles, our donkey boys, and some half dozen little fellows
+            bearing gullahs, or porous earthern bottles filled with water; to the mouths of which
+            ever and anon, we were glad to apply our parched lips. These famous grottos are
+            excavated in the most solitary and intricate recesses of the Theban mountains. After
+            quitting the plain, the way leads through winding defiles between hills and rocks of
+            white limestone, and coarse conglomerate, the former extremely white, and approaching
+            very nearly in hardness and appearance to the indurated chalk of our own country. Not a
+            tree, shrub, or blade of grass finds a habitation upon these bare and sunburnt
+            mountains, on which a drop of water from heaven either as rain or dew rarely falls, save
+            only the transient devastating floods of sub-tropical storms. J ackals, wolves, and
+            hyenas are the inhabitants; birds are few; but Mr. Pengelly brought down at one shot, a
+            pair of magnificent horned owls, of great size, and with most formidable beaks and
+            talons.</p>
+
+         <p>The distance from our moorings on the western or Lybian side of the Nile opposite Luxor
+            to these tombs, is about six miles. Their number is very considerable, but since their
+            general plan, sculptures, and painting, are much the same in all, and so minute a survey
+            could only interest the professed and zealous antiquary, we contented ourselves with
+            viewing those marked by Sir G. Wilkinson on the face of their respective entrances Nos.
+            9, 11, 17, called the tomfcs of Memnon (Miamun Rameses V.) Brace's or the Harper's, and
+            Belzoni's tomb. These grottos lie scattered about in the sides of hills at irregular
+            distances; the entrances are by unadorned rectangular openings, and the passage for some
+            distance is always descending, and sometimes very steep, thickly strewed with fragments
+            of the rock, beyond which, the tombs present an extraordinary collection of passages,
+            halls, and chambers, elaborately adorned with sculptures and paintings, in endless
+            variety and in endless repetition.</p>
+
+         <p>A dispassionate view of Egyptian art, such as I have now had an opportunity of taking,
+            in regard to its chief and most elaborate monuments, has led me to the conviction that
+            with much that is worthy of the highest admiration, there is a vast deal that is not
+            merely below mediocrity, but absolutely poor and paltry to the last degree, all
+            strangely co-existing in the same edifice or excavation, and made the more conspicuous
+            by the sharpness of the contrast. I have often been astonished and delighted by the
+            gracefulness, elegance, and admirable execution of the sculptures in the various
+            temples, tombs and pyramids, as at Napata and Meroe, which I have visited: and have been
+            grieved as much to see the miserable scratches or scores intended to represent similar
+            objects, that most frequently were to be found defacing the very walls on which such
+            fine skill and taste were displayed. An extraordinary inequality of design and execution
+            seems the prevailing characteristic of Egyptian sculpture and architecture. As for the
+            paintings in the tombs, and on the roofs and ceilings of the temples, I must confess
+            that with very few exceptions indeed, I never saw any that, to my eye, looked superior
+            to vile daubs, such as a countrysign painter might feel ashamed to have executed. Some
+            of the figures of men and animals in processions &amp;c. are tolerably pourtrayed,
+            chiefly in their peculia subdued red, or Etruscan vase colour; but wheneve they attempt
+            flowers, fruit, foliage, a scroll, or an complicated object required strong shading or
+            relief, I have seen nothing but utter failure, — flat, gaudy, ungraceful designs. I know
+            it is the fashion in England to talk of the extraordinary brilliancy and durability of
+            these colours, as being inimitable in these degenerate days, by the loss of the mode of
+            their preparation, one of the pretended secrets of ancient art; but this assertion, I
+            have learnt to class with the customary ravings about Eastern skies, sunlights, shadows,
+            moons, flowers, and fruits. I do not deny that the colours in the tombs and temples of
+            Egypt have stood well, and retained most, if not the whole, of their original brilliancy
+            (such as it was) through the lapse of many centuries; but I beg to observe that this
+            holds true only in those edifices or excavations which have been hermetically sealed by
+            the artificial closing up of the entrance, or by accumulation over them of the sands of
+            the desert. From the more exposed buildings the painting has been either wholly effaced
+            by the weather, or, as at Esneh and Edfou, some of the capitals of the columns retain
+            mere traces of a disagreeable verdigris green: the dark blue studded with stars on the
+            ceilings of some of these structures, as at Dendereh, has stood better, but even that is
+            in a great degree blotched and obscured by age, and by the damp of the river.</p>
+
+         <p>The Egyptians knew nothing of oil paints, and all their water colours that I have seen
+            on the stucco or stone of their walls, whether in tombs or temples, have an opaque,
+            earthy, or (what I believe artists call) muddy appearance, which argues no great skill
+            or knowledge of the materials best adapted for yielding bright clear colours, similiar
+            to those furnished by substances which modern chemistry has brought to hVht, and made
+            subservient to modern art. Analysis indeed has proved that the water colours used by the
+            ancient Egyptians for the decoration of their temples, were obtained from substances
+            identical with those that yield the cheapest and most ordinary hues to the house
+            painters of modern days, as yellow and red ochre, verdigris, lamp black, &amp;c. Our
+            brilliant smalt, chrome yellow, Prussian blue, and other modern pigments of varied
+            intensity, were to them unknown. Indigo, they were doubtless acquainted with; this has,
+            I believe, been demonstrated by chemical analysis of some of their colours from the
+            tombs and temples; several species of indigo I found abundant in the southern deserts,
+            and along the banks of the Nile; and one native species, Indigofera argentea, is to this
+            day universally used in Egypt for dying the common blue cloth of the country.</p>
+
+         <p>The effect of the colouring in the tombs of the Kings is much injured by the often
+            tasteless disposition of the various hues in parallel lines or stripes along the walls,
+            the interstices between the stripes being crowded with vilely daubed hieroglyphics,
+            mixed with grotesque figures, and every monstrous combination of living forms, that a
+            depraved ingenuity could suggest to the artist. All harmonious blending or contrast of
+            colours seems to have been generally overlooked, or disregarded in the sepulchral
+            decorations of the Egyptians; green, red, blue, black, and yellow, are mixed, or laid on
+            in close contact upon the stuccoed walls and roof, with the garish brush of a painter of
+            children's toys, rather than with the sober and chastened pencil of a genuine artist.
+            Yet, amidst this mass of confused figures, gaudy tints, and rude designs, there is a
+            great deal worthy of admiration in these receptacles of the royal dead, figures traced
+            with vast freedom and grace occasionally meet the eye, which causes the more regret to
+            see them associated with so much that is poor and mean. The noble halls covered with
+            sculptures and hieroglyphics, are wonderfully imposing from their fine size and
+            proportions, as well as from the interest attaching to them on account of their high
+            antiquity, and as depicting the manners and customs of the times in which they were
+            constructed.</p>
+
+         <p>The walls of this vast Necropolis bear witness to the presence within them of the great
+            and illustrious as well as of the little and vain of every age and clime: we read the
+            names of most of the celebrated explorers of Egyptian antiquities, Belzoni, Irby, and
+            Mangles, Burckhard, and if I recollect right, of Champollion, and of others of the
+            French savans. Amongst those of the more renowned but unlettered visitors to these
+            sepulchral chambers, we read the names of Mohammed Ali in Arabic and European
+            characters. We were greatly amused at the very uncomplimentary remarks and addresses
+            inscribed on the walls of the first tomb we explored (No. 17, or that of Memnon so
+            called), to Dr. Lepsius, a celebrated living antiquary of Germany, deprecating his
+            appropriation of choice morsels of sculpture and hieroglyphics which he had detached
+            from the wall, and carried away on a late archaeological razzia amongst these venerable
+            remains of by-gone times. We were however indebted to this same Teutonic rifler of
+            tombs, for our acquaintance with an exquisite little sepulchral grot, which he had the
+            good fortune to light upon and dis-inter last year I believe, and throw open to the
+            inspection of travellers like ourselves.</p>
+
+         <p>The heat within the tombs of the kings was not nearly so great as I had anticipated, and
+            the walls and roofs had the appearance of the most parching dryness i nevertheless the
+            paintings in the tomb we first visited had suffered as it is said from the percolation
+            through the absorbent limestone-rock of those violent floods which even visit the
+            burnt-up hills of the Thebaid at distant, but uncertain periods.</p>
+
+         <p>On quitting the tombs of the kings, we arrived in the plain by another and shorter
+            route, passing by a very steep path across the highest peaks of the Theban mountains,
+            and then descending precipitously their eastern escarpment, right glad to have done so
+            at the expence of a toilsome clamber in the now burning sun on foot as far as the
+            summit, our donkeys following us as best they might. The view was glorious, the vast
+            plain of Thebes on our right, mapped out with the ruins of Medinet Abou, Karnak, the
+            Colossi, the Memnonium, &amp;c, on the left the winding and sparkling river, on the
+            furthest banks of which, the eye ranged over Luxor, Karnak, and the great plain beyond,
+            bounded by a rampart of limestone like that from which we were looking down, and
+            beholding the vast ruins reduced to the size of models under our feet. On our way down
+            we passed the village and grottos of Assaseef, in one of which, during our occupation of
+            its friendly shelter from the scorching sun, while we discussed a large bowl of goat's
+            milk, I noticed some beautifully designed and finely executed sculpture, of some of
+            which I caused impressions to be taken on coarse paper, by a native of the place who had
+            acquired the art from Dr. Lepsius, and, for a piastre a sheet, performed the task very
+            fairly, though on the whole rather unequally.</p>
+
+         <p>Towards sunset of the 9th (having crossed over and moored our bark to the shore at Luxor
+            during the day), we started on donkeys to take a second and farewell view of the ruins
+            at that place, and, acting on the advice given me by Mrs. H. at Assouan, to pay our
+            visit to the latter by moonlight. Arriving at Karnak just before the sun went down, and
+            passing the noble, and still nearly perfect propylon that stands at the entrance to the
+            ruins from Luxor, we mounted immediately behind that magnificent gateway to the roof of
+            the temple which is formed by huge blocks laid across from column to column, and
+            formerly united as in modern structures by iron clamps and lead. From this elevated
+            position we sat enjoying a fine view of the great temple, the obelisks, and other ruins,
+            collectively known as those of Karnak, whilst our trusty little Nubian Mohammed kindled
+            a charcoal fire by our side, in the deep groove formed between two disjointed colossal
+            blocks, which made an excellent grate, on which our tea kettle was merrily singing, and
+            enabled us to continue leisurely sipping our tea, and chatting till twilight had
+            vanished entirely from the western horizon, and had given place to that of the moon,
+            then at the end of her first quarter, when we descended, and made the best of our way to
+            the vast mass of ruins still in front of us. The effect on entering the grand hall, amid
+            the forest of colossal pillars, which once supported as massive a roof, was quite what
+            Mrs. H. had described to me — it was awfully grand, almost unearthly. The night was
+            clear (and it is very rarely indeed otherwise in Upper Egypt), but a few fleecy clouds
+            occasionally psssed across the moon, which being only half way to the full, threw a more
+            solemn, dusky, and delusive shadow, than if she had been shining in perfect glory. Every
+            part of the vast pile seemed magnified, whilst all its architectural defects were
+            effectually concealed; nothing but the gigantic outlines of the serried ranks of
+            tower-like columns were visible, half buried in black shade, half revealed in pale
+            uncertain light; some few, leaning towards one another, with an alarming inclination,
+            seemed actually to be toppling over as the few thin clouds, flying before the moon,
+            apparently transmitted their own motion to these Titanean masses, many of which are
+            crowned in addition to their vast capital with enormous blocks, which some mighty agency
+            has strangely thrown into every imaginable position of threatening danger to such as
+            explore this wonderful temple. Some of these architraves are actually hanging in mid
+            air, totally unsupported except by a small part of their imbedded extremity, the
+            unsupported end lowered to an angle, sometimes nearly approaching the perpendicular: yet
+            this mighty weight hangs still, and doubtless has done so for ages. The two noble
+            granite obelisks of one solid block, that still adorn Karnak, shew to admirable
+            advantage by moonlight, and the same remark may be with truth extended to every part of
+            the ruins, of which I would not for the world have missed taking the view by night.</p>
+
+         <p>The aspect of Karnak by day, I still think undeserving the extravagantly high flown
+            encomiums of antiquaries, and picturesque-hunting travellers and artists. With a vast
+            deal that is poor, tasteless, and barbarous in design and execution, there is still very
+            much amongst these remains to call forth feelings of admiration at their sublimity, and
+            no one can reasonably doubt that in the days of their entirety, the general effect of
+            this vast group of edifices must have been splendid beyond belief. I find fault only
+            with that class of prepossessed travellers who can see nothing but perfection (often
+            purely imaginary) in such ancient relics; overlooking or denying the most obvious and
+            glaring defects, or even setting them down, as so many positive beauties.</p>
+
+         <p>The ruins of Karnak abound in scorpions; and a small, dirty, but picturesque village
+            bearing the name of the temple, occupies the space in front of the grand entrance to the
+            ruins, but happily has not yet encroached upon any part of the latter, as is the case at
+            Edfou and Esneh, where the miserable hovels of the fellahs are crowded together on the
+            very roofs of these fanes, as if upon a solid rock. We had a pleasant ride home by
+            moonlight to our boat at Luxor; and on arriving there, we immediately cast loose from
+            the shore, and dropped down the river on our return voyage to Cairo.</p>
+
+         <p>Sunrise on the morning of the 10th found me trotting over the halfeh-grass-covered-plain
+            on a gallant Egyptian neddy, bent on paying my respects once more to the truly
+            magnificent temple of Dendereh; I had only with me our late friend Mr. Lakes' Arab
+            servant, Ahmeed. I had another object in again stopping at Dendereh, namely, to procure
+            a cluster of the fruit of the Doum Palm for the Botanical Museum at Kew, agreeably to a
+            request from Sir William Hooker that I would do so if possible. In this I have fully
+            succeeded, and so, whilst the villagers were engaged in cutting me off a proper sized
+            cluster from the forest of this palm which adorns the approach to the temple from the
+            river, I pushed on for the latter, returning with rather increased than diminished
+            admiration of so beautiful, and elaborately-adorned a structure. The profusion of
+            sculptures and hieroglyphics finely executed in relief and in vast square panels, with
+            which the walls are absolutely covered, has an extraordinarily rich effect, greatly
+            superior to the same sculptures and emblematic writing in intaglio. The air was
+            delightfully cool and fresh, like that of a May morning at home, and this cool character
+            the mornings have hitherto preserved since we left Khartoun, but the earlier part of the
+            nights is now sultry, although quite pleasant after two or three o'clock a.m. So rapid
+            is the dissipation of heat by nocturnal radiation in this unclouded clime, that the
+            languid enervated Africans are secure of a few hours before and after sun-rise of
+            sufficiently low temperature to brace their unstrung frames, at nearly, if not at all
+            times of the year; and in winter, the mornings are cold enough to make a European, much
+            more a native, shiver, even far within the tropics.</p>
+
+         <p>Siout, or Assiout, Upper Egypt, May 18th. Continued northerly winds, and (so unlike
+            their former selves), a lazy apathetic crew, whom neither threats nor persuasion can
+            induce to pull at the oars lustily, unite to render our return voyage down the Nile, a
+            very tedious one: we having been already eighteen days from Assouan, with a prospect
+            before us of not being at Cairo before the end of the month at our present rate of
+            going. We are the more desirous of reaching Cairo speedily, as my fellow traveller's
+            health is suffering materially from the heat, and he is complaining of daily increasing
+            languor and debility. Sir G. Wilkinson tells us that from April to October favourable
+            winds for ascending the Nile are not to be expected, the prevailing ones during that
+            season being from some southerly quarter, or in other words down the river. Hitherto
+            however, the wind has constantly come from the north, and so far has fulfilled the
+            assertion of Sir (jr. Wilkinson, of being unfavourable | but in our case, for precisely
+            the reverse of the reason he gives, since we are on our return from, and not on our
+            passage to Upper Egypt, and should in truth expect to have the wind in our favour coming
+            down. Mr. Pengelly tells me that his former experience of the weather during summer in
+            Egypt is in accordance with the present, that northerly winds have ever been more
+            general than southerly, and from the account of many persons with whom I have spoken on
+            the subject, these would seem to preponderate greatly over breezes from other quarters
+            throughout the year.</p>
+
+         <p>This northerly wind, however, has the advantage of keeping the temperature lower than a
+            southerly one, but its breezes are still very hot, and impart no feeling of freshness as
+            they pass over us, we therefore exclude them and the sun together, by keeping the
+            Venetian blinds of our boat shut during the middle of the day. We would gladly put up
+            with a higher temperature in being blown merrily down to Cairo by a red hot Khamseen
+            wind in preference to our present slow progress with a comparatively cool one
+            perpetually against us. The temperature continues pretty steady, neither increasing nor
+            diminishing in any material degree; and its distribution through the twenty-four hours
+            may be thus stated. Between sunrise and eight a.m. from 80° — 85°, by ten a.m. it has
+            generally reached 90°, from which time it continues slowly rising till one or two p.m.
+            being at noon 98° — 100°, and two p.m. 102°, continuing at this point till at or near
+            sunset, when it sinks slowly to 90° or 92°, which is the usual height of the thermometer
+            at midnight; from this time the mercury gradually falls to between 80° and 70°, the
+            ordinary heat just before sunrise. But some abatement of the mid-day heat both in
+            intensity and duration, is beginning to manifest itself as we advance northwards, and,
+            gaining a flatter and more open country, leave the narrower part of the Nile valley
+            behind us shut in by the bare heated limestone mountains of the Thebaid, the hot blasts
+            of which we are beginning to exchange for cool currents of air from the Mediterranean.
+            The temperatures given above are taken on board in the cabin with as much attention to
+            keeping that place cool as possible. For six weeks or two months past, the thermometer
+            has, I believe, hardly ever been below 100° at noon, sometimes several degrees above
+            that point: but within these few days, it has not been so high until an hour or two
+            after the sun has passed the meridian. In spite of being thus exposed during twenty out
+            of the twenty-four hours to a heat of 90° — 102°, and sleeping under close drawn
+            mosquito curtains of fine muslin, I am perfectly well in health, and suffer no other
+            inconvenience from the inordinate temperature than frequent thirst, and some loss of
+            what little adipose covering I possess by nature: this is certainly not the weather for
+            any one to grow stout in, however much disposed thereto by constitution.</p>
+
+         <p>Minieh May 24th. We arrived here yesterday afternoon, and lucky it was that we did so,
+            as a furious gale from the northward set in after dark, and continued to blow unabatedly
+            all night, and though at this moment reduced to a fresh breeze, the weather holds out no
+            prospect of our getting away for many hours at least. The Nile lashed into foam, is
+            rolling like the troubled ocean, and seems resolved to deserve its Arab appellation of
+            El Bahr, which signifies the sea or any large body of water. The temperature to day is
+            very cool and pleasant at this time (one p.m.); the thermometer in the strong fresh
+            current of wind through our boat, as she lies moored under the bank in a direction north
+            and south, is 88°; we have had nothing so low as this at the same hour by twelve or
+            fourteen degrees for two months past, but we must not expect its continuance when the
+            gale is over.</p>
+
+         <p>For the last two days the sky has been partly overcast with tolerably thick clouds, a
+            thing rarely seen even so low down as this town is in latitude 28°, and still seldomer
+            higher up. I cannot understand why it is the custom for English travellers to speak in
+            such raptures of the transparent azure of the Egyptian sky, and of its unrivalled
+            brilliancy: to my vision, it has always, excepting at particular moments, shewn itself
+            as strikingly deficient in both these attributes. The sky of Egypt is certainly
+            deserving enough of praise in so far as the absence of clouds is concerned, although it
+            is not seldom that it is wrapped in a veil of dull, thin vapour, especially towards
+            evening, when the sunsets are frequently extremely tame, hazy, and colourless. I have
+            studied the phases of the African sky with great attention for eight months, and can
+            confidently assert that brilliancy and transparency are not its habitual every day
+            attributes. A white, milky, or whey-like opacity, is the almost constant characteristic
+            of the heavens in the land of the Pharoahs, and thence southward into the tropical
+            regions of Nubia and Abyssinia; becoming more and more marked, as the summer or warm
+            season advances; the sky assuming a more diaphanous aspect in the winter, or at least in
+            the cooler season. In general the nights are clearer than the days, and the star-light
+            is often extremely brilliant, but not more so I am sure, than on many a fine winter's
+            night in England; and frequently the night sky is as nebulous, or nearly so, as the day,
+            and a dim lustreless star-light, which people at home are apt to suppose is unknown in
+            these southern climes, is all the traveller enjoys on his nocturnal journeyings for his
+            guidance. I might say that the sky of Egypt (including that of Nubia to the termination
+            of the valley of the Nile at Khartoun), is but in keeping with the land and its
+            products, over which its arch is hung; a sunlit, and sunburnt, region of colourless, or
+            rather sadness-tinted landscapes, with little contrast of light and shade; the very
+            verdure of its scanty and monotonous native vegetation 5 greyish, and unrefreshing to
+            the eye; the animals, birds, reptiles, and insects, seldom arrayed in any but the
+            plainest garb, in which like that of the people themselves and their earthen
+            habitations, some shades of brown are the prevailing hue; the uniformity of which is
+            only broken by the occasional passage across the expanse of a few clouds too transparent
+            and colourless to give tone and richness to the firmament. I have seen beautiful
+            sun-sets (and on my desert travels), fine sun-rises too; but the gorgeous tints that
+            accompany them in climates of greater humidity, are but their occasional concomitants in
+            this arid region; and I have remarked that whilst the sun usually rises from an
+            unclouded horizon, his setting is often obscured by a dull haze.</p>
+
+         <p>Always, my dear E., Your affectionate Brother, William Arnold Bromfield.</p>
+      </body>
+   </text>
+</TEI>

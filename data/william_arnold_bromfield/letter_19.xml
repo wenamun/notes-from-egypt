@@ -1,0 +1,88 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter 19: Cairo, June 11th, 1851.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from https://archive.org/details/lettersfromegypt00brom</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/william-arnold-bromfield/letters/19">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/160825459">William Arnold Bromfield</persName>
+               <placeName ref="http://www.geonames.org/360630">Cairo</placeName>
+               <date when="1851-06-11">11 June 1851</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Eliza Bromfield</persName>
+               <placeName ref="http://www.geonames.org/2638911">Ryde</placeName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>My dear E</p>
+
+         <p>We arrived here on the 4th, after a tedious passage from Minieh, the wind dead against
+            us nearly the whole way, and our crew obstinately determined not to exert themselves at
+            the oars except at such times as suited their convenience or caprice. They had so
+            constantly misconducted themselves since leaving Assouan, and had received such repeated
+            assurances from us of being mulcted of their "baksheesh" or customary douceur over and
+            above their pay, that they probably felt all chance of re-establishing themselves in our
+            good graces was lost, and they consequently took no further pains to regain their
+            position. The boat's crew are paid by the owner, and not by the parties hiring it, but
+            on the strength of their former good conduct we had advanced the men, at different
+            times, pay to the amount of 1200 piastres, besides occasionally purchasing a sheep or
+            goat for them to feast upon; their ordinary diet being bread and a sort of porridge of
+            Indian corn, or Dhourah; meat, they cannot in general afford to buy. Yet this kindness
+            which we were not called upon to evince, was lost upon these people; they are good
+            humoured in the highest degree, but incorrigibly lazy and heartless. Want of gratitude
+            is universally ascribed to the Arab and Berber races, and from what I have myself seen,
+            the imputation is no result of prejudice, but it is really one of the commonest defects
+            of their character: although from their constant good humour and readiness to oblige
+            when no sacrifice and but little trouble is involved, one would not suspect that a want
+            of gratitude formed so conspicuous a trait in the Arab character.</p>
+
+         <p>Detained already by contrary winds far beyond our allotted time, I cannot quit Cairo
+            till I have visited many remarkable places in the city and its neighbourhood,
+            Heliopolis, the mounds of Memphis, the pyramids of Saccareh, Abousheer, and Dashoor, the
+            Colossi of Mitrahenny, the chicken-hatching ovens of Gheezeh, the Nilometer, and the
+            quarries of Toureh, from whence the stones used in constructing the great pyramids were
+            brought. I also propose making a trip to Suez, which in points of Scripture history
+            possesses the highest interest.</p>
+
+         <p>Cairo alone would give a traveller a good two months employment, in the endless variety
+            which its labyrinthine mass of grotesque houses, narrow alleys, richly sculptured
+            mosques, minarets, and tombs without number, offer to the eye; besides the diversity of
+            life, of feature, of costume, and of colour, which the city displays, and which is
+            scarcely to be conceived; yet, taken as a whole, Cairo exhibits a most melancholy
+            picture of poverty, dirt, disease, and degradation; of wretched ignorance, superstition,
+            and the most puerile and paltry pageantry; but bigotry and intolerance, though said to
+            be still rampant, certainly do not appear on the surface at least, and I am convinced
+            are rapidly giving way amongst the higher, and I think even among the lower grades of
+            society, through daily increasing intercourse with Europeans. It is really quite
+            astonishing to see the improvements that have been made in Cairo since my first visit
+            last autumn; ranges of handsome shops in the Frank quarter have been opened, and others
+            are still in progress of completion, which let at quite a European rental.</p>
+
+         <p>It is confidently asserted that a contract has been made by the Pasha for the immediate
+            construction of a railway, from Alexandria to Cairo, and that Mr. Stephenson will be the
+            engineer to carry it into effect. The French are losing ground fast in Egypt, and the
+            English rising as much in the estimation of the government. An Englishman can do almost
+            anything here he likes, and of the respect in which the British name and character are
+            held, we ought to feel very proud. The Moslem even respects our Church; because with all
+            their contempt for other Christian sects, they say we do not bow down before images as
+            they of the Greek and Roman and Coptic churches do.</p>
+
+         <p>Believe me, Dear E., Your affectionate Brother, William Arnold Bromfield.</p>
+      </body>
+   </text>
+</TEI>

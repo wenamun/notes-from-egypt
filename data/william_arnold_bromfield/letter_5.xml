@@ -1,0 +1,117 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter 5: Cairo, November 11th, 1850.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from https://archive.org/details/lettersfromegypt00brom</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/william-arnold-bromfield/letters/5">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/160825459">William Arnold Bromfield</persName>
+               <placeName ref="http://www.geonames.org/360630">Cairo</placeName>
+               <date when="1850-11-11">11 November 1850</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Eliza Bromfield</persName>
+               <placeName ref="http://www.geonames.org/2638911">Ryde</placeName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>My dear E</p>
+
+         <p>I am afraid there will be but little chance of any letter reaching you from me for
+            perhaps four months to come; I have arranged to form one of a party of three to go up
+            the Nile at the end of this week; we propose to pass up at least as high as the second
+            cataract, and should we find it practicable, to ascend the river still higher in Nubia.
+            We calculate on being absent from Cairo three or four months.</p>
+
+         <p>My companions are Lieutenant Pengelly, and a young naval friend of his, Mr. Lakes, both
+            on leave of absence for health. We have bargained for an excellent boat, with the owner,
+            an Englishman of the name of Page, who has consented to let us have it at £ 22 per
+            month. We take a crew of eight Arabs, including the cook, and the Reis or captain, a
+            trusty man in Page's employ, who has been up the river at least a dozen times. Our
+            expenses during the voyage, hire of boat, and living included, will be about £ 10 or £
+            12 per month, each, which is cheaper than we can live for at this hotel, where the
+            charges are about £15 per month, exclusive of out door expenses. Our boat has just been
+            newly painted and repaired, and made perfectly clean, which might not have been done
+            by an Arab or Egyptian owner; the three cabins are very nicely fitted up with soft
+            divans, glazed windows and Venetian blinds, and there is a small apartment in the stern.
+            We rode down on Saturday to Boulak to inspect it, and were much pleased with its
+            appearance. I expect to be close upon, and most likely within, the tropics before the
+            shortest day, and so escape the cold of Cairo, which every one agrees in saying, is
+            severely felt at mid-winter from the ill construction of the houses, the want of fire
+            places, and the comparatively humid atmosphere. At present the climate is glorious, the
+            cool season has regularly succeeded the unusually protracted heat, and the thermometer
+            is now in my apartment at, or a little under, 70° at 8 a.m., or ten degrees less than it
+            was a week ago, whilst the mornings and evenings are: too cool to be quite pleasant. I
+            find additional bedclothes necessary, and many of the natives have put on their winter
+            garments. Still, the weather is quite warm through the day, fogs and mists arising about
+            sunset, which chill the air, and dispose to colds and coughs. Barring a slight cold in
+            the head, picked up I suppose in the tent at the Pyramids, I am remarkably well, and
+            enjoy the delightful warmth and perpetual sunshine amazingly.</p>
+
+         <p>I have made several very agreeable acquaintances in this city; Mr, Leider, of the Church
+            Missionary Society, Mr. Trail, late of the Rhodes Gardens, who is very kind and
+            attentive; Dr. Abbott, a zealous Egyptian antiquary, by whom I was invited to come and
+            dine a la Turc, but which mode of eating a dinner, I never wish to repeat. Mr. Trail
+            introduced me to the reading room of the Egyptian Society, where there is a valuable
+            collection of books relating to Egypt, which I can go and consult at any time. Cairo
+            itself is an endless source of amusement, and I have not yet seen a hundredth part of
+            its interminable lanes, courts, alleys, and picturesque buildings. I have been in three
+            mosques, where ten or fifteen years ago, a christian could hardly have found access
+            without a special firman, and might then have been insulted when he entered; now, things
+            are so altered, that they do not in all the mosques even insist on the infidels taking
+            off their shoes at the entrance, although that is rigorously kept up as respects
+            moslems, in the more especially tidy ones. In most mosques large loose slippers are kept
+            for visitors to put on over their shoes. Two days ago, we went to see the dancing
+            dervishes practise their ludicrous religious ceremonies in their mosques, which they do
+            every Friday. Each moslem who entered scrupulously left his shoes at the door, whilst
+            we, giaours, who formed a large party, were permitted to desecrate the holy pavement
+            with our boots and shoes, and stranger still, two or three unveiled English ladies went
+            with us, and were quietly permitted to take their places with the gentlemen, while not a
+            single native woman was on the floor of the mosque, but they might be seen in numbers
+            peering through the bars of the small windows in the dome upon the devotees and heretics
+            assembled 1 there.</p>
+
+         <p>Cairo, November 15th, We are fast getting every! thing ready on board the boat that is
+            to be our floating 1 home for the next three months, and expect to commence our voyage
+            on Wednesday the 20th. We trust to escape the disagreeable, though not intense cold of a
+            Cairene winter. I find sudden changes of temperature here in the mornings and evenings,
+            from 80° to 60°, or lower in the open air, and two days back with a smart shower,
+            succeeded by drizzling mist. Although the Nile water has ceased to disagree with me, I
+            cannot join in the encomiums bestowed on it, as being the most delicious water in the
+            world, for independently of its thickness, it has to me, even when filtered, a sensible
+            taste, which the Alexandrian had not, and which is not improved, either in reality or
+            ideally by transportation in the unsavoury looking skin, (that of the entire animal, the
+            head excepted), in which it is carried to the consumer's premises. Such bottles are
+            usually said to be goat skins, but from the great size of many, I suspect they are as
+            often those of donkeys, if not of other animals, very disgusting looking vehicles for
+            one's daily drink, but use has already reconciled me to the thought that every drop of
+            water I swallow has been in contact with these primitive casks, Cairo is an exceedingly
+            entertaining place, and the absolute certainty of scarcely a day's interruption to the
+            bright sunny weather greatly enhances the enjoyment of perambulating it. The 11th ultimo
+            was the first day that was completely overcast, like a November day at home; the rest
+            were bright and clear, as usual.</p>
+
+         <p>If you have not read Lane's " Modern Egyptians," pray do, it is an admirably minute and
+            correct picture of the Cairenes, so esteemed at least by every one here. Will you set
+            Wacey to work to procure for me a most admirable lithograph of the great Pyramid of
+            Cheops, it is so exact a likeness of that structure, that I shall be very glad to have
+            it hang up for a remembrance.</p>
+
+         <p>Believe me, Your affectionate Brother, William Arnold Bromeield.</p>
+      </body>
+   </text>
+</TEI>

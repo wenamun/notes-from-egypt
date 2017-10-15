@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter 10: The Mary Victoria Nile Boat, off Kenneh, December 17th 1850.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from https://archive.org/details/lettersfromegypt00brom</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/william-arnold-bromfield/letters/10">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/160825459">William Arnold Bromfield</persName>
+               <placeName ref="http://www.geonames.org/350550">Qina</placeName>
+               <date when="1850-12-17">17 December 1850</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Eliza Bromfield</persName>
+               <placeName ref="http://www.geonames.org/2638911">Ryde</placeName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>My dear E</p>
+
+         <p>We set out at an early hour this morning for the town of Kenneh or Ginneh as it is
+            sometimes written, it is situated about a mile or rather more from the Nile, which
+            however when at its height overflows the flat ground which lies between it and the town.
+            The approach is exceedingly pretty, almost as much so as that to Osiout, the valley of
+            the Nile being here extremely picturesque from the grandeur of the lofty craggy barrier
+            that shuts it in from the Desert on either side. Both the valley and the river are here
+            of great breadth, and the former is richly adorned with groves of lofty date palms
+            interspersed with doum palms which are now abundant in all the fields, and of which I
+            have to day seen some very fine specimens in full fruit. The country is everywhere
+            beautifully green with the tender springing wheat and barley, which are here about as
+            far advanced as in England in April or May, and will be ready for harvesting in April,
+            or at the end of March. At this time the Guinea corn, of which vast quantities are
+            raised in Egypt, is being gathered in, and the sugar harvest will succeed a week or two
+            later. The quantity of garden vegetables grown in Egypt is prodigious, the whole valley
+            of the Nile may be regarded as one great kitchen garden, and all the ancient plant
+            deities of Egypt still find favour in the sight of the modern I. inhabitants. Besides
+            the vast fields of wheat, barley, maize, Guinea corn, and other cereal grains, you
+            everywhere meet with extensive plots of Nile's exuberant land, bearing heavy crops of
+            carrots, coleseed, onion, leeks, lentils, lupins, chick peas, (pois chiches of the
+            French, garvanzos of the Spaniards,) lettuces, cabbages, a species of radish called
+            figi, cauliflowers, French beans, beans, (for which Egypt has always been famous)
+            ochises, (Hibiscus esculentus,) melolleyehs (Corchorus olitorius), besides melons,
+            water-melons, gourds, vegetable marrow, tomatos, sessama, and other esculent seeds or
+            roots, while much of the soil is devoted to sugar, cotton, indigo, (indigofera
+            argentea,) rice (in the Delta chiefly,) clover, coriander, mallows ( Malva rotundifolia
+            in Egypt grown in quantities as a pot herb,) tobacco, (chiefly I think the inferior
+            species,) and other products, all of which one meets with in the open fields, not merely
+            in gardens, and in quantities that would astonish our farmers and market gardeners at
+            home. It is no uncommon thing to see a field of maize or Guinea corn extend over a mile
+            or two in length along the banks of the river: those of wheat, barley, and other cereal
+            grain are much smaller, though still of considerable extent: the fields of clover,
+            carrots, and other crops, are perhaps not usually greater in size than in our own
+            country.</p>
+
+         <p>Kenneh is a town of some importance (the ancient Csenopolis or Neapolis,) the residence
+            of a provincial governor, and garrisoned by troops. It is famous for its manufacture of
+            porous earthern jars called gullahs, used all over Egypt for cooling drinking water,
+            they are made here, and at a few other places higher up the Nile, for the purpose of
+            exportation. A given number of the gullahs is joined together in the water, and covered
+            with palm branches, then a second stratum of pots is placed above, and the whole,
+            forming an immense raft, is floated down the river by boatmen, who reside on these
+            singular structures, to Cairo, Alexandria, and the intermediate places along the Nile.
+            Numbers of these rafts have passed us for the last two days, each composed of some
+            thousands of jars or rather jugs, bound together with the palm tree bands, the lower
+            stratum floating upright in the water bearing up the flooring on which the second
+            stratum is placed, and across this last layer spaces are left for the crew to pass along
+            between the frail cargo whilst on their voyage downwards, which of course is chiefly
+            effected by the currents, aided at times by the wind. We found the bazaars at Kenneh as
+            well supplied as those at Siout, and having finished our marketing there, and delivered
+            our dispatches for England addressed to the British Consul at Cairo, into the hands of
+            Seyd Hosseyn, a venerable old gentleman who acts as consular agent at Kenneh, and with
+            whom we took coffee, and a whiff of the chibouk in the open street, in front of the
+            house, Mr. P. and myself set off with Ameen on donkey-back, in full anticipation of
+            delight to view the first lion on our way to upper Egypt, the temple of Dendereh, (the
+            ancient Tentyris,) situated about two miles and a half (by the way we took) from the
+            western bank of the Nile, and nearly opposite Kenneh. Our path, (for here there are no
+            roads,) lay between richly cultivated fields of Guinea corn, cotton, &amp;c. among date
+            palms growing in clumps, or standing singly, interspersed with beautiful tufted
+            tamarisks, and gum trees, (acacia nilotica,) generally called Sant. Here the douin palm
+            is a most conspicuous feature of the landscape, and noble specimens intermixed with the
+            date, and the two other trees just mentioned, constitute beautiful groves and glades
+            between the river and the temple of Dendereh. In lower Egypt the date palm forms vast
+            groves both native and artificial, and every village almost stands in, or by, a planted
+            palm wood. The trees in that part, and in central Egypt, are tall, slender, and
+            graceful, but the stems are usually single, seldom two from the same root, and still
+            more rarely three. In upper Egypt, on the contrary, the date groves are far less formal
+            than in the lower and central districts; and whilst the trees rise up, as there, to
+            sixty or seventy feet or more, this palm grows isolated as well as dispersed in
+            picturesque clumps, and from one and the same root spring not only two and three, but
+            four, five, or six stems rising obliquely, each stem bearing its noble crown of leaves
+            at the summit. The intermixture also in upper Egypt of the humbler, but not less
+            beautiful doum palm, which does not grow wild in Lower Egypt, contributes to the vast
+            superiority of the former over the latter country in natural beauty, I had no previous
+            idea of the lovely features of the superior parts of the valley of the Nile, in
+            innumerable places, as between Siout and Thebes, which are so much bolder than any thing
+            I expected to see. But to return to Dendereh. Yery soon after starting, we caught sight
+            of a low looking building in the distance, standing on the verge of the desert, and on
+            the edge of the cultivated ground, small, and extremely un-imposing in appearance. At
+            that point of view it resembled some unfinished structure of modern times, it might have
+            been a coach house and stables, or a range of shops or warehouses. A feeling of
+            disappointment came over us whenwe ascertained that this mean looking building must be
+            the celebrated temple we were in search of; as it was the only object of the kind in
+            sight, and stood in the direction in which we ought to look out for the renowned
+            ruin.</p>
+
+         <p>As we continued drawing nearer, our disappointment seemed fated to remain undiminished,
+            but when we arrived at the noble pylon or entrance gate, and far more so, when we stood
+            at the threshold of the magnificent portico of the great temple of Athor (the Egyptian
+            Venus), and looked across its colossal row of sculptured columns into the great hall
+            beyond, disappointment gave way to delight and astonishment. Every square foot of this
+            vast edifice, which at a short distance seemed to us so mean in design, and
+            insignificant in dimensions, is covered with hieroglyphic writing, and though said to
+            have been executed in the decline of Egyptian art, many of the figures and human
+            profiles excited our admiration by their beauty. I will not attempt a description of
+            this or of any of the other vast structures of ancient Egypt with which I hope speedily
+            to become acquainted, because you can easily procure books that describe them both
+            better, and more fully than I can do. I shall therefore only observe that Mr. P. and
+            myself spent the remainder of the day in exploring the elaborately sculptured, and
+            finely proportioned chambers of the great temple of Dendereh, and also descending into
+            its subterranean passages and rooms, all covered like those above ground, with an
+            endless profusion of hieroglyphics and figures in basrelief. These subterranean
+            galleries and chambers are perfectly dry, but the heat and closeness are excessive, and
+            in some places, the effluvium from the bats' dung is extremely annoying and irritating
+            to the eyes and nostrils, whilst these animals themselves alarmed by the lights and
+            noise of visitors, fly around in the narrow passages in swarms, sometimes extinguishing
+            the candles that serve to direct the explorer along the mystically carved labyrinth, the
+            mazes of which he has the boldness to attempt threading. On our return voyage we propose
+            to revisit Dendereh, and every other remarkable monument of antiquity, of which we are
+            now indulging ourselves with general views only; and we trust that Mr. L. who, I regret
+            to say, is too unwell at present even to leave the boat, will then be a sharer of our
+            enjoyment.</p>
+
+         <p>We live merrily, and on the whole very comfortably in our little bark; nevertheless we
+            have not an inch of room unoccupied, and could wish that our state and store rooms were
+            better divided for the purposes to which we are obliged to put them. Our faithful and
+            trusty steward Ameen reposes nightly under the loose planking of the main deck forward,
+            between our stock of bread and potatoes on one hand, and a pile of oranges en papillotes
+            on the other, whilst a set of small shelves against the partition which divides my
+            sleeping cabin from the adjoining one, tenanted by Mr. P. and Mr. L., and which is at
+            the foot of my bed, is a perfect Italian warehouse stored with bottles of pickles, curry
+            powder, vinegar, cases of preserved soup, sardines, powder and shot, &amp;c. besides
+            sustaining a little dispensary in the form of a medicine chest, which has proved of
+            great use to our invalid fellow traveller. At the head of Mr.P's. and Mr. L 5 s. bed
+            places, are shelves containing our travelling library, which is pretty voluminous for
+            the space we can allot to it, and as you may suppose, the books relate chiefly to the
+            country we are traversing. Under the bed places, part of the space is taken up with
+            lockers, in which are stowed away many bulky articles, and amongst the rest, a frail
+            basket completely filled with five para or fuddah pieces, to the amount of £ 5 sterling
+            ; which small coin is indispensable in the country towns and villages of Upper Egypt and
+            Nubia, where change for the larger silver or gold coin of the empire is very difficult
+            to be obtained.</p>
+
+         <p>In this cabin too, there hangs a map of Egypt (that published by the Society for the
+            diffusion of useful knowledge), a copy of which I purchased at Cairo for two shillings,
+            and had mounted on mill-board expressly for consultation during the voyage, and which we
+            find extremely convenient. Our crew of boatmen and our three servants, Saad, Ameen, and
+            the boy Mohammed, inhabit the fore part of the vessel; and the former sleep on the deck,
+            wrapped in their cloaks and other garments, or occasionally on the roof of the cabin,
+            which is also the abode of our live stock of poultry. The workmanship of these native
+            built Nile boats is rough and unfinished beyond belief, neither doors nor windows are
+            even tolerably fitted, and there is not a screw used in the whole structure; the very
+            locks and bolts, such as they are, are merely fastened with nails to the wood- work. Our
+            mosquito curtains now serve us excellently to keep the cold breeze at night from
+            chilling us by the many entrances the boat builder has provided; but to which, during
+            the day, from nine o'clock till five in this glorious climate of never-ceasing sunshine,
+            we have neither cause nor desire to put a stop.</p>
+
+         <p>Luxor Village (Thebes), December 20th. Arrived here after a very slow but pleasant
+            passage from Kenneh, the weather for the last few days perfectly cloudless, not a speck
+            visible in the pale milky sky, a delicate thin blue haze enveloping the distant crags
+            and peaks of this part of the valley. The great difference of temperature however,
+            between the day and night, continues to be felt most unpleasantly by us all; for,
+            although so close on the tropic, the cold at night, and in the early morning so late as
+            nine o'clock, gives the impression on the system of active frost, or a very near
+            approach to it, when the thermometer indicates 50° or 48°; but the instrument, being
+            fixed against the entrance to the cabin on the wood-work which in our upward voyage is
+            exposed to the sun all day, retains a temperature through the night above that of the
+            air on the river. This is the only situation in which it is practicable to hang it,
+            where it can of course only give an approximation to the truth. The heat indicated by it
+            is much too high during the day, when the air in the shade is seldom much below or above
+            70°, and, at dawn, is probably not under 40° at this season. On making fast to the shore
+            at Luxor, our boat was beset by a host of guides and donkey boys as numerous and
+            importunate as at Cairo, or at an English watering-place; but dispensing for the present
+            with their services,, we employed the little daylight remaining in taking a cursory
+            survey of Luxor and its antiquities.</p>
+
+         <p>Believe me, Your affectionate Brother, William Arnold Bromfield.</p>
+      </body>
+   </text>
+</TEI>

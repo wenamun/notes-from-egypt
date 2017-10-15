@@ -1,0 +1,261 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter 23: Jaffa, August, 1851.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from https://archive.org/details/lettersfromegypt00brom</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/william-arnold-bromfield/letters/23">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/160825459">William Arnold Bromfield</persName>
+               <placeName ref="http://www.geonames.org/293253">Jaffa</placeName>
+               <date when="1851-08">August 1851</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Eliza Bromfield</persName>
+               <placeName ref="http://www.geonames.org/2638911">Ryde</placeName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>My dear E</p>
+
+         <p>Knowing my wish to leave Damietta as quickly as possible for Syria, Signor Filliponi
+            agreed with the captain of a boat lying ready to sail for Jaffa with a cargo of rice,
+            the staple of this part of Egypt, to take myself and Saad as passengers for 116 piastres
+            (too much by a great deal however), to that port. The bargain was struck, and the money
+            paid immediately after my return from Lake Menzaleh, July 18th. But alas ! two great
+            obstacles stood in the way of our speedy escape from my dilapidated quarters at
+            Damietta: namely, Ramadan, and the Bougaz; the latter, the more annoying and provoking
+            of the two, from its perpetual disappointment of my hopes day after day, and from its
+            being an unexpected impediment. Its very existence was to me unknown, until my arrival
+            at Damietta brought me acquainted with this capricious and most vexatious hindrance to
+            our egress from the land of Ham, and arrival in the regions of Shem: a transit which I
+            was of course extremely anxious to accomplish after so much loss of time.</p>
+
+         <p>The Damietta mouth of the Nile is greatly contracted at its point of embouchure w T ith
+            the Mediterranean, by a narrow sandy strip of land on either side, and a small island;
+            the centre alone of the channel being always covered with water; but even in this part,
+            so great is the deposit of mud and sand by the Nile, that the water when the river is in
+            flood, or at the height of the inundation, is scarcely above three feet deep on the bar
+            known as the Bougaz, — an Arabic corruption, I suspect of the Italian boccas, applied to
+            the mouths or narrow passes between rocks at the entrance of so many rivers or lakes, as
+            that in the Gulf of Paria at Trinidad, well known to English sailors as the Bocusses.
+            Certain favourable combinations of wind and tide, are indispensable for enabling even
+            the flat bottomed craft of the country, to pass over the Bougaz, and this necessary
+            union of circumstances is commonly of very transient duration; and if the lucky moment
+            is not taken advantage of, the Bougaz is closed, as it is termed, for perhaps that day,
+            a week, or even longer, during which time vessels even of the lightest burden, can
+            neither go out nor come in. At low Nile, and for many weeks before and afterwards, there
+            is not water enough on the bar for boats to pass in any weather, and the foreign trade
+            of Damietta is totally suspended. During the rest of the year, that is to say, whilst
+            the Nile is rising as at present, and especially at the period of high Nile, which
+            happens about the middle of September, and for a certain term during its subsidence, the
+            Bougaz has sufficient depth of water on it to allow of vessels passing over the bar:
+            but, even then, only under a delicately balanced combination of circumstances, can a
+            passage be accomplished with safety. First, the wind must be favourable both in its
+            direction, and degree of force; for if at all exceeding a moderate breeze in strength,
+            it raises a surf over the bar which causes the bottoms of vessels to beat violently
+            against the sand beneath, in passing through a body of water at all times but little
+            exceeding in depth that required for the draught of very shallow built boats. If the
+            wind be, as is often the case, due north, then it is more than a match for the current
+            of the Nile flowing sea-wards, and of course vessels cannot be carried over the Bougaz,
+            by the stream in opposition to the breeze; besides, the surf raised by the mutual
+            contention of the wind and water, would itself oppose an insuperable obstacle to the
+            passage at such moments. However calm it may be, or however favourable the wind on the
+            inner, or land side of the Bougaz, a heavy swell existing in the sea without,
+            effectually bars all egress while it lasts, which may be for many days together. It so
+            happens, that throughout June, July, and a great part of August, the breeze blows
+            strongly from N.N.E. to N.N.W. (usually with the westerly tendency), with the force and
+            regularity of a trade wind, imparting a delightful freshness to the whole coast line of
+            Egypt, and even to the valley of the Nile considerably above Cairo. This wind commonly
+            falls to a calm, or lulls very considerably at least, before sun-rise, and for a few
+            hours afterwards; freshening gradually as the day advances, and sometimes falling again
+            at night. It is chiefly during the morning that the passage of the Bougaz is attempted;
+            the wind being in general too strong for the remainder of the day, and the lull at night
+            cannot be taken advantage of, as it is then too dark to venture amongst the surf, of
+            which there is always more than is wished for at the best of times.</p>
+
+         <p>You will thus be better able to understand the reason of the continual disappointment
+            and deferred hope of getting away from a most disagreeable situation, which awaited me
+            from the 22nd of July to the 5th of the present month (August).</p>
+
+         <p>During the few remaining days of the Ramadan* which ended on the 26th y the reis
+            pretended that there was no practicable Bougaz, although the weather appeared most
+            propitious for passing the barrier, and his boat lying at the quay of Damietta, had
+            taken in her cargo of rice, and was ready to join the larger vessel (a brig) at anchor
+            outside the Bougaz, in which we were to sail for Jaffa. The truth was, as Signor
+            Filliponi told me, the reis had no mind to stir till after the festival following on
+            Ramadan, at which all good Mussulmen are anxious to be present.</p>
+
+         <p>On the 27th the reis announced that the weather being favourable, he intended starting
+            for the Bougaz, (about six or eight miles below the city) at day-break next morning, and
+            I congratulated myself on the prospect of being delivered from the united attacks of
+            mosquitoes and all other insects in my forlorn and ruinous apartment in Damietta.</p>
+
+         <p>Well, the next morning at sun-rise, away we went, floating gaily down the stream in
+            company with several other vessels, and my disasters seemed in a fair Avay of ending in
+            a propitious and rapid passage to Jaffa; but upon nearing the Bougaz, the whole merchant
+            fleet made fast to the shore, and on enquiry, I found that there was not water enough on
+            the bar for vessels to pass, and in short, that there was no Bougaz. After waiting a
+            little while, we all made sail, and put back, not to Damietta, but to a miserable
+            village, a mile or two above the bar, called El Esbeh, where is a quarantine, and a
+            large Turkish fort. On landing the chief of the Lazaretto asked me the ominous question
+            in Italian, whether I wished to sleep there: I supposed at first, he only meant taking a
+            siesta, but he soon undeceived me by telling me that there was no chance of a Bougaz
+            that day, and that perhaps I might have to remain at El Esbeh two, three, four days,
+            even a week, or more; so, accepting his offer to house me in the interval, in preference
+            to lying in an open boat every night amongst rice bags and dirty Arabs, he shewed me
+            into a solitary square building, having no second story, and which appeared not to have
+            been opened for a length of time. There was no furniture, only a framework of wooden
+            panels about three feet high, like a shop's counter, all round the room, called a divan,
+            or deewarij on which cushions are put for people to sit, smoke, or sleep upon; but the
+            cushions were taken away, and it seemed to me probable, that the house had been
+            deserted, as too damp and unwholesome to be dwelt in; for the floor, which as usual was
+            only the bare ground, was absolutely saturated with moisture, the house standing almost
+            at the water's edge of the now fast rising Nile, and the whole vicinity being a marsh,
+            half salt, and half fresh, and with stagnant rice fields at the very door. Visions of
+            rheumatism, if not of ague, and the still worse form of intermittent fever, rose
+            immediately before my ej^es on opening the door: however there was no help for it, so we
+            got our things in, and spreading our mattrasses on the divan, eschewed as much as
+            possible all contact with the floor; but even the woodwork on which we sat and slept,
+            was by no means dry in every part. Here we were obliged to stop four entire days, the
+            wind blowing far too strongly, and the sea outside being much too high to make the
+            Bougaz practicable.</p>
+
+         <p>I really believe that had we remained in this place much longer, both Saad and myself
+            would have fallen ill. I became quite fretful at the delay, and loss of time, and could
+            not bring myself to read, write, or do anything, but wander about in the marshes looking
+            for plants, of which however, I found very few that were new to me. The vegetation is
+            extremely monotonous, and, though abundant, is composed of but few species, and those of
+            a singularly northern type: our Hampshire coast-wise marsh-lands are infinitely richer,
+            and exhibit much more blossom. The absence of what dabblers in botany are wont to call
+            "wild flowers," is a marked character in Egyptian vegetation from Damietta to Assouan:
+            its Flora is eminently what these fastidious dilettanti call a weedy." However, I got
+            one or two curious little things here, and at Damietta, and gathered in plenty both the
+            white and blue water lilies of the Nile ( Nyrnphaea Lotus, and N. coerulea), the former
+            is in no respect superior to our own white water lily, ( N. alba) in size or beauty, and
+            indeed I think it is rather inferior in these respects; the latter is a more graceful
+            and delicate plant, its white petals suffused with a charming tint of lovely purplish
+            blue, verging on skyblue, but quite diluted.</p>
+
+         <p>Poor Saad complained of constant head ache, and I had the same occasionally, with want
+            of appetite: we had nothing indeed eatable in the shape of meat, only lean poultry, as
+            usual, with eggs, and a scanty supply of milk morning and evening served in the ordinary
+            filthy vessels, by filthy hands. This, it is true, I had long been used to; still, loss
+            of appetite is not regained by unclean and unsavoury viands. Saad had, of course, no
+            other resource when not engaged in my service in cooking &amp;c. but to smoke and sleep
+            away the time. However I thank God, there were circumstances that made our sojourn at El
+            Esbeh both safer, and more tolerable than it might have been. First, the wind blew
+            strongly and constantly from the west and north west over the river and open sea behind
+            the neck of sandy desert that intervenes between the Nile and the Mediterranean,
+            carrying the malaria of the marshes and rice grounds away inland, and keeping up so cool
+            a temperature by day and night, that I could scarcely believe myself to be under an
+            Egyptian summer sky; the weather was like that of the south of England in August, very
+            cool, breezy, and moist, more so than even at Damietta. The cloudy mornings and
+            evenings, with the now rich sun-sets, and floating masses of white cloud in the mid-day
+            sky, bring back European associations which are quite dispelled by the clear pale blue
+            monotony of the Cairene heavens. — Secondly, I had the pleasure whilst at El Esbeh, of
+            enjoying the occasional society of M. Arnault, a French engineer, in the service of the
+            government, a person full of information and very obliging. He lived on board a very
+            pretty , and comfortably fitted up boat, in which he visits professionally the various
+            forts and harbours between Damietta and Alexandria, mooring his floating habitation to
+            the shore during the day. He had been at the head of an expedition sent by government up
+            the White Nile, and into Abyssinia as far as the fourth degree of latitude or twelve to
+            the southward of Khartoun, our own Point Turnagain, last spring. He told me that when
+            Louis IX of France, was confined a prisoner at Damietta at the time of the last crusade,
+            the present bed of Lake Menzaleh was a cultivated plain with towns and villages, the
+            remains of which are still to be seen beneath its shallow waters. He further informed me
+            that the intermittent fever was frequent at El Esbeh, but was of a mild type, and
+            usually gave way to one or two doses of quinine, and removal to a purer air; but that at
+            Damietta the same species of fever assumed a severer, and even a malignant form, so that
+            1 may think myselt and Saad fortunate in having escaped without an attack during our
+            continual exposure in open boats to damp and night air at Matereeh, on the Lake
+            Menzaleh, and canal of Moez, as well as in our damp quarters at El Esbeh.</p>
+
+         <p>On the morning of the 1st or 2nd of this month (August) I forget which, the rets of the
+            Bougaz announced that the bar would be passable, and all the vessels lying at El Esbeh
+            got under weigh as quickly as possible, and we were soon at the edge of the fitful and
+            capricious barrier; but only to experience another disappointment, as the wind freshened
+            too much on our arriving, to let us assay the passage, so we all made sail back again to
+            El Esbeh, with the disagreeable prospect of being detained perhaps a week longer.</p>
+
+         <p>I now began seriously to think of returning to Damietta and of taking camels at San, and
+            proceeding by way of the desert to Jerusalem; but reflecting, that I had paid my passage
+            money to Jaffa, and that the chances were about equal of our being released, or not,
+            from Egyptian bondage every day; besides which it would take me at least twelve days to
+            accomplish my other plan; — I resolved to await with patience the opening of the Bougaz,
+            not in our former damp and unhealthy abode on shore, but on board the small boat in
+            which we proceeded down the river, and into which of course our luggage, and travelling
+            culinary apparatus, stock of provisions &amp;c. had been carried, and which it was very
+            troublesome to move in and out, besides the risk of breakage, and other mishaps. So I
+            ordered Saad to spread our rugs and mattresses in the pits or cavities between the rice
+            bags, where we contrived to nestle in tolerable comfort, though in a somewhat cramped
+            position from the narrowness of the space, and the strange concavities to which it was
+            necessary to mould the bedding.</p>
+
+         <p>In this way, well wrapped up, and in onr clothes, which we never took off while at El
+            Esbeh, we slept pretty comfortably every night, under the open sky, in spite of the dew,
+            and happily, undisturbed by mosquitoes, which the brisk wind from the river kept,
+            together with the malaria, at a respectful distance. The rice bags we lay amongst on
+            board the boat were clean; the only nuisance was the close proximity of other boats, the
+            dirty Arabs, and squalid wretchedness on shore, to which we were closely moored. In this
+            state we remained till the morning of the 5th) when the reis of the Bougaz again
+            marshalled the boats, and we dropped down once more to our former position, mooring to
+            the sand bank in a manner to me very ominous of our return to El Esbeh, for the third
+            time; but in the present case, there was not wind enough to carry us over the bar, which
+            obliged us to wait till it freshened sufficiently, and an anxious time it was to me.
+            However, about noon we made sail, and the reis of the Bougaz, leading the way, conveyed
+            us in gallant style, with about a dozen other vessels, over the vexatious impediment,
+            and we reached the brig in safety that was lying in readiness to take us to Syria, most
+            thankful and happy to escape at last from damp, dirt, bad air, and vermin: of the last
+            however we had not much cause to complain, as neither the boat nor the brig were
+            over-run with the usual insect tormentors, and were for Arab craft, in very fair
+            condition as to cleanliness.</p>
+
+         <p>About 2 p. m. our brig got her anchor up, and we were on our way to Jaffa. Soon the palm
+            trees of the Delta sunk beneath the horizon, and I took my farewell of the land of
+            Egypt, right glad to have traversed that wondrous and mystic land from its extremest
+            limits north and south: but quite satisfied to have finished an undertaking which I have
+            no desire to renew. Egypt is well worth seeing once, and once only. I have spent many
+            delightful hours and days on her classical soil, and under her ever-shining sun; but
+            there is a vast deal it is painful to contemplate in her, and disagreeable to
+            encounter.</p>
+
+         <p>We soon discovered that our bark was a dreadfully dull sailor, besides that she was
+            deeply laden with rice; and the wind that during our imprisonment had blown from the
+            very best quarter for wafting us to Jaffa, began to fail us, and it was not till mid-day
+            on the 8th that we accomplished a voyage which under ordinary favourable circumstances,
+            requires only from 24 to 30 hours.</p>
+
+         <p>I occupied the long boat on deck, in the bottom of which was spread my mattrass, on
+            which I sat and took my meals, read &amp;c, having the cloth of the tent spread across
+            the boat at night.</p>
+
+         <p>There were three or four passengers who slept about the deck at night with the crew, and
+            amongst them was a poor Hungarian, driven from his country by the late disturbances, and
+            roaming about the world in search of employment. He is going up to Jerusalem on foot,
+            and from thence thinks of proceeding to Damascus, where I find it quite true that
+            General Guyon is residing, as I was told in England. The Hungarian speaks his own
+            language badly, as he does German, and a little English, and is my daily guest at
+            dinner, for the poor man is absolutely penniless, the Arabs having some time since
+            stolen his little kit, and what money he had in it. I intend giving him what cash I can
+            spare to carry him on his way through Syria; but my long detention in Egypt has
+            increased my expenses, and nearly exhausted the stock of provisions laid in at Cairo, so
+            that I must buy many things afresh that should have lasted till I got to Beyrout.</p>
+
+         <p>From your always affectionate Brother, William Arnold Bromfield. </p>
+      </body>
+   </text>
+</TEI>
