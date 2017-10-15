@@ -1,2 +1,2 @@
 # Notes from Egypt
-eXist-db webapplication/publication of the XML files of all letters found in the book "Letters from Egypt" by Lady Lucie Duff Gordon (1865).
+eXist-db webapplication/publication letters and diaries from 19th century Egypt. The first entries in the collection of documents are the letters of Lucie Duff Gordon and William Arnold Bromfield.
