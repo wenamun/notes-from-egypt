@@ -1,0 +1,79 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, LUXOR, August 13, 1864.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/43">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <settlement ref="http://www.geonames.org/360502">Luxor</settlement>
+               <date when="1864-08-13">13 August 1864</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/315623459">Sir Alexander Duff Gordon</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> For the last month we have had a purgatory of hot wind and dust, such as I never
+            saw—impossible to stir out of the house. So in despair I have just engaged a return
+            boat—a _Gelegenheit_—and am off to <placeName ref="Cairo">Cairo</placeName> in a day or
+            two, where I shall stop till _Inshallah_! you come to me. Can’t you get leave to come at
+            the beginning of November? Do try, that is the pleasant time in <placeName ref="Cairo">Cairo</placeName>. </p>
+         <p> I am a ‘stupid, lazy Arab’ now, as Omar says, having lain on a mat in a dark stone
+            passage for six weeks or so, but my chest is no worse—better I think, and my health has
+            not suffered at all—only I am stupid and lazy. I had a pleasant visit lately from a
+            great doctor from Mecca—a man so learned that he can read the Koran in seven different
+            ways, he is also a physician of European _Hekmeh_ (learning). Fancy my wonder when a
+            great Alim in gorgeous Hegazee dress walked in and said: ‘_Madame, tout ce qu’on m’a dit
+            de vous fait tellement l’éloge de votre cœur et de votre esprit que je me suis arreté
+            pour tacher de me procurer le plaisir de votre connaissance_!’ A lot of Luxor people
+            came in to pay their respects to the great man, and he said to me that he hoped I had
+            not been molested on account of religion, and if I had I must forgive it, as the people
+            here were so very ignorant, and _barbarians were bigots everywhere_. I said, ‘_Wallahy_,
+            the people of Luxor are my brothers!’ and the Maōhn said, ‘True, the fellaheen are like
+            oxen, but not such swine as to insult the religion of a lady who has served God among
+            them like this one. She risked her life every day.’ ‘And if she _had_ died,’ said the
+            great theologian, ‘her place was made ready among the martyrs of God, because she showed
+            more love to her brothers than to herself!’ </p>
+         <p> Now if this was humbug it was said in Arabic before eight or ten people, by a man of
+            great religious authority. </p>
+         <p> Omar was _aux anges_ to hear his Sitt spoken of ‘in such a grand way for the religion.’
+            I believe that a great change is taking place among the Ulema, that Islam is ceasing to
+            be a mere party flag, just as occurred with Christianity, and that all the moral part is
+            being more and more dwelt on. My great Alim also said I had practised the precepts of
+            the Koran, and then laughed and added, ‘I suppose I ought to say the Gospel, but what
+            matters it, _el Hakh_ (the truth) is one, whether spoken by Our Lord Jesus or by Our
+            Lord Mahommed!’ He asked me to go with him to Mecca next winter for my health, as it was
+            so hot and dry there. I found he had fallen in with El-Bedrawee and the Khartoum
+            merchant at Assouan. The little boy was well again, and I had been outrageously extolled
+            by them. We are now sending off all the corn. I sat the other evening on Mustapha’s
+            doorstep and saw the Greeks piously and zealously attending to the divine command to
+            spoil the Egyptians. Eight months ago a Greek bought up corn at 60 piastres the ardeb
+            (he follows the Coptic tax-gatherer like a vulture after a crow), now wheat is at 170
+            piastres the ardeb here, and the fellah has paid 3½ _per cent. a month_ besides. Reckon
+            the profit! Two men I know are quite ruined, and have sold all they had. The cattle
+            disease forced them to borrow at these ruinous rates, and now alas, the Nile is sadly
+            lingering in its rise, and people are very anxious. Poor Egypt! or rather, poor
+            Egyptians! Of course, I need not say that there is great improvidence in those who can
+            be fleeced as they are fleeced. Mustapha’s household is a pattern of muddling
+            hospitality, and Mustapha is generous and mean by turns; but what chance have people
+            like these, so utterly uncivilized and so isolated, against Europeans of unscrupulous
+            characters. </p>
+         <p> I can’t write more in the wind and dust. You shall hear again from <placeName ref="Cairo">Cairo</placeName>.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, OFF BOULAK, August 27, 1866.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/83">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <date when="1866-08-27">27 August 1866</date>
+               <settlement ref="http://www.geonames.org/360630">Cairo</settlement>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/315623459">Sir Alexander Duff Gordon</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> Your letter of the 18th has this moment arrived. I am very glad to hear you are so much
+            better. I am still seedy-ish, but no worse. Everybody is liver-sick this year, I give
+            calomel and jalep all round—except to myself. </p>
+         <p> The last two or three days we have been in great tribulation about the boat. On
+            Saturday all her ribs were finished, and the planking and caulking ready to be put on,
+            when in the night up came the old Nile with a rush, and threatened to carry her off; but
+            by the favour of Abu-l-Hajjaj and Sheykh el-Bostawee she was saved in this wise. You
+            remember the tall old steersman who went with us to Bedreeshayn, and whom we thought so
+            ill-conditioned; well, he was in charge of a dahabieh close by, and he called up all the
+            Reises and steermen to help. ‘Oh men of el-Bostawee, this is _our_ boat (_i.e._ we are
+            the servants of her owner) and she is in our faces;’ and then he set the example,
+            stripped and carried dust and hammered in piles all night, and by the morning she was
+            surrounded by a dyke breast-high. The ‘long-shore’ men of <placeName ref="Boulak">Boulak</placeName> were not a little surprised to see dignified Reises working for
+            nothing like fellaheen. Meanwhile my three _Ma-allimeen_, the chief builder, caulker and
+            foreman, had also stayed all night with Omar and my Reis, who worked like the rest, and
+            the Sheykh of all the boat-builders went to visit one of my _Ma-allimeen_, who is his
+            nephew, and hearing the case came down too at one in the morning and stayed till dawn.
+            Then as the workmen passed, going to their respective jobs, he called them, and said,
+            ‘Come and finish this boat; it must be done by to-morrow night.’ Some men who objected
+            and said they were going to the Pasha’s dockyard, got a beating _pro forma_ and the end
+            of it was that I found forty-six men under my boat working ‘like Afreets and Shaitans,’
+            when I went to see how all was going in the morning. The old Sheykh marked out a piece
+            to each four men, and then said, ‘If that is not done to-night, Oh dogs! to-morrow I’ll
+            put on the hat’—_i.e._ ‘To-day I have beaten moderately, like an Arab, but to-morrow,
+            please God, I’ll beat like a Frank, and be mad with the stick.’ _Kurz und gut_, the boat
+            which yesterday morning was a skeleton, is now, at four p.m. to-day, finished, caulked,
+            pitched and all capitally done; if the Nile carries off the dyke, she will float safe.
+            The shore is covered with débris of other people’s half-finished boats I believe. I owe
+            the ardour of the _Ma-allims_ and of the Sheykh of the builders to one of my absurd
+            pieces of Arab civility. On the day when Omar killed poor Ablook, my black sheep, over
+            the bows and ‘straked’ his blood upon them, the three _Ma-allimeen_ came on board this
+            boat to eat their dish, and I followed the old Arab fashion and ate out of the wooden
+            dish with them and the Reis ‘for luck,’ or rather ‘for a blessing’ as we say here; and
+            it seems that this gave immense satisfaction. </p>
+         <p> My Reis wept at the death of the black sheep, which used to follow him to the
+            coffee-shop and the market, and ‘was to him as a son,’ he said, but he ate of him
+            nevertheless. Omar surreptitiously picked out the best pieces for my dinner for three
+            days, with his usual eye to economy; then lighted a fire of old wood, borrowed a
+            cauldron of some darweeshes, cut up the sheep, added water and salt, onions and herbs,
+            and boiled the sheep. Then the big washing copper (a large round flat tray, like a
+            sponging bath) was filled with bread broken in pieces, over which the broth was slowly
+            poured till the bread was soaked. Next came a layer of boiled rice, on the top of that
+            the pieces of boiled meat, and over all was poured butter, vinegar and garlic boiled
+            together. This is called a _Fettah_, and is the orthodox dish of darweeshes and given at
+            all _Khatmehs_ and other semi-religious, semi-festive, semi-charitable festivities. It
+            is excellent and not expensive. I asked how many had eaten and was told one hundred and
+            thirty men had ‘blessed my hand.’ I expended 160 piastres on bread, butter and vinegar,
+            etc. and the sheep was worth two napoleons; three napoleons in all, or less—for I ate
+            for two days of the mutton. </p>
+         <p> The three _Ma-allims_ came on board this boat, as I said and ate; and it was fine to
+            hear us—how polite we were. ‘A bit more, oh _Ma-allim_?’ ‘Praise be to God, we have
+            eaten well—we will return to our work’; ‘By the Prophet, coffee and a pipe.’ ‘Truly thou
+            art of the most noble people.’ ‘Oh _Ma-allim_, ye have honoured us and rejoiced us,’
+            ‘Verily this is a day white among days,’ etc. A very clever Egyptian engineer, a pupil
+            of Whitworth’s, who is living in a boat alongside mine, was much amused, and said, ‘Ah
+            you know how to manage ’em.’ </p>
+         <p> I have learnt the story of the two dead bodies that hitched in my anchor-chain some
+            time ago. They were not Europeans as I thought, but Circassians—a young man and his
+            mother. The mother used to take him to visit an officer’s wife who had been brought up
+            in the hareem of the Pasha’s mother. The husband caught them, killed them, tied them
+            together and flung them into the Nile near Rhoda, and gave himself into the hands of the
+            police. All was of course hushed up. He goes to Fazoghlou; and I don’t know what becomes
+            of the slave-girl, his wife. These sort of things happen every day (as the bodies
+            testify) among the Turks, but the Europeans never hear it. I heard it by a curious
+            chance. </p>
+         <p> _September_ 4.—My boat will soon be finished, and now will be as good as new. Omar has
+            worked like a good one from daybreak till night, overlooking, buying all the materials,
+            selling all the old wood and iron, etc., and has done capitally. I shall take a paper
+            from my _Ma-allims_ who are all first class men, to certify what they have done and that
+            the boat is as good as new. Goodah Effendi has kindly looked at her several times for me
+            and highly approves the work done. I never saw men do a better day’s work than those at
+            the boat. It is pretty to see the carpenter holding the wood with one hand and one foot
+            while he saws it, sitting on the ground—just like the old frescoes. Do you remember the
+            picture of boat-building in the tomb at Sakkara? Well, it is just the same; all done
+            with the adze; but it is stout work they put into it, I can tell you. </p>
+         <p> If you do not come (and I do not like to press you, I fear the fatigue for you and the
+            return to the cold winter) I shall go to Luxor in a month or so and send back the boat
+            to let. I have a neighbour now, Goodah Effendi, an engineer, who studied and married in
+            England. His wife is gone there with the children, and he is living in a boat close by;
+            so he comes over of an evening very often, and I am glad of his company: he is a right
+            good fellow and very intelligent. </p>
+         <p> My best love to all at home. I’ve got a log from the cedars of Lebanon, my Moslem
+            carpenter who smoothed the broken end, swallowed the sawdust, because he believed ‘Our
+            Lady Mary’ had sat under the tree with ‘Our Lord Jesus.’</p>
+      </body>
+   </text>
+</TEI>

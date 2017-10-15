@@ -1,0 +1,135 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, LUXOR, Sunday, June 12, 1864.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/41">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <settlement ref="http://www.geonames.org/360502">Luxor</settlement>
+               <date when="1864-06-12">12 June 1864</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/315623459">Sir Alexander Duff Gordon</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> Three letters have I received from you within a few days, for the post of the Saeed is
+            not that of the Medes and Persians. I have had an abominable toothache, which quite
+            floored me, and was aggravated by the Oriental custom, namely, that all the _beau monde_
+            of Thebes _would_ come and sit with me, and suggest remedies, and look into my mouth,
+            and make quite a business of my tooth. Sheykh Yussuf laid two fingers on my cheek and
+            recited verses from the Koran, I regret to say with no effect, except that while his
+            fingers touched me the pain ceased. I find he _is_ celebrated for soothing headaches and
+            other nervous pains, and I daresay is an unconscious mesmeriser. The other day our poor
+            Maōhn was terrified by a communication from Ali Bey (Moudir of Keneh) to the effect that
+            he had heard from Alexandria that someone had reported that the dead cattle had lain
+            about the streets of Luxor and that the place was pestilential. The British mind at once
+            suggested a counter-statement, to be signed by the most respectable inhabitants. So the
+            Cadi drew it up, and came and read it to me, and took my deposition and witnessed my
+            signature, and the Maōhn went his way rejoicing, in that ‘the words of the Englishwoman’
+            would utterly defeat Ali Bey. The truth was that the worthy Maōhn worked really hard,
+            and superintended the horrible dead cattle business in person, which is some risk and
+            very unpleasant. To dispose of three or four hundred dead oxen every day with a limited
+            number of labourers is no trifle, and if a travelling Englishman smells one a mile off
+            he calls us ‘lazy Arabs.’ The beasts could not be buried deep enough, but all were
+            carried a mile off from the village. I wish some of the dilettanti who stop their noses
+            at us in our trouble had to see or to do what I have seen and done. </p>
+         <p> _June_ 17.—We have had four or five days of such fearful heat with a Simoom that I have
+            been quite knocked up, and literally could not write. Besides, I sit in the dark all
+            day, and am now writing so—and at night go out and sit in the verandah, and can’t have
+            candles because of the insects. I sleep outside till about six a.m., and then go indoors
+            till dark again. This fortnight is the hottest time. To-day the drop falls into the Nile
+            at its source, and it will now rise fast and cool the country. It has risen one cubit,
+            and the water is green; next month it will be blood colour. My cough has been a little
+            troublesome again, I suppose from the Simoom. The tooth does not ache now.
+            _Alhamdulillah_! for I rather dreaded the _muzeyinn_ (barber) with his _tongs_, who is
+            the sole dentist here. I was amused the other day by the entrance of my friend the
+            Maōhn, attended by Osman Effendi and his cawass and pipe-bearer, and bearing a saucer in
+            his hand, wearing the look, half sheepish, half cocky, with which elderly gentlemen in
+            all countries announce what he did, _i.e._, that his black slave-girl was three months
+            with child and longed for olives, so the respectable magistrate had trotted all over the
+            bazaar and to the Greek corn-dealers to buy some, but for no money were they to be had,
+            so he hoped I might have some and forgive the request, as I, of course, knew that a man
+            must beg or even steal for a woman under these circumstances. I called Omar and said, ‘I
+            trust there are olives for the honourable Hareem of Seleem Effendi—they are needed
+            there.’ Omar instantly understood the case, and ‘Praise be to God a few are left; I was
+            about to stuff the pigeons for dinner with them; how lucky I had not done it.’ And then
+            we belaboured Seleem with compliments. ‘Please God the child will be fortunate to thee,’
+            say I. Omar says, ‘Sweeten my mouth, oh Effendim, for did I not tell thee God would give
+            thee good out of this affair when thou boughtest her?’ While we were thus rejoicing over
+            the possible little mulatto, I thought how shocked a white Christian gentleman of our
+            Colonies would be at our conduct to make all this fuss about a black girl—‘_he_ give her
+            sixpence’ (under the same circumstances I mean) ‘he’d see her d---d first,’ and my heart
+            warmed to the kind old Muslim sinner (?) as he took his saucer of olives and walked with
+            them openly in his hand along the street. Now the black girl is free, and can only leave
+            Seleem’s house by her own good will and probably after a time she will marry and he will
+            pay the expenses. A man can’t sell his slave after he has made known that she is with
+            child by him, and it would be considered unmanly to detain her if she should wish to go.
+            The child will be added to the other eight who fill the Maōhn’s quiver in <placeName ref="Cairo">Cairo</placeName> and will be exactly as well looked on and have equal
+            rights if he is as black as a coal. </p>
+         <p> A most quaint little half-black boy a year and a half old has taken a fancy to me and
+            comes and sits for hours gazing at me and then dances to amuse me. He is Mahommed our
+            guard’s son by a jet-black slave of his and is brown-black and very pretty. He wears a
+            bit of iron wire in one ear and iron rings round his ankles, and that is all—and when he
+            comes up little Achmet, who is his uncle, ‘makes him fit to be seen’ by emptying a
+            pitcher of water over his head to rinse off the dust in which of course he has been
+            rolling—that is equivalent to a clean pinafore. You would want to buy little Said I
+            know, he is so pretty and so jolly. He dances and sings and jabbers baby Arabic and then
+            sits like a quaint little idol cross-legged quite still for hours. </p>
+         <p> I am now writing in the kitchen, which is the coolest place where there is any light at
+            all. Omar is diligently spelling words of six letters, with the wooden spoon in his hand
+            and a cigarette in his mouth, and Sally is lying on her back on the floor. I won’t
+            describe our costume. It is now two months since I have worn stockings, and I think you
+            would wonder at the fellaha who ‘owns you,’ so deep a brown are my face, hands and feet.
+            One of the sailors in Arthur’s boat said: ‘See how the sun of the Arabs loves her; he
+            has kissed her so hotly that she can’t go home among English people.’ </p>
+         <p> _June_ 18.—I went last night to look at Karnac by moonlight. The giant columns were
+            overpowering. I never saw anything so solemn. On our way back we met the
+            Sheykh-el-Beled, who ordered me an escort of ten men home. Fancy me on my humble donkey,
+            guarded most superfluously by ten tall fellows, with oh! such spears and venerable
+            matchlocks. At Mustapha’s house we found a party seated before the door, and joined it.
+            There was a tremendous Sheykh-el-Islam from Tunis, a Maghribee, seated on a carpet in
+            state receiving homage. I don’t think he liked the heretical woman at all. Even the
+            Maōhn did not dare to be as ‘politeful’ as usual to me, but took the seat above me,
+            which I had respectfully left vacant next to the holy man. Mustapha was in a stew,
+            afraid not to do the respectful to me, and fussing after the Sheykh. Then Yussuf came
+            fresh from the river, where he had bathed and prayed, and then you saw the real
+            gentleman. He salaamed the great Sheykh, who motioned to him to sit before him, but
+            Yussuf quietly came round and sat _below_ me on the mat, leaned his elbow on my cushion,
+            and made more demonstration of regard for me than ever, and when I went came and helped
+            me on my donkey. The holy Sheykh went away to pray, and Mustapha hinted to Yussuf to go
+            with him, but he only smiled, and did not stir; he had prayed an hour before down at the
+            Nile. It was as if a poor curate had devoted himself to a rank papist under the eye of a
+            scowling Shaftesbury Bishop. Then came Osman Effendi, a young Turk, with a poor devil
+            accused in a distant village of stealing a letter with money in it addressed to a Greek
+            money-lender. The discussion was quite general, the man, of course, denying all. But the
+            Nazir had sent word to beat him. Then Omar burst out, ‘What a shame to beat a poor man
+            on the mere word of a Greek money-lender who eats the people; the Nazir shouldn’t help
+            him.’ There was a Greek present who scowled at Omar, and the Turk gaped at him in
+            horror. Yussuf said, with his quiet smile, ‘My brother, thou art talking English,’ with
+            a glance at me; and we all laughed, and I said, ‘Many thanks for the compliment.’ All
+            the village is in good spirits; the Nile is rising fast, and a star of most fortunate
+            character has made its appearance, so Yussuf tells me, and portends a good year and an
+            end to our afflictions. I am much better to-day, and I think I too feel the rising Nile;
+            it puts new life into all things. The last fortnight or three weeks have been very
+            trying with the Simoom and intense heat. I suppose I look better for the people here are
+            for ever praising God about my amended looks. I am too hot, and it is too dark to write
+            more.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, Monday, January 15, 1866.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/68">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <date when="1866-01-15">15 January 1866</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/315623459">Sir Alexander Duff Gordon</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> I hear that Mr. and Miss North are to be here in a day or two. I hope you may have sent
+            my saddle by them, for I want it sadly—mine is just possible for a donkey, but quite too
+            broken for a horse. </p>
+         <p> Two great Sheykhs of Bishareen and Abab’deh came here and picked me up out walking
+            alone. We went and sat in a field, and they begged me to communicate to the Queen of
+            England that they would join her troops if she would invade Egypt. One laid my hand on
+            his hand and said ‘Thou hast 3,000 men in thy hand.’ The other rules 10,000. They say
+            there are 30,000 Arabs (bedaween) ready to join the English, for they fear that the
+            Viceroy will try to work and rob them like the fellaheen, and if so they will fight to
+            the last, or else go off into Syria. I was rather frightened—for them, I mean, and told
+            them that our Queen could do nothing till 600 Sheykhs and 400 Ameers had talked in
+            public—all whose talk was printed and read at Stambool and <placeName ref="Cairo">Cairo</placeName>, and that they must not think of such a thing from our Queen, but
+            if things became bad, it would be better for them to go off into Syria. I urged great
+            caution upon them, and I need not repeat that to you, as the lives of thousands may be
+            endangered. It might be interesting to be known in high places and in profound secret,
+            as one of the indications of what is coming here. </p>
+         <p> If the saddle comes, as I hope, I may very likely go up to Assouan, and leave the boat
+            and servants, and go into the desert for a few days to see the place of the Bishareen.
+            They won’t take anyone else: but you may be quite easy about me ‘in the face’ of a
+            Sheykh-el-Arab. Handsome Sheykh Hassan, whom you saw at <placeName ref="Cairo">Cairo</placeName>, will go with me. But if my saddle does not appear, I fear I
+            should be too tired with riding a camel. </p>
+         <p> The little district of Koos, including Luxor, has been mulcted of camels, food for them
+            and drivers, to the amount of 6,000 purses—last week—£18,000, _fact_. I cast up the
+            account, and it tallied with what I got from a sub _employé_, nor is the discontent any
+            longer whispered. Everyone talks aloud—and well they may.</p>
+      </body>
+   </text>
+</TEI>

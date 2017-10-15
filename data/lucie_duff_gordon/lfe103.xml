@@ -1,0 +1,71 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, BENISOUEF, June 30, 1867.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/103">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <date when="1867-06-30">30 June 1867</date>
+               <settlement ref="http://www.geonames.org/359173">Banī Suwayf</settlement>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/315623459">Sir Alexander Duff Gordon</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> I write on the chance that this may go safe by post so that you may not think me lost.
+            I left Luxor on May 31, got to Siout (half-way) in a week, and have ever since been
+            battling with an unceasing furious north and north-east wind. I feel like the much
+            travelled Odysseus, and have seen ‘villages and men,’ unlike him, however ‘my
+            companions’ have neither grumbled nor deserted, though it is a bad business for them,
+            having received their money at the rate of about twenty days’ pay, for which they must
+            take me to <placeName ref="Cairo">Cairo</placeName>. They have eaten all, and are now
+            obliged to stop and make bread here, but they are as good-humoured as if all were well.
+            My fleet consisted of my dahabieh, flag ship; tender, a _kyasseh_ (cargo boat) for my
+            horse and sais, wherein were packed two extremely poor shrivelled old widows, going to
+               <placeName ref="Cairo">Cairo</placeName> to see their sons, now in garrison there;
+            lots of hard bread, wheat, flour, jars of butter, onions and lentils for all the lads of
+            ‘my family’ studying at Gama’l Azhar, besides in my box queer little stores of long
+            hoarded money for those _megowareen_ (students of Gama’l Azhar). Don’t you wish you
+            could provide for Maurice with a sack of bread, a basket of onions and one pound sixteen
+            shillings? </p>
+         <p> The handsome brown Sheykh el-Arab, Hassan, wanted me to take him, but I knew him to be
+            a ‘fast’ man, and asked Yussuf how I could avoid it without breaking the laws of
+            hospitality, so my ‘father,’ the old Shereef, told Hassan that he did not choose his
+            daughter to travel with a wine-bibber and a frequenter of loose company. Under my convoy
+            sailed two or three little boats with family parties. One of these was very pretty,
+            whose steersman was a charming little fat girl of five years old. All these hoped to
+            escape being caught and worried by the way, by belonging to me, and they dropped off at
+            their several villages. I am tolerably well, better than when I started, in spite of the
+            wind. </p>
+         <p> Poor Reis Mohammed had a very bad attack of ophthalmia, and sat all of a heap, groaning
+            all day and night, and protesting ‘I am a Muslim,’ equivalent to ‘God’s will be done.’
+            At one place I was known, and had a lot of sick to see, and a civil man killed a sheep
+            and regaled us all with meat and _fateereh_. The part of the river in which we were kept
+            by the high wind is made cheerful by the custom of the Hareem being just as free to mix
+            with men as Europeans, and I quite enjoyed the pretty girls’ faces, and the gossip with
+            the women who came to fill their water-jars and peep in at the cabin windows, which, by
+            the way, they always ask leave to do. The Sheykh el-Hawara gave me two sheep which are
+            in the cargo-boat with four others—all presents—which Omar intends you to eat at
+               <placeName ref="Cairo">Cairo</placeName>. The Sheykh is very anxious to give you an
+            entertainment at his palace, if you come up the river, with horse-riding, feasting and
+            dancing girls. In fact I am charged with many messages to _el-Kebir_ (the great
+            master).</p>
+      </body>
+   </text>
+</TEI>

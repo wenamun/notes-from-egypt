@@ -1,0 +1,66 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mrs. Austin, CAIRO, April 9, 1863.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/8">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <settlement ref="http://www.geonames.org/360630">Cairo</settlement>
+               <date when="1863-04-09">9 April 1863</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/59830344">Sarah Austin</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST MUTTER,</p>
+
+         <p>I write to you because I know Janet is sure to write to Alick. I have had a very severe
+            attack of bronchitis. As I seemed to be getting worse after Janet and Ross left for
+            Alexandria, Omar very wisely sent for Hekekian Bey, who came at once bringing De Leo
+            Bey, the surgeon-in-chief of the Pasha’s troops, and also the doctor to the hareem. He
+            has been most kind, coming two and three times a day at first. He won’t take any fee,
+            _sous prétexte_ that he is _officier du Pasha_; I must send him a present from England.
+            As to Hekekian Bey, he is absolutely the Good Samaritan, and these Orientals do their
+            kindnesses with such an air of enjoyment to themselves that it seems quite a favour to
+            let them wait upon one. Hekekian comes in every day with his handsome old face and a
+            budget of news, all the gossip of the Sultan and his doings. I shall always fancy the
+            Good Samaritan in a tarboosh with a white beard and very long eyes. I am out of bed
+            to-day for the second time, and waiting for a warm day to go out. Sally saw the
+            illuminations last night; the Turkish bazaar she says was gorgeous. The Sultan and all
+            his suite have not eaten bread here, all their food comes from Constantinople. To-morrow
+            the Mahmaal goes—think of my missing that sight! _C’est désclant_.</p>
+
+         <p>I have a black slave—a real one. I looked at her little ears wondering they had not been
+            bored for rings. She fancied I wished them bored (she was sitting on the floor close at
+            my side), and in a minute she stood up and showed me her ear with a great pin through
+            it: ‘Is that well, lady?’ the creature is eight years old. The shock nearly made me
+            faint. What extremities of terror had reduced that little mind to such a state. She is
+            very good and gentle, and sews quite nicely already. When she first came, she tells me,
+            she thought I should eat her; now her one dread is that I should leave her behind. She
+            sings a wild song of joy to Maurice’s picture and about the little Sitt. She was sent
+            from Khartoum as a present to Mr. Thayer, who has no woman-servant at all. He fetched me
+            to look at her, and when I saw the terror-stricken creature being coarsely pulled about
+            by his cook and groom, I said I would take her for the present. Sally teaches her, and
+            she is very good; but now she has set her whole little black soul upon me. De Leo can
+            give no opinion as to what I ought to do, as he knows little but Egypt, and thinks
+            England rather like Norway, I fancy. Only don’t let me be put in a dreadful mountain
+            valley; I hear the drip, drip, drip of Eaux Bonnes in bad dreams still, when I am chilly
+            and oppressed in my sleep. I’ll write again soon, send this to Alick, please.</p>
+      </body>
+   </text>
+</TEI>

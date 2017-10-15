@@ -1,0 +1,88 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mrs. Austin, OFF BOULAK, September 21, 1886.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/85">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <date when="1866-09-21">21 September 1866</date>
+               <settlement ref="http://www.geonames.org/360630">Cairo</settlement>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/59830344">Sarah Austin</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST MUTTER, </p>
+         <p> I am a good deal better again; the weather is delightful, and the Nile in full flood,
+            which makes the river scenery from the boat very beautiful. Alick made my mouth water
+            with his descriptions of his rides with Janet about the dear old Surrey country, having
+            her with him seems to have quite set him up. I have seen nothing and nobody but my ‘next
+            boat’ neighbour, Goodah Effendi, as Omar has been at work all day in the boat, and I
+            felt lazy and disinclined to go out alone. Big Hassan of the donkeys has grown too lazy
+            to go about and I don’t care to go alone with a small boy here. However I am out in the
+            best of air all day and am very well off. My two little boys are very diverting and
+            serve me very well. The news from Europe is to my ignorant ideas _désolant_, a
+            _dégringolade back_ into military despotism, which would have excited indignation with
+            us in our fathers’ days, I think. I get lots of newspapers from Ross, which afterwards
+            go to an Arab grocer, who reads the _Times_ and the _Saturday Review_ in his shop in the
+            bazaar! what next? The cargo of books which Alick and you sent will be most acceptable
+            for winter consumption. If I were a painter I would take up the Moslem traditions of
+            Joseph and Mary. He was not a white-bearded old gentleman at all you must know, but
+            young, lovely and pure as Our Lady herself. They were cousins, brought up together; and
+            she avoided the light conversation of other girls, and used to go to the well with her
+            jar, hand in hand with Joseph carrying his. After the angel Gabriel had announced to her
+            the will of God, and blown into her sleeve, whereby she conceived ‘the Spirit of God,’
+            Joseph saw her state with dismay, and resolved to kill her, as was his duty as her
+            nearest male relation. He followed her, knife in hand, meaning always to kill her at the
+            next tree, and each time his heart failed him, until they reached the well and the tree
+            under which the Divine messenger stood once more and said, ‘Fear not oh Joseph, the
+            daughter of thy uncle bears within her Eesa, the Messiah, the Spirit of God.’ Joseph
+            married his cousin without fear. Is it not pretty? the two types of youthful purity and
+            piety, standing hand in hand before the angel. I think a painter might make something
+            out of the soft-eyed Syrian boy with his jar on his shoulder (hers on the head), and the
+            grave, modest maiden who shrank from all profane company. </p>
+         <p> I now know all about Sheykh Seleem, and why he sits naked on the river bank; from very
+            high authority—a great Sheykh to whom it has been revealed. He was entrusted with the
+            care of some of the holy she camels, like that on which the Prophet rode to Jerusalem in
+            one night, and which are invisible to all but the elect, and he lost one, and now he is
+            God’s prisoner till she is found. </p>
+         <p> A letter from aunt Charley all about her own and Rainie’s country life, school feasts
+            etc., made me quite cry, and brought before me—oh, how vividly—the difference between
+            East and West, not quite _all_ to the advantage of home however, though mostly. What is
+            pleasant here is the primitive ways. Three times since I have been here lads of most
+            respectable families of Luxor have come to ask hospitality, which consists in a place on
+            the deck of the boat, and liberty to dip their bread in the common dish with my slave
+            boy and Achmet. The bread they brought with them, ‘bread and shelter’ were not asked, as
+            they slept _sub dio_. In England I must have refused the hospitality, on account of
+            _gêne_ and expense. The chief object to the lads was the respectability of being under
+            my eye while away from their fathers, as a satisfaction to their families; and while
+            they ate and slept like beggars, as we should say, they read their books and chatted
+            with me, when I was out on the deck, on perfectly equal terms, only paying the respect
+            proper to my age. I thought of the ‘orphanages and institutions’ and all the countless
+            difficulties of that sort, and wondered whether something was not to be said for this
+            absence of civilization in knives, forks, beds, beer, and first and second tables above
+            all. Of course climate has a good deal to do with the facility with which widows and
+            orphans are absorbed here. </p>
+         <p> Goodbye dearest Mutter: to-day is post day, and Reis Mohammed is about to trudge into
+            town in such a dazzling white turban and such a grand black robe. His first wife, whom
+            he was going to divorce for want of children, has brought him a son, and we jeer him a
+            little about what he may find in Luxor from the second, and wish him a couple of
+            dozen.</p>
+      </body>
+   </text>
+</TEI>

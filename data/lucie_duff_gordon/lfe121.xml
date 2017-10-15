@@ -1,0 +1,63 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, BOULAK, June 15, 1869.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/121">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <date when="1869-06-15">15 June 1869</date>
+               <settlement ref="http://www.geonames.org/360630">Cairo</settlement>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/315623459">Sir Alexander Duff Gordon</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> Do not think of coming here. Indeed it would be almost too painful to me to part from
+            you again; and as it is, I can patiently wait for the end among people who are kind and
+            loving enough to be comfortable, without too much feeling of the pain of parting. The
+            leaving Luxor was rather a distressing scene, as they did not think to see me again. </p>
+         <p> The kindness of all the people was really touching, from the Kadee who made ready my
+            tomb among his own family, to the poorest fellaheen. Omar sends you his most heartfelt
+            thanks, and begs that the boat may remain registered at the Consulate in your name for
+            his use and benefit. The Prince has appointed him his own dragoman. But he is sad
+            enough, poor fellow, all his prosperity does not console him for the loss of ‘the mother
+            he found in the world.’ Mohammed at Luxor wept bitterly and said, ‘poor I, my poor
+            children, poor all the people,’ and kissed my hand passionately, and the people at
+            Esneh, asked leave to touch me ‘for a blessing,’ and everyone sent delicate bread, and
+            their best butter, and vegetables and lambs. They are kinder than ever now that I can no
+            longer be of any use to them. </p>
+         <p> If I live till September I will go up to Esneh, where the air is softest and I cough
+            less. I would rather die among my own people in the Saeed than here. </p>
+         <p> You must forgive this scrawl, dearest. Don’t think please of sending Maurice out again,
+            he must begin to work now or he will never be good for anything. </p>
+         <p> Can you thank the Prince of Wales for Omar, or shall I write? He was most pleasant and
+            kind, and the Princess too. She is the most perfectly simple-mannered girl I ever saw.
+            She does not even try to be civil like other great people, but asks blunt questions, and
+            looks at one so heartily with her clear, honest eyes, that she must win all hearts. They
+            were more considerate than any people I have seen, and the Prince, instead of being
+            gracious, was, if I may say so, quite respectful in his manner: he is very well bred and
+            pleasant, and has the honest eyes that makes one sure he has a kind heart. </p>
+         <p> My sailors were so proud at having the honour of rowing him _in our own boat_, and of
+            singing to him. I had a very good singer in the boat. Please send some little present
+            for my Reis: he is such a good man; he will be pleased at some little thing from you. He
+            is half Turk, and seems like whole one. Maurice will have told you all about us.
+            Good-bye for the present, dearest Alick.</p>
+      </body>
+   </text>
+</TEI>

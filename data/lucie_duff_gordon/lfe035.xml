@@ -1,0 +1,227 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, LUXOR, March 22, 1864.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/35">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <settlement ref="http://www.geonames.org/360502">Luxor</settlement>
+               <date when="1864-03-22">22 March 1864</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/315623459">Sir Alexander Duff Gordon</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> I am glad my letters amuse you. Sometimes I think they must breathe the unutterable
+            dulness of Eastern life: not that it is dull to me, a curious spectator, but how the men
+            with nothing to do can endure it is a wonder. I went yesterday to call on a Turk at
+            Karnac; he is a gentlemanly man, the son of a former Moudir, who was murdered, I
+            believe, for his cruelty and extortion. He has 1,000 feddans (acres, or a little more)
+            of land, and lives in a mud house, larger but no better than any fellahs, with two wives
+            and the brother of one of them. He leaves the farm to his fellaheen altogether, I fancy.
+            There was one book, a Turkish one; I could not read the title-page, and he did not tell
+            me what it was. In short, there was no means of killing time but the narghile, no horse,
+            no gun, nothing, and yet they did not seem bored. The two women are always clamorous for
+            my visits, and very noisy and school-girlish, but apparently excellent friends and very
+            good-natured. The gentleman gave me a _kufyeh_ (thick head kerchief for the sun), so I
+            took the ladies a bit of silk I happened to have. You never heard anything like his
+            raptures over Maurice’s portrait, ‘_Mashallah_, _Mashallah_, _Wallahy zay el ward_’ (It
+            is the will of God, and by God he is like a rose). But I can’t ‘cotton to’ the Turks. I
+            always feel that they secretly dislike us European women, though they profess huge
+            admiration and pay _personal_ compliments, which an Arab very seldom attempts. I heard
+            Seleem Effendi and Omar discussing English ladies one day lately while I was inside the
+            curtain with Seleem’s slave girl, and they did not know I heard them. Omar described
+            Janet, and was of the opinion that a man who was married to her could want nothing more.
+            ‘By my soul, she rides like a Bedawee, she shoots with the gun and pistol, and rows the
+            boat; she speaks many languages, works with the needle like an Efreet, and to see her
+            hands run over the teeth of the music-box (keys of piano) amazes the mind, while her
+            singing gladdens the soul. How then should her husband ever desire the coffee-shop?
+            _Wallahy_! she can always amuse him at home. And as to my lady, the thing is not that
+            she does not know. When I feel my stomach tightened, I go to the divan and say to her,
+            ‘Do you want anything, a pipe, or sherbet, or so and so?’ and I talk till she lays down
+            her book and talks to me, and I question her and amuse my mind, and, by God! if I were a
+            rich man and could marry one English Hareem like that I would stand before her and serve
+            her like her memlook. You see I am only this lady’s servant, and I have not once sat in
+            the coffee-shop because of the sweetness of her tongue. Is it not therefore true that
+            the man who can marry such Hareem is rich more than with money?’ Seleem seemed disposed
+            to think a little more of looks, though he quite agreed with all Omar’s enthusiasm, and
+            asked if Janet were beautiful. Omar answered with decorous vagueness that she was a
+            ‘moon,’ but declined mentioning her hair, eyes, etc. (it is a liberty to describe a
+            woman minutely). I nearly laughed out at hearing Omar relate his manœuvres to make me
+            ‘amuse his mind’; it seems I am in no danger of being discharged for being dull. </p>
+         <p> The weather has set in so hot that I have shifted my quarters out of my fine room to
+            the south-west into one with only three sides looking over a lovely green view to the
+            north-east, with a huge sort of solid veranda, as large as the room itself, on the open
+            side; thus I live in the open air altogether. The bats and the swallows are quite
+            sociable; I hope the serpents and scorpions will be more reserved. ‘_El Khamaseen_’ (the
+            fifty) has begun, and the wind is enough to mix up heaven and earth, but it is not
+            distressing like the Cape south-easter, and, though hot, not choking like the Khamseen
+            in <placeName ref="Cairo">Cairo</placeName> and Alexandria. Mohammed brought me a
+            handful of the new wheat just now. Think of harvest in March and April! These winds are
+            as good for the crops here as a ‘nice steady rain’ is in England. It is not necessary to
+            water so much when the wind blows strong. As I rode through the green fields along the
+            dyke, a little boy sang as he turned round on the musically-creaking Sakìah (the
+            water-wheel turned by an ox) the one eternal Sakìah tune—the words are _ad libitum_, and
+            my little friend chanted ‘Turn oh Sakìah to the right and turn to the left—who will take
+            care of me if my father dies? Turn oh Sakìah, etc., pour water for the figs and the
+            grass and for the watermelons. Turn oh Sakìah!’ Nothing is so pathetic as that Sakìah
+            song. </p>
+         <p> I passed the house of the Sheykh-el-Ababdeh, who called out to me to take coffee. The
+            moon was splendid and the scene was lovely. The handsome black-brown Sheykh in dark
+            robes and white turban, Omar in a graceful white gown and red turban, and the wild
+            Ababdeh in all manner of dingy white rags, and with every kind of uncouth weapon,
+            spears, matchlocks, etc., in every kind of wild and graceful attitude, with their long
+            black ringlets and bare heads, a few little black-brown children quite naked and shaped
+            like Cupids. And there we sat and looked so romantic and talked quite like ladies and
+            gentlemen about the merits of Sakna and Almás, the two great rival women-singers of
+               <placeName ref="Cairo">Cairo</placeName>. I think the Sheykh wished to display his
+            experiences of fashionable life. </p>
+         <p> The Copts are now fasting and cross. They fast fifty-five days for Lent; no meat, fish,
+            eggs, or milk, no exception for Sundays, no food till after twelve at noon, and no
+            intercourse with the hareem. The only comfort is lots of arrak, and what a Copt can
+            carry decently is an unknown quantity; one seldom sees them drunk, but they imbibe awful
+            quantities. They offer me wine and arrak always, and can’t think why I don’t drink it. I
+            believe they suspect my Christianity in consequence of my preference for Nile water. As
+            to that, though, they scorn all heretics, _i.e._, all Christians but themselves and the
+            Abyssinians, more than they do the Muslims, and dislike them more; the procession of the
+            Holy Ghost question divides us with the Gulf of Jehannum. The gardener of this house is
+            a Copt, such a nice fellow, and he and Omar chaff one another about religion with the
+            utmost good humour; indeed they are seldom touchy with the Moslems. There is a pretty
+            little man called Michaïl, a Copt, vakeel to M. Mounier. I wish I could draw him to show
+            a perfect specimen of the ancient Egyptian race; his blood must be quite unmixed. He
+            came here yesterday to speak to Ali Bey, the Moudir of Keneh, who was visiting me (a
+            splendid handsome Turk he is); so little Michaïl crept in to mention his business under
+            my protection, and a few more followed, till Ali Bey got tired of holding a durbar in my
+            divan and went away to his boat. You see the people think the _courbash_ is not quite so
+            handy with an English spectator. The other day Mustapha A’gha got Ali Bey to do a little
+            job for him—to let the people in the Gezeereh (the island), which is Mustapha’s
+            property, work at a canal there instead of at the canal higher up for the Pasha. Very
+            well, but down comes the Nazir (the Moudir’s _sub_.), and courbashes the whole Gezeereh,
+            not Mustapha, of course, but the poor _fellaheen_ who were doing his corvée instead of
+            the Pasha’s by the Moudir’s order. I went to the Gezeereh and thought that Moses was at
+            work again and had killed a firstborn in every house by the crying and wailing, when up
+            came two fellows and showed me their bloody feet, which their wives were crying over
+            like for a death, _Shorghl el Mizr_—things of Egypt—like _Cosas de España_. </p>
+         <p> _Wednesday_.—Last night I bored Sheykh Yussuf with Antara and Abou-Zeyd, maintaining
+            the greater valour of Antara who slew 10,000 for the love of Ibla; you know Antara.
+            Yussuf looks down on such profanities, and replied, ‘What are Antara and Abou-Zeyd
+            compared to the combats of our Lord Moses with Og and other infidels of might, and what
+            is the love of Antara for Ibla compared to that of our Lord Solomon for Balkees (Queen
+            of Sheba), or their beauty and attractiveness to that of our Lord Joseph?’ And then he
+            related the combat of _Seyyidna Mousa_ with Og; and I thought, ‘hear O ye Puritans, and
+            give ear O ye Methodists, and learn how religion and romance are one to those whose
+            manners and ideas are the manners and ideas of the Bible, and how Moses was not at all a
+            crop-eared Puritan, but a gallant warrior!’ There is the Homeric element in the religion
+            here, the Prophet is a hero like Achilles, and like him directed by God—Allah instead of
+            Athene. He fights, prays, teaches, makes love, and is truly a _man_, not an abstraction;
+            and as to wonderful events, instead of telling one to ‘gulp them down without looking’
+            (as children are told with a nasty dose, and as we are told about Genesis, etc.) they
+            believe them and delight in them, and tell them to amuse people. Such a piece of
+            deep-disguised scepticism as _Credo quia impossibile_ would find no favour here; ‘What
+            is impossible to God?’ settles everything. In short, Mohammed has somehow left the stamp
+            of romance on the religion, or else it is in the blood of the people, though the Koran
+            is prosy and ‘common-sensical’ compared to the Old Testament. I used to think Arabs
+            intensely prosaic till I could understand a little of their language, but now I can
+            trace the genealogy of Don Quixote straight up to some Sheykh-el-Arab. </p>
+         <p> A fine, handsome woman with a lovely baby came to me the other day. I played with the
+            baby, and gave it a cotton handkerchief for its head. The woman came again yesterday to
+            bring me a little milk and some salad as a present, and to tell my fortune with date
+            stones. I laughed, and so she contented herself with telling Omar about his family,
+            which he believed implicitly. She is a clever woman evidently, and a great sibyl here.
+            No doubt she has faith in her own predictions. She told Mme. Mounier (who is a
+            Levantine) that she would never have a child, and was forbidden the house accordingly,
+            and the prophecy has ‘come true.’ Superstition is wonderfully infectious here. The fact
+            is that the Arabs are so intensely impressionable, and so cowardly about inspiring any
+            ill-will, that if a man looks askance at them it is enough to make them ill, and as
+            calamities are not infrequent, there is always some mishap ready to be laid to the
+            charge of somebody’s ‘eye.’ Omar would fain have had me say nothing about the theft of
+            my purse, for fear the Karnac people should hate me and give me the eye. A part of the
+            boasting about property, etc., is politeness, so that one may not be supposed to be
+            envious of one’s neighbours’ nice things. My Sakka (water carrier) admired my bracelet
+            yesterday, as he was watering the verandah floor, and instantly told me of all the gold
+            necklaces and earrings he had bought for his wife and daughters, that I might not be
+            uneasy and fear his envious eye. He is such a good fellow. For two shillings a month he
+            brings up eight or ten huge skins of water from the river a day, and never begs or
+            complains, always merry and civil. I shall enlarge his backsheesh. There are a lot of
+            camels who sleep in the yard under my verandah; they are pretty and smell nice, but they
+            growl and swear at night abominably. I wish I could draw you an Egyptian farm-yard, men,
+            women and cattle; but what no one can draw is the amber light, so brilliant and so soft,
+            not like the Cape diamond sunshine at all, but equally beautiful, hotter and less
+            dazzling. There is no glare in Egypt like in the South of France, and, I suppose, in
+            Italy. </p>
+         <p> _Thursday_.—I went yesterday afternoon to the island again to see the crops, and show
+            Sally my friend farmer Omar’s house and Mustapha’s village. Of course we had to eat, and
+            did not come home till the moon had long risen. Mustapha’s brother Abdurachman walked
+            about with us, such a noble-looking man, tall, spare, dignified and active, grey-bearded
+            and hard-featured, but as lithe and bright-eyed as a boy, scorning any conveyance but
+            his own feet, and quite dry while we ‘ran down.’ He was like Boaz, the wealthy gentleman
+            peasant—nothing except the Biblical characters gave any idea of the rich _fellah_. We
+            sat and drank new milk in a ‘lodge in a garden of cucumbers’ (the ‘lodge’ is a neat hut
+            of palm branches), and saw the moon rise over the mountains and light up everything like
+            a softer sun. Here you see all colours as well by moonlight as by day; hence it does not
+            look as brilliant as the Cape moon, or even as I have seen in Paris, where it throws
+            sharp black shadows and white light. The night here is a tender, subdued, dreamy sort of
+            enchanted-looking day. My Turkish acquaintance from Karnac has just been here; he
+            boasted of his house in Damascus, and invited me to go with him after the harvest here,
+            also of his beautiful wife in Syria, and then begged me not to mention her to his wives
+            here. </p>
+         <p> It is very hot now; what will it be in June? It is now 86° in my shady room at noon; it
+            will be hotter at two or three. But the mornings and evenings are delicious. I am
+            shedding my clothes by degrees; stockings are unbearable. Meanwhile my cough is almost
+            gone, and the pain is quite gone. I feel much stronger, too; the horrible feeling of
+            exhaustion has left me; I suppose I must have salamander blood in my body to be made
+            lively by such heat. Sally is quite well; she does not seem at all the worse at present. </p>
+         <p> _Saturday_.—This will go to-morrow by some travellers, the last winter swallows. We
+            went together yesterday to the Tombs of the Kings on the opposite bank. The mountains
+            were red-hot, and the sun went down into Amenti all on fire. We met Mr. Dümmichen, the
+            German, who is living in the temple of Dayr el-Bahree, translating inscriptions, and
+            went down Belzoni’s tomb. Mr. Dümmichen translated a great many things for us which were
+            very curious, and I think I was more struck with the beauty of the drawing of the
+            figures than last year. The face of the Goddess of the Western shore, Amenti, Athor, or
+            Hecate, is ravishing as she welcomes the King to her regions; death was never painted so
+            lovely. The road is a long and most wild one—truly through the valley of the shadow of
+            death—not an insect nor a bird. Our moonlight ride home was beyond belief beautiful. The
+            Arabs who followed us were immensely amused at hearing me interpret between German and
+            English, and at my speaking Arabic; they asked if I was dragoman of all the languages in
+            the world. One of them had droll theories about ‘Amellica’ (America), as they pronounce
+            it always. Was the King very powerful that the country was called ‘_Al Melekeh_’ (the
+            Kings)? I said, ‘No: all are Kings there: you would be a King like the rest.’ My friend
+            disapproved utterly: ‘If all are Kings they must all be taking away every man the
+            other’s money’—a delightful idea of the kingly vocation. </p>
+         <p> When we landed on the opposite shore, I told little Achmet to go back in the
+            ferry-boat, in which he had brought me over my donkey; a quarter of an hour after I saw
+            him by my side. The guide asked why he had not gone as I told him. ‘Who would take care
+            of the lady?’ the monkey is Rainie’s size. Of course he got tired, and on the way home I
+            told him to jump up behind me _en croupe_ after the Fellah fashion. I thought the Arabs
+            would never have done laughing and saying _Wallah_ and _Mashallah_. Sheykh Yussuf talked
+            about the excavations, and is shocked at the way the mummies are kicked about. One boy
+            told him they were not Muslims as an excuse, and he rebuked him severely, and told him
+            it was _haraam_ (accursed) to do so to the children of Adam. He says they have learned
+            it very much of Mariette Bey, but I suspect it was always so with the fellaheen. To-day
+            a tremendous wind is blowing; excellent for the corn. At Mustapha’s farm they are
+            preparing for the harvest, baking bread and selecting a young bull to be killed for the
+            reapers. It is not hot to-day; only 84° in a cool room. The dust is horrid with this
+            high wind; everything is gritty, and it obscures the sun. I am desired to eat a raw
+            onion every day during the Khamseen for health and prosperity. This too must be a
+            remnant of ancient Egypt. How I do long to see you and the children. Sometimes I feel
+            rather down-hearted, but it is no good to say all that. And I am much better and
+            stronger. I stood a long ride and some scrambling quite well last evening.</p>
+      </body>
+   </text>
+</TEI>

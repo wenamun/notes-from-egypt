@@ -1,0 +1,107 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, LUXOR, February 26, 1864.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/31">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <settlement ref="http://www.geonames.org/360502">Luxor</settlement>
+               <date when="1864-02-26">26 February 1864</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/315623459">Sir Alexander Duff Gordon</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> I have just received your letter of the 3rd inst., and am glad to get such good
+            tidings. You would be amused to see Omar bring me a letter and sit down on the floor
+            till I tell him the family news, and then _Alhamdulillah_, we are so pleased, and he
+            goes off to his pots and pans again. Lord and Lady Spencer are here, and his sister, in
+            two boats. The English ‘Milord,’ extinct on the Continent, has revived in Egypt, and is
+            greatly reverenced and usually much liked. ‘These high English have mercy in their
+            stomachs,’ said one of my last year’s sailors who came to kiss my hand—a pleasing fact
+            in natural history! _Fee wahed Lord_, was little ragged Achmet’s announcement of Lord
+            Spencer—‘Here’s a Lord.’ They are very pleasant people. I heard from Janet to-day of
+            _ice_ at <placeName ref="Cairo">Cairo</placeName> and at Shoubra, and famine prices. I
+            cannot attempt <placeName ref="Cairo">Cairo</placeName> with meat at 1s. 3d. a pound,
+            and will e’en stay here and grill at Thebes. Marry-come-up with your Thebes and
+            savagery! What if we _do_ wear ragged brown shirts? ‘’Tis manners makyth man,’ and we
+            defy you to show better breeding. </p>
+         <p> We are now in the full enjoyment of summer weather; there has been no cold for fully a
+            fortnight, and I am getting better every day now. My cough has quite subsided, and the
+            pain in the chest much diminished; if the heat does not overpower me I feel sure it will
+            be very healing to my lungs. I sit out on my glorious balcony and drink the air from
+            early morning till noon, when the sun comes upon it and drives me under cover. The
+            thermometer has stood at 64° for a fortnight or three weeks, rising sometimes to 67°,
+            but people in the boats tell me it is still cold at night on the river. Up here, only a
+            stone’s-throw from it, it is warm all night. I fear the loss of cattle has suspended
+            irrigation to a fearful extent, and that the harvests of Lower Egypt of all kinds will
+            be sadly scanty. The disease has not spread above Minieh, or very slightly; but, of
+            course, cattle will rise in price here also. Already food is getting dearer here; meat
+            is 4½ piastres—7d.—the _rötl_ (a fraction less than a pound), and bread has risen
+            considerably—I should say corn, for no bakers exist here. I pay a woman to grind and
+            bake my wheat which I buy, and delicious bread it is. It is impossible to say how
+            exactly like the early parts of the Bible every act of life is here, and how totally new
+            it seems when one reads it here. Old Jacob’s speech to Pharaoh really made me laugh
+            (don’t be shocked), because it is so exactly what a fellah says to a Pasha: ‘Few and
+            evil have been the days,’ etc. (Jacob being a most prosperous man); but it is manners to
+            say all that, and I feel quite kindly to Jacob, whom I used to think ungrateful and
+            discontented; and when I go to Sidi Omar’s farm, does he not say, ‘Take now fine meal
+            and bake cakes quickly,’ and wants to kill a kid? _Fateereh_ with plenty of butter is
+            what the ‘three men’ who came to Abraham ate; and the way that Abraham’s chief memlook,
+            acting as Vakeel, manages Isaac’s marriage with Rebekah! All the vulgarized associations
+            with Puritanism and abominable little ‘Scripture tales and pictures’ peel off here, and
+            the inimitably truthful representation of life and character—not a flattering one
+            certainly—comes out, and it feels like Homer. Joseph’s tears and his love for the
+            brother born of the _same mother_ is so perfect. Only one sees what a bad inferior race
+            the Beni Israel were compared to the Beni Ishmael or to the Egyptians. Leviticus and
+            Deuteronomy are so very heathenish compared to the law of the Koran, or to the early
+            days of Abraham. Verily the ancient Jews were a foul nation, judging by the police
+            regulations needful for them. Please don’t make these remarks public, or I shall be
+            burnt with Stanley and Colenso (unless I suffer Sheykh Yussuf to propose me El-Islam).
+            He and M. de Rougé were here last evening, and we had an Arabic _soirée_. M. de Rougé
+            speaks admirably, quite like an Alim, and it was charming to see Sheykh Yussuf’s pretty
+            look of grateful pleasure at finding himself treated like a gentleman and a scholar by
+            two such eminent Europeans; for I (as a woman) am quite as surprising as even M. de
+            Rougé’s knowledge of hieroglyphics and Arabic _Fosseeha_. It is very interesting to see
+            something of Arabs who have read and have the ‘gentleman’ ideas. His brother, the Imam,
+            has lost his wife; he was married twenty-two years, and won’t hear of taking another. I
+            was struck with the sympathy he expressed with the English Sultana, as all the
+            uneducated people say, ‘Why doesn’t she marry again?’ It is curious how refinement
+            brings out the same feelings under all ‘dispensations.’ I apologized to Yussuf for
+            inadvertently returning the _Salaam aleykoum_ (Peace be with thee), which he said to
+            Omar, and which I, as an unbeliever, could not accept. He coloured crimson, touched my
+            hand and kissed his own, quite distressed lest the distinction might wound me. When I
+            think of a young parsonic prig at home I shudder at the difference. But Yussuf is
+            superstitious; he told me how someone down the river cured his cattle with water poured
+            over a _Mushaf_ (a copy of the Koran), and has hinted at writing out a chapter for me to
+            wear as a _hegab_ (an amulet for my health). He is interested in the antiquities and in
+            M. de Rougé’s work, and is quite up to the connection between Ancient Egypt and the
+            books of Moses, exaggerating the importance of _Seyidna Moussa_, of course. </p>
+         <p> If I go down to <placeName ref="Cairo">Cairo</placeName> again I will get letters to
+            some of the Alim there from Abd-el-Waris, the Imam here, and I shall see what no
+            European but Lane has seen. I think things have altered since his day, and that men of
+            that class would be less inaccessible than they were then; and then a woman who is old
+            (Yussuf guessed me at sixty) and educated does not shock, and does interest them. All
+            the Europeans here are traders, and only speak the vulgarest language, and don’t care to
+            know Arab gentlemen; if they see anything above their servants it is only Turks, or Arab
+            merchants at times. Don’t fancy that I can speak at all decently yet, but I understand a
+            good deal, and stammer out a little.</p>
+      </body>
+   </text>
+</TEI>

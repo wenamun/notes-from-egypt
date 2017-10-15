@@ -1,0 +1,152 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, LUXOR, March 30, 1865.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/55">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <settlement ref="http://www.geonames.org/360502">Luxor</settlement>
+               <date when="1865-03-20">30 March 1865</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/315623459">Sir Alexander Duff Gordon</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> I have just received your letter of March 3 with one from Janet, which shows of how
+            little moment the extermination of four villages is in this country, for she does not
+            allude to our revolt and evidently has not heard of it. </p>
+         <p> In my last letter to Mutter I told how one Achmet et Tayib, a mad darweesh had raised a
+            riot at Gau below Keneh and how a boat had been robbed and how we were all rather
+            looking out for a _razzia_ and determined to fight Achmet et Tayib and his followers.
+            Then we called them _harámee_ (wicked ones) and were rather blood-thirstily disposed
+            towards them and resolved to keep order and protect our property. But now we say _nas
+            messakeen_ (poor people) and whisper to each other that God will not forget what the
+            Pasha has done. The truth of course we shall never know. But I do know that one Pasha
+            said he had hanged five hundred, and another that he had sent three hundred to Fazoghlou
+            (_comme qui dirait Cayenne_) and all for the robbery of one Greek boat in which only the
+            steersman was killed. I cannot make out that anything was done by the ‘insurgents’
+            beyond going out into the desert to listen to the darweesh’s nonsense, and ‘see a reed
+            shaken by the wind;’ the party that robbed the boat was, I am told, about forty strong.
+            But the most horrid stories are current among the people of the atrocities committed on
+            the wretched villagers by the soldiers. Not many were shot, they say, and they attempted
+            no resistance, but the women and girls were outraged and murdered and the men hanged and
+            the steamers loaded with plunder. The worst is that every one believes that the
+            Europeans aid and abet, and all declare that the Copts were spared to please the
+            _Frangees_. Mind I am not telling you _facts_ only what the people are saying—in order
+            to show you their feelings. One most respectable young man sat before me on the floor
+            the other day and told me what he had heard from those who had come up the river.
+            Horrible tales of the stench of the bodies which are left unburied by the Pasha’s
+            order—of women big with child ripped open, etc., etc. ‘Thou knowest oh! our Lady, that
+            we are people of peace in this place, and behold now if one madman should come and a few
+            idle fellows go out to the mountain (desert) with him, Effendina will send his soldiers
+            to destroy the place and spoil our poor little girls and hang us—is that right, oh Lady
+            and Achmet el-Berberi saw Europeans with hats in the steamer with Effendina and the
+            soldiers. Truly in all the world none are miserable like us Arabs. The Turks beat us,
+            and the Europeans hate us and say _quite right_. By God, we had better lay down our
+            heads in the dust (die) and let the strangers take our land and grow cotton for
+            themselves. As for me I am tired of this miserable life and of fearing for my poor
+            little girls.’ </p>
+         <p> Mahommed was really eloquent, and when he threw his _melayeh_ over his face and sobbed,
+            I am not ashamed to say that I cried too. I know very well that Mahommed was not quite
+            wrong in what he says of the Europeans. I know the cruel old platitudes about governing
+            Orientals by fear which the English pick up like mocking birds from the Turks. I know
+            all about ‘the stick’ and ‘vigour’ and all that—but—‘I sit among the people’ and I know
+            too that Mohammed feels just as John Smith or Tom Brown would feel in his place, and
+            that men who were very savage against the rioters in the beginning, are now almost in a
+            humour to rise against the Turks themselves just exactly as free-born Britons might be.
+            There are even men of the class who have something to lose who express their disgust
+            very freely. </p>
+         <p> I saw the steamer pass up to Fazoghlou but the prisoners were all below. The Sheykh of
+            the Abab’deh here has had to send a party of his men to guard them through the desert.
+            Altogether this year is miserable in Egypt. I have not once heard the _zaghareet_. Every
+            one is anxious and depressed, and I fear hungry, the land is parched from the low Nile,
+            the heat has set in six weeks earlier than usual, the animals are scarecrows for want of
+            food, and now these horrid stories of bloodshed and cruelty and robbery (for the Pasha
+            takes the lands of these villages for his own) have saddened every face. I think Hajjee
+            Ali is right and that there will be more disturbances. If there are they will be caused
+            by the cruelty and oppression at Gau and the three neighbouring villages. From Salamieh,
+            two miles above Luxor, every man woman and child in any degree kin to Achmet et-Tayib
+            has been taken in chains to Keneh and no one here expects to see one of them return
+            alive. Some are remarkably good men, I hear, and I have heard men say ‘if Hajjee Sultan
+            is killed and all his family we will never do a good action any more, for we see it is
+            of no use.’ </p>
+         <p> There was a talk among the three or four Europeans here at the beginning of the rumours
+            of a revolt of organizing a defence among Christians only. Conceive what a silly and
+            gratuitous provocation! There was no religion in the business at all and of course the
+            proper person to organize defence was the Maōhn, and he and Mustapha and others had
+            planned using my house as a castle and defending that in case of a visit from the
+            rioters. I have no doubt the true cause of the row is the usual one—hunger—the high
+            price of food. It was like our Swing, or bread riots, nothing more and a very feeble
+            affair too. It is curious to see the travellers’ gay dahabiehs just as usual and the
+            Europeans as far removed from all care or knowledge of the distresses as if they were at
+            home. When I go and sit with the English I feel almost as if they were foreigners to me
+            too, so completely am I now _Dint el-Beled_ (daughter of the country) here. </p>
+         <p> I dined three days running with the Kevenbrincks and one day after dinner we sent for a
+            lot of Arab Sheykhs to come for coffee—the two Abab’deh and a relation of theirs from
+            Khartoum, the Sheykh of Karnac, one Mohammed a rich fellah, and we were joined by the
+            A’gha of Halim Pasha’s Hareem, and an ugly beast he is. The little Baroness won all
+            hearts. She is a regular _vif argent_ or as we say _Efreeteh_ and to see the dark faces
+            glittering with merry smiles as they watched her was very droll. I never saw a human
+            being so thoroughly amused as the black Sheykh from the Soudan. Next day we dined at the
+            Austrian agent’s and the Baroness at last made the Maōhn dance a polka with her while
+            the agent played the guitar. There were a lot of Copts about who nearly died of laughing
+            and indeed so did I. Next day we had a capital dinner at Mustapha’s, and the two
+            Abab’deh Sheykhs, the Sheykh of Karnac, the Maōhn and Sheykh Yussuf dined with us. The
+            Sheykh of Karnac gave a grand performance of eating like a Bedawee. I have heard you
+            talk of _tripas elasticas_ in Spain but _Wallahi_! anything like the performance of
+            Sheykh Abdallah none but an eyewitness could believe. How he plucked off the lamb’s head
+            and handed it to me in token of the highest respect, and how the bones cracked beneath
+            his fingers—how huge handfuls of everything were chucked right down his throat all
+            scorching hot. I encouraged him of course, quoting the popular song about ‘doing deeds
+            that Antar did not’ and we all grew quite uproarious. When Sheykh Abdallah asked for
+            drink, I cried ‘bring the _ballaree_ (the big jar the women fetch water in) for the
+            Sheykh,’ and Sheykh Yussuf compared him to Samson and to Og, while I more profanely told
+            how Antar broke the bones and threw them about. The little Baroness was delighted and
+            only expressed herself hurt that no one had crammed anything into her mouth. I told the
+            Maōhn her disappointment which caused more laughter as such a custom is unknown here,
+            but he of course made no end of sweet speeches to her. After dinner she showed the Arabs
+            how ladies curtsey to the Queen in England, and the Abab’deh acted the ceremonial of
+            presentation at the court of Darfour, where you have to rub your nose in the dust at the
+            King’s feet. Then we went out with lanterns and torches and the Abab’deh did the sword
+            dance for us. Two men with round shields and great straight swords do it. One dances a
+            _pas seul_ of challenge and defiance with prodigious leaps and pirouettes and Hah! Hahs!
+            Then the other comes and a grand fight ensues. When the handsome Sheykh Hassan (whom you
+            saw in <placeName ref="Cairo">Cairo</placeName>) bounded out it really was heroic. All
+            his attitudes were alike grand and graceful. They all wanted Sheykh Yussuf to play
+            _el-Neboot_ (single stick) and said he was the best man here at it, but his sister was
+            not long dead and he could not. Hassan looks forward to Maurice’s coming here to teach
+            him ‘the fighting of the English.’ How Maurice would pound him! </p>
+         <p> On the fourth night I went to tea in Lord Hopetoun’s boat and their sailors gave a
+            grand _fantasia_ excessively like a Christmas pantomime. One danced like a woman, and
+            there was a regular pantaloon only ‘more so,’ and a sort of clown in sheepskin and a
+            pink mask who was duly tumbled about, and who distributed _claques_ freely with a huge
+            wooden spoon. It was very good fun indeed, though it was quite as well that the ladies
+            did not understand the dialogue, or that part of the dance which made the Maōhn roar
+            with laughter. The Hopetouns had two handsome boats and were living like in May Fair. I
+            am so used now to our poor shabby life that it makes quite a strange impression on me to
+            see all that splendour—splendour which a year or two ago I should not even have
+            remarked—and thus out of ‘my inward consciousness’ (as Germans say), many of the
+            peculiarities and faults of the people of Egypt are explained to me and accounted for. </p>
+         <p> _April_ 2.—It is so dreadfully hot and dusty that I shall rather hasten my departure if
+            I can. The winds seem to have begun, and as all the land which last year was green is
+            now desert and dry the dust is four times as bad. If I hear that Ross has bought and
+            sent up a dahabieh I will wait for that, if not I will go in three weeks if I can.</p>
+      </body>
+   </text>
+</TEI>

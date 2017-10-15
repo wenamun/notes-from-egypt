@@ -1,0 +1,56 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mrs. Austin, ALEXANDRIA, November 2, 1865.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/63">
+         <correspAction type="sent">
+            <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+            <date when="1865-11-02">2 November 1865</date>
+            <settlement ref="http://www.geonames.org/361058">Alexandria</settlement>
+         </correspAction>
+         <correspAction type="received">
+            <persName ref="https://viaf.org/viaf/59830344">Sarah Austin</persName>
+         </correspAction>
+      </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST MUTTER, </p>
+         <p> The boat like all other things goes but slowly—however the weather here is unusually
+            dry and fine. </p>
+         <p> I have just been to see my poor friend Sittee Zubeydeh, widow of Hassaneyn Effendi who
+            died in England—and I am filled with admiration at her good sense and courage. She has
+            determined to carry on her husband’s business of letting boats herself, and to educate
+            her children to the best of her power in habits of independence. I hope she will be
+            successful, and receive the respect such rare conduct in a Turkish woman deserves from
+            the English. I was much gratified to hear from her how kindly she had been treated in
+            Glasgow. She said that nothing that could be done for her was left undone. She arrived
+            this morning and I went to see her directly and was really astonished at all she said
+            about her plans for herself and her children. Poor thing! it is a sad blow—for she and
+            Hassaneyn were as thoroughly united as any Europeans could be. </p>
+         <p> I went afterwards to my boat, which I hope will be done in five or six days. I am
+            extremely impatient to be off. She will be a most charming boat—both comfortable and
+            pretty. The boom for the big sail is new—and I exclaimed, ‘why you have broken the new
+            boom and mended it with leather!’ Omar had put on a _sham splice_ to avert the evil eye
+            from such a fine new piece of wood! Of course I dare not have the blemish renewed or
+            _gare_ the first puff of wind—besides it is too characteristic. </p>
+         <p> There is some cholera about again, I hear—ten deaths yesterday—so Olagnier tells me. I
+            fancy the rush of Europeans back again, each bringing ‘seven other devils worse than
+            himself’ is the cause of it. </p>
+         <p> I think I am beginning to improve a little; my cough has been terribly harassing
+            especially at night—but the weather is very good, cool, and not damp.</p>
+      </body>
+   </text>
+</TEI>

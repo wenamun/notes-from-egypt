@@ -1,0 +1,130 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mrs. Austin, LUXOR, March 6, 1867.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/97">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <date when="1867-03-06">6 March 1867</date>
+               <settlement ref="http://www.geonames.org/360502">Luxor</settlement>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/59830344">Sarah Austin</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST MUTTER, </p>
+         <p> The warm weather has set in, and I am already as much the better for it as usual. I had
+            a slight attack, not nearly so bad as that at Soden, but it lingered and I kept my bed
+            as a measure of precaution. Dear Yussuf was with me the evening I was attacked, and sat
+            up all night to give me my medicine every hour. At the prayer of dawn, an hour and a
+            half before sunrise, I heard his supplications for my life and health, and for you and
+            all my family; and I thought of what I had lately read, how the Greeks massacred their
+            own patriots because the Turks had shown them mercy—a display of temper which I hope
+            will enlighten Western Christendom as to what the Muslims have to expect, if they (the
+            Western Christians) help the Eastern Christians to get the upper hand. Yussuf was asking
+            about a lady the other day who has turned Catholic. ‘Poor thing,’ said he, ‘the priests
+            have drawn out her brains through her ears, no doubt: but never fear, her heart is good
+            and her charity is great, and God will not deal hardly with those who serve Him with
+            their hearts, though it is sad she should bow down before images. But look at thy slave
+            Mabrook, can he understand one hundredth part of the thoughts of thy mind?
+            Never-the-less he loves thee, and obeys thee with pleasure and alacrity; and wilt thou
+            punish him because he knows not all thy ways? And shall God, who is so much higher above
+            us as thou art above thy slave, be less just than thou?’ I pinned him at once, and
+            insisted on knowing the orthodox belief; but he quoted the Koran and the decisions of
+            the Ulema to show that he stretched no point as far as Jews and Christians are
+            concerned, and even that idolaters are not to be condemned by man. Yussuf wants me to
+            write a short account of the faith from his dictation. Would anyone publish it? It
+            annoys him terribly to hear the Muslims constantly accused of intolerance, and he is
+            right—it is not true. They show their conviction that their faith is the best in the
+            world with the same sort of naïveté that I have seen in very innocent and ignorant
+            English women; in fact, display a sort of religious conceit; but it is not often bitter
+            or _haineux_, however much they are in earnest. </p>
+         <p> I am going to write to Palgrave and ask him to let me send another boy or the money for
+            Mabrook, who can’t endure the notion of leaving me. Achmet, who was always hankering
+            after the fleshpots of Alexandria, got some people belonging to the boats to promise to
+            take him, and came home and picked a quarrel and departed. Poor little chap; the Sheykh
+            el-Beled ‘put a spoke in his wheel’ by informing him he would be wanted for the Pasha’s
+            works and must stay in his own place. Since he went Mabrook has come out wonderfully and
+            does his own work and Achmet’s with the greatest satisfaction. He tells me he likes it
+            best so; he likes to be quiet. He just suits me and I him, it is humiliating to find how
+            much more I am to the taste of savages than of the ‘polite circles.’ </p>
+         <p> The old lady of the Maōhn proposed to come to me, but I would not let her leave her
+            home, which would be quite an adventure to her. I knew she would be exclamatory, and
+            lament over me, and say every minute, ‘Oh my liver. Oh my eyes! The name of God be upon
+            thee, and never mind! to-morrow please God, thou wilt be quite well,’ and so forth.
+            People send me such odd dishes, some very good. Yussuf’s wife packed two calves’ feet
+            tight in a little black earthern pan, with a seasoning of herbs, and baked it in the
+            bread oven, and the result was excellent. Also she made me a sort of small macaroni,
+            extremely good. Now too we can get milk again, and Omar makes _kishta_, alias clotted
+            cream. </p>
+         <p> Do send me a good edition of the ‘Arabian Nights’ in Arabic, and I should much like to
+            give Yussuf Lane’s Arabic dictionary. He is very anxious to have it. I can’t read the
+            ‘Arabian Nights,’ but it is a favourite amusement to make one of the party read aloud; a
+            stray copy of ‘Kamar ez-Zeman and Sitt Boodoora’ went all round Luxor, and was much
+            coveted for the village _soirées_. But its owner departed, and left us to mourn over the
+            loss of his MSS. </p>
+         <p> I must tell you a black standard of respectability (it is quite equal to the English
+            one of the gig, or the ham for breakfast). I was taking counsel with my friend Rachmeh,
+            a negro, about Mabrook, and he urged me to buy him of Palgrave, because he saw that the
+            lad really loved me. ‘Moreover,’ he said, ‘the boy is of a respectable family, for he
+            told me his mother wore a cow’s tail down to her heels (that and a girdle to which the
+            tail is fastened, and a tiny leathern apron in front, constituted her whole wardrobe),
+            and that she beat him well when he told lies or stole his neighbours eggs.’ Poor woman;
+            I wish this abominable slave trade had spared her and her boy. What folly it is to stop
+            the Circassian slave trade, if it is stopped, and to leave this. The Circassians take
+            their own children to market, as a way of providing for them handsomely, and both boys
+            and girls like being sold to the rich Turks; but the blacks and Abyssinians fight hard
+            for their own liberty and that of their cubs. Mabrook swears that there were two
+            Europeans in the party which attacked his village and killed he knew not how many, and
+            carried him and others off. He was not stolen by Arabs, or by Barrabias, like Hassan,
+            but taken in war from his home by the seaside, a place called Bookee, and carried in a
+            ship to Jedda, and thence back to Koseir and Keneh, where Palgrave bought him. I must
+            say that once here the slaves are happy and well off, but the waste of life and the
+            misery caused by the trade must be immense. The slaves are coming down the river by
+            hundreds every week, and are very cheap—twelve to twenty pounds for a fine boy, and nine
+            pounds and upwards for a girl. I heard that the last _gellab_ offered a woman and baby
+            for anything anyone would give for them, on account of the trouble of the baby.
+            By-the-bye, Mabrook displays the negro talent for babies. Now that Achmet is gone, who
+            scolded them and drove them out, Mohammed’s children, quite babies, are for ever
+            trotting after ‘Maboo,’ as they pronounce his name, and he talks incessantly to them. It
+            reminds me so of Janet and poor Hassan, but Mabrook is not like Hassan, he is one of the
+            sons of Anak, and already as big and strong as a man, with the most prodigious chest and
+            limbs. </p>
+         <p> Don’t be at all uneasy about me as to care. Omar knows exactly what to do as he showed
+            the other day when I was taken ill. I had shown him the medicines and given him
+            instructions so I had not even to speak, and if I were to be ill enough to want more
+            help, Yussuf would always sit up alternate nights; but it is not necessary. Arabs make
+            no grievance about broken rest; they don’t ‘go to bed properly,’ but lie down half
+            dressed, and have a happy faculty of sleeping at odd times and anyhow, which enables
+            them to wait on one day and night, without distressing themselves as it distresses us. </p>
+         <p> _Thursday_.—A telegram has just come announcing that Janet will leave <placeName ref="Cairo">Cairo</placeName> to-morrow in a steamer, and therefore be here,
+            Inshallah, this day week. I enclose a note from a Copt boy, which will amuse you. He is
+            ‘sapping’ at English, and I teach him whenever I am able. I am a special favourite with
+            all the young lads; they must not talk much before grown men, so they come and sit on
+            the floor round my feet, and ask questions and advice, and enjoy themselves amazingly.
+            Hobble-de-hoy-hood is very different here from what it is with us; they care earlier for
+            the affairs of the grown-up world, and are more curious and more polished, but lack the
+            fine animal gaiety of our boys. The girls are much more _gamin_ than the boys, and more
+            romping and joyous. </p>
+         <p> It is very warm now. I fear Janet will sigh terribly over the heat. They have left
+            their voyage too late for such as do not love the Shems el-Kebeer (the big sun), which
+            has just begun. I who worship Ammun Ra, love to feel him in his glory. It is long since
+            I had any letters, I want so to hear how you all are.</p>
+      </body>
+   </text>
+</TEI>

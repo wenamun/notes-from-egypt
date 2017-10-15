@@ -1,0 +1,139 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, ON BOARD THE STEAMER, NEAR SIOUT, Sunday, January 3, 1864.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/24">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <settlement ref="http://www.geonames.org/359783">Asyūţ</settlement>
+               <date when="1864-01-03">3 January 1864</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/315623459">Sir Alexander Duff Gordon</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> We left <placeName ref="Cairo">Cairo</placeName> last Sunday morning, and a wonderfully
+            queer company we were. I had been promised all the steamer to myself, but owing to
+            Ismail Pasha’s caprices our little steamer had to do the work of three—_i.e._, to carry
+            passengers, to tow M. Mounier’s dahabieh, and to tow the oldest, dirtiest, queerest
+            Nubian boat, in which the young son of the Sultan of Darfoor and the Sultan’s envoy, a
+            handsome black of Dongola (not a negro), had visited Ismail Pasha. The best cabin was
+            taken by a sulky old one-eyed Turkish Pasha, so I had the fore-cabin, luckily a large
+            one, where I slept with Sally on one divan and I on the other, and Omar at my feet. He
+            tried sleeping on deck, but the Pasha’s Arnouts were too bad company, and the captain
+            begged me to ‘cover my face’ and let my servant sleep at my feet. Besides, there was a
+            poor old asthmatic Turkish Effendi going to collect the taxes, and a lot of women in the
+            engine-room, and children also. It would have been insupportable but for the hearty
+            politeness of the Arab captain, a regular ‘old salt,’ and owing to his attention and
+            care it was only very amusing. </p>
+         <p> At Benisouef, the first town above <placeName ref="Cairo">Cairo</placeName> (seventy
+            miles), we found no coals: the Pasha had been up and taken them all. So we kicked our
+            heels on the bank all day, with the prospect of doing so for a week. The captain brought
+            H.R.H. of Darfoor to visit me, and to beg me to make him hear reason about the delay, as
+            I, being English, must know that a steamer could not go without coals. H.R.H. was a
+            pretty imperious little nigger about eleven or twelve, dressed in a yellow silk kuftan
+            and a scarlet burnous, who cut the good old captain short by saying, ‘Why, she is a
+            woman; she can’t talk to me.’ ‘Wallah! wallah! what a way to talk to English Hareem!’
+            shrieked the captain, who was about to lose his temper; but I had a happy idea and
+            produced a box of French sweetmeats, which altered the young Prince’s views at once. I
+            asked if he had brothers. ‘Who can count them? they are like mice.’ He said that the
+            Pasha had given him only a few presents, and was evidently not pleased. Some of his
+            suite are the most formidable-looking wild beasts in human shape I ever beheld—bulldogs
+            and wild-boars black as ink, red-eyed, and, ye gods! such jowls and throats and
+            teeth!—others like monkeys, with arms down to their knees. </p>
+         <p> The Illyrian Arnouts on board our boat are revoltingly white—like fish or drowned
+            people, no pink in the tallowy skin at all. There were Greeks also who left us at Minieh
+            (second large town), and the old Pasha left this morning at Rodah. The captain at once
+            ordered all my goods into the cabin he had left and turned out the Turkish Effendi, who
+            wanted to stay and sleep with us. No impropriety! he said he was an old man and sick,
+            and my company would be agreeable to him; then he said he was ashamed before the people
+            to be turned out by an English woman. So I was civil and begged him to pass the day and
+            to dine with me, and that set all right, and now after dinner he has gone off quite
+            pleasantly to the fore-cabin and left me here. I have a stern-cabin, a saloon and an
+            anteroom here, so we are comfortable enough—only the fleas! Never till now did I know
+            what fleas could be; even Omar groaned and tossed in his sleep, and Sally and I woke
+            every ten minutes. Perhaps this cabin may be better, some fleas may have landed in the
+            beds of the Turks. I send a dish from my table every day henceforth to the captain; as I
+            take the place of a Pasha it is part of my dignity to do so; and as I occupy the kitchen
+            and burn the ship’s coals, I may as well let the captain dine a little at my expense. In
+            the day I go up and sit in his cabin on deck, and we talk as well as we can without an
+            interpreter. The old fellow is sixty-seven, but does not look more than forty-five. He
+            has just the air and manner of a seafaring-man with us, and has been wrecked four
+            times—the last in the Black Sea during the Crimean War, when he was taken prisoner by
+            the Russians and sent to Moscow for three years, until the peace. He has a charming boy
+            of eleven with him, and he tells me he has twelve children in all, but only one wife,
+            and is as strict a monogamist as Dr. Primrose, for he told me he should not marry again
+            if she died, nor he believed would she. He is surprised at my gray hair. </p>
+         <p> There are a good many Copts on board too, of a rather low class and not pleasant. The
+            Christian gentlemen are very pleasant, but the low are _low_ indeed compared to the
+            Muslimeen, and one gets a feeling of dirtiness about them to see them eat all among the
+            coals, and then squat there and pull out their beads to pray without washing their hands
+            even. It does look nasty when compared to the Muslim coming up clean washed, and
+            standing erect and manly—looking to his prayers; besides they are coarse in their
+            manners and conversation and have not the Arab respect for women. I only speak of the
+            common people—not of educated Copts. The best fun was to hear the Greeks (one of whom
+            spoke English) abusing the Copts—rogues, heretics, schismatics from the Greek Church,
+            ignorant, rapacious, cunning, impudent, etc., etc. In short, they narrated the whole
+            fable about their own sweet selves. I am quite surprised to see how well these men
+            manage their work. The boat is quite as clean as an English boat as crowded could be
+            kept, and the engine in beautiful order. The head-engineer, Achmet Effendi, and indeed
+            all the crew and captain too, wear English clothes and use the universal ‘All right,
+            stop her—fooreh (full) speed, half speed—turn her head,’ etc. I was delighted to hear
+            ‘All right—go ahead—_el-Fathah_’ in one breath. Here we always say the _Fathah_ (first
+            chapter of the Koran, nearly identical with the Lord’s Prayer) when starting on a
+            journey, concluding a bargain, etc. The combination was very quaint. There are rats and
+            fleas on board, but neither bugs nor cockroaches. Already the climate has changed, the
+            air is sensibly drier and clearer and the weather much warmer, and we are not yet at
+            Siout. I remarked last year that the climate changed most at Keneh, forty miles below
+            Thebes. The banks are terribly broken and washed away by the inundation, and the Nile
+            far higher even now than it was six weeks earlier last year. </p>
+         <p> At Benisouef, which used to be the great cattle place, not a buffalo was left, and we
+            could not get a drop of milk. But since we left Minieh we see them again, and I hear the
+            disease is not spreading up the river. Omar told me that the poor people at Benisouef
+            were complaining of the drought and prospect of scarcity, as they could no longer water
+            the land for want of oxen. I paid ten napoleons passage-money, and shall give four or
+            five more as backsheesh, as I have given a good deal of trouble with all my luggage,
+            beddings, furniture, provisions for four months, etc., and the boat’s people have been
+            more than civil, really kind and attentive to us; but a bad dahabieh would have cost
+            forty, so I am greatly the gainer. Nothing can exceed the muddle, uncertainty and
+            carelessness of the ‘administration’ at <placeName ref="Cairo">Cairo</placeName>: no
+            coals at the depots, boats announced to sail and dawdling on three weeks, no order and
+            no care for anybody’s convenience but the Pasha’s own. But the subordinates on board the
+            boats do their work perfectly well. We go only half as quickly as we ought because we
+            have two very heavy dahabiehs in tow instead of one; but no time is lost, as long as the
+            light lasts we go, and start again as soon as the moon rises. The people on board have
+            promoted me in rank—and call me ‘el-Ameereh,’ an obsolete Arab title which the engineer
+            thinks is the equivalent of ‘Ladysheep,’ as he calls it. ‘Sitti,’ he said, was the same
+            as ‘Meessees.’ I don’t know how he acquired his ideas on the subject of English
+            precedence. </p>
+         <p> Omar has just come in with coffee, and begs me to give his best salaam to his big
+            master and his little master and lady, and not to forget to tell them he is their
+            servant and my memlook (slave) ‘from one hand to the other’ (the whole body). If we stay
+            at all at Siout, I will ride a donkey up to Wassef’s house, and leave this letter for
+            him to send down with his next opportunity to <placeName ref="Cairo">Cairo</placeName>.
+            At Keneh we must try to find time to buy two filters and some gullehs (water-coolers);
+            they are made there. At Thebes nothing can be got. </p>
+         <p> How I do wish you were here to enjoy all the new and strange sights! I am sure it would
+            amuse you, and as the fleas don’t bite you there would be no drawback. Janet sent me a
+            photo of dear little Rainie; it is ugly, but very like the ‘zuweyeh’ (little one). Give
+            her no end of kisses, and thank her for the cock robin, which pleased me quite as much
+            as she thought it would.</p>
+      </body>
+   </text>
+</TEI>

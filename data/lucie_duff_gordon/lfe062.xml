@@ -1,0 +1,59 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mrs. Austin, ALEXANDRIA, October 28, 1865.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/62">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <date when="1865-10-28">28 October 1865</date>
+               <settlement ref="http://www.geonames.org/361058">Alexandria</settlement>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/59830344">Sarah Austin</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>I am truly grieved to hear of your wrist and to see your writing look cramped. I arrived
+            here on Thursday after a splendid passage and was very comfortable on board. I found M.
+            Olagnier waiting for me, and Omar, of course, and am _installé_ at Ross’s till my boat
+            gets done which I am told will be in six days. She will be remarkably comfortable. Omar
+            had caused a sort of divan with a roof and back to be constructed just outside the
+            cabin-door where I always sat every evening, which will be the most delightful little
+            nest one can conceive. I shall sit like a Pasha there. </p>
+         <p> My cough is still very harassing, but my chest less tight and painful, and I feel less
+            utterly knocked down. The weather is beautiful here just now—warm and not nearly so damp
+            as usual. </p>
+         <p> Lord Edward St. Maur was on board, he has much of his aunt’s pleasantness. Also a very
+            young Bombay Merchant—a Muslim who uttered not one syllable to any one but to me. His
+            talk was just like that of a well-bred and intelligent young Englishman. I am glad to
+            say that his views of the state of India were very encouraging—he seemed convinced that
+            the natives were gradually working their way up to more influence, and said ‘We shall
+            have to thank you for a better form of government by far than any native one ever would
+            have been’—he added, ‘We Muslims have this advantage over the Hindus—that our religion
+            is no barrier at all, socially or politically—between us and you—as theirs is. I mean it
+            ought not to be when both faiths are cleared of superstition and fanaticism.’ He spoke
+            very highly of Sir Bartle Frere but said ‘I wish it were possible for more English
+            _gentlemen_ to come out to India.’ He had been two years in England on mercantile
+            business and was going back to his brother Ala-ed-deen much pleased with the English in
+            England. It is one of the most comforting _Erscheinungen_ I have seen coming from
+            India—if that sort of good sense is pretty common among the very young men they
+            certainly will work their way up. </p>
+         <p> I should like to see Bayley’s article though I am quite sick of my book—it is very
+            ungracious of me, but I can’t help it.</p>
+      </body>
+   </text>
+</TEI>

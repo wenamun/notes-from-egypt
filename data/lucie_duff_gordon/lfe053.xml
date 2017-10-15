@@ -1,0 +1,124 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mrs. Austin, LUXOR, March 13, 1865.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/53">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <date when="1865-03-13">13 March 1865</date>
+               <settlement ref="http://www.geonames.org/360502">Luxor</settlement>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/59830344">Sarah Austin</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST MUTTER, </p>
+         <p> I hope your mind has not been disturbed by any rumours of ‘battle, murder and sudden
+            death’ up in our part of the world. A week ago we heard that a Prussian boat had been
+            attacked, all on board murdered, and the boat burned; then that ten villages were in
+            open revolt, and that Effendina (the Viceroy) himself had come up and ‘taken a broom and
+            swept them clean’ _i.e._—exterminated the inhabitants. The truth now appears to be that
+            a crazy darweesh has made a disturbance—but I will tell it as I heard it. He did as his
+            father likewise did thirty years ago, made himself _Ism_ (name) by repeating one of the
+            appellations of God, like _Ya Latif_ three thousand times every night for three years
+            which rendered him invulnerable. He then made friends with a Jinn who taught him many
+            more tricks—among others, that practised in England by the Davenports of slipping out of
+            any bonds. He then deluded the people of the desert by giving himself out as _El-Mahdi_
+            (he who is to come with the Lord Jesus and to slay Antichrist at the end of the world),
+            and proclaimed a revolt against the Turks. Three villages below Keneh—Gau, Rayanaeh and
+            Bedeh took part in the disturbance, and Fodl Pasha came up with steamboats, burnt the
+            villages, shot about one hundred men and devastated the fields. At first we heard one
+            thousand were shot, now it is one hundred. The women and children will be distributed
+            among other villages. The darweesh some say is killed, others that he is gone off into
+            the desert with a body of bedaween and a few of the fellaheen from the three ravaged
+            villages. Gau is a large place—as large, I think as Luxor. The darweesh is a native of
+            Salamieh, a village close by here, and yesterday his brother, a very quiet man, and his
+            father’s father-in-law old Hajjee Sultan were carried off prisoners to <placeName ref="Cairo">Cairo</placeName>, or Keneh, we don’t know which. It seems that the boat
+            robbed belonged to Greek traders, but no one was hurt, I believe, and no European boat
+            has been molested. </p>
+         <p> Baron Kevenbrinck was here yesterday with his wife, and they saw all the sacking of the
+            villages and said no resistance was offered by the people whom the soldiers shot down as
+            they ran, and they saw the sheep etc. being driven off by the soldiers. You need be in
+            no alarm about me. The darweesh and his followers could not pounce on us as we are eight
+            good miles from the desert, _i.e._ the mountain, so we must have timely notice, and we
+            have arranged that if they appear in the neighbourhood the women and children of the
+            outlying huts should come into my house which is a regular fortress, and also any
+            travellers in boats, and we muster little short of seven hundred men able to fight
+            including Karnac, moreover Fodl Pasha and the troops are at Keneh only forty miles off. </p>
+         <p> Three English boats went down river to-day and one came up. The Kevenbrincks went up
+            last night. I dined with them, she is very lively and pleasant. I nearly died of
+            laughing to-day when little Achmet came for his lesson. He pronounced that he was sick
+            of love for her. He played at cards with her yesterday afternoon and it seems lost his
+            heart (he is twelve and quite a boyish boy, though a very clever one) and he said he was
+            wishing to play a game for a kiss as the stake. He had put on a turban to-day, on the
+            strength of his passion, to look like a man, and had neglected his dress otherwise
+            because ‘when young men are sick of love they always do so.’ The fact is the Baroness
+            was kind and amiable and tried to amuse him as she would have done to a white boy, hence
+            Achmet’s susceptible heart was ‘on fire for her.’ He also asked me if I had any medicine
+            to make him white, I suppose to look lovely in her eyes. He little knows how very pretty
+            he is with his brown face—as he sits cross-legged on the carpet at my feet in his white
+            turban and blue shirt reading aloud—he was quite a picture. I have grown very fond of
+            the little fellow, he is so eager to learn and to improve and so remarkably clever. </p>
+         <p> My little Achmet, who is donkey-boy and general little slave, the smallest slenderest
+            quietest little creature, has implored me to take him with me to England. I wish Rainie
+            could see him, she would be so ‘arprized’ at his dark brown little face, so _fein_, and
+            with eyes like a dormouse. He is a true little Arab—can run all day in the heat, sleeps
+            on the stones and eats anything—quick, gentle and noiseless and fiercely jealous. If I
+            speak to any other boy he rushes at him and drives him away, and while black Khayr was
+            in the house, he suffered martyrdom and the kitchen was a scene of incessant wrangle
+            about the coffee. Khayr would bring me my coffee and Achmet resented the usurpation of
+            his functions—of course quite hopelessly, as Khayr was a great stout black of eighteen
+            and poor little Achmet not bigger than Rainie. I am really tempted to adopt the vigilant
+            active little creature. </p>
+         <p> _March_ 15.—Sheykh Yussuf returned from a visit to Salamieh last night. He tells me the
+            darweesh Achmet et-Tayib is not dead, he believes that he is a mad fanatic and a
+            communist. He wants to divide all property equally and to kill all the Ulema and destroy
+            all theological teaching by learned men and to preach a sort of revelation or
+            interpretation of the Koran of his own. ‘He would break up your pretty clock,’ said
+            Yussuf, ‘and give every man a broken wheel out of it, and so with all things.’ </p>
+         <p> One of the dragomans here had been urging me to go down but Yussuf laughed at any idea
+            of danger, he says the people here have fought the bedaween before and will not be
+            attacked by such a handful as are out in the mountain now; _du reste_ the
+            Abu-l-Hajjajieh (family of Abu-l-Hajjaj) will ‘put their seal’ to it that I am their
+            sister and answer for me with a man’s life. It would be foolish to go down into whatever
+            disturbance there may be alone in a small country boat and where I am not known. The
+            Pasha himself we hear is at Girgeh with steamboats and soldiers, and if the slightest
+            fear should arise steamers will be sent up to fetch all the Europeans. What I grieve
+            over is the poor villagers whose little property is all confiscated, guilty and innocent
+            alike, and many shot as they ran away. Hajjee Ali tells me privately that he believes
+            the discontent against the Government is very deep and universal and that there will be
+            an outbreak—but not yet. The Pasha’s attempt to regulate the price of food by edicts has
+            been very disastrous, and of course the present famine prices are laid to his charge—if
+            a man will be omnipotent he must take the consequences when he fails. I don’t believe in
+            an outbreak—I think the people are too thoroughly accustomed to suffer and to obey,
+            besides they have no means of communication, and the steamboats can run up and down and
+            destroy them _en détail_ in a country which is eight hundred miles long by from one to
+            eight wide, and thinly peopled. Only <placeName ref="Cairo">Cairo</placeName> could do
+            anything, and everything is done to please the Cairenes at the expense of the fellaheen. </p>
+         <p> The great heat has begun these last three days. My cough is better and I am grown
+            fatter again. The Nile is so low that I fancy that six weeks or two months hence I shall
+            have to go down in two little boats—even now the dahabiehs keep sticking fast
+            continually. I have promised some neighbours to bring back a little seed corn for them,
+            some of the best English wheat without beard. All the wheat here is bearded and they
+            have an ambition for some of ours. I long to bring them wheelbarrows and spades and
+            pickaxes. The great folks get steamploughs, but the labourers work with their bare hands
+            and a rush basket _pour tout potage_, and it takes six to do the work of one who has got
+            good tools.</p>
+      </body>
+   </text>
+</TEI>

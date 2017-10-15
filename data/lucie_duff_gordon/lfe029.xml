@@ -1,0 +1,100 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, LUXOR, February 12, 1864.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/29">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <settlement ref="http://www.geonames.org/360502">Luxor</settlement>
+               <date when="1864-02-12">12 February 1864</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/315623459">Sir Alexander Duff Gordon</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST ALICK, </p>
+         <p> We are in Ramadan now, and Omar really enjoys a good opportunity of ‘making his soul.’
+            He fasts and washes vigorously, prays his five times a day, goes to mosque on Fridays,
+            and is quite merry over it, and ready to cook infidels’ dinners with exemplary
+            good-humour. It is a great merit in Muslims that they are not at all grumpy over their
+            piety. The weather has set in since five or six days quite like paradise. I sit on my
+            lofty balcony and drink the sweet northerly breeze, and look at the glorious mountain
+            opposite, and think if only you and the chicks were here it would be ‘the best o’ life.’
+            The beauty of Egypt grows on one, and I think it far more lovely this year than I did
+            last. My great friend the Maōhn (he is _not_ the Nazir, who is a fat little pig-eyed,
+            jolly Turk) lives in a house which also has a superb view in another direction, and I
+            often go and sit ‘on the bench’—_i.e._, the _mastabah_ in front of his house—and do what
+            little talk I can and see the people come with their grievances. I don’t understand much
+            of what goes on, as the _patois_ is broad and doubles the difficulty, or I would send
+            you a Theban police report; but the Maōhn is very pleasant in his manner to them, and
+            they don’t seem frightened. We have appointed a very small boy our _bowàb_, or
+            porter—or, rather, he has appointed himself—and his assumption of dignity is quite
+            delicious. He has provided himself with a huge staff, and he behaves like the most
+            tremendous janissary. He is about Rainie’s size, as sharp as a needle, and possesses the
+            remains of a brown shirt and a ragged kitchen duster as turban. I am very fond of little
+            Achmet, and like to see him doing _tableaux vivants_ from Murillo with a plate of broken
+            victuals. The children of this place have become so insufferable about _backsheesh_ that
+            I have complained to the Maōhn, and he will assemble a committee of parents and enforce
+            better manners. It is only here and just where the English go. When I ride into the
+            little villages I never hear the word, but am always offered milk to drink. I have taken
+            it two or three times and not offered to pay, and the people always seem quite pleased. </p>
+         <p> Yesterday Sheykh Yussuf came again, the first time since his brother’s death; he was
+            evidently deeply affected, but spoke in the usual way, ‘It is the will of God, we must
+            all die,’ etc. I wish you could see Sheykh Yussuf. I think he is the sweetest creature
+            in look and manner I ever beheld—so refined and so simple, and with the animal grace of
+            a gazelle. A high-bred Arab is as graceful as an Indian, but quite without the feline
+            _Geschmeidigkeit_ or the look of dissimulation; the eye is as clear and frank as a
+            child’s. Mr. Ruchl, the Austrian Consul here, who knows Egypt and Arabia well, tells me
+            that he thinks many of them quite as good as they look, and said of Sheykh Yussuf, _Er
+            ist so gemüthlich_. There is a German here deciphering hieroglyphics, Herr Dümmichen, a
+            very agreeable man, but he has gone across the river to live at el-Kurneh. He has been
+            through Ethiopia in search of temples and inscriptions. I am to go over and visit him,
+            and see some of the tombs again in his company, which I shall enjoy, as a good
+            interpreter is sadly wanted in those mysterious regions. </p>
+         <p> My chest is wonderfully better these last six or seven days. It is quite clear that
+            downright heat is what does me good. Moreover, I have just heard from M. Mounier that a
+            good donkey is _en route_ in a boat from El-Moutaneh—he will cost me between £4 and £5
+            and will enable me to be about far more than I can by merely borrowing Mustapha’s horse,
+            about which I have scruples as he lends it to other lady travellers. Little Achmet will
+            be my sais as well as my door-keeper, I suppose. I wish you would speak to Layard in
+            behalf of Mustapha A’gha. He has acted as English Consul here for something like thirty
+            years, and he really is the slave of the travellers. He gives them dinners, mounts them,
+            and does all the disagreeable business of wrangling with the reis and dragomans for
+            them, makes himself a postmaster, takes care of their letters and sends them out to the
+            boats, and does all manner of services for them, and lends his house for the infidels to
+            pray in on Sundays when a clergyman is here. For this he has no remuneration at all,
+            except such presents as the English see fit to make him, and I have seen enough to know
+            that they are neither large nor always gracefully given. The old fellow at Keneh who has
+            nothing to do gets regular pay, and I think Mustapha ought to have something; he is now
+            old and rather infirm, and has to keep a clerk to help him; and at least, his expenses
+            should be covered. Please say this to Layard from me as my message to him. Don’t forget
+            it, please, for Mustapha is a really kind friend to me at all times and in all ways. </p>
+         <p> _February_ 14th.—Yesterday we had a dust-storm off the desert. It made my head heavy
+            and made me feel languid, but did not affect my chest at all. To-day is a soft gray day;
+            there was a little thunder this morning and a few, very few, drops of rain—hardly enough
+            for even Herodotus to consider portentous. My donkey came down last night, and I tried
+            him to-day, and he is very satisfactory though alarmingly small, as the real Egyptian
+            donkey always is; the big ones are from the Hejaz. But it is wonderful how the little
+            creatures run along under one as easy as possible, and they have no will of their own. I
+            rode mine out to Karnac and back, and he did not seem to think me at all heavy. When
+            they are overworked and overgalloped they become bad on the legs and easily fall, and
+            all those for hire are quite stumped up, poor beasts—they are so willing and docile that
+            everyone overdrives them.</p>
+      </body>
+   </text>
+</TEI>

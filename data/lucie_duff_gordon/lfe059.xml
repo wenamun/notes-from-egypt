@@ -1,0 +1,210 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mrs. Austin, LUXOR, April 29, 1865.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/59">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <date when="1865-04-29">29 April 1865</date>
+               <settlement ref="http://www.geonames.org/360502">Luxor</settlement>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/59830344">Sarah Austin</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST MUTTER, </p>
+         <p> Since I wrote last I have received the box with the cheese quite fresh (and very good
+            it tastes), and the various things. Nothing called forth such a shout of joy from me as
+            your photo of the village pothouse. How green and fresh and tidy! Many Mashallah’s have
+            been uttered over the _beyt-el-fellaheen_ (peasant’s house) of England. The railings,
+            especially, are a great marvel. I have also heard from Janet that Ross has bought me a
+            boat for £200 which is to take four of his agents to Assouan and then come back for me.
+            So all my business is settled, and, _Inshallah_! I shall depart in another three or four
+            weeks. </p>
+         <p> The weather is quite cool and fresh again but the winds very violent and the dust pours
+            over us like water from the dried up land, as well as from the Goomeh mountain. It is
+            miserably uncomfortable, but my health is much better again—spite of all. </p>
+         <p> The Hakeem business goes on at a great rate. I think on an average I have four sick a
+            day. Sometimes a dozen. A whole gipsy camp are great customers—the poor souls will bring
+            all manner of gifts it goes to my heart to eat, but they can’t bear to be refused. They
+            are astounded to hear that people of their blood live in England and that I knew many of
+            their customs—which are the same here. </p>
+         <p> Kursheed Agha came to take final leave being appointed to Keneh. He had been at Gau and
+            had seen Fadil Pasha sit and make the soldiers lay sixty men down on their backs by ten
+            at a time and _chop_ them to death with the pioneers’ axes. He estimated the people
+            killed—men, women, and children at 1,600—but Mounier tells me it was over 2,000. Sheykh
+            Hassan agreed exactly with Kursheed, only the Arab was full of horror and the Circassian
+            full of exultation. His talk was exactly what we all once heard about ‘Pandies,’ and he
+            looked and talked and laughed so like a fine young English soldier, that I was ashamed
+            to call him the kelb (dog) which rose to my tongue, and I bestowed it on Fadil Pasha
+            instead. I must also say in behalf of my own countrymen that they _had_ provocation
+            while here there was none. Poor Haggee Sultan lies in chains at Keneh. One of the best
+            and kindest of men! I am to go and take secret messages to him, and money from certain
+            men of religion to bribe the Moudir with. The Shurafa who have asked me to do this are
+            from another place, as well as a few of the Abu-l-Hajjajieh. A very great Shereef indeed
+            from lower Egypt, said to me the other day, ‘Thou knowest if I am a Muslim or no. Well,
+            I pray to the most Merciful to send us Europeans to govern us, and to deliver us from
+            these wicked men.’ We were all sitting after the funeral of one of the Shurafa and I was
+            sitting between the Shereef of Luxor and the Imám—and this was said before thirty or
+            forty men, all Shurafa. No one said ‘No,’ and many assented aloud. </p>
+         <p> The Shereef asked me to lend him the New Testament, it was a pretty copy and when he
+            admired it I said, ‘From me to thee, oh my master the Shereef, write in it as we do in
+            remembrance of a friend—the gift of a Nazraneeyeh who loves the Muslimeen.’ The old man
+            kissed the book and said ‘I will write moreover—to a Muslim who loves all such
+            Christians’—and after this the old Sheykh of Abou Ali took me aside and asked me to go
+            as messenger to Haggee Sultan for if one of them took the money it would be taken from
+            them and the man get no good by it. </p>
+         <p> Soldiers are now to be quartered in the Saeed—a new plague worse than all the rest. Do
+            not the cawasses already rob the poor enough? They fix their own price in the market and
+            beat the sakkas as sole payment. What will the soldiers do? The taxes are being
+            illegally levied on lands which are _sheragi_, _i.e._ totally unwatered by the last Nile
+            and therefore exempt _by law_—and the people are driven to desperation. I feel sure
+            there will be more troubles as soon as there arises any other demagogue like Achmet
+            et-Tayib to incite the people and now every Arab sympathises with him. Janet has written
+            me the <placeName ref="Cairo">Cairo</placeName> version of the affair cooked for the
+            European taste—and monstrous it is. The Pasha accuses some Sheykh of the Arabs of having
+            gone from Upper Egypt to India to stir up the Mutiny against us! _Pourquoi pas_ to
+            conspire in Paris or London? It is too childish to talk of a poor Saeedee Arab going to
+            a country of whose language and whereabouts he is totally ignorant, in order to conspire
+            against people who never hurt him. You may suppose how Yussuf and I talk by ourselves of
+            all these things. He urged me to try hard to get my husband here as
+            Consul-General—assuming that he would feel as I do. I said, my master is not young, and
+            to a just man the wrong of such a place would be a martyrdom. ‘Truly thou hast said it,
+            but it is a martyr we Arabs want; shall not the reward of him who suffers daily vexation
+            for his brethren’s sake be equal to that of him who dies in battle for the faith? If
+            thou wert a man, I would say to thee, take the labour and sorrow upon thee, and thine
+            own heart will repay thee.’ He too said like the old Sheykh, ‘I only pray for Europeans
+            to rule us—now the fellaheen are really worse off than any slaves.’ I am sick of telling
+            of the daily oppressions and robberies. If a man has a sheep, the Moodir comes and eats
+            it, if a tree, it goes to the Nazir’s kitchen. My poor sakka is beaten by the cawasses
+            in sole payment of his skins of water—and then people wonder my poor friends tell lies
+            and bury their money. </p>
+         <p> I now know everybody in my village and the ‘cunning women’ have set up the theory that
+            my eye is lucky; so I am asked to go and look at young brides, visit houses that are
+            building, inspect cattle, etc. as a bringer of good luck—which gives me many a curious
+            sight. </p>
+         <p> I went a few days ago to the wedding of handsome Sheykh Hassan the Abab’deh, who
+            married the butcher’s pretty little daughter. The group of women and girls lighted by
+            the lantern which little Achmet carried up for me was the most striking thing I have
+            seen. The bride—a lovely girl of ten or eleven all in scarlet, a tall dark slave of
+            Hassan’s blazing with gold and silver necklaces and bracelets, with long twisted locks
+            of coal black hair and such glittering eyes and teeth, the wonderful wrinkled old women,
+            and the pretty, wondering, yet fearless children were beyond description. The mother
+            brought the bride up to me and unveiled her and asked me to let her kiss my hand, and to
+            look at her, I said all the usual _Bismillah Mashallah’s_, and after a time went to the
+            men who were eating, all but Hassan who sat apart and who begged me to sit by him, and
+            whispered anxious enquiries about his _aroosah’s_ looks. After a time he went to visit
+            her and returned in half an hour very shy and covering his face and hand and kissed the
+            hands of the chief guests. Then we all departed and the girl was taken to look at the
+            Nile, and then to her husband’s house. Last night he gave me a dinner—a very good dinner
+            indeed, in his house which is equal to a very poor cattle shed at home. We were only
+            five. Sheykh Yussuf, Omar, an elderly merchant and I. Hassan wanted to serve us but I
+            made him sit. </p>
+         <p> The merchant, a well-bred man of the world who has enjoyed life and married wives
+            everywhere—had arrived that day and found a daughter of his dead here. He said he felt
+            very miserable—and everyone told him not to mind and consoled him oddly enough to
+            English ideas. Then people told stories. Omar’s was a good version of the man and wife
+            who would not shut the door and agreed that the first to speak should do it—very funny
+            indeed. Yussuf told a pretty tale of a Sultan who married a Bint el-Arab (daughter of
+            the Bedawee) and how she would not live in his palace, and said she was no fellaha to
+            dwell in houses, and scorned his silk clothes and sheep killed for her daily, and made
+            him live in the desert with her. A black slave told a prosy tale about thieves—and the
+            rest were more long than pointed. </p>
+         <p> Hassan’s Arab feelings were hurt at the small quantity of meat set before me. (They
+            can’t kill a sheep now for an honoured guest.) But I told him no greater honour could be
+            paid to us English than to let us eat lentils and onions like one of the family, so that
+            we might not feel as strangers among them—which delighted all the party. After a time
+            the merchant told us his heart was somewhat dilated—as a man might say his toothache had
+            abated—and we said ‘Praise be to God’ all round. </p>
+         <p> A short time ago my poor friend the Maōhn had a terrible ‘tile’ fall on his head. His
+            wife, two married daughters and nine miscellaneous children arrived on a sudden, and the
+            poor man is now tasting the pleasures which Abraham once endured between Sarah and
+            Hagar. I visited the ladies and found a very ancient Sarah and a daughter of wonderful
+            beauty. A young man here—a Shereef—has asked me to open negotiations for a marriage for
+            him with the Maōhn’s grand daughter a little girl of eight—so you see how completely I
+            am ‘one of the family.’ </p>
+         <p> My boat has not yet made its appearance. I am very well indeed now, in spite, or
+            perhaps because of, the great heat. But there is a great deal of sickness—chiefly
+            dysentery. I never get less than four new patients a day and my ‘practice’ has become
+            quite a serious business. I spent all day on Friday in the Abab’deh quarters where
+            Sheykh Hassan and his slave Rahmeh were both uncommonly ill. Both are ‘all right’ now.
+            Rahmeh is the nicest negro I ever knew, and a very great friend of mine. He is a most
+            excellent, honest, sincere man, and an Effendi (_i.e._ writes and reads) which is more
+            than his master can do. He has seen all the queer people in the interior of Africa. </p>
+         <p> The Sheykh of the Bishareen—eight days’ journey from Assouan has invited me and
+            promises me all the meat and milk I can eat, they have nothing else. They live on a high
+            mountain and are very fine handsome people. If only I were strong I could go to very odd
+            places where Frangees are not. Read a very stupid novel (as a story) called ‘_le Secret
+            du Bonheur_’—it gives the truest impression of the manners of Arabs that I have read—by
+            Ernest Feydeau. According to his book _achouat_ (we are brothers). The ‘caressant’ ways
+            of Arabs are so well described. </p>
+         <p> It is the same here. The people come and pat and stroke me with their hands, and one
+            corner of my brown abbaieh is faded with much kissing. I am hailed as _Sitt Betaana_
+            ‘Our own Lady,’ and now the people are really enthusiastic because I refused the offer
+            of some cawasses as a guard which a Bimbashee made me. As if I would have such fellows
+            to help to bully my friends. The said Bimbashee (next in rank to a Bey) a coarse man
+            like an Arnoout, stopped here a day and night and played his little Turkish game,
+            telling me to beware—for the Ulema hated all Franks and set the people against us—and
+            telling the Arabs that Christian Hakeems were all given to poison Muslims. So at night I
+            dropped in at the Maōhn’s with Sheykh Yussuf carrying my lantern—and was loudly hailed
+            with a _Salaam Aleykee_ from the old Shereef himself—who began praising the Gospel I had
+            given him, and me at the same time. Yussuf had a little reed in his hand—the _kalem_ for
+            writing, about two feet long and of the size of a quill. I took it and showed it to the
+            Bimbashee and said—‘Behold the _neboot_ wherewith we are all to be murdered by this
+            Sheykh of the Religion.’ The Bimbashee’s bristly moustache bristled savagely, for he
+            felt that the ‘Arab dogs’ and the Christian _khanzeereh_ (feminine pig) were laughing at
+            it together. </p>
+         <p> Another steam boat load of prisoners from Gau has just gone up. A little comfort is
+            derived here from the news that, ‘Praise be to God, Moussa Pasha (Governor of the
+            Soudan) is dead and gone to Hell.’ It must take no trifle to send him there judging by
+            the quiet way in which Fadil Pasha is mentioned. </p>
+         <p> You will think me a complete rebel—but I may say to you what most people would think
+            ‘like my nonsense’—that one’s pity becomes a perfect passion, when one _sits among the
+            people_—as I do, and sees it all; least of all can I forgive those among Europeans and
+            Christians who can help to ‘break these bruised reeds.’ However, in <placeName ref="Cairo">Cairo</placeName> and more still in Alexandria, all is quite different.
+            There, the same system which has been so successfully copied in France prevails. The
+            capital is petted at the expense of the fellaheen. Prices are regulated in <placeName ref="Cairo">Cairo</placeName> for meat and bread as they are or were in Paris, and
+            the ‘dangerous classes’ enjoy all sorts of exemptions. Just like France! The Cairenes
+            eat the bread and the fellaheen eat the stick. </p>
+         <p> The people here used to dislike Mounier who arrived poor and grew rich and powerful,
+            but they all bless him now and say at El-Moutaneh a man eats his own meat and not the
+            courbash of the Moudir—and Mounier has refused soldiers (as I refused them on my small
+            account) and ‘Please God,’ he will never repent it. Yussuf says ‘What the Turkish
+            Government fears is not for _your_ safety, but lest we should learn to love you too
+            well,’ and it is true. Here there is but one voice. ‘Let the Franks come, let us have
+            the laws of the Christians.’ </p>
+         <p> In <placeName ref="Cairo">Cairo</placeName> the Franks have dispelled this _douce
+            illusion_ and done the Turk’s work as if they were paid for it. But here come only
+            travellers who pay with money and not with stick—a degree of generosity not enough to be
+            adored. </p>
+         <p> I perceive that I am a bore—but you will forgive my indignant sympathy with the kind
+            people who treat me so well. Yussuf asked me to let the English papers know about the
+            Gau business. An Alim ed Deen ul-Islam would fain call for help to the Times! Strange
+            changes and signs of the times—these—are they not so? </p>
+         <p> I went to Church on Good Friday with the Copts. The scene was very striking—the priest
+            dressed like a beautiful Crusader in white robes with crimson crosses. One thing has my
+            hearty admiration. The few children who are taken to Church are allowed to play! Oh my
+            poor little Protestant fellow Christians, can you conceive a religion so delightful as
+            that which permits Peep-bo behind the curtain of the sanctuary! I saw little Butrus and
+            Scendariah at it all church time—and the priest only patted their little heads as he
+            carried the sacrament out to the Hareem. Fancy the parson kindly patting a noisy boy’s
+            head, instead of the beadle whacking him! I am entirely reconciled to the Coptic
+            rules.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, NILE BOAT, URANIA, May, 1865.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/60">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</persName>
+               <date when="1865-05">May 1865</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/315623459">Sir Alexander Duff Gordon</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Happy as I was in the prospect of seeing you all and miserable as poor Upper Egypt has
+            become, I could not leave without a pang. Our Bairam was not gay. There was horse riding
+            for Sheykh Gibreel (the cousin of Abu’l Haggag) and the scene was prettier than ever I
+            saw. My old friend Yunis the Shereef insisted on showing me that at eighty-five he could
+            still handle a horse and throw a Gereed ‘for Sheykh Gibreel and the Lady’ as he said.
+            Then arrived the Mufettish of Zenia with his gay attendants and filled the little square
+            in front of the Cadi’s castellated house where we were sitting. The young Sheykh of
+            Salamieh rode beautifully and there was some excellent Neboot play (sort of very severe
+            quarterstaff peculiar to the Fellaheen). </p>
+         <p> Next day was the great dinner given by Mohammed and Mustapha outside Mohammed’s house
+            opposite Sheykh Gibreel’s tomb—200 men ate at his gate. I went to see it and was of
+            course asked to eat. ‘Can one like thee eat the Melocheea of the Fellaheen?’ So I joined
+            a party of five round a little wooden tray, tucked up my sleeve and ate—dipping the
+            bread into the Melocheea which is like very sloppy spinach but much nicer. Then came the
+            master and his servants to deal the pieces of meat out of a great basket—sodden meat—and
+            like Benjamin my piece was the largest, so I tore off a bit and handed it to each of my
+            companions, who said ‘God take thee safe and happy to thy place and thy children and
+            bring thee back to us in safety to eat the meat of the festival together once more.’ </p>
+         <p> The moon rose clear and bright behind the one tall palm tree that overhangs the tomb of
+            Sheykh Gibreel. He is a saint of homely tastes and will not have a dome over him or a
+            cover for his tomb, which is only surrounded by a wall breast-high, enclosing a small
+            square bit of ground with the rough tomb on one side. At each corner was set up a flag,
+            and a few dim lanterns hung overhead. The 200 men eating were quite noiseless—and as
+            they rose, one by one washed their hands and went, the crowd melted away like a vision.
+            But before all were gone, came the Bulook, or sub-magistrate—a Turkish Jack in office
+            with the manners of a Zouave turned parish beadle. He began to sneer at the _melocheea_
+            of the fellaheen and swore he could not eat it if he sat before it 1,000 years.
+            Hereupon, Omar began to ‘chaff’ him. ‘Eat, oh Bulook Pasha and if it swells thy belly
+            the Lady will give thee of the physick of the English to clean thy stomach upwards and
+            downwards of all thou hast eaten of the food of the fellaheen.’ The Bulook is notorious
+            for his exactions—his ‘eating the people’—so there was a great laugh. Poor Omar was very
+            ill next day—and every one thought the Bulook had given him the eye. </p>
+         <p> Then came the Mufettish in state to pay his _devoirs_ to the Sheykh in the tomb. He
+            came and talked to Mustapha and Yussuf and enumerated the people taken for the works,
+            200 from Luxor, 400 from Carnac, 310 from Zenia, 320 from Byadyeh, and 380 from
+            Salamieh—a good deal more than half the adult men to go for sixty days leaving their
+            fields uncultivated and their Hareem and children hungry—for they have to take all the
+            food for themselves. </p>
+         <p> I rose sick at heart from the Mufettish’s harsh voice, and went down to listen to the
+            Moonsheeds chanting at the tomb and the Zikheers’ strange sobbing, Allah, Allah. </p>
+         <p> I leaned on the mud wall watching the slender figures swaying in the moonlight, when a
+            tall, handsome fellah came up in his brown shirt, felt _libdeh_ (scull cap), with his
+            blue cotton _melaya_ tied up and full of dried bread on his back. The type of the
+            Egyptian. He stood close beside me and prayed for his wife and children. ‘Ask our God to
+            pity them, O Sheykh, and to feed them while I am away. Thou knowest how my wife worked
+            all night to bake all the wheat for me and that there is none left for her and the
+            children.’ He then turned to me and took my hand and went on, ‘Thou knowest this lady,
+            oh Sheykh Gibreel, take her happy and well to her place and bring her back to us—_el
+            Fathah, yah Beshoosheh_!’ and we said it together. I could have laid my head on Sheykh
+            Gibreel’s wall and howled. I thanked him as well as I could for caring about one like me
+            while his own troubles were so heavy. I shall never forget that tall athletic figure and
+            the gentle brown face, with the eleven days’ moon of Zulheggeh, and the shadow of the
+            palm tree. That was my farewell. ‘The voice of the miserable is with thee, shall God not
+            hear it?’ </p>
+         <p> Next day Omar had a sharp attack of fever and was delirious—it lasted only two days but
+            left him very weak and the anxiety and trouble was great—for my helping hands were as
+            awkward as they were willing. </p>
+         <p> In a few days arrived the boat Urania. She is very nice indeed. A small saloon, two
+            good berths—bath and cabinet, and very large _kasneh_ (stern cabin). She is dirty, but
+            will be extremely comfortable when cleaned and painted. On the 15th we sailed. Sheykh
+            Yussuf went with me to Keneh, Mustapha and Seyd going by land—and one of Hajjee Sultan’s
+            disciples and several Luxor men were deck passengers. The Shereef gave me the bread and
+            jars of butter for his grandsons in Gama’l Azhar, and came to see me off. We sat on the
+            deck outside as there was a crowd to say good-bye and had a lot of Hareem in the cabin.
+            The old Shereef made me sit down on the carpet close to him and then said ‘we sit here
+            like two lovers’—at eighty-five _even_ an Arab and a Shereef may be “_gaillard_”—so I
+            cried, ‘Oh Shereef, what if Omar tells my master the secret thou hast let out—it is not
+            well of thee.’ There was a great laugh which ended in the Shereef saying ‘no doubt thy
+            master is of the best of the people, let us say the _Fathah_ for him,’ and he called on
+            all the people ‘_El Fathah_ for the master of the lady!’ I hope it has benefited you to
+            be prayed for at Luxor. </p>
+         <p> I had written so far and passed Minieh when I fell ill with pleurisy—I’ve lots more to
+            tell of my journey but am too weak after two weeks in bed (and unable to lie down from
+            suffocation)—but I am _much_ better now. A man from the Azhar is reading the Koran for
+            me outside—while another is gone with candles to Seyeedele Zeynet ‘the fanatics!’</p>
+      </body>
+   </text>
+</TEI>
