@@ -1,0 +1,228 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter 6: On board the Nile boat, Mary Victoria, On the river, 20 or 30 miles
+               South of Cairo, Tuesday, November 26th, 1850</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from https://archive.org/details/lettersfromegypt00brom</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/william-arnold-bromfield/letters/6">
+            <correspAction type="sent">
+               <persName ref="https://viaf.org/viaf/160825459">William Arnold Bromfield</persName>
+               <placeName ref="http://www.geonames.org/360630">Cairo</placeName>
+               <date when="1850-11-26">26 November 1850</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Eliza Bromfield</persName>
+               <placeName ref="http://www.geonames.org/2638911">Ryde</placeName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>My dear E</p>
+
+
+
+
+         <p>I am now fairly afloat with Lieutenant Pengelly and Mr. Lakes in our aquatic habitation,
+            and probable domicile for three or perhaps four months to come. We feel already quite at
+            home, and exceedingly comfortable in the Mary Victoria, and hitherto have had very
+            little experience of the usual annoyances which travellers on the Nile complain of. To
+            our great joy we have escaped the insect disturbers of rest, though we have received
+            terrific accounts of their numbers and prowess on the Nile, and the only intruders on
+            our domestic peace, are a small family of rats, and a colony of cockroaches, both
+            confining themselves to the lockers and timbers of the boat, and never appearing, at
+            least by day, in any part of the vessel where their presence would be a source of
+            personal annoyance, and our well arranged mosquitoe curtains would effectually exclude
+            these, and every other nocturnal visitor from the beds. We found in Mr. Page, the owner
+            of the boat, a very fair dealing and honourable man, who has spared no pains to render
+            our voyage comfortable as far as the appointments of the Mary Victoria are concerned,
+            and we consider ourselves as very fortunate in not having had to deal with an Arab
+            owner, with whom a contract drawn up in very express terms in Arabic, and signed at the
+            Consulate, would have been absolutely necessary; a proceeding both troublesome and
+            attended with some expense, and one which rarely effects the purpose in view, of
+            obviating any dispute or misunderstanding between the contracting parties, as the Arab
+            boat proprietors seldom stand by the written engagement, but are ever ready to seize an
+            opportunity of evading the conditions to which they have subscribed, and to take every
+            advantage in their power of the ignorance and inexperience of tourists. We have a very
+            young crew or eight men, (including the Keis or captain, and the steersman), docile,
+            good humoured fellows from Nubia or Ethiopia, with mild, honest countenances, who seem
+            as happy as kings, and amuse us with their simple boat song, or rather chant, and
+            performances on the small drum of the country, and on the tambourine^. We have each of
+            us a servant, having dispensed altogether with our dragoman, who is almost invariably a
+            dishonest, or at least imposing fellow, very consequential, and unmanageable, and who
+            requires many times the amount of wages given to a single Arab domestic. Saad, my own
+            man, acts as cook on board, and serves us in that capacity very creditably; his wages
+            are 200 piastres or about £2 per month for his double official duties, finding himself
+            in food, and every thing besides during the voyage. These, with our three selves compose
+            a little community of fourteen, Lieutenant P. assuming the supreme command of the crew
+            and vessel, subject to the advice and opinion of the Eeis on matters relating to local
+            navigation; the latter, notwithstanding his extreme youth, conducting himself towards
+            his people with wonderful dignity of deportment, never mixing in their games or songs,
+            but generally sitting retired at the head of the boat, watching her progress, and ready
+            to give his orders when necessary.</p>
+
+         <p>Mr. Lakes not being well enough to accompany Mr. Pengelly and myself to the Barrage — a
+            vast undertaking of the late Mohammed Ali, for damming up the waters of the Nile when at
+            their height, and retaining them on the irrigated lands of the Delta longer than the
+            time of their natural subsidence would allow of, — that gentleman and myself left Cairo
+            in the boat on the 21st for the junction of the Kosetta and Damietta branches of the
+            Nile where the above works are situated. We caught sight of them before sunset, but
+            could not examine them till the next day: they are on a scale of great magnitude, but
+            their ultimate completion, from the enormous expenses already incurred, and the sum
+            which wall be required to finish the undertaking, is considered very doubtful,
+            particularly when the careless, unenterprising character of Abbas Pasha is taken into
+            account, as another impediment to carrying out his predecessor's grand conception. The
+            Barrage is as its name imports, a vast dam of masonry, stretching across the two
+            principal branches of the Nile, (those of Kosetta and Damietta), just at their point of
+            junction with, or confluence into the main stream which forms the apex of the Delta. It
+            is in fact an immense bridge of numerous slightly pointed arches, and with towers at its
+            extremities, the arches are to be closed with flood gates to admit the Nile freely
+            during the period of its rise, but, as I understand it, are to be partially closed when
+            the inundation is at its height, and the river begins to fall; when the water in that
+            part of the valley of the Nile above the Barrage w T ill be longer retained on the
+            irrigated lands, the fertility of which it is supposed will thereby be much augmented.
+            But it is doubted by many competent judges, whether any barrier, however solidly
+            constructed, can resist the enormous pressure to which it must inevitably be subjected,
+            especially during the period of the high Nile or inundation. It is feared that no
+            sufficiently good foundation can be made in the bed of soft alluvium, even should the
+            superstructure itself prove firm enough to stem the current, and the weight of
+            accumulated water when the sluices are closed. The works are not yet half completed, but
+            are slowly going on by forced and ill paid labour, as in all other Government
+            undertakings of the kind in this country. Having inspected the Barrage, we set off on
+            our return to Cairo, and passing the port of Boulak, we took up our position under the
+            beautiful island of Rhoda, with its fine, but now half ruined gardens, over which I was
+            not long since conducted, by the late curator, Mr. James Trail. Rhoda is reputed to be
+            the spot where the daughter of Pharoah went to wash herself at the river when she
+            discovered the infant Moses; the island lies partlyopposite to Old Cairo, and
+            consequently nearly on the site of ancient Memphis, and has the Nilo-meter on its
+            smaller extremity. The tradition carries plausibility with it, since Rhoda was,
+            probably, from time immemorial a garden residence, and from its retired situation well
+            suited for the ablutions of a king's daughter.</p>
+
+         <p>Mr. L. joined us on the 23rd, and the next day, we were fairly on our long voyage up the
+            " river of Egypt," which has hitherto proved most prosperous and agreeable. My two
+            companions are perfect gentlemen, quiet, and yet very cheerful, disposed to make the
+            best of every thing, and anticipating great enjoyment for the future. We all feel as
+            much at home in our little floating castle, as if we were ashore, or in Old England; the
+            winds have hitherto been propitious, enabling us to make sail during the night, and to
+            steal softly into ever increasing warmth, at least by day; for the mornings, evenings,
+            and nights, are very cold: but the glorious sun is never obscured except for a brief
+            interval, perhaps once in a week, by some fleeting cloud, shining else unceasingly over
+            our watery path. Within, we are amply protected from the cold of the night, by good
+            bedding, clothing, and folding doors, and when the mosquitoe curtains, whose nominal
+            office is now quite a sinecure, are arranged by our trusty squires, Saad, Mohammed, and
+            Ameen, for the night, each sleeping place is as private and retired as if we slept in
+            separate apartments. I have the utmost cause for self gratulation in having brought out
+            a gun with me: it has proved an admirable adjunct to our trip, not merely from the
+            amusement derived from shooting, but as a means of replenishing our larder, daily, with
+            every variety of excellent fowl; while our stock of poultry on board is reserved against
+            the failure of game, and we are not, as we should otherwise be, condemned to that kind
+            of food almost exclusively. It is only occasionally, on arriving at the towns or larger
+            villages, that we can hope for the luxury of butchers' meat, mutton, kid, or as a great
+            rarity, beef, all of inferior quality to what we are accustomed to at home. Without our
+            guns, we never set foot on shore, and invariably return from our walks through the palm
+            groves and fertile fields of Egypt, with the materials for our morrow's breakfast and
+            dinner. The spoils of the chase have hitherto been confined to wild pigeons, wild geese,
+            ducks, and larks, which last are as common as in England, and exactly identical in
+            species with our skylark, which we should hold it a sin to shoot at home; but here, we
+            find it expedient to cast away all such scruples in providing for our daily mess. The
+            crew are delighted with our foraging, as we are enabled to supply the second table as
+            well as our own with game, which is a welcome addition to their simple and frugal diet
+            of bread, lent el soup, (the red pottage of Esau), or certain messes of vegetables,
+            leeks, onions, cabbage, with rice, or corn of various kinds; the Nile water being their
+            only beverage. We invariably land at the Egyptian villages, many of which are large and
+            populous, to shoot doves and pigeons; the former abound in the extensive palm (date)
+            groves, in the vicinity of the cultivated lands, and they commit great depredation on
+            the maize and guinea corn: the latter are domesticated in huge pigeon houses, of which I
+            have before spoken. I am sorry to say our travelling countrymen do not always observe
+            the rights of property, but make a practice of shooting pigeons, heedless of the
+            remonstrances of the pacific inhabitants, who are afraid of making more energetic
+            demonstrations of disapprobation. We never molest the pigeons in the villages, but to
+            shoot any stray birds outside, however near to the houses, is considered perfectly fair,
+            and is never objected to by the people, who invariably behave to us with civility, as we
+            stroll amongst their huts of mud or unburnt brick. The children it is true, sometimes
+            run away at the sight of us giaours, and the dread of the evil eye is occasionally
+            manifested by an expression of impatience from the women, if we indulge in a stare of
+            curiosity or speculation at them or their occupations, but the dread and dislike of the
+            Frank is fast wearing away, not in Cairo only, but all along the river; and the
+            probability is, that before many years shall have elapsed, the British voyagers on the
+            Nile will be regarded by the dwellers along its banks, as their best, and certainly
+            their most profitable friends.</p>
+
+         <p>It is said that the ultimate occupation of Egypt by the English is looked forward to
+            with considerable confidence by the Cairenes, and that they express much satisfaction at
+            the prospect. It is certain we shall never relinquish the hold we have on their country
+            without a struggle, and that we can never permit any of the great European powers,
+            France, Russia, or Austria, to gain a footing in Egypt, as the safety of our Indian
+            empire would be fearfully compromised by foreign occupation of this country, if it did
+            not eventuate in its loss.</p>
+
+         <p>Minieh, lat. 28. 7. December 2nd. A week's sailing with light airs and calms, and an
+            occasionally favourable breeze, has brought us thus far on our voyage, nearly half way
+            to the great centre of attraction, Thebes; a degree of progress we owe to the unwearied
+            exertions of our willing and light hearted crew of Nubians, in tracking during the day;
+            for at night we generally now make fast to the banks till daybreak, unless the wind
+            should be propitious, when we keep under sail all night, or a part of it.</p>
+
+         <p>December 5th, Left Minieh this forenoon with a favourable breeze from the northwards,
+            having been detained much longer than we intended by an accident to Mr. Lakes, who, when
+            shooting very early on Tuesday morning with a Maltese gentleman, received a shot from
+            the latter intended for a snipe, 27 corns entering in various parts of his person, and
+            one striking the left eye, and wounding the white, a very short distance only from the
+            transparent cornea, which happily escaped an injury that must have infallibly destroyed
+            the sight of that eye. The pain at the moment, Mr. Lakes describes as so intense, that
+            he imagined the shot had pierced his brain, and he fell involuntarily on receiving it.
+            On recovering, he found that he could not see at all with the wounded eye: he managed to
+            reach the boat, a distance of several miles from the spot where the accident occurred,
+            partly on foot, partly on a donkey, and presented himself before us whilst we were at
+            breakfast, informing us, with a smile on his countenance, of what had happened, and
+            exhibiting to Mr. Pengelly and myself, an alarming appearance, his face being perforated
+            with several shot, and the left eye closed. Fortunately Minieh is the residence of a
+            European district surgeon, who being a friend of the Maltese, whose mal-adroitness
+            caused this distressing event, was immediately in our boat, and on examination, found
+            the eye wounded as above related. He prescribed a lotion of acetate of lead, constantly
+            applied, and then a poultice of linseed, intending to bleed his patient, should
+            inflammatory symptoms shew themselves: but most fortunately, the previously lowered
+            system of Mr. Lakes was little disposed to take such inflammatory action, and contrary
+            to all expectation, he passed the night free from any pain worth speaking of, and has
+            ever since been going on as well as could be wished. The sight of the eye is much
+            obscured, but it is to be hoped that in a few days, the troubled humours in the ball
+            will be absorbed, and replaced by others of the usual transparency, there being no
+            reason to apprehend the smallest injury to the optic nerve. Mr. Lakes is sufficiently
+            well to allow us to pursue our voyage* his eyes are of course bandaged, and he cannot
+            employ himself for some days to come, but we have the greatest reason to be thankful
+            that things were no worse. Mr. Lakes might have suffered the loss of his eye, and we
+            must have returned in the boat with him to Cairo.</p>
+
+         <p>We are now, thank God, again stemming the broad bosom of old Nile, to the wild music of
+            our Arab, or rather, Berber crew, (the Berbers are a tribe of central Nubia), under a
+            glorious, never ceasing sunshine, now so mild in its refulgence, that you would suppose
+            yourself in England, were it not for the plague of flies, countless hosts of which have
+            invaded our watery domicile since we moored our little bark alongside the town of
+            Minieh; the plague of fleas has also commenced, and begins to be troublesome to us at
+            night. Ihe banks oi the river swarm with gigantic rats, which never fail to come on
+            board whenever we stop, but they seem to content themselves with running about the boat
+            during the night, and gnawing the timbers, as we have not yet discovered that we are
+            sufferers by their visits to our store lockers, or poultry crate, which is a matter of
+            astonishment, considering the facility of access they have to any article of food on
+            board, and their numerical force and rapacity. We have two cats, (as yet only kittens),
+            and a rat trap on board, but cannot entirely succeed in expelling our unwelcome
+            visitors.</p>
+
+         <p>With kind regards to all our friends at Ryde, and elsewhere, Believe me, always, Your
+            affectionate Brother, William Arnold Bromfield.</p>
+      </body>
+   </text>
+</TEI>
