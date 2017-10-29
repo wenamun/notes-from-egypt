@@ -4,6 +4,7 @@ module namespace app="http://notesfromegypt.info/templates";
 
 import module namespace templates="http://exist-db.org/xquery/templates" ;
 import module namespace config="http://notesfromegypt.info/config" at "config.xqm";
+import module namespace kwic="http://exist-db.org/xquery/kwic";
 
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 
@@ -36,6 +37,22 @@ declare function app:show_letter_title($node as node(), $model as map(*), $colle
     let $file := concat('/db/apps/nfe/data/',$collection,'/',$item)
     for $doc in doc($file)
         return $doc//tei:title/text()
+};
+
+
+(: show_search_params :)
+declare function app:show_search_params($node as node(), $model as map(*), $query as xs:string) {
+    let $query_string := $query
+    return $query_string
+};
+
+
+(: show_search_results :)
+declare function app:show_search_results($node as node(), $model as map(*), $query as xs:string) {
+    
+    for $hit in collection("/db/apps/nfe/data/")//tei:body/tei:p[ft:query(.,$query)]
+    return 
+        kwic:summarize($hit, <config width="40"/>)
 };
 
                     
@@ -157,6 +174,7 @@ declare function app:print_header($node as node(), $model as map(*))
 													<li><a href="show_collection.html?collection=william_arnold_bromfield&amp;item=letter_1.xml">William Arnold Bromfield</a></li>
 												</ul>
 											</li>
+											<li><a href="search_form.html">Fulltext Search</a></li>
 											<li><a href="#">Map</a></li>
 											<li><a href="#">Timeline</a></li>
 											<li><a href="#">Disclaimer &amp; Credits</a></li>
