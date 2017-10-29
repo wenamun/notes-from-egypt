@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<package xmlns="http://expath.org/ns/pkg" name="Notes From Egypt" abbrev="notes-from-egypt" version="0.1" spec="1.0">
-    <title>Notes from Egypt</title>
+<package xmlns="http://expath.org/ns/pkg" name="http://notesfromegypt.info" abbrev="Notes" version="0.1" spec="1.0">
+    <title>Notes From Egypt</title>
     <dependency package="http://exist-db.org/apps/shared"/>
 </package>

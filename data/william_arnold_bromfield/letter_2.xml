@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -206,7 +207,7 @@
             the society of Alexandria is very limited, and that he leads a very secluded life,
             amusing himself, I should suppose, chiefly with his books; for as to any other means of
             passing time agreeably, neither the social, nor certainly the natural attractions in or
-            about the city> offer the least scope to a permanent resident; for even to a stranger
+            about the city&gt; offer the least scope to a permanent resident; for even to a stranger
             like myself, the objects of interest here are extremely few. Filth, disease, and the
             most abject poverty, meet you at every step; when you walk out you are everywhere
             annoyed by the dogs; the glare from the white ground and still whiter buildings and

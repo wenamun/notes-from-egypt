@@ -4,7 +4,7 @@ xquery version "3.0";
  : A set of helper functions to access the application context from
  : within a module.
  :)
-module namespace config="Notes From Egypt/config";
+module namespace config="http://notesfromegypt.info/config";
 
 declare namespace templates="http://exist-db.org/xquery/templates";
 

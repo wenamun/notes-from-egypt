@@ -1,0 +1,58 @@
+/*
+ * Submenu
+*/
+#menu ul > li > ul > li {
+	border: 0;
+	margin: 0 0 0 0 ;
+	padding: 0 0 0 0 ;
+}
+
+#menu ul > li > ul > li > a {
+					border: 0;
+					color: inherit;
+					display: block;
+					font-size: 0.65em;
+					letter-spacing: 0.225em;
+					outline: 0;
+					text-decoration: none;
+					padding-left:2.5em;
+					text-transform: none
+}
+
+#menu ul > li > ul {
+	margin: 0 0 0 0 ;
+}
+
+#cta .inner .actions {
+	width: 80%;;
+}
+
+.wrapper.style1 {
+	background-color: #53493e;	
+	border-top: 1px solid #999999;
+	border-bottom: 1px solid #999999;
+}
+
+#menu {
+	background-color: #53493e;	
+}
+
+.wrapper.style1 header.major p {
+	color: #ffffff;
+}
+
+.wrapper.style3 {
+	background-color: #53493e;	
+}
+
+.spotlight {
+	border-bottom: 1px solid #999999;
+}
+
+#footer {
+	padding: 2em 0 2em 0;
+}
+
+#menu ul > li {
+	border-top: solid 1px rgba(1, 1, 1, 1);
+}

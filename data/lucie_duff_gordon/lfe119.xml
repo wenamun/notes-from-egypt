@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -34,8 +35,7 @@
             think it worth while before to ask for anything to be sent to me that could not be
             forwarded to Hades, but my old body seems very tough and I fancy I have still one or two
             of my nine lives left. </p>
-         <p> I hope to sail in a very few days, Maurice is going up to <placeName ref="Cairo"
-               >Cairo</placeName> so I send this by him. Yesterday was little Rainie’s birthday, and
+         <p> I hope to sail in a very few days, Maurice is going up to <placeName ref="Cairo">Cairo</placeName> so I send this by him. Yesterday was little Rainie’s birthday, and
             I thought very longingly of her. The photo, of Leighton’s sketch of Janet I like very
             much. </p>
       </body>

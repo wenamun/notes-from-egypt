@@ -1,5 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -207,7 +209,8 @@
             not Muslimeen only, and desired his congregation to look at the good deeds of others and
             not at their erroneous faith, for God is all-knowing (_i.e._, He only knows the heart),
             and if they saw aught amiss to remember that the best man need say _Astafer Allah_ (I
-            beg pardon of God) seven times a day.</p><p>I wish the English could know how
+            beg pardon of God) seven times a day.</p>
+            <p>I wish the English could know how
             unpleasant and mischievous their manner of talking to their servants about religion is.
             Omar confided to me how bad it felt to be questioned, and then to see the Englishman
             laugh or put up his lip and say nothing. ‘I don’t want to talk about his religion at

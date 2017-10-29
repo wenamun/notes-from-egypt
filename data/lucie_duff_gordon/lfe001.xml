@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -39,22 +40,17 @@
             Armenian, takes care of me every day, and the Amerian Vice-Consul is my sacrifice. I
             went on <date when="1862-11-09">Sunday</date> to his child's christening, and heard
                <persName>Sakna</persName>, the <q>Restorer of Hearts.</q> She is wonderfully like
-               <persName>Rachel</persName>, and her singing is <foreign xml:lang="de"
-               >hinreisend</foreign> from expression and passion. <persName>Mr. Wilkinson</persName>
+               <persName>Rachel</persName>, and her singing is <foreign xml:lang="de">hinreisend</foreign> from expression and passion. <persName>Mr. Wilkinson</persName>
             (the Consul) is a Levantine, and his wife Armenian, so they had a grand fantasia; people
-            feasted all over the house and in the street. Arab music <foreign xml:lang="de"
-               >schmetterte</foreign>, women yelled the <foreign xml:lang="ar">zaghareet</foreign>,
+            feasted all over the house and in the street. Arab music <foreign xml:lang="de">schmetterte</foreign>, women yelled the <foreign xml:lang="ar">zaghareet</foreign>,
             black servants served sweetmeats, pipes, and coffee, and behaved as if they belonged to
             the company, and I was strongly under the impression that I was at Nurreddin's wedding
             with the Vizier's daughter. Yesterday I went to <placeName>Heliopolis</placeName> with
                <persName>Hekekian Bey</persName> and his wife, and visited an Armenian country lady
             close by.</p>
 
-         <p>My servant <persName>Omar</persName> turns out a jewel. He has <foreign xml:lang="fr"
-               >deterre</foreign> an excellent boat for the Nile voyage, and I am to be mistress of
-            a captain, a mate, eight men and a cabin boy for 25 pounds a month. I went to <placeName
-               ref="Boulak">Boulak</placeName>, the port of <placeName ref="Cairo" 
-            >Cairo</placeName>, and saw various boats, and admired the way in which the English
+         <p>My servant <persName>Omar</persName> turns out a jewel. He has <foreign xml:lang="fr">deterre</foreign> an excellent boat for the Nile voyage, and I am to be mistress of
+            a captain, a mate, eight men and a cabin boy for 25 pounds a month. I went to <placeName ref="Boulak">Boulak</placeName>, the port of <placeName ref="Cairo">Cairo</placeName>, and saw various boats, and admired the way in which the English
             travellers pay for their insolence and caprices. Similar boats cost people with
             dragomans 50 to 65 pounds. But, then, 'I shall lick the fellows,' etc., is what I hear
             all round. The dragoman, I conclude, pockets the difference. The owner of the boat,
@@ -71,7 +67,8 @@
             (who is looked on as a sharp hand) and would promise all he said to me before him, it
             should be well.</p>
 
-         <p><persName>Mr. Thayer</persName>, the American Consul-General, gives me letters to every
+         <p>
+                <persName>Mr. Thayer</persName>, the American Consul-General, gives me letters to every
             consular agent depending on him; and two Coptic merchants whom I met at the fantasia
             have already begged me to <q>honour their houses.</q> I rather think the poor agents,
             who are all Armenians and Copts, will think I am the republic in person. The weather has
@@ -79,7 +76,8 @@
             cough in time, but it has been very bad. There is no cold at night here as at the Cape,
             but it is nothing like so clear and bright.</p>
 
-         <p><persName>Omar</persName> took <persName>Sally</persName> sightseeing all day while I
+         <p>
+                <persName>Omar</persName> took <persName>Sally</persName> sightseeing all day while I
             was away, into several mosques; in one he begged her to wait a minute while he said a
             prayer. They compare notes about their respective countries and are great friends; but
             he is put out at my not having provided her with a husband long ago, as is one's duty
@@ -93,8 +91,7 @@
             eyes and glimpses of her mouth when she drank water), but the figure of a leopard, all
             grace and beauty, and a splendid voice of its kind, harsh but thrilling like
                <persName>Malibran</persName>'s. I guessed her about thirty, or perhaps thirty-five.
-            When she improvised, the finesse and grace of her whole <foreign xml:lang="de"
-               >Wesen</foreign> were ravishing. I was on the point of shouting out <q>Wallah!</q> as
+            When she improvised, the finesse and grace of her whole <foreign xml:lang="de">Wesen</foreign> were ravishing. I was on the point of shouting out <q>Wallah!</q> as
             heartily as the natives. The eight younger <foreign xml:lang="ar">Halmeh</foreign>
             (i.e., learned women, which the English call Almeh and think is an improper word) were
             ugly and screeched. <persName>Sakna</persName> was treated with great consideration and
@@ -104,17 +101,19 @@
 
          <p>It would be very easy to learn colloquial Arabic, as they all speak with such perfect
             distinctness that one can follow the sentences and catch the words one knows as they are
-            repeated. I think I know forty or fifty words already, besides my <q><foreign
-                  xml:lang="ar">salaam aleikum</foreign></q> and <q><foreign xml:lang="ar"
-                  >backsheesh.</foreign></q></p>
+            repeated. I think I know forty or fifty words already, besides my <q>
+                    <foreign xml:lang="ar">salaam aleikum</foreign>
+                </q> and <q>
+                    <foreign xml:lang="ar">backsheesh.</foreign>
+                </q>
+            </p>
 
          <p>The reverse of the brilliant side of the medal is sad enough: deserted palaces, and
             crowded hovels scarce good enough for pigstyes. <q>One day man see his dinner, and one
                other day none at all,</q> as <persName>Omar</persName> observes; and the children
             are shocking from bad food, dirt and overwork, but the little pot-bellied, blear-eyed
             wretches grow up into noble young men and women under all their difficulties. The faces
-            are all sad and rather what the Scotch call 'dour,' not <foreign xml:lang="fr"
-               >mechant</foreign> at all, but harsh, like their voices. All the melody is in walk
+            are all sad and rather what the Scotch call 'dour,' not <foreign xml:lang="fr">mechant</foreign> at all, but harsh, like their voices. All the melody is in walk
             and gesture; they are as graceful as cats, and the women have exactly the <q>breasts
                like pomegranates</q> of their poetry. A tall Bedaween woman came up to us in the
             field yesterday to shake hands and look at us. She wore a white sackcloth shift and
@@ -130,7 +129,8 @@
             he has sat for how many thousand years,--and <persName>Sakna</persName> sang just like
                <persName>Miriam</persName> in one war-song.</p>
 
-         <p><date when="1862-11">Wednesday.</date>--My contract was drawn up and signed by the
+         <p>
+                <date when="1862-11">Wednesday.</date>--My contract was drawn up and signed by the
             American Vice-Consul to-day, and my Reis kissed my hand in due form, after which I went
             to the <foreign xml:lang="ar">bazaar</foreign> to buy the needful pots and pans. The
             transaction lasted an hour. The copper is so much per oka, the workmanship so much;
@@ -178,16 +178,15 @@
             six Arab women out-shrieking a whole rookery. I ought to say that no one begged at
             all.</p>
 
-         <p><date when="1862-11">Friday</date>.--I went to-day on a donkey to a mosque in the
+         <p>
+                <date when="1862-11">Friday</date>.--I went to-day on a donkey to a mosque in the
                <foreign xml:lang="ar">bazaar</foreign>, of what we call Arabesque style, like the
-               <placeName>Alhambra</placeName>, very handsome. The <foreign xml:lang="ar"
-               >Kibleh</foreign> was very beautiful, and as I was admiring it
+               <placeName>Alhambra</placeName>, very handsome. The <foreign xml:lang="ar">Kibleh</foreign> was very beautiful, and as I was admiring it
                <persName>Omar</persName> pulled a lemon out of his breast and smeared it on the
             porphyry pillar on one side of the arch, and then entreated me to lick it. It cures all
             diseases. The old man who showed the mosque pulled eagerly at my arm to make me perform
             this absurd ceremony, and I thought I should have been forced to do it. The base of the
-            pillar was clogged with lemon-juice. I then went to the tombs of the <foreign
-               xml:lang="ar">Khalifah</foreign>; one of the great ones had such arches and such
+            pillar was clogged with lemon-juice. I then went to the tombs of the <foreign xml:lang="ar">Khalifah</foreign>; one of the great ones had such arches and such
             wondrous cupolas but all in ruins. There are scores of these noble buildings, any one of
             which is a treasure, falling to decay. The next, strange to say, was in perfect repair.
             I got off the donkey, and <persName>Omar</persName> fidgeted and hesitated a little and
@@ -200,13 +199,14 @@
             that no Frank had ever been inside to his knowledge. A mosque-keeper of the sterner sex
             would not have let me in. I returned home through endless streets and squares of Moslem
             tombs, those of the Memlooks among them. It was very striking; and it was getting so
-            dark that I thought of <persName>Nurreddin Bey</persName>, and wondered if a <foreign
-               xml:lang="ar">Jinn</foreign> would take me anywhere if I took up my night's lodging
+            dark that I thought of <persName>Nurreddin Bey</persName>, and wondered if a <foreign xml:lang="ar">Jinn</foreign> would take me anywhere if I took up my night's lodging
             in one of the comfortable little cupola-covered buildings.</p>
 
          <p>My Coptic friend has just called in to say that his brother expects me at
                <placeName>Kenneh</placeName>. I find nothing but civility and a desire to please. My
-            boat is the <rs><foreign xml:lang="ar">Zint el Bachreyn</foreign></rs>, and I carry the
+            boat is the <rs>
+                    <foreign xml:lang="ar">Zint el Bachreyn</foreign>
+                </rs>, and I carry the
             English flag and a small American distinguishing pennant as a signal to my consular
             agents. We sail next <date when="1862-11">Wednesday</date>. Good-bye for the present,
             dearest <foreign xml:lang="de">Mutter</foreign>.</p>
