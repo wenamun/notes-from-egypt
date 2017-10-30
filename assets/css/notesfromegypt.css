@@ -61,3 +61,23 @@
     color: #ed4933;
     font-weight: bold;
 }
+
+dt {
+    color: #ed4933;
+    font-weight: bold;
+}
+dd {
+    padding-left:2em;
+}
+
+.special {
+    max-width: 30em;
+    min-width: 100px;
+    margin-top: 5px;
+}
+
+.fulltext_query {
+    max-width: 30em;
+    min-width: 100px;
+}
+

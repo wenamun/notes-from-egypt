@@ -1,32 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div xmlns="http://www.w3.org/1999/xhtml" data-template="templates:surround" data-template-with="templates/page.html" data-template-at="content">
-            <article id="main">
-						<header>
-							<h2>
-                <div>Fulltext Search</div>
-            </h2>
-							
-						</header>
-						<section class="wrapper style5">
-							<div class="inner">
-								<section>
-									
-									<form method="post" action="search.html">
-        <input type="text" name="query" size="20"/>
-        <input type="submit" value="search"/>
-    </form>
-									
-								</section>		
-							</div>							
-						</section>
-					</article>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-</div>
+                   <article id="main">
+	        			<header>
+			        		<h2>
+                                <div>Fulltext Search</div>
+                            </h2>	
+				        </header>
+        				<section class="wrapper style5">
+		        			<div class="inner">
+				        		<section>
+						        	<form method="post" action="search.html">
+                                        <input type="text" name="query" class="fulltext_query" size="20"/>
+                                        <input type="submit" class="special" value="search"/>
+                                    </form>
+				        		</section>		
+        					</div>
+        					<div class="inner">
+        					    <p>
+                    <b>Search tips</b>:</p>
+        					    <dl>
+        					        <dt>cat</dt>
+        					        <dd>searches for word 'cat'</dd>
+        					        <dt>cat*</dt>
+        					        <dd>searches for words that start with 'cat', finds 'cats' as well</dd>
+        					        <dt>European cat</dt>
+        					        <dd>searches for text with either 'European' or 'cat'</dd>
+        					        <dt>"European cat"</dt>
+        					        <dd>searches for texts with string "European cat"</dd>
+        					    </dl>
+        					</div>
+		        		</section>
+			        </article>
+                </div>
