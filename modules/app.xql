@@ -5,7 +5,8 @@ module namespace app="http://notesfromegypt.info/templates";
 import module namespace templates="http://exist-db.org/xquery/templates" ;
 import module namespace config="http://notesfromegypt.info/config" at "config.xqm";
 import module namespace kwic="http://exist-db.org/xquery/kwic";
-import module namespace functx = "http://www.functx.com";
+import module namespace functx="http://www.functx.com";
+import module namespace file="http://exist-db.org/xquery/file";
 
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 
@@ -13,8 +14,9 @@ declare namespace tei="http://www.tei-c.org/ns/1.0";
 (: return authorname from xml file :)                    
 declare function app:show_authorname($node as node(), $model as map(*), $collection as xs:string?, $item as xs:string?) {
     let $file := concat('/db/apps/nfe/data/',$collection,'/',$item)
-    for $doc in doc($file)
-        return $doc//tei:correspAction[@type="sent"]/tei:persName/string()
+    return 
+        for $doc in doc($file)
+        return $doc//tei:correspAction[@type="sent"]/tei:name[@type="person"]/string()
 };
 
 
@@ -33,46 +35,79 @@ declare function app:show_search_params($node as node(), $model as map(*), $quer
 };
 
 
+
 (: show_search_results :)
 declare function app:show_search_results($node as node(), $model as map(*), $query as xs:string) {
     try {
-        for $hit in collection("/db/apps/nfe/data/")//tei:body/tei:p[ft:query(.,$query)]
+        for $hit in collection("/db/apps/nfe/data/")//tei:p[ft:query(., $query)]
             let $filename := util:document-name($hit)
             let $path := document-uri(root($hit))
             let $result := functx:substring-before-match($path, concat("/",$filename))
             let $collection := functx:substring-after-match($result, "/db/apps/nfe/data/")
+            let $collection_array := tokenize(functx:substring-after-match($result, "/db/apps/nfe/data/"), '_')
             let $file := concat('/db/apps/nfe/data/',$collection,'/',$filename)
             for $doc in doc($file)
                 let $title := $doc//tei:title/text()
                 let $from  := $doc//tei:correspAction[@type="sent"]/tei:persName
             let $uri := concat("./show_item.html?collection=",$collection,"&amp;item=",$filename)
+        order by $collection
         return (
             <div>
-                <b><a href="{$uri}">{concat($from, ": ", $title)}</a></b>:
+                <b><a href="{$uri}">{upper-case(string-join(data($collection_array), " "))}: {$title}</a></b>:
                 {kwic:summarize($hit, <config width="60"/>)}
             </div>
         )
     } catch * {
-        <b><span style="color: red">Error in query syntax!</span></b>
+        <b><span style="color: red">Error in query syntax ({$query})! {$err:code} {$err:description}</span></b>
     }
 };
 
                     
-(: shows single item from data :)                    
+(: displays single item from data :)                    
 declare function app:show_item($node as node(), $model as map(*), $collection as xs:string?, $item as xs:string?) {
     let $file := concat('/db/apps/nfe/data/',$collection,'/',$item)
 (:    return $file:)
     for $doc in doc($file)
-        let $title := $doc//tei:title/text()
-        let $from  := $doc//tei:correspAction[@type="sent"]/tei:persName
-        let $to    := $doc//tei:correspAction[@type="received"]/tei:persName
-        let $date  := $doc//tei:teiHeader/tei:profileDesc/tei:correspDesc/tei:correspAction/tei:date/text()
         let $text  := $doc//tei:body
-        let $settlement := $doc//tei:settlement
         return
             <div>
-                {$text}
+                {
+                transform:transform(
+                    transform:transform($text, doc('/db/apps/nfe/xsl/prepare_text.xsl'), ())
+                , doc('/db/apps/nfe/xsl/add_links.xsl'), ())
+                }
             </div>
+};
+
+
+
+
+(: get prev letter link :)
+declare function app:get_prev_letter($node as node(), $model as map(*), $collection as xs:string, $item as xs:string?) {
+    let $prev_nr := xs:integer(substring-before($item, '.xml')) - 1
+        return
+            if (doc-available('/db/apps/nfe/data/'||$collection||'/'||$prev_nr||'.xml')) then
+                <a href="./show_item.html?collection={$collection}&amp;item={$prev_nr}.xml" >
+                    Previous
+                </a> 
+            else ()
+};
+
+
+(: get next letter link :)
+declare function app:get_next_letter($node as node(), $model as map(*), $collection as xs:string, $item as xs:string?) {
+    let $next_nr := xs:integer(substring-before($item, '.xml')) + 1
+        return
+            if (doc-available('/db/apps/nfe/data/'||$collection||'/'||$next_nr||'.xml')) then
+                <a href="./show_item.html?collection={$collection}&amp;item={$next_nr}.xml">
+                    Next
+                </a> 
+            else ()
+};
+
+(: show letter number between navigaion prev/next link:)
+declare function app:get_letter_number($node as node(), $model as map(*), $collection as xs:string, $item as xs:string?){
+    <span style="margin-left:3rem;margin-right:3rem;font-weight:bold;">Letter No. {replace($item, ".xml", "")}</span>
 };
 
 
@@ -91,8 +126,9 @@ declare function app:listLetters($node as node(), $model as map(*), $collection 
         let $filename := util:document-name($resource)
         let $datum := $resource//tei:correspAction/tei:date/@when/string()
         let $uri := concat("./show_item.html?collection=",$collection,"&amp;item=",$filename)
+        let $title := $resource//tei:title/text()
         order by $datum
-        return <li><a href="{$uri}">{$resource//tei:title/text()}</a></li> 
+        return <li><a href="{$uri}">{$title}</a></li> 
         
 }    
     </ul>
@@ -116,7 +152,7 @@ declare function app:show_collection_info($node as node(), $model as map(*), $co
             </p></div>,
             <div>
             <p align="center">
-                <img style="border:2px solid #ccc; width:50%;" src="/exist/apps/nfe/images/Lucie_Gordon.jpg"/><br />
+                <img style="border:2px solid #ccc; width:50%;" src="./images/Lucie_Gordon.jpg"/><br />
                 
                 <a href="https://en.wikipedia.org/wiki/File:Lucie_Gordon_(nee_Austin)_aged_fifteen.jpg">Source: Duff-Gordon, Lucie (1902). Ross, Janet, ed. Letters from Egypt (Revised Edition with Memoir by Her Daughter Janet Ross and New Introduction by George Meredith ed.). London: R. B. Johnson. facing page 4</a>
             </p>
@@ -133,7 +169,7 @@ Bromfield was born at Boldre, in the New Forest, Hampshire, in 1801, his father,
             </p></div>,
             <div>
             <p align="center">
-                <img style="border:2px solid #ccc; width:50%;" src="/exist/apps/nfe/images/bromfield.png"/><br />
+                <img style="border:2px solid #ccc; width:50%;" src="./images/bromfield.png"/><br />
                 
                 <a href="https://books.google.de/books?id=wM8YAAAAYAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false">Picture taken from Cover of Bromfield's book 'Flora Vectensis'</a>
             </p>
@@ -162,13 +198,18 @@ declare function app:print_header($node as node(), $model as map(*))
 											<li><a href="index.html">Home</a></li>
 											<li><a href="#">Collections</a>
 												<ul>
-													<li><a href="show_collection.html?collection=lucie_duff_gordon&amp;item=lfe001.xml">Lucie Duff Gordon</a></li>
-													<li><a href="show_collection.html?collection=william_arnold_bromfield&amp;item=letter_1.xml">William Arnold Bromfield</a></li>
+													<li><a href="show_collection.html?collection=lucie_duff_gordon&amp;item=1.xml">Lucie Duff Gordon</a></li>
+													<li><a href="show_collection.html?collection=william_arnold_bromfield&amp;item=1.xml">William Arnold Bromfield</a></li>
 												</ul>
 											</li>
 											<li><a href="search_form.html">Fulltext Search</a></li>
-											<li><a href="#">Map</a></li>
-											<li><a href="#">Timeline</a></li>
+											<li><a href="show_map.html">Map</a></li>
+											<li><a href="#">Indexes</a>
+											<ul>
+											    <li><a href="show_indices.html?type=places">Places</a></li>
+											    <li><a href="show_indices.html?type=people">People</a></li>
+											</ul>
+											</li>
 											<li><a href="about.html">Disclaimer &amp; Credits</a></li>
 										</ul>
 									</div>
@@ -177,5 +218,11 @@ declare function app:print_header($node as node(), $model as map(*))
 						</nav>
 					</header>
 };
+
+
+declare function app:get_download_link($node as node(), $model as map(*), $collection as xs:string, $item as xs:string?){
+    <a href="./rest/data/{$collection}/{$item}" style="font-size:12px">Download XML</a>  
+};
+
 
 

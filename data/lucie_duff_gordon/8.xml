@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mrs. Austin, CAIRO, April 9, 1863.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/8">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <rs type="place" ref="http://www.geonames.org/360630">Cairo</rs>
+               <date when="1863-04-09">9 April 1863</date>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/59830344">Sarah Austin</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <foreign xml:lang="de"><name type="person" ref="#sarah_austin">Mutter</name></foreign>,</p>
+         <p>I write to you because I know <name type="person" ref="#janet">Janet</name> is sure to
+            write to <name type="person" ref="#alick">Alick</name>. I have had a very severe attack
+            of bronchitis. As I seemed to be getting worse after <name type="person" ref="#janet">Janet</name> and <name type="person" ref="#ross">Ross</name> left for <name type="place" ref="#alexandria">Alexandria </name>, <name type="person" ref="#omar">Omar</name> very wisely sent for <name type="person" ref="#hekekian_bey">Hekekian
+               Bey</name>, who came at once bringing <name type="person" ref="#de_leo_Bey">De Leo
+               Bey</name>, the surgeon-in-chief of the Pasha’s troops, and also the doctor to the
+               <foreign xml:lang="ar">hareem</foreign>. He has been most kind, coming two and three
+            times a day at first. He won’t take any fee, <hi rendition="italic"><foreign xml:lang="fr">sous prétexte</foreign></hi> that he is <hi rendition="italic"><foreign xml:lang="fr">officier du Pasha</foreign></hi>; I must send him a
+            present from England. As to <name type="person" ref="#hekekian_bey">Hekekian Bey</name>,
+            he is absolutely the Good Samaritan, and these Orientals do their kindnesses with such
+            an air of enjoyment to themselves that it seems quite a favour to let them wait upon
+            one. <name type="person" ref="#hekekian_bey">Hekekian</name> comes in every day with his
+            handsome old face and a budget of news, all the gossip of the Sultan and his doings. I
+            shall always fancy the Good Samaritan in a tarboosh with a white beard and very long
+            eyes. I am out of bed to-day for the second time, and waiting for a warm day to go out.
+               <name type="person" ref="#sally">Sally</name> saw the illuminations last night; the Turkish
+               <foreign xml:lang="ar">bazaar</foreign> she says was gorgeous. The Sultan and all his
+            suite have not eaten bread here, all their food comes from Constantinople. To-morrow the
+            Mahmaal goes—think of my missing that sight! <hi rendition="italic"><foreign xml:lang="fr">C’est désclant</foreign></hi>.</p>
+         <p>I have a black slave—a real one. I looked at her little ears wondering they had not been
+            bored for rings. She fancied I wished them bored (she was sitting on the floor close at
+            my side), and in a minute she stood up and showed me her ear with a great pin through
+            it: ‘Is that well, lady?’ the creature is eight years old. The shock nearly made me
+            faint. What extremities of terror had reduced that little mind to such a state. She is
+            very good and gentle, and sews quite nicely already. When she first came, she tells me,
+            she thought I should eat her; now her one dread is that I should leave her behind. She
+            sings a wild song of joy to <name type="person" ref="#maurice">Maurice</name>’s picture
+            and about the little Sitt. She was sent from <name type="place" ref="#khartoum">Khartoum</name> as a present to Mr. <name type="person" ref="#thayer">Thayer</name>,
+            who has no woman-servant at all. He fetched me to look at her, and when I saw the
+            terror-stricken creature being coarsely pulled about by his cook and groom, I said I
+            would take her for the present. <name type="person" ref="#sally">Sally</name> teaches her, and she is
+            very good; but now she has set her whole little black soul upon me. <name type="person" ref="#de_leo_bey">De Leo</name> can give no opinion as to what I ought to do, as he
+            knows little but Egypt, and thinks England rather like Norway, I fancy. Only don’t let
+            me be put in a dreadful mountain valley; I hear the drip, drip, drip of Eaux Bonnes in
+            bad dreams still, when I am chilly and oppressed in my sleep. I’ll write again soon,
+            send this to <name type="person" ref="#alick">Alick</name>, please.</p>
+      </body>
+   </text>
+</TEI>

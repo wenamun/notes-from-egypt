@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To <name type="person" ref="#maurice">Maurice</name> Duff Gordon, LUXOR, January
+               3, 1866.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/67">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <date when="1866-01-03">3 January 1866</date>
+               <rs type="place" ref="http://www.geonames.org/360502">Luxor</rs>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person"><name type="person" ref="#maurice">Maurice</name> Duff
+                  Gordon</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>MY DARLING MAURICE, </p>
+         <p> I was delighted to get your note, which arrived on New Year’s day in the midst of the
+            hubbub of the great festival in honour of the Saint of Luxor. I wish you could have seen
+            two young Arabs (real Arabs from the Hedjaz, in Arabia) ride and play with spears and
+            lances. I never saw anything like it—a man who played the tom-fool stood in the middle,
+            and they galloped round and round him, with their spears crossed and the points resting
+            on the ground, in so small a circle that his clothes whisked round with the wind of the
+            horses’ legs. Then they threw jereeds and caught them as they galloped: the beautiful
+            thing was the perfect mastery of the horses: they were ‘like water in their hands,’ as
+            Sheykh Hassan remarked. I perceived that I had never seen _real_ horsemanship in my life
+            before. </p>
+         <p> I am now in the ‘palace’ at Luxor with my dahabieh, ‘Arooset er-Ralee’ (the Darling
+            Bride), under my windows; quite like a Pasha. </p>
+         <p> In coming up we had an alarm of robbers. Under the mountain called Gebel Foodah, we
+            were entangled in shoals, owing to a change in the bed of the river, and forced to stay
+            all night; and at three in the morning, the <name type="person" ref="#reis">Reis</name>
+            sent in the boy to say he had seen a man creeping on all fours—would I fire my pistol?
+            As my revolver had been stolen in <name type="person" ref="#janet">Janet</name>’s house,
+            I was obliged to beg him to receive any possible troop of armed robbers very civilly,
+            and to let them take what they pleased. However, <name type="person" ref="#omar">Omar</name> blazed away with your father’s old cavalry pistols (which had no
+            bullets) and whether the robbers were frightened, or the man was only a wolf, we heard
+            no more of the affair. My crew were horribly frightened, and kept awake till daybreak. </p>
+         <p> The last night before reaching <name type="place" ref="#kenneh">Keneh</name>, the town
+            forty miles north of Luxor, my men held a grand fantasia on the bank. There was no wind,
+            and we found a lot of old maize stalks; so there was a bonfire, and no end of drumming,
+            singing and dancing. Even <name type="person" ref="#omar">Omar</name> relaxed his
+            dignity so far as to dance the dance of the <name type="place" ref="#alexandria">Alexandria </name> young men; and very funny it all was. I laughed consumedly;
+            especially at the modest airs and graces of a great lubberly fellow—one Hezayin, who
+            acted the bride—in a representation of a Nubian wedding festivity. The new song of this
+            year is very pretty—a declaration of love to a young Mohammed, sung to a very pretty
+            tune. There is another, rather like the air of ‘Di Provenza al mar’ in the ‘Traviata,’
+            with extremely pretty words. As in England, every year has its new song, which all the
+            boys sing about the streets. </p>
+         <p> I hope, darling, you are sapping this year, and intend to make up a bit for lost time.
+            I hear you have lost no time in growing tall at all events—‘ill weeds, etc.’—you know
+               <name type="person" ref="#omar">Omar</name> desires all sorts of messages to you.</p>
+      </body>
+   </text>
+</TEI>

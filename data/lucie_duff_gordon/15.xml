@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, ALEXANDRIA, October 19, 1863.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/15">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <rs type="place" ref="http://www.geonames.org/361058">Alexandria</rs>
+               <date when="1863-10-19">19 October 1863</date>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/315623459">Sir Alexander Duff
+                  Gordon</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>We had a wretched voyage, good weather, but such a <hi rendition="italic"><foreign xml:lang="fr">pétaudière</foreign></hi> of a ship. I am competent to describe the
+            horrors of the middle passage—hunger, suffocation, dirt, and such <hi rendition="italic"><foreign xml:lang="fr">canaille</foreign></hi>, high and low, on board. The only
+            gentleman was a poor Moor going to <name type="place" ref="#mecca">Mecca</name> (who
+            stowed his wife and family in a spare boiler on deck). I saw him washing his children in
+            the morning! ‘<hi rendition="italic"><foreign xml:lang="fr">Que c’est
+                  degoutant</foreign></hi>!’ was the cry of the French spectators. If an Arab washes
+            he is a <hi rendition="italic"><foreign xml:lang="fr">sale cochon</foreign></hi>—no
+            wonder! A delicious man who sat near me on deck, when the sun came round to our side,
+            growled between his clenched teeth: ‘<hi rendition="italic"><foreign xml:lang="fr">Voilà
+                  un tas d’intrigants a l’ombre tandis que le soleil me grille, moi</foreign></hi>,’
+            a good resume of French politics, methinks. Well, on arriving at noon of
+               <date>Friday</date>, I was consoled for all by seeing <name type="person" ref="#janet">Janet</name> in a boat looking as fresh and bright and merry as ever she
+            could look. The heat has evidently not hurt her at all. <name type="person" ref="#omar">Omar</name>’s joy was intense. He has had an offer of a place as messenger with the
+            mails to <name type="place" ref="#suez">Suez </name> and back, £60 a year; and also his
+            brother wanted him for Lady Herbert of Lea, who has engaged <name type="person" ref="#hajjee_ali">Hajjee Ali</name>, and Ali promised high pay, but <name type="person" ref="#omar">Omar</name> said that he could not leave me. ‘I think my
+            God give her to me to take care of her, how then I leave her if she not well and not
+            very rich? I can’t speak to my God if I do bad things like that.’ I am going to his
+            house to-day to see the baby and Hajjee <name type="person" ref="#hannah">Hannah</name>,
+            who is just come down from <name type="place" ref="#cairo">Cairo</name>. <name type="person" ref="#omar">Omar</name> is gone to try to get a <foreign xml:lang="ar">dahabieh</foreign> to go up the river, as I hear that the half-railway, half-steamer
+            journey is dreadfully inconvenient and fatiguing, and the sight of the overflowing Nile
+            is said to be magnificent, it is all over the land and eight miles of the railway gone.
+               <name type="person" ref="#omar">Omar</name> kisses your hand and is charmed with the
+            knife, but far more that my family should know his name and be satisfied with my
+            servant.</p>
+
+         <p>I cannot live in <name type="person" ref="#thayer">Thayer</name>’s house because the
+            march of civilization has led a party of French and Wallachian women into the
+            ground-floor thereof to instruct the ignorant Arabs in drinking, card-playing, and other
+            vices. So I will consult Hajjee <name type="person" ref="#hannah">Hannah</name> to-day;
+            she may know of an empty house and would make divan cushions for me. <name type="person" ref="#zeyneb">Zeyneb</name> is much grown and very active and intelligent, but a
+            little louder and bolder than she was owing to the maids here wanting to christianize
+            her, and taking her out unveiled, and letting her be among the men. However, she is as
+            affectionate as ever, and delighted at the prospect of going with me. I have replaced
+            the veil, and <name type="person" ref="#sally">Sally</name> has checked her tongue and scolded her
+            sister <name type="person" ref="#ellen">Ellen</name> for want of decorum, to the
+            amazement of the latter. <name type="person" ref="#janet">Janet</name> has a darling
+            Nubian boy. Oh dear! what an elegant person <name type="person" ref="#omar">Omar</name>
+            seemed after the French ‘gentleman,’ and how noble was old <name type="person" ref="#hamees">Hamees</name>’s (<name type="person" ref="#janet">Janet</name>’s
+            doorkeeper) paternal but reverential blessing! It is a real comfort to live in a nation
+            of truly well-bred people and to encounter kindness after the savage incivility of
+            France.</p>
+
+         <p><date>Tuesday, October 20</date>.</p>
+
+         <p><name type="person" ref="#omar">Omar</name> has got a boat for £13, which is not more
+            than the railway would cost now that half must be done by steamer and a bit on donkeys
+            or on foot. Poor Hajjee <name type="person" ref="#hannah">Hannah</name> was quite
+            knocked up by the journey down; I shall take her up in my boat. Two and a half hours to
+            sit grilling at noonday on the banks, and two miles to walk carrying one’s own baggage
+            is hard lines for a fat old woman. Everything is almost double in price owing to the
+            cattle murrain and the high Nile. Such an inundation as this year was never known
+            before. Does the blue God resent Speke’s intrusion on his privacy? It will be a glorious
+            sight, but the damage to crops, and even to the last year’s stacks of grain and beans,
+            is frightful. One sails among the palm-trees and over the submerged cotton-fields. <name type="person" ref="#ismail_pasha">Ismail Pasha</name> has been very active, but,
+            alas! his ‘eye is bad,’ and there have been as many calamities as under Pharaoh in his
+            short reign. The cattle murrain is fearful, and is now beginning in <name type="place" ref="#cairo">Cairo</name> and Upper Egypt. <name type="person" ref="#ross">Ross</name> reckons the loss at twelve millions sterling in cattle. The gazelles in
+            the desert have it too, but not horses, asses or goats.</p>
+      </body>
+   </text>
+</TEI>

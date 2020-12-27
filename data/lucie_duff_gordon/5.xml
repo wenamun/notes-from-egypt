@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, THEBES, February 11, 1863.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/5">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <rs type="place" ref="http://www.geonames.org/347342">Thebes</rs>
+               <date when="1863-02-11">11 February 1863</date>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/315623459">Sir Alexander Duff
+                  Gordon</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <name type="person" ref="#alick">Alick</name>,</p>
+
+         <p>On arriving here last night I found one letter from you, dated December 10, and have
+            received nothing else. Pray write again forthwith to <name type="place" ref="#cairo">Cairo</name> where I hope to stay some weeks. A clever old dragoman I met at <name type="place" ref="#philae">Philae</name> offers to lend me furniture for a lodging or
+            a tent for the desert, and when I hesitated he said he was very well off and it was not
+            his business to sell things, but only to be paid for his services by rich people, and
+            that if I did not accept it as he meant it he should be quite hurt. This is what I have
+            met with from everything Arab—nothing but kindness and politeness. I shall say farewell
+            to Egypt with real feeling; among other things, it will be quite a pang to part with
+               <name type="person" ref="#omar">Omar</name> who has been my shadow all this time and
+            for whom I have quite an affection, he is so thoroughly good and amiable.</p>
+
+         <p>I am really much better I hope and believe, though only within the last week or two. We
+            have had the coldest winter ever known in Nubia, such bitter north-east winds, but when
+            the wind by great favour did not blow, the weather was heavenly. If the millennium
+            really does come I shall take a good bit of mine on the Nile. At <name type="place" ref="#assouan">Assouan</name> I had been strolling about in that most poetically
+            melancholy spot, the granite quarry of old Egypt and burial-place of Muslim martyrs, and
+            as I came homewards along the bank a party of slave merchants, who had just loaded their
+            goods for <name type="place" ref="#senaar">Senaar</name> from the boat on the camels,
+            asked me to dinner, and, oh! how delicious it felt to sit on a mat among the camels and
+            strange bales of goods and eat the hot tough bread, sour milk and dates, offered with
+            such stately courtesy. We got quite intimate over our leather cup of sherbet (brown
+            sugar and water), and the handsome jet-black men, with features as beautiful as those of
+            the young <name type="person" ref="#bacchus">Bacchus</name>, described the distant lands
+            in a way which would have charmed <name type="person" ref="#herodotus">Herodotus</name>.
+            They proposed to me to join them, ‘they had food enough,’ and <name type="person" ref="#omar">Omar</name> and I were equally inclined to go. It is of no use to talk of
+            the ruins; everybody has said, I suppose, all that can be said, but <name type="place" ref="#philae">Philae</name> surpassed my expectations. No wonder the Arab legends of
+            Ans el Wogood are so romantic, and <name type="place" ref="#abou_simbel">Abou
+               Simbel</name> and many more. The scribbling of names is quite infamous, beautiful
+            paintings are defaced by <name type="person" ref="#tomkins">Tomkins</name> and <name type="person" ref="#hobson">Hobson</name>, but worst of all <name type="person" ref="#pueckler_muskau">Prince Pückler Muskau</name> has engraved his and his
+            _Ordenskreuz_ in huge letters on the naked breast of that august and pathetic giant who
+            sits at <name type="place" ref="#abou_simbel">Abou Simbel</name>. I wish someone would
+            kick him for his profanity.</p>
+
+         <p>I have eaten many odd things with odd people in queer places, dined in a respectable
+            Nubian family (the castor-oil was trying), been to a Nubian wedding—such a dance I saw.
+            Made friends with a man much looked up to in his place (<name type="place" ref="#kalabshee">Kalabshee</name>—notorious for cutting throats), inasmuch as he had
+            killed several intrusive tax-gatherers and recruiting officers. He was very gentlemanly
+            and kind and carried me up a place so steep I could not have reached it. Just below the
+            cataract—by-the-by going up is nothing but noise and shouting, but coming down is fine
+            fun—_Fantasia khateer_ as my excellent little Nubian pilot said. My sailors all prayed
+            away manfully and were horribly frightened. I confess my pulse quickened, but I don’t
+            think it was fear. Well, below the cataract I stopped for a religious fête, and went to
+            a holy tomb with the darweesh, so extraordinarily handsome and graceful—the true <hi rendition="italic">feingemacht</hi> noble Bedaween type. He took care of me through
+            the crowd, who never had seen a Frank woman before and crowded fearfully, and pushed the
+            true believers unmercifully to make way for me. He was particularly pleased at my not
+            being afraid of Arabs; I laughed, and asked if he was afraid of us. ‘Oh no! he would
+            like to come to England; when there he would work to eat and drink, and then sit and
+            sleep in the church.’ I was positively ashamed to tell my religious friend that with us
+            the ‘house of God’ is not the house of the poor stranger. I asked him to eat with me but
+            he was holding a preliminary Ramadan (it begins next week), and could not; but he
+            brought his handsome sister, who was richly dressed, and begged me to visit him and eat
+            of his bread, cheese and milk. Such is the treatment one finds if one leaves the
+            highroad and the backsheesh-hunting parasites. There are plenty of ‘gentlemen’
+            barefooted and clad in a shirt and cloak ready to pay attentions which you may return
+            with a civil look and greeting, and if you offer a cup of coffee and a seat on the floor
+            you give great pleasure, still more if you eat the dourah and dates, or bread and sour
+            milk with an appetite.</p>
+
+         <p>At <name type="place" ref="#koum_ombo">Koom Ombo</name> we met a Rifaee darweesh with
+            his basket of tame snakes. After a little talk he proposed to initiate me, and so we sat
+            down and held hands like people marrying. <name type="person" ref="#omar">Omar</name>
+            sat behind me and repeated the words as my ‘Wakeel,’ then the Rifaee twisted a cobra
+            round our joined hands and requested me to spit on it, he did the same and I was
+            pronounced safe and enveloped in snakes. My sailors groaned and <name type="person" ref="#omar">Omar</name> shuddered as the snakes put out their tongues—the darweesh
+            and I smiled at each other like Roman augurs. I need not say the creatures were
+            toothless.</p>
+
+         <p>It is worth going to Nubia to see the girls. Up to twelve or thirteen they are neatly
+            dressed in a bead necklace and a leather fringe 4 inches wide round the loins, and
+            anything so absolutely perfect as their shapes or so sweetly innocent as their look
+            can’t be conceived. My pilot’s little girl came in the dress mentioned before carrying a
+            present of cooked fish on her head and some fresh eggs; she was four years old and so
+               <foreign xml:lang="de">klug</foreign>. I gave her a captain’s biscuit and some figs,
+            and the little pet sat with her little legs tucked under her, and ate it so <foreign xml:lang="de">manierlich</foreign> and was so long over it, and wrapped up some more
+            white biscuit to take home in a little rag of a veil so carefully. I longed to steal
+            her, she was such a darling. Two beautiful young Nubian women visited me in my boat,
+            with hair in little plaits finished off with lumps of yellow clay burnished like golden
+            tags, soft, deep bronze skins, and lips and eyes fit for <name type="person" ref="#isis">Isis</name> and <name type="person" ref="#hathor">Hathor</name>. Their very dress
+            and ornaments were the same as those represented in the tombs, and I felt inclined to
+            ask them how many thousand years old they were. In their house I sat on an ancient
+            Egyptian couch with the semicircular head-rest, and drank out of crockery which looked
+            antique, and they brought a present of dates in a basket such as you may see in the
+            British Museum. They are dressed in drapery like Greek statues, and are as perfect, but
+            have hard, bold faces, and, though far handsomer, lack the charm of the Arab women; and
+            the men, except at <name type="place" ref="#kalabshee">Kalabshee</name> and those from
+            far up the country, are not such gentlemen as the Arabs.</p>
+
+         <p> Everyone is cursing the French here. Forty thousand men always at work at the <name type="place" ref="#suez">Suez</name> Canal at starvation-point, does not endear them
+            to the Arabs. There is great excitement as to what the new Pasha will do. If he ceases
+            to give forced labour, the Canal, I suppose, must be given up. Well, I must leave off
+            and send my letter to <name type="person" ref="#mustapha_aga">Mustapha Aga</name> to
+            forward. I shall stay here ten days or so, and then return slowly to <name type="place" ref="#cairo">Cairo</name> on March 10, the last day of Ramadan. I will stay a short
+            time at <name type="place" ref="#cairo">Cairo</name>, and then take a small boat and
+            drop down to <name type="place" ref="#alexandria">Alexandria</name> and see <name type="person" ref="#janet">Janet</name>. How I did wish for my darling <name type="person" ref="#rainie">Rainie</name> to play with <name type="person" ref="#achmet">Achmet</name> in the boat and see the pretty Nubian boys and girls. I
+            have seen and heard so much, that like M. de Conti <foreign xml:lang="fr">je voudrais
+               être levé pour l’aller dire</foreign>. I long to bore you with traveller’s tales.
+            Pray write soon.</p>
+
+         <p><name type="person" ref="#omar">Omar</name> wanted to hear all that ‘the gentleman’ said
+            about ‘weled and bint’ (boy and girl), and was quite delighted to hear of <name type="person" ref="#maurice">Maurice</name>’s good report at school, he thinks that
+            the ‘Abou el welàd’ (father of the children—you, to wit) will send a sheep to the
+            ‘fikee’ who teaches him. I have learned a new code of propriety altogether—<foreign xml:lang="fr">célà a du bon et du mauvais</foreign>, like ours. When I said ‘my
+            husband’ <name type="person" ref="#omar">Omar</name> blushed and gently corrected me;
+            when my donkey fell in the streets he cried with vexation, and on my mentioning the fall
+            to fact. On the other hand they mention all that belongs to the production of children
+            with perfect satisfaction and pleasure. A very pleasing, modest and handsome Nubian
+            young woman, wishing to give me the best present she could think of, brought me a mat of
+            her own making, and which had been her marriage-bed. It was a gift both friendly and
+            honourable, and I treasure it accordingly. <name type="person" ref="#omar">Omar</name>
+            gave me a description of his own marriage, appealing to my sympathy about the distress
+            of absence from his wife. I intimated that English people were not accustomed to some
+            words and might be shocked, on which he said, ‘Of course I not speak of my <foreign xml:lang="ar">Hareem</foreign> to English gentleman, but to good Lady can speak
+            it.’</p>
+
+         <p>Good-bye, dear <name type="person" ref="#alick">Alick</name>, no, that is improper: I
+            must say ‘O my Lord’ or ‘Abou Maurice.’</p>
+      </body>
+   </text>
+</TEI>

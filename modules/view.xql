@@ -13,6 +13,10 @@ import module namespace templates="http://exist-db.org/xquery/templates" ;
  :)
 import module namespace config="http://notesfromegypt.info/config" at "config.xqm";
 import module namespace app="http://notesfromegypt.info/templates" at "app.xql";
+import module namespace test="http://exist.org/apps/nfe/test" at "/db/apps/nfe/modules/test.xql";
+import module namespace place="http://exist.org/apps/nfe/place" at "/db/apps/nfe/modules/place.xqm";
+import module namespace person="http://exist.org/apps/nfe/person" at "/db/apps/nfe/modules/person.xqm";
+import module namespace index="http://exist.org/apps/nfe/index" at "/db/apps/nfe/modules/index.xqm";
 
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
 

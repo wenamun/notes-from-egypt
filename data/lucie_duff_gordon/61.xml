@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, CAIRO, June 16, 1865.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/61">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <date when="1865-06-16">16 June 1865</date>
+               <rs type="place" ref="http://www.geonames.org/360630">Cairo</rs>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/315623459">Sir Alexander Duff
+                  Gordon</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <name type="person" ref="#alick">Alick</name>, </p>
+         <p> I will go down to <name type="place" ref="#alexandria">Alexandria </name> in the boat
+            and <name type="person" ref="#omar">Omar</name> will work at her. She wants a great deal
+            of repairing I find, and his superintendence will save much money—besides he will do one
+            man’s work as he is a much better carpenter than most here having learnt of the English
+            workmen on the railroad—but the <name type="person" ref="#reis">Reis</name> says the
+            boat must come out of the water as her bottom is unsound. She is a splendid sailer I
+            hear and remarkably comfortable. The beds in the _kasneh_ would do for Jacob Omnium. So
+            when you ‘honour our house’ you will be happy. The saloon is small, and the berths as
+            usual. Also she is a very handsome shape—but she wants no end of repairs. So <name type="person" ref="#omar">Omar</name> is consoled at being left because he will ‘save
+            our money’ a great deal by piecing sails, and cutting and contriving, and scraping and
+            painting himself. Only he is afraid for me. However, _Allah Kereem_. </p>
+         <p> I have a very good <name type="person" ref="#reis">Reis</name> I think. The usual tight
+            little black fellow from near <name type="place" ref="#assouan">Assouan</name>—very neat
+            and active and good tempered—the same cross steersman that we had up to Bedreshayn—but
+            he knows his work well. We had contrary gales the whole way. My men worked all they
+            possibly could, and pulled the rope all day and rowed all night, day after day—but we
+            were twenty-eight days getting down. </p>
+         <p> I can’t write any more.</p>
+      </body>
+   </text>
+</TEI>

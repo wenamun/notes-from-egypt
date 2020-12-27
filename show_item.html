@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div xmlns="http://www.w3.org/1999/xhtml" data-template="templates:surround" data-template-with="templates/page.html" data-template-at="content">
-    
-    				<article id="main">
-						<header>
-							<h2>
-                <div class="app:show_authorname"/>
-            </h2>
-							<p>
-                <div class="app:show_letter_title"/>
-            </p>
-						</header>
-						<section class="wrapper style5">
-							<div class="inner">
-								<section>
-									<div class="app:show_item"/>
-								</section>		
-							</div>							
-						</section>
-					</article>
+	<article id="main">
+		<header>
+			<h2>
+				<div class="app:show_authorname"/>
+			</h2>
+			<p>
+				<div class="app:show_letter_title"/>
+			</p>
+		</header>
+		<section class="wrapper style5">
+			<div style="text-align:center; margin-bottom:2rem;">
+				<div class="app:get_prev_letter"/>
+				<div class="app:get_letter_number"/>
+				<div class="app:get_next_letter"/>
+			</div>
+			
+			<div class="inner">
+				<section>
+					<div class="app:show_item"/>
+				</section>
+			</div>
+			<div style="text-align:center; margin-bottom:2rem;">
+				<div class="app:get_download_link"/>
+			</div>
+		</section>
+	</article>
 </div>

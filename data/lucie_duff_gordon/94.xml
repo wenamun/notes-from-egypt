@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, LUXOR, January 22, 1867.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/94">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <date when="1867-01-22">22 January 1867</date>
+               <rs type="place" ref="http://www.geonames.org/360502">Luxor</rs>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/315623459">Sir Alexander Duff
+                  Gordon</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <name type="person" ref="#alick">Alick</name>, </p>
+         <p> The weather has been lovely, for the last week, and I am therefore somewhat better. My
+            boat arrived to-day, with all the men in high good-humour, and <name type="person" ref="#omar">Omar</name> tells me all is in good order, only the people in <name type="place" ref="#cairo">Cairo</name> gave her the evil eye, and broke the iron part
+            of the rudder which had to be repaired at <name type="place" ref="#benisouef">Benisouef</name>. Mr. Lear has been here the last few days, and is just going up to
+            the second cataract; he has done a little drawing of my house for you—a new view of it.
+            He is a pleasant man and I was glad to see him. </p>
+         <p> [Picture: Lady Duff Gordon, from oil portrait by Henry W. Phillips, about 1851] </p>
+         <p> Such a queer fellow came here the other day—a tall stalwart Holsteiner, I should think
+            a man of fifty, who has been four years up in the Soudan and Sennaar, and being
+            penniless, had walked all through Nubia begging his way. He was not the least ‘down upon
+            his luck’ and spoke with enthusiasm of the hospitality and kindness of Sir Samuel
+            Baker’s ‘tigers.’ _Ja, das sind die rechten Kerls, dass ist das glückliche Leben_. His
+            account is that if you go with an armed party, the blacks naturally show fight, as men
+            with guns, in their eyes, are always slave hunters; but if you go alone and poor, they
+            kill an ox for you, unless you prefer a sheep, give you a hut, and generally anything
+            they have to offer, _merissey_ (beer) to make you as drunk as a lord, and young ladies
+            to pour it out for you—and—you need not wear any clothes. If you had heard him you would
+            have started for the interior at once. I gave him a dinner and a bottle of common wine,
+            which he emptied, and a few shillings, and away he trudged merrily towards <name type="place" ref="#cairo">Cairo</name>. I wonder what the Nubians thought of a
+            _howagah_ begging. He said they were all kind, and that he was sure he often ate what
+            they pinched themselves to give—dourrah bread and dates. </p>
+         <p> In the evening we were talking about this man’s stories, and of ‘anthropophagi and men
+            whose heads do grow’ to a prodigious height, by means of an edifice woven of their own
+            hair, and other queer things, when Hassan told me a story which pleased me particularly.
+            ‘My father,’ said he, ‘Sheykh Mohammed (who was a taller and handsomer man than I am),
+            was once travelling very far up in the black country, and he and the men he was with had
+            very little to eat, and had killed nothing for many days; presently they heard a sort of
+            wailing from a hole in the rock, and some of the men went in and dragged out a
+            creature—I know not, and my father knew not, whether a child of Adam or a beast. But it
+            was like a very foul and ill-shaped woman, and had six toes on its feet. The men wished
+            to slay it, according to the law declaring it to be a beast and lawful food, but when it
+            saw the knife, it cried sadly and covered its face with its hands in terror, and my
+            father said, ‘By the Most High God, ye shall not slay the poor woman-beast which thus
+            begs its life; I tell you it is unlawful to eat one so like the children of Adam.’ And
+            the beast or woman clung to him and hid under his cloak; and my father carried her for
+            some time behind him on his horse, until they saw some creatures like her, and then he
+            sent her to them, but he had to drive her from him by force, for she clung to him.
+            Thinkest thou oh Lady, it was really a beast, or some sort of the children of Adam?’ </p>
+         <p> ‘God knows, and He only,’ said I piously, ‘but by His indulgent name, thy father, oh
+            Sheykh, was a true nobleman.’ Sheykh Yussuf chimed in and gave a decided opinion that a
+            creature able to understand the sight of the knife and to act so, was not lawful to kill
+            for food. You see what a real Arab Don Quixote was. It is a picture worthy of him,—the
+            tall, noble-looking Abab’deh sheltering the poor ‘woman-beast,’ most likely a gorilla or
+            chimpanzee, and carrying her _en croupe_.</p>
+      </body>
+   </text>
+</TEI>

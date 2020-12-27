@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe_places.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>NFE: Controlled vocabulary for all places</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Data from this authority file for places can be reused under the Creative Commons
+                    Attribution-ShareAlike 4.0 licence (CC-BY-SA 4.0).</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the authority file for places used in the "Notes from Egypt" project
+                    (https://notesfromegypt.info).</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPlace>
+                <place xml:id="abou_simbel">
+                    <placeName xml:lang="en">Abu Simbel</placeName>
+                    <location>
+                        <geo>22.336944, 31.625556</geo>
+                    </location>
+                    <note>The Abu Simbel temples are two massive rock-cut temples at Abu Simbel
+                        (Arabic: أبو سمبل‎), a village in Aswan Governorate, Upper Egypt, near the
+                        border with Sudan. They are situated on the western bank of Lake Nasser,
+                        about 230 km southwest of Aswan (about 300 km by road). The complex is part
+                        of the UNESCO World Heritage Site known as the "Nubian Monuments", which run
+                        from Abu Simbel downriver to Philae (near Aswan). The twin temples were
+                        originally carved out of the mountainside in the 13th century BC, during the
+                        19th Dynasty reign of the Pharaoh Ramesses II. They serve as a lasting
+                        monument to the king and his queen Nefertari, and commemorate his victory at
+                        the Battle of Kadesh. Their huge external rock relief figures have become
+                        iconic. </note>
+                    <idno type="geonames">https://www.geonames.org/362040</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Abu_Simbel_temples</idno>
+                </place>
+                <place xml:id="abydos">
+                    <placeName xml:lang="en">Abydos</placeName>
+                    <location>
+                        <geo>26.185, 31.918889</geo>
+                    </location>
+                    <note>Abydos (Arabic: أبيدوس‎; /əˈbaɪdɒs/ Sahidic Coptic: Ⲉⲃⲱⲧ Ebōt) is one of
+                        the oldest cities of ancient Egypt, and also of the eighth nome in Upper
+                        Egypt. It is located about 11 kilometres west of the Nile at latitude 26°
+                        10' N, near the modern Egyptian towns of El Araba El Madfuna and El Balyana.
+                        In the ancient Egyptian language, the city was called Abdju (ꜣbḏw or
+                        AbDw).</note>
+                    <idno type="geonames">https://www.geonames.org/361885</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Abydos,_Egypt</idno>
+                </place>
+                <place xml:id="alexandria">
+                    <placeName xml:lang="en">Alexandria</placeName>
+                    <location>
+                        <geo>31.2, 29.916667</geo>
+                    </location>
+                    <note>Alexandria (/ˌælɪɡˈzændriə/ or /-ˈzɑːnd-/; Arabic: الإسكندرية‎
+                        al-ʾIskandariyya; Egyptian Arabic: اسكندرية‎ Eskendereyya; Coptic: ⲣⲁⲕⲟϯ
+                        Rakodī; Greek: Αλεξάνδρεια Alexandria) is the second-largest city in Egypt.
+                        Alexandria was founded in c. 331 BC by Alexander the Great, king of Macedon
+                        and leader of the Greek League of Corinth, during his conquest of the
+                        Achaemenid Empire. By the time of the Arab conquest of Egypt in 641 AD, the
+                        city had already been largely plundered and lost its significance before
+                        re-emerging in the modern era. From the late 18th century, Alexandria became
+                        a major centre of the international shipping industry and one of the most
+                        important trading centres in the world, both because it profited from the
+                        easy overland connection between the Mediterranean Sea and the Red
+                        Sea.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Alexandria</idno>
+                    <idno type="geonames">https://www.geonames.org/361058</idno>
+                </place>
+                <place xml:id="alhambra">
+                    <placeName xml:lang="en">Alhambra</placeName>
+                    <location>
+                        <geo>37.17695, -3.59001</geo>
+                    </location>
+                    <note>The Alhambra (/ælˈhæmbrə/ (About this soundlisten), Spanish: [aˈlambɾa];
+                        Arabic: الْحَمْرَاء‎, romanized: Al-Ḥamrāʾ, pronounced [alħamˈraːʔ], lit.
+                        'The Red One') is a palace and fortress complex located in Granada,
+                        Andalusia, Spain. It was originally constructed as a small fortress in 889
+                        CE on the remains of Roman fortifications, and then largely ignored until
+                        its ruins were renovated and rebuilt in the mid-13th century by the Arab
+                        Nasrid emir Mohammed ben Al-Ahmar of the Emirate of Granada, who built its
+                        current palace and walls with many beautiful, intricate details. It was
+                        converted into a royal palace in 1333 by Yusuf I, Sultan of Granada. After
+                        the conclusion of the Christian Reconquista in 1492, the site became the
+                        Royal Court of Ferdinand and Isabella (where Christopher Columbus received
+                        royal endorsement for his expedition), and the palaces were partially
+                        altered in the Renaissance style. In 1526 Charles I &amp; V commissioned a
+                        new Renaissance palace better befitting the Holy Roman Emperor in the
+                        revolutionary Mannerist style influenced by humanist philosophy in direct
+                        juxtaposition with the Nasrid Andalusian architecture, but it was ultimately
+                        never completed due to Morisco rebellions in Granada.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Alhambra</idno>
+                    <idno type="geonames">https://www.geonames.org/7302839</idno>
+                </place>
+                <place xml:id="assouan">
+                    <placeName xml:lang="en">Aswan</placeName>
+                    <location>
+                        <geo>24.088889, 32.899722</geo>
+                    </location>
+                    <note>Aswan (/æsˈwɑːn, ɑːs-/, also US: /ˈæswɑːn, ˈɑːs-, ˈæz-/; Arabic: أسوان‎,
+                        romanized: ʾAswān [ʔɑsˈwɑːn]; Coptic: Ⲥⲟⲩⲁⲛ, romanized: Souan pronounced
+                        [swaːn]) is a city in the south of Egypt, and is the capital of the Aswan
+                        Governorate. Aswan is a busy market and tourist centre located just north of
+                        the Aswan Dam on the east bank of the Nile at the first cataract. </note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Aswan</idno>
+                    <idno type="geonames">https://www.geonames.org/359792</idno>
+                </place>
+                <place xml:id="atleh">
+                    <placeName xml:lang="en">Atleh</placeName>
+                    <location>
+                        <geo> </geo>
+                    </location>
+                    <idno type="geonames"/>
+                </place>
+                <place xml:id="bellianeh">
+                    <placeName xml:lang="en">El Balyana</placeName>
+                    <location>
+                        <geo>26.233333, 32</geo>
+                    </location>
+                    <note>El Balyana (Arabic: البلينا‎; Coptic: ⲃⲩⲗⲓⲁⲛⲏ, ⲧⲡⲟⲗⲩⲃⲓⲁⲛⲏ Tpolubianē,
+                        pronounced [təpoliβjˈanə]) is a small town in the Sohag Governorate of Upper
+                        Egypt. Located on the west bank of the Nile, it is situated near the ancient
+                        Egyptian city of Abydos.</note>
+                    <idno type="geonames">https://www.geonames.org/361435</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/El_Balyana</idno>
+                </place>
+                <place xml:id="beni_hassan">
+                    <placeName xml:lang="en">Beni Hasan</placeName>
+                    <location>
+                        <geo>27.933333, 30.883333</geo>
+                    </location>
+                    <note>Beni Hasan (also written as Bani Hasan, or also Beni-Hassan) (Arabic: بني
+                        حسن‎) is an ancient Egyptian cemetery site. It is located approximately 20
+                        kilometers to the south of modern-day Minya in the region known as Middle
+                        Egypt, the area between Asyut and Memphis. While there are some Old Kingdom
+                        burials at the site, it was primarily used during the Middle Kingdom,
+                        spanning the 21st to 17th centuries BCE (Middle Bronze Age). To the south of
+                        the cemetery is a temple constructed by Hatshepsut and Thutmose III,
+                        dedicated to the local goddess Pakhet. It is known as the Cave of Artemis,
+                        because the Greeks identified Pakhet with Artemis, and the temple is
+                        subterranean. </note>
+                    <idno type="geonames">https://www.geonames.org/359243</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Beni_Hasan</idno>
+                </place>
+                <place xml:id="benisouef">
+                    <placeName xml:lang="en">Beni Suef</placeName>
+                    <location>
+                        <geo>29.066667, 31.083333</geo>
+                    </location>
+                    <note>Beni Suef (Arabic: بني سويف‎ Baniswēf) is the capital city of the Beni
+                        Suef Governorate in Egypt. An important agricultural trade centre on the
+                        west bank of the Nile River, the city is located 110 km south of Cairo. </note>
+                    <idno type="geonames">https://www.geonames.org/359173</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Beni_Suef</idno>
+                </place>
+                <place xml:id="bibbeh">
+                    <placeName xml:lang="en">Bibbeh</placeName>
+                    <location>
+                        <geo> </geo>
+                    </location>
+                    <idno type="geonames"/>
+                </place>
+                <place xml:id="boulak">
+                    <placeName xml:lang="en">Boulaq</placeName>
+                    <location>
+                        <geo>30.053, 31.23 </geo>
+                    </location>
+                    <note>Boulaq[a] (Arabic: بولاق‎, romanized: Būlāq from Ancient Greek: φυλακή
+                        "guard, customs post"), is a district of Cairo, in Egypt. It neighbours
+                        Downtown Cairo, Azbakeya, and the River Nile. </note>
+                    <idno type="geonames">http://sws.geonames.org/358683/</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Boulaq</idno>
+                </place>
+                <place xml:id="bubastis">
+                    <placeName xml:lang="en">Bubastis</placeName>
+                    <location>
+                        <geo>30.572778, 31.51</geo>
+                    </location>
+                    <note>Bubastis (Bohairic Coptic: Ⲡⲟⲩⲃⲁⲥϯ Poubasti; Greek: Βούβαστις Boubastis or
+                        Βούβαστος Boubastos), also known in Arabic as Tell-Basta or in Egyptian as
+                        Per-Bast, was an ancient Egyptian city. Bubastis is often identified with
+                        the biblical Pi-Beseth (Hebrew: פי-בסת‎ py-bst, Ezekiel 30:17). It was the
+                        capital of its own nome, located along the River Nile in the Delta region of
+                        Lower Egypt, and notable as a center of worship for the feline goddess
+                        Bastet, and therefore the principal depository in Egypt of mummies of
+                        cats.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Bubastis</idno>
+                    <idno type="geonames">https://www.geonames.org/358710</idno>
+                </place>
+                <place xml:id="cairo">
+                    <placeName xml:lang="en">Cairo</placeName>
+                    <location>
+                        <geo>30.033333, 31.233333</geo>
+                    </location>
+                    <note>Cairo is the capital of Egypt. Located near the Nile Delta, Cairo was
+                        founded in 969 AD by the Fatimid dynasty, but the land composing the
+                        present-day city was the site of ancient national capitals whose remnants
+                        remain visible in parts of Old Cairo. Cairo has long been a centre of the
+                        region's political and cultural life, and is titled "the city of a thousand
+                        minarets" for its preponderance of Islamic architecture.</note>
+                    <idno type="geonames">http://sws.geonames.org/360630</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Cairo</idno>
+                </place>
+                <place xml:id="damietta">
+                    <placeName xml:lang="en">Damietta</placeName>
+                    <location>
+                        <geo>31.416667, 31.816667</geo>
+                    </location>
+                    <note>Damietta (Arabic: دمياط‎ Dumyāṭ, IPA: [domˈjɑːtˤ]; Coptic: ⲧⲁⲙⲓⲁϯ,
+                        romanized: Tamiat) is a port city and the capital of the Damietta
+                        Governorate in Egypt, a former bishopric and present multiple Catholic
+                        titular see. It is located at the Damietta branch, an eastern distributary
+                        of the Nile Delta, 15 kilometres from the Mediterranean Sea, about 200
+                        kilometres north of Cairo. </note>
+                    <idno type="geonames">https://www.geonames.org/358048</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Damietta</idno>
+                </place>
+                <place xml:id="delta">
+                    <placeName xml:lang="en">Delta</placeName>
+                    <location>
+                        <geo> </geo>
+                    </location>
+                    <idno type="geonames"> </idno>
+                </place>
+                <place xml:id="dendera">
+                    <placeName xml:lang="en">Dendera</placeName>
+                    <location>
+                        <geo>26.16627, 32.661584 </geo>
+                    </location>
+                    <note>Dendera (Arabic: دندرة‎ Dandarah; Ancient Greek: Τεντυρις or Τεντυρα;
+                        Coptic: ⲧⲉⲛⲧⲱⲣⲉ or ⲧⲉⲛⲧⲱⲣⲓ), also spelled Denderah, ancient Iunet, Tentyris
+                        or Tentyra is a small town and former bishopric in Egypt situated on the
+                        west bank of the Nile, about 5 kilometres south of Qena, on the opposite
+                        side of the river. It is located approximately 60 kilometres north of Luxor
+                        and remains a Latin Catholic titular see. It contains the Dendera Temple
+                        complex, one of the best-preserved temple sites from ancient Upper Egypt. </note>
+                    <idno type="geonames">https://www.geonames.org/358422</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dendera</idno>
+                </place>
+                <place xml:id="edfou">
+                    <placeName xml:lang="en">Edfu</placeName>
+                    <location>
+                        <geo>24.977778, 32.873333</geo>
+                    </location>
+                    <note>Edfu (Arabic: إدفو‎ pronounced [ˈʔedfu], Coptic: Ⲧⲃⲱ vars. Ⲁⲧⲃⲱ, Ⲧⲃⲟ
+                        (Sahidic); Ⲑⲃⲱ(Bohairic); also spelt Idfu, or in modern French as Edfou, and
+                        known in antiquity as Behdet) is an Egyptian city, located on the west bank
+                        of the Nile River between Esna and Aswan, with a population of approximately
+                        sixty thousand people. Edfu is the site of the Ptolemaic Temple of Horus and
+                        an ancient settlement, Tell Edfu. About 5 km south of Edfu are remains of
+                        ancient pyramids. </note>
+                    <idno type="geonames">https://www.geonames.org/355635</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Edfu</idno>
+                </place>
+                <place xml:id="egypt">
+                    <placeName xml:lang="en">Egypt</placeName>
+                    <location>
+                        <geo> </geo>
+                    </location>
+                    <idno type="geonames"> </idno>
+                </place>
+                <place xml:id="el_kab">
+                    <placeName xml:lang="en">El Kab</placeName>
+                    <location>
+                        <geo>25.118889, 32.797778</geo>
+                    </location>
+                    <note>El Kab (or better Elkab) is an Upper Egyptian site on the east bank of the
+                        Nile at the mouth of the Wadi Hillal about 80 kilometres south of Luxor
+                        (ancient Thebes). El Kab was called Nekheb in the Egyptian language (Coptic:
+                        ⲛ̀ⲭⲁⲃ Enkhab), a name that refers to Nekhbet, the goddess depicted as a
+                        white vulture. In Greek it was called Eileithyias polis, "city of the
+                        goddess Eileithyia". El Kab consists of prehistoric and ancient Egyptian
+                        settlements, rock-cut tombs of the early Eighteenth Dynasty (1550–1295 BC),
+                        remains of temples dating from the Early Dynastic period (3100–2686 BC) to
+                        the Ptolemaic Kingdom (332–30 BC), as well as part of the walls of a Coptic
+                        monastery.</note>
+                    <idno type="geonames">https://www.geonames.org/360986</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/El_Kab</idno>
+                </place>
+                <place xml:id="esneh">
+                    <placeName xml:lang="en">Esna</placeName>
+                    <location>
+                        <geo>25.3, 32.55</geo>
+                    </location>
+                    <note>Esna (Arabic: إسنا‎ IPA: [ˈʔesnæ], Ancient Egyptian: jwny.t or tꜣ-snt;
+                        Coptic: ⲥⲛⲏ or ⲉⲥⲛⲏ Snē from tꜣ-snt; Koinē Greek: Λατόπολις Latópolis or
+                        πόλις Λάτων (Pólis Látōn) or Λάττων (Lattōn); Latin: Lato), is a city of
+                        Egypt. It is located on the west bank of the Nile some 55 km south of
+                        Luxor.</note>
+                    <idno type="geonames">https://www.geonames.org/355449</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Esna</idno>
+                </place>
+                <place xml:id="fazogloo">
+                    <placeName xml:lang="en">Fazogloo</placeName>
+                    <location>
+                        <geo> </geo>
+                    </location>
+                    <note/>
+                    <idno type="geonames"> </idno>
+                    <idno type="wikipedia"> </idno>
+                </place>
+                <place xml:id="feshn">
+                    <placeName xml:lang="en">El Fashn</placeName>
+                    <location>
+                        <geo>28.822718, 30.899205</geo>
+                    </location>
+                    <note>El Fashn (Arabic: الفشن‎, Coptic: ⲡⲃⲏϣⲛ) is a city in Egypt. It is
+                        situated near the southern borders of Beni Suef Governorate.</note>
+                    <idno type="geonames">https://www.geonames.org/361329</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/El_Fashn</idno>
+                </place>
+                <place xml:id="gebel_sheykh_embarak">
+                    <placeName xml:lang="en">Gabal Sheikh Umbarak</placeName>
+                    <location>
+                        <geo/>
+                    </location>
+                </place>
+                <place xml:id="gebel_sheykh_hereedee">
+                    <placeName xml:lang="en">Gabal El Haridi</placeName>
+                    <location>
+                        <geo>26.766667, 31.566667 </geo>
+                    </location>
+                    <note>Gabal El Haridi is an archaeological site in Egypt approximately 350
+                        kilometers south of Cairo within Sakulta.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Gabal_El_Haridi</idno>
+                    <idno type="geonames">https://www.geonames.org/356103</idno>
+                </place>
+                <place xml:id="girgeh">
+                    <placeName xml:lang="en">Girga</placeName>
+                    <location>
+                        <geo>26.333333, 31.9</geo>
+                    </location>
+                    <note>Girga (Arabic: جرجا‎ pronounced [ˈɡeɾɡæ], Coptic: ⲧⲓⲛ Din?) is a city in
+                        the Sohag Governorate of Upper Egypt. It is located on the west bank of the
+                        Nile River.</note>
+                    <idno type="geonames">https://www.geonames.org/355026</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Girga</idno>
+                </place>
+                <place xml:id="heliopolis">
+                    <placeName xml:lang="en">Heliopolis</placeName>
+                    <location>
+                        <geo>30.10882, 31.37924</geo>
+                    </location>
+                    <note>Heliopolis (Egyptian Arabic: مصر الجديده‎, Maṣr eg-Gedīda, [ˈmɑsˤɾ eg
+                        ɡeˈdidæ], lit. "New Egypt") was a suburb outside Cairo, Egypt, which has
+                        since merged with Cairo as a district of the city and is one of the more
+                        affluent areas of Cairo.</note>
+                    <idno type="geonames">https://www.geonames.org/352262</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Heliopolis,_Cairo</idno>
+                </place>
+                <place xml:id="isbekeeyeh">
+                    <placeName xml:lang="en">Uzbakeya</placeName>
+                    <location>
+                        <geo>30.052778, 31.248333</geo>
+                    </location>
+                    <note>Uzbakeya (Arabic: أزبكية‎; also spelled Al Uzbakeya or Auzbekiya) is one
+                        of the central districts of Cairo, Egypt. It contains many historically
+                        important establishments. One of these is the Saint Mark's Coptic Orthodox
+                        Cathedral (Azbakeya), which was inaugurated by Pope Mark VIII in 1800 and
+                        served as the seat of the Coptic Pope in Cairo from 1800 to 1971.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Azbakeya</idno>
+                </place>
+                <place xml:id="kalabshee">
+                    <placeName xml:lang="en">Kalabsha</placeName>
+                    <location>
+                        <geo>23.960833, 32.867222</geo>
+                    </location>
+                    <note>New Kalabsha is a promontory located near Aswan in Egypt. It houses
+                        several important temples, structures, and other remains that have been
+                        relocated here from the site of Old Kalabsha (Arabic: Bab al-Kalabsha‎,
+                        "Gate of Kalabsha", the name of Kelāpiş tribe; Ancient Greek: Ταλμις,
+                        Talmis) and other sites in Lower Nubia, to avoid the rising waters of Lake
+                        Nasser caused by the construction of the Aswan High Dam.</note>
+                    <idno type="geonames">https://www.geonames.org/8425909</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/New_Kalabsha</idno>
+                </place>
+                <place xml:id="khartoum">
+                    <placeName xml:lang="en">Khartoum</placeName>
+                    <location>
+                        <geo>15.500556, 32.56</geo>
+                    </location>
+                    <note>Khartoum or Khartum (/kɑːrˈtuːm/ kar-TOOM; Arabic: الخرطوم‎, romanized:
+                        Al-Khurṭūm) is the capital of Sudan. Khartoum was founded in 1821 as part of
+                        Ottoman Egypt, north of the ancient city of Soba.</note>
+                    <idno type="geonames">https://www.geonames.org/379252</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Khartoum</idno>
+                </place>
+                <place xml:id="kenneh">
+                    <placeName xml:lang="en">Qena</placeName>
+                    <location>
+                        <geo>26.166667, 32.716667</geo>
+                    </location>
+                    <note>Qena (Arabic: قنا‎ Qinā [ˈʔenæ], locally: [ˈɡena]; Coptic: ⲕⲱⲛⲏ Kone) is a
+                        city in Upper Egypt, and the capital of the Qena Governorate. Situated on
+                        the east bank of the Nile, it was known in antiquity as Kaine (Greek Καινή,
+                        meaning "new (city)"; Latinized transliteration: Caene) and
+                        Maximianopolis.</note>
+                    <idno type="geonames">https://www.geonames.org/350550</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Qena</idno>
+                </place>
+                <place xml:id="koos">
+                    <placeName xml:lang="en">Qus</placeName>
+                    <location>
+                        <geo>25.933333, 32.766667</geo>
+                    </location>
+                    <note>Qus (Arabic: قوص‎; Coptic: ⲕⲱⲥ or ⲕⲟⲥ) is a city in the modern Qena
+                        Governorate, Egypt, located on the east bank of the Nile. The temple of
+                        Haroeris (Horus) and Heqet was built during the Ptolemaic Period. Nowadays,
+                        only two ruined pylons of the temple remain.</note>
+                    <idno type="geonames">https://www.geonames.org/350422</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Qus</idno>
+                </place>
+                <place xml:id="koum_ombo">
+                    <placeName xml:lang="en">Koum Ombo</placeName>
+                    <location>
+                        <geo>24.466667, 32.95</geo>
+                    </location>
+                    <note>Kom Ombo (Arabic: كوم أمبو‎, Coptic: Ⲉⲙⲃⲱ Embo, Ancient Greek: Ὄμβοι
+                        Omboi) or Ombos or Latin: Ambo and Ombi – is an agricultural town in Egypt
+                        famous for the Temple of Kom Ombo.</note>
+                    <idno type="geonames">https://www.geonames.org/353802</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Kom_Ombo</idno>
+                </place>
+                <place xml:id="mahmoudieh_canal">
+                    <placeName xml:lang="en">Mahmoudia Canal</placeName>
+                    <location>
+                        <geo>31.183889, 30.524167</geo>
+                    </location>
+                    <note>Mahmoudia Canal (Greek: Ἀγαθὸς Δαίμων Agathos Daimon or Greek: Μέγας
+                        ποταμός Megas potamos) is a 72 km-long sub-canal from the Nile River which
+                        starts at the Nile-port of Mahmoudia and goes through Alexandria to the
+                        Mediterranean Sea. It was built to supply Alexandria with food and fresh
+                        water from the Nile.</note>
+                    <idno type="geonames"> </idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Mahmoudiyah_Canal</idno>
+                </place>
+                <place xml:id="mecca">
+                    <placeName xml:lang="en">Mecca</placeName>
+                    <location>
+                        <geo>21.4225, 39.823333</geo>
+                    </location>
+                    <note>Mecca, officially Makkah al-Mukarramah (Arabic: مكة المكرمة‎, romanized:
+                        Makkat al-Mukarramah, lit. 'Makkah the Noble') and commonly shortened to
+                        Makkah, is the holiest city in Islam</note>
+                    <idno type="geonames">https://www.geonames.org/104515</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Mecca</idno>
+                </place>
+                <place xml:id="minieh">
+                    <placeName xml:lang="en">Minya</placeName>
+                    <location>
+                        <geo>28.119444, 30.744444</geo>
+                    </location>
+                    <note>Minya (Arabic: المنيا‎ [elˈmenjæ]; Coptic: ⲧⲙⲱⲛⲏ) is the capital of the
+                        Minya Governorate in Upper Egypt. The name of the city is derived from its
+                        ancient Egyptian name Men'at Khufu, meaning the nursing city of Khufu,
+                        linking it to the Pharaoh Khufu or Cheops, builder of the Great Pyramid at
+                        Giza.</note>
+                    <idno type="geonames">https://www.geonames.org/360686</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Minya,_Egypt</idno>
+                </place>
+                <place xml:id="nubia">
+                    <placeName xml:lang="en">Nubia</placeName>
+                    <location>
+                        <geo/>
+                    </location>
+                    <note/>
+                    <idno type="geonames"> </idno>
+                    <idno type="wikipedia"> </idno>
+                </place>
+                <place xml:id="philae">
+                    <placeName xml:lang="en">Philae</placeName>
+                    <location>
+                        <geo>24.020833, 32.889444</geo>
+                    </location>
+                    <note>Philae (/ˈfaɪliː/; Greek: Φιλαί or Φιλή and Πιλάχ, Arabic: فيلة‎ Egyptian
+                        Arabic: [fiːlæ], Egyptian: p3-jw-rķ' or 'pA-jw-rq; Coptic: ⲡⲓⲗⲁⲕ, ⲡⲓⲗⲁⲕϩ) is
+                        an island in the reservoir of the Aswan Low Dam, downstream of the Aswan Dam
+                        and Lake Nasser, Egypt. Philae was originally located near the expansive
+                        First Cataract of the Nile in Upper Egypt and was the site of an Egyptian
+                        temple complex.</note>
+                    <idno type="geonames">https://www.geonames.org/356859</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Philae</idno>
+                </place>
+                <place xml:id="sakhara">
+                    <placeName xml:lang="en">Saqqara</placeName>
+                    <location>
+                        <geo>29.871111, 31.216389</geo>
+                    </location>
+                    <note>Saqqara (Arabic: سقارة‎, Egyptian Arabic pronunciation: [sɑʔˈʔɑːɾɑ]), also
+                        spelled Sakkara or Saccara in English /səˈkɑːrə/, is a vast, ancient burial
+                        ground in Egypt, serving as the necropolis for the ancient Egyptian capital,
+                        Memphis. Saqqara contains numerous pyramids, including the world-famous Step
+                        pyramid of Djoser, sometimes referred to as the Step Tomb, and a number of
+                        mastaba tombs.</note>
+                    <idno type="geonames">https://www.geonames.org/349608</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Saqqara</idno>
+                </place>
+                <place xml:id="second_cataract">
+                    <placeName xml:lang="en">Second Cataract</placeName>
+                    <location>
+                        <geo>21.48, 30.97</geo>
+                    </location>
+                    <note>The Second Cataract (or Great Cataract) was in Nubia and is now submerged
+                        under Lake Nasser.</note>
+                    <idno type="geonames"> </idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Cataracts_of_the_Nile</idno>
+                </place>
+                <place xml:id="senaar">
+                    <placeName>Sennar</placeName>
+                    <location>
+                        <geo>13.55, 33.583333</geo>
+                    </location>
+                    <note>Sennar (Arabic: سنار‎ Sannār) is a town on the Blue Nile in Sudan and
+                        capital of the state of Sennar. For several centuries it was the capital of
+                        the Funj Kingdom of Sennar.</note>
+                    <idno type="geonames">https://www.geonames.org/367644</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q611867</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Sennar</idno>
+                </place>
+                <place xml:id="siout">
+                    <placeName xml:lang="en">Asyut</placeName>
+                    <location>
+                        <geo>27.183333, 31.166667</geo>
+                    </location>
+                    <note>Asyut (Arabic: أسيوط‎ Asyūṭ pronounced [ʔɑsˈjuːtˤ], Coptic: ⲥⲓⲟⲟⲩⲧ, ⲥⲓⲱⲟⲩⲧ
+                        Siōwt pronounced [sʲˈo:wt]) is the capital of the modern Asyut Governorate
+                        in Egypt. It was built close to the ancient city of the same name, which is
+                        situated nearby. </note>
+                    <idno type="geonames">https://www.geonames.org/359783</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Asyut</idno>
+                </place>
+                <place xml:id="suez">
+                    <placeName xml:lang="en">Suez</placeName>
+                    <location>
+                        <geo>29.966667, 32.55</geo>
+                    </location>
+                    <note>Suez (Arabic: السويس‎ as-Suways; pronounced [esseˈweːs]) is a seaport city
+                        (population of about 750,000 as of August 2018) in north-eastern Egypt,
+                        located on the north coast of the Gulf of Suez (a branch of the Red Sea),
+                        near the southern terminus of the Suez Canal, having the same boundaries as
+                        Suez Governorate. It has three harbours, Adabiya, Ain Sokhna and Port
+                        Tawfiq, and extensive port facilities.</note>
+                    <idno type="geonames">https://www.geonames.org/359796</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Suez</idno>
+                </place>
+                <place xml:id="tanta">
+                    <placeName xml:lang="en">Tanta</placeName>
+                    <location>
+                        <geo>30.783333, 31</geo>
+                    </location>
+                    <note>Tanta (Arabic: طنطا‎ Ṭanṭa pronounced [ˈtˤɑntˤɑ], Coptic: ⲧⲁⲛⲧⲁⲑⲟ) is a
+                        city in Egypt with the country's fifth largest populated area and 658,798
+                        inhabitants as of 2018. Tanta is located between Cairo and Alexandria: 94 km
+                        north of Cairo and 130 km southeast of Alexandria. The capital of Gharbia
+                        Governorate, it is a center for the cotton-ginning industry. One of the
+                        major railway lines goes through Tanta.</note>
+                    <idno type="geonames">https://www.geonames.org/347497</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Tanta</idno>
+                </place>
+                <place xml:id="thebes">
+                    <placeName xml:lang="en">Thebes</placeName>
+                    <location>
+                        <geo>25.720556, 32.610278</geo>
+                    </location>
+                    <note>Thebes (Ancient Greek: Θῆβαι, Thēbai), known to the ancient Egyptians as
+                        Waset, was an ancient Egyptian city located along the Nile about 800
+                        kilometers south of the Mediterranean. Its ruins lie within the modern
+                        Egyptian city of Luxor. Thebes was the main city of the fourth Upper
+                        Egyptian nome (Sceptre nome) and was the capital of Egypt for long periods
+                        during the Middle Kingdom and New Kingdom eras. It was close to Nubia and
+                        the Eastern Desert, with its valuable mineral resources and trade routes. It
+                        was a cult center and the most venerated city during many periods of ancient
+                        Egyptian history. The site of Thebes includes areas on both the eastern bank
+                        of the Nile, where the temples of Karnak and Luxor stand and where the city
+                        proper was situated; and the western bank, where a necropolis of large
+                        private and royal cemeteries and funerary complexes can be found.</note>
+                    <idno type="geonames">https://www.geonames.org/347342</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Thebes,_Egypt</idno>
+                </place>
+                <place xml:id="wady_halfeh">
+                    <placeName xml:lang="en">Wadi Halfa</placeName>
+                    <location>
+                        <geo>21.783333, 31.366667</geo>
+                    </location>
+                    <note>Wādī Ḥalfā (Arabic: وادي حلفا‎) is a city in the Northern state of Sudan
+                        on the shores of "Lake Nubia" (the Sudanese section of Lake Nasser) near the
+                        border with Egypt. It is the terminus of a rail line from Khartoum and the
+                        point where goods are transferred from rail to ferries going down the lake.
+                        The town is located amidst numerous ancient Nubian antiquities and was the
+                        focus of much archaeological work by teams seeking to save artifacts from
+                        the flooding caused by the completion of the Aswan Dam.</note>
+                    <idno type="geonames">https://www.geonames.org/364132</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Wadi_Halfa</idno>
+                </place>
+            </listPlace>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Alick, BOULAK, November 6, 1868.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/119">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <date when="1868-11-06">6 November 1868</date>
+               <rs type="place" ref="http://www.geonames.org/360630">Cairo</rs>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/315623459">Sir Alexander Duff
+                  Gordon</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <name type="person" ref="#alick">Alick</name>, </p>
+         <p> I am sure you will rejoice to hear that I am really better. I now feel so much like
+            living on a bit longer that I will ask you to send me a cargo of medicines. I didn’t
+            think it worth while before to ask for anything to be sent to me that could not be
+            forwarded to Hades, but my old body seems very tough and I fancy I have still one or two
+            of my nine lives left. </p>
+         <p> I hope to sail in a very few days, <name type="person" ref="#maurice">Maurice</name> is
+            going up to <name type="place" ref="#cairo">Cairo</name> so I send this by him.
+            Yesterday was little Rainie’s birthday, and I thought very longingly of her. The photo,
+            of Leighton’s sketch of <name type="person" ref="#janet">Janet</name> I like very much.
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, BOULAK, June 14, 1868.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/117">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <date when="1868-06-14">14 June 1868</date>
+               <rs type="place" ref="http://www.geonames.org/360630">Cairo</rs>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/315623459">Sir Alexander Duff
+                  Gordon</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <name type="person" ref="#alick">Alick</name>, </p>
+         <p> The climate has been odious for Egypt—to shiver in cold winds of June on the Nile seems
+            hard. <name type="person" ref="#maurice">Maurice</name> inherits my faculty for getting
+            on with ‘d------d niggers’; all the crew kissed him on both cheeks and swore to come
+            back again in the winter; and up the country he was hand and glove with all the
+            fellaheen, eating a good deal of what he called ‘muck’ with great enjoyment, walking arm
+            in arm with a crazy derweesh, fetching home a bride at night and swearing lustily by the
+            Prophet. The good manners of the Arab _canaille_, have rubbed off the very disagreeable
+            varnish which he got at Brussels. </p>
+         <p> Dr. Patterson wants me to go to <name type="place" ref="#beyrout">Beyrout</name> or one
+            of the Greek isles for a change. I am very feeble and short of breath—but I will try the
+            experiment. Would you be shocked if a nigger taught <name type="person" ref="#maurice">Maurice</name>? One Hajjee Daboos I know to be a capital Arabic scholar and he
+            speaks French like a Parisian, and Italian also, only he is a real nigger and so is the
+            best music-master in <name type="place" ref="#cairo">Cairo</name>. _Que faire_? it’s not
+            catching, as Lady Morley said, and I won’t present you with a young mulatto any more
+            than with a young _brave Belge_. I may however find someone at <name type="place" ref="#beyrout">Beyrout</name>. <name type="place" ref="#cairo">Cairo</name> is in
+            such a state of beggary that all educated young men have fled. <name type="person" ref="#maurice">Maurice</name> has no sort of idea why a nigger should not be as good
+            as anyone else, but thinks perhaps you might not approve. </p>
+         <p> You would have stared to see old Achmet Agha Abd el-Sadig, a very good friend of ours
+            at <name type="place" ref="#assouan">Assouan</name>, coaxing and patting the _weled_
+            (boy) when he dined here the other day, and laughing immoderately at <name type="person" ref="#maurice">Maurice</name>’s nonsense. He is one of the M.P.’s for <name type="place" ref="#assouan">Assouan</name>, and a wealthy and much respected man in
+            the Saeed. The Abyssinian affair is an awful disappointment to the Pasha; he had laid
+            his calculations for something altogether different, and is furious. The Coptic clergy
+            are ready to murder us. The Arabs are all in raptures. ‘God bless the English general,
+            he has frightened our Pasha.’ </p>
+         <p> Giafar Pasha backsheeshed me an _abbayeh_ of crimson silk and gold, also a basket of
+            coffee. I was obliged to accept them as he sent his son with them, and to refuse would
+            have been an insult, and as he is the one Turk I do think highly of I did not wish to
+            affront him. It was at Luxor on his way to <name type="place" ref="#khartoum">Khartoum
+            </name>. He also invited <name type="person" ref="#maurice">Maurice</name> to <name type="place" ref="#khartoum">Khartoum </name>, and proposed to send a party to fetch
+            him from Korosko, on the Nile. Giafar is Viceroy of the Soudan, and a very quiet man,
+            who does not ‘eat the people.’ </p>
+         <p> My best love to <name type="person" ref="#janet">Janet</name>, I’ll write soon to her,
+            but I am _lazy_ and <name type="person" ref="#maurice">Maurice</name> is worse. <name type="person" ref="#omar">Omar</name> nearly cried when <name type="person" ref="#maurice">Maurice</name> went to <name type="place" ref="#alexandria">Alexandria
+            </name> for a week. ‘I seem to feel how dull we shall be without him when he goes away
+            for good,’ said he, and Darfour expresses his intention of going with <name type="person" ref="#maurice">Maurice</name>. ‘Thou must give me to the young man
+            backsheesh,’ as he puts it, ‘because I have plenty of sense and shall tell him what to
+            do.’ That is the little rascal’s sauce. Terence’s slaves are true to the life here.</p>
+      </body>
+   </text>
+</TEI>

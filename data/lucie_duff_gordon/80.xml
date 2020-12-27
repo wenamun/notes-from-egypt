@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mrs. Austin, OFF BOULAK, CAIRO, July 10, 1866.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/80">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <date when="1866-07-10">10 July 1866</date>
+               <rs type="place" ref="http://www.geonames.org/360630">Cairo</rs>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/59830344">Sarah Austin</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <foreign xml:lang="de"><name type="person" ref="#sarah_austin">Mutter</name></foreign>, </p>
+         <p> I am much better again. My cold went off without a violent illness and I was only weak
+            and nervous. I am very comfortable here, anchored off <name type="place" ref="#boulak">Boulak</name>, with my <name type="person" ref="#reis">Reis</name> and one sailor
+            who cleans and washes my clothes which <name type="person" ref="#omar">Omar</name>
+            irons, as at Luxor, as he found the washerwomen here charged five francs a dozen for all
+            small things and more for dresses. A bad _hashash_ boy turned Achmet’s head, who ran
+            away for two days and spent a dollar in riotous living; he returned penitent, and got no
+            fatted calf, but dry bread and a confiscation of his new clothes. </p>
+         <p> The heat, when I left Luxor, was prodigious. I was detained three days by the death of
+            Sheykh Yussuf’s poor little wife and baby (in childbirth) so I was forced to stay and
+            eat the funeral feast, and be present at the _Khatmeh_ (reading of the Koran on the
+            third night), or it would not have seemed kind. The Kadee gave me a very curious
+            prayer-book, the Guide of the Faithful, written in Darfour! in beautiful characters, and
+            with very singular decorations, and in splendid binding. It contains the names of all
+            the prophets and of the hundred appellations of Mohammed, and is therefore a powerful
+            _hegab_ or talisman. He requested me never to give it away and always to keep it with
+            me. Such books cannot be bought with money at all. I also bought a most beautiful
+            _hegab_ of cornelian set in enamel, the verse of the throne splendidly engraved, and
+            dated 250 years ago. I sent over by Palgrave to <name type="person" ref="#alick">Alick</name> M. Brune’s lovely drawings of Luxor and Karnac, and to <name type="person" ref="#maurice">Maurice</name> a gold coin which I received as a fee
+            from an old Bedawee. </p>
+         <p> It was so hot that I could not face the ride up to <name type="place" ref="#kenneh">Keneh</name>, when all my friends there came to fetch me, nor could I go to <name type="place" ref="#siout">Siout</name>. I never felt such heat. At <name type="place" ref="#benisouef">Benisouef</name> I went to see our Maōhn’s daughter married to
+            another Maōhn there; it was a pleasant visit. The master of the house was out, and his
+            mother and wife received me like one of the family; such a pretty woman and such darling
+            children!—a pale, little slight girl of five, a sturdy boy of four, and a baby of one
+            year old. The eager hospitality of the little creatures was quite touching. The little
+            girl asked to have on her best frock, and then she stood before me and fanned me
+            seriously and diligently, and asked every now and then, ‘Shall I make thee a sherbet?’
+            ‘Shall I bring thee a coffee?’ and then questions about grandpapa and grand mamma, and
+            Abd el-Hameed and Abd el-Fattah; while the boy sat on his heels before me and asked
+            questions about my family in his baby talk, and assured me it was a good day to him, and
+            wanted me to stay three days, and to sleep with them. Their father came in and gave each
+            an ashara (10 foddahs, ½ piastre) which, after consulting together, they tied in the
+            corner of my handkerchief; ‘to spend on my journey.’ The little girl took such care of
+            my hat and gloves and shoes, all very strange garments to her, but politeness was
+            stronger than curiosity with the little things. I breakfasted with them all next day,
+            and found much cookery going on for me. I took a doll for my little friend Ayoosheh, and
+            some sugar-plums for Mohammed, but they laid them aside in order to devote themselves to
+            the stranger, and all quietly, and with no sort of show-off or obtrusiveness. Even the
+            baby seemed to have the instinct of hospitality, and was full of smiles. It was all of a
+            piece with the good old lady, their grandmother at Luxor, who wanted to wash my clothes
+            for me herself, because I said the black slave of Mohammed washed badly. Remember that
+            to do ‘menial offices’ for a guest is an honour and pleasure, and not derogatory at all
+            here. The ladies cook for you, and say, ‘I will cook my best for thee.’ The worst is
+            that they stuff one so. Little Ayoosheh asked after my children, and said, ‘May God
+            preserve them for thee! Tell thy little girl that Mohammed and I love her from afar
+            off.’ Whereupon Mohammed declared that in a few years, please God, when he should be
+            _balal_ (marriageable) he would marry her and live with me. When I went back to the boat
+            the Effendi was ill with asthma, and I would not let him go with me in the heat (a
+            polite man accompanies an honoured guest back to his house or boat, or tent). So the
+            little boy volunteered, and we rode off on the Effendi’s donkey, which I had to
+            bestride, with Mohammed on the hump of the saddle before me. He was delighted with the
+            boat, of course, and romped and played about till we sailed, when his slave took him
+            home. Those children gave me a happy day with their earnest, gracious hospitality. </p>
+         <p> _July_ 14_th_.—Since I wrote this, I have had the boat topsy-turvy, with a carpenter
+            and a _menegget_ (cushion-stuffer), and had not a corner even to write in. I am better,
+            but still cough every morning. I am, however, much better, and have quite got over the
+            nervous depression which made me feel unable and ashamed to write. My young carpenter—a
+            Christian—half Syrian, half Copt, of the Greek rite, and altogether a Cairene—would have
+            pleased you. He would not work on Sunday, but instead, came mounted on a splendid tall
+            black donkey, and handsomely dressed, to pay me a visit, and go out with me for a ride.
+            So he, I, and <name type="person" ref="#omar">Omar</name> went up to the Sittee (Lady)
+            Zeyneb’s mosque, to inquire for Mustapha Bey Soubky, the Hakeem Pasha, whom I had known
+            at Luxor. I was told by the porter of the mosque to seek him at the shop of a certain
+            grocer, his particular friend, where he sits every evening. On going there we found the
+            shop with its lid shut down (a shop is like a box laid on its side with the lid pulled
+            up when open and dropped when shut; as big as a cobbler’s stall in Europe). The young
+            grocer was being married, and Mustapha Bey was ill. So I went to his house in the
+            quarter—such narrow streets!—and was shown up by a young eunuch into the <foreign xml:lang="ar">hareem</foreign>, and found my old friend very poorly, but spent a
+            pleasant evening with him, his young wife—a Georgian slave whom he had married,—his
+            daughter by a former wife—whom he had married when he was fourteen, and the female dwarf
+            buffoon of the Valideh Pasha (Ismail’s mother) whose heart I won by rising to her,
+            because she was so old and deformed. The other women laughed, but the little old dwarf
+            liked it. She was a Circassian, and seemed clever. You see how the ‘Thousand and One
+            Nights’ are quite true and real; how great Beys sit with grocers, and carpenters have no
+            hesitation in offering civility to _naas omra_ (noble people). This is what makes Arab
+            society quite unintelligible and impossible to most Europeans. </p>
+         <p> My carpenter’s boy was the son of a _moonsheed_ (singer in the Mosque), and at night he
+            used to sit and warble to us, with his little baby-voice, and little round, innocent
+            face, the most violent love-songs. He was about eight years old, and sang with wonderful
+            finish and precision, but no expression, until I asked him for a sacred song, which
+            begins, ‘I cannot sleep for longing for thee, O Full Moon’ (the Prophet), and then the
+            little chap warmed to his work, and the feeling came out. </p>
+         <p> Palgrave has left in my charge a little black boy of his, now at Luxor, where he left
+            him very ill, with Mustapha A’gha. The child told me he was a _nyan-nyan_ (cannibal),
+            but he did not look ogreish. I have written to Mustapha to send him me by the first
+            opportunity. Achmet has quite recovered his temper, and I do so much better without a
+            maid that I shall remain so. The difference in expense is enormous, and the peace and
+            quiet a still greater gain; no more grumbling and ‘exigencies’ and worry; <name type="person" ref="#omar">Omar</name> irons very fairly, and the sailor washes well
+            enough, and I don’t want toilette—anyhow, I would rather wear a sack than try the
+            experiment again. An uneducated, coarse-minded European is too disturbing an element in
+            the family life of Easterns; the sort of filial relation, at once familiar and
+            reverential of servants to a master they like, is odious to English and still more to
+            French servants. If I fall in with an Arab or Abyssinian woman to suit me I will take
+            her; but of course it is rare; a raw slave can do nothing, nor can a fellaha, and a
+               <name type="place" ref="#cairo">Cairo</name> woman is bored to death up in the Saeed.
+            As to care and attention, I want for nothing. <name type="person" ref="#omar">Omar</name> does everything well and with pride and pleasure, and is delighted at
+            the saving of expense in wine, beer, meat, etc. etc. One feeds six or eight Arabs well
+            with the money for one European. </p>
+         <p> While the carpenter, his boy, and two _meneggets_ were here, a very moderate dish of
+            vegetables, stewed with a pound of meat, was put before me, followed by a chicken or a
+            pigeon for me alone. The stew was then set on the ground to all the men, and two loaves
+            of a piastre each, to every one, a jar of water, and, _Alhamdulillah_, four men and two
+            boys had dined handsomely. At breakfast a water-melon and another loaf-a-piece, and a
+            cup of coffee all round; and I pass for a true Arab in hospitality. Of course no
+            European can live so, and they despise the Arabs for doing it, while the Arab servant is
+            not flattered at seeing the European get all sorts of costly luxuries which he thinks
+            unnecessary; besides he has to stand on the defensive, in order not to be made a drudge
+            by his European fellow-servant, and despised for being one; and so he leaves undone all
+            sorts of things which he does with alacrity when it is for ‘the master’ only. What <name type="person" ref="#omar">Omar</name> does now seems wonderful, but he says he feels
+            like the Sultan now he has only me to please. </p>
+         <p> _July_ 15_th_.—Last night came the two _meneggets_ to pay a friendly visit, and sat and
+            told stories; so I ordered coffee, and one took his sugar out of his pocket to put in
+            his cup, which made me laugh inwardly. He told a fisherman, who stopped his boat
+            alongside for a little conversation, the story of two fishermen, the one a Jew, the
+            other a Muslim, who were partners in the time of the Arab Prophet (upon whom be blessing
+            and peace!). The Jew, when he flung his nets called on the Prophet of the Jews, and
+            hauled it up full of fish every time; then the Muslim called on our Master Mohammed
+            etc., etc., and hauled up each time only stones, until the Jew said, ‘Depart, O man,
+            thou bringest us misfortune; shall I continue to take half thy stones, and give thee
+            half my fish? Not so.’ So the Muslim went to our Master Mohammed and said, ‘Behold, I
+            mention thy name when I cast my net, and I catch only stones and calamity. How is this?’
+            But the blessed Prophet said to him, ‘Because thy stomach is black inwardly, and thou
+            thoughtest to sell thy fish at an unfair price, and to defraud thy partner and the
+            people, while the Jew’s heart was clean towards thee and the people, and therefore God
+            listened to him rather than to thee.’ I hope our fisherman was edified by this fine
+            moral. I also had good stories from the chief diver of <name type="place" ref="#cairo">Cairo</name>, who came to examine the bottom of my boat, and told me, in a whisper,
+            a long tale of his grandfather’s descent below the waters of the Nile, into the land of
+            the people who lived there, and keep tame crocodiles to hunt fish for them. They gave
+            him a sleeve-full of fishes’ scales, and told him never to return, and not to tell about
+            them: and when he got home the scales had turned to money. But most wonderful of all was
+            Haggi Hannah’s story of her own life, and the journey of <name type="person" ref="#omar">Omar</name>’s mother carrying her old mother in a basket on her head from Damietta
+            to <name type="place" ref="#alexandria">Alexandria </name>, and dragging <name type="person" ref="#omar">Omar</name> then a very little boy, by the hand. The energy
+            of many women here is amazing. </p>
+         <p> The Nile is rising fast, and the _Bisheer_ is come (the messenger who precedes the
+            Hajj, and brings letters). _Bisheer_ is ‘good tidings,’ to coin a word. Many hearts are
+            lightened and many half-broken to-day. I shall go up to the Abassia to meet the Mahmal
+            and see the Hajjees arrive. </p>
+         <p> Next Friday I must take my boat out of the water, or at least heel her over, to repair
+            the bad places made at <name type="place" ref="#alexandria">Alexandria </name>. It seems
+            I once cured a <name type="person" ref="#reis">Reis</name> of the Pasha’s of dysentery
+            at <name type="place" ref="#minieh">Minieh</name>, and he has not forgotten it, though I
+            had; so <name type="person" ref="#reis">Reis</name> Awad will give me a good place on
+            the Pasha’s bank, and lend ropes and levers which will save a deal of expense and
+            trouble. I shall move out all the things and myself into a boat of Zubeydeh’s for four
+            or five days, and stay alongside to superintend my caulkers. </p>
+         <p> Miss Berry _is_ dull no doubt, but few books seem dull to me now, I can tell you, and I
+            was much delighted with such a _pièce de résistance_. Miss Eden I don’t wish for—that
+            sort of theatre burlesque view of the customs of a strange country is inexpressibly
+            tedious to one who is familiar with one akin to it. There is plenty of _real_ fun to be
+            had here, but that sort is only funny to cockneys. I want to read Baker’s book very
+            much. I am much pleased with Abd el-Kader’s book which Dozon sent me, and want the
+            original dreadfully for Sheykh Yussuf, to show him that he and I are supported by such
+            an authority as the great Ameer in our notions about the real unity of the Faith. The
+            book is a curious mixture of good sense and credulity—quite ‘Arab of the Arabs.’ I will
+            write a paper on the popular beliefs of Egypt; it will be curious, I think. By the way,
+            I see in the papers and reviews speculations as to some imaginary Mohammedan conspiracy,
+            because of the very great number of pilgrims last year from all parts to <name type="place" ref="#mecca">Mecca</name>. _C’est chercher midi à quatorze heures_. Last
+            year the day of Abraham’s sacrifice,—and therefore _the_ day of the pilgrimage—(the
+            sermon on Mount Arafat) fell on a Friday, and when that happens there is always a rush,
+            owing to the popular notion that the _Hajj el-Gumma_ (pilgrimage of the Friday) is seven
+            times blessed, or even equivalent to making it seven times in ordinary years. As any
+            beggar in the street could tell a man this, it may give you some notion of how absurdly
+            people make theories out of nothing for want of a little commonsense. </p>
+         <p> The _Moolid en-Nebbee_ (Festival of the Prophet) has just begun. I am to have a place
+            in the great Derweesh’s tent to see the Doseh. </p>
+         <p> The Nile is rising fast; we shall kill the poor little Luxor black lamb on the day of
+            the opening of the canal, and have a _fantasia_ at night; only I grieve for my little
+            white pussy, who sleeps every night on Ablook’s (the lamb’s) woolly neck, and loves him
+            dearly. Pussy (‘Bish’ is Arabic for puss) was the gift of a Coptic boy at Luxor, and is
+            wondrous funny, and as much more active and lissom than a European cat as an Arab is
+            than an Englishman. She and Achmet and Ablook have fine games of romps. <name type="person" ref="#omar">Omar</name> has set his heart on an English signet ring
+            with an oval stone to engrave his name on, here you know they sign papers with a signet,
+            not with a pen. It must be _solid_ to stand hard work. </p>
+         <p> Well, I must finish this endless letter. Here comes _such_ a bouquet from the Pasha’s
+            garden (somebody’s sister’s son is servant to the chief eunuch and brings it to me), a
+            great round of scarlet, surrounded with white and green and with tall reeds, on which
+            are threaded single tube-rose flowers, rising out of it so as to figure a huge flower
+            with white pistils. Arab gardeners beat French flower-girls in bouquets.</p>
+      </body>
+   </text>
+</TEI>

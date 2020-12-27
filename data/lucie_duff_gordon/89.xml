@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, LUXOR, November 21, 1866</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/89">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <date when="1866-11-21">21 November 1866</date>
+               <rs type="place" ref="http://www.geonames.org/360502">Luxor</rs>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/315623459">Sir Alexander Duff
+                  Gordon</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <name type="person" ref="#alick">Alick</name>, </p>
+         <p> I arrived here on the morning of the 11th. I am a beast not to have written, but I
+            caught cold after four days and have really not been well, so forgive me, and I will
+            narrate and not apologize. We came up best pace, as the boat is a flyer now, only
+            fourteen days to <name type="place" ref="#thebes">Thebes</name>, and to <name type="place" ref="#kenneh">Keneh</name> only eleven. Then we had bad winds, and my
+            men pulled away at the rope, and sang about the _<name type="person" ref="#reis">Reis</name> el-Arousa_ (bridegroom) going to his bride, and even <name type="person" ref="#omar">Omar</name> went and pulled the rope. We were all very merry, and played
+            practical jokes on a rascal who wanted a pound to guide me to the tombs: we made him run
+            miles, fetch innumerable donkeys, and then laughed at his beard. Such is boatmen fun. On
+            arriving at Luxor I heard a _charivari_ of voices, and knew I was ‘at home,’ by the
+            shrill pipe of the little children, _el Sitt_, _el Sitt_. Visitors all day of course, at
+            night comes up another dahabieh, great commotion, as it had been telegraphed from <name type="place" ref="#cairo">Cairo</name> (which I knew before I left, and was to be
+            stopped). So I coolly said, ‘Oh Mustapha, the Indian saint (Walee) is in thine eye,
+            seeing that an Indian is all as one with an Englishman.’ ‘How did I know there was an
+            Indian and a Walee?’ etc. Meanwhile the Walee had a bad thumb, and some one told his
+            slave that there was a wonderful English doctress, so in the morning he sent for me, and
+            I went inside the <foreign xml:lang="ar">hareem</foreign>. He was very friendly, and
+            made me sit close beside him, told me he was fourth in descent from Abd el-Kader Gylamee
+            of Bagdad, but his father settled at Hyderabad, where he has great estates. He said he
+            was a Walee or saint, and would have it that I was in the path of the darweeshes; gave
+            me medicine for my cough; asked me many questions, and finally gave me five dollars and
+            asked if I wanted more? I thanked him heartily, kissed the money politely, and told him
+            I was not poor enough to want it and would give it in his name to the poor of Luxor, but
+            that I would never forget that the Indian Sheykh had behaved like a brother to an
+            English woman in a strange land. He then spoke in great praise of the ‘laws of the
+            English,’ and said many more kind things to me, adding again, ‘I tell thee thou art a
+            Darweesh, and do not thou forget me.’ Another Indian from Lahore, I believe the Sheykh’s
+            tailor, came to see me—an intelligent man, and a Syrian doctor; a manifest scamp. The
+            people here said he was a _bahlawar_ (rope-dancer). Well, the authorities detained the
+            boat with fair words till orders came from <name type="place" ref="#kenneh">Keneh</name>
+            to let them go up further. Meanwhile the Sheykh came out and performed some miracles,
+            which I was not there to see, perfuming people’s hands by touching them with his, and
+            taking English sovereigns out of a pocketless jacket, and the doctor told wonders of
+            him. Anyhow he spent £10 in one day here, and he is a regular darweesh. He and all the
+               <foreign xml:lang="ar">Hareem</foreign> were poorly dressed and wore no ornaments
+            whatever. I hope Seyd Abdurachman will come down safe again, but no one knows what the
+            Government wants of him or why he is so watched. It is the first time I ever saw an
+            Oriental travelling for pleasure. He had about ten or twelve in the <foreign xml:lang="ar">hareem</foreign>, among them his three little girls, and perhaps twenty
+            men outside, Indians, and Arabs from Syria, I fancy. </p>
+         <p> Next day I moved into the old house, and found one end in ruins, owing to the high Nile
+            and want of repair. However there is plenty more safe and comfortable. I settled all
+            accounts with my men, and made an inventory in Arabic, which Sheykh Yussuf wrote for me,
+            which we laughed over hugely. How to express a sauce-boat, a pie-dish, etc. in Arabic,
+            was a poser. A genteel Effendi, who sat by, at last burst out in uncontrollable
+            amazement; ‘There is no God but God: is it possible that four or five Franks can use all
+            these things to eat, drink and sleep on a journey?’ (N.B. I fear the Franks will think
+            the stock very scanty.) Whereupon master Achmet, with the swagger of one who has seen
+            cities and men, held forth. ‘Oh Effendim, that is nothing; Our Lady is almost like the
+            children of the Arabs. One dish or two, a piece of bread, a few dates, and Peace, (as we
+            say, there is an end of it). But thou shouldst see the merchants of Escandarieh, (<name type="place" ref="#alexandria">Alexandria </name>), three tablecloths, forty dishes,
+            to each soul seven plates of all sorts, seven knives and seven forks and seven spoons,
+            large and small, and seven different glasses for wine and beer and water.’ ‘It is the
+            will of God,’ replied the Effendi, rather put down: ‘but,’ he added, ‘it must be a
+            dreadful fatigue to them to eat their dinner.’ Then came an impudent merchant who wanted
+            to go down with his bales and five souls in my boat for nothing. But I said, ‘Oh man,
+            she is my property, and I will eat from her of thy money as of the money of the Franks.’
+            Whereupon he offered £1, but was bundled out amid general reproaches for his avarice and
+            want of shame. So all the company said a _Fattah_ for the success of the voyage, and
+               <name type="person" ref="#reis">Reis</name> Mohammed was exhorted to ‘open his eyes,’
+            and he should have a tarboosh if he did well. </p>
+         <p> Then I went to visit my kind friend the Maōhn’s wife, and tell her all about her
+            charming daughter and grandchildren. I was, of course, an hour in the streets salaaming,
+            etc. ‘_Sheerafteenee Beledna_, thou hast honoured our country on all sides.’ ‘Blessings
+            come with thee,’ etc. </p>
+         <p> Everything is cheaper than last year, but there is no money to buy with, and the taxes
+            have grown beyond bearing, as a fellah said, ‘a man can’t (we will express it “blow his
+            nose,” if you please; the real phrase was less parliamentary, and expressive of
+            something at once _ventose_ and valueless) without a cawass behind him to levy a tax on
+            it.’ The ha’porth of onions we buy in the market is taxed on the spot, and the fish
+            which the man catches under my window. I paid a tax on buying charcoal, and another on
+            having it weighed. People are terribly beaten to get next year’s taxes out of them,
+            which they have not the money to pay. </p>
+         <p> The Nubian M.P.’s passed the other day in three boats, towed by a steamer, very
+            frightened and sullen. I fell in with some Egyptians on my way, and tried the European
+            style of talk. ‘Now you will help to govern the country, what a fine thing for you,’
+            etc. I got such a look of rueful reproach. ‘Laugh not thou at our beards O Effendim!
+            God’s mercy, what words are these? and who is there on the banks of the Nile who can say
+            anything but _hader_ (ready), with both hands on the head, and a salaam to the ground
+            even to a Moudir; and thou talkest of speaking before Effendina! Art thou mad,
+            Effendim?’ Of all the vexations none are more trying than the distinctions which have
+            been inflicted on the unlucky Sheykhs el-Beled. In fear and trembling they ate their
+            Effendina’s banquet and sadly paid the bill: and those who have had the _Nishan_ (the
+            order of the Mejeedee) have had to disburse fees whereat the Lord Chamberlain’s staff’s
+            mouths might water, and now the wretched delegates to the Egyptian Chambers (God save
+            the mark) are going down with their hearts in their shoes. The Nubians say that the
+            Divan is to be held in the Citadel and that the road by which the Memlook Beys left it
+            is not stopped up, though perhaps it goes underground nowadays. {315} </p>
+         <p> _November_ 27.—The first steamer full of travellers has just arrived, and with it the
+            bother of the ladies all wanting my saddle. I forbade Mustapha to send for it, but they
+            intimidate the poor old fellow, and he comes and kisses my hand not to get him into
+            trouble with one old woman who says she is the relation of a Consul and a great lady in
+            her own country. I am what Mrs. Grote called ‘cake’ enough to concede to Mustapha’s
+            fears what I had sworn to refuse henceforth. Last year five women on one steamer all
+            sent for my saddle, besides other things—campstools, umbrellas, beer, etc., etc. This
+            year I’ll bolt the doors when I see a steamer coming. I hear the big people are so angry
+            with the Indian saint because he treated them like dirt everywhere. One great man went
+            with a Moudir to see him, and asked him to sell him a memlook (a young slave boy). The
+            Indian, who had not spoken or saluted, burst forth, ‘Be silent, thou wicked one! dost
+            thou dare to ask me to sell thee a soul to take it with thee to hell?’ Fancy the
+            surprise of the ‘distinguished’ Turk. Never had he heard such language. The story has
+            travelled all up the river and is of course much enjoyed. </p>
+         <p> Last night Sheykh Yussuf gave an entertainment, killed a sheep, and had a reading of
+            the _Sirat er-Russoul_ (Chapter on the Prophet). It was the night of the Prophet’s great
+            vision, and is a great night in Islam. I was sorry not to be well enough to go. Now that
+            there is no Kadee here, Sheykh Yussuf has lots of business to settle; and he came to me
+            and said, ‘Expound to me the laws of marriage and inheritance of the Christians, that I
+            may do no wrong in the affairs of the Copts, for they won’t go and be settled by the
+            priest out of the Gospels, and I can’t find any laws, except about marriage in the
+            Gospels.’ I set him up with the text of the tribute money, and told him to judge
+            according to his own laws, for that Christians had no laws other than those of the
+            country they lived in. Poor Yussuf was sore perplexed about a divorce case. I refused to
+            ‘expound,’ and told him all the learned in the law in England had not yet settled which
+            text to follow. </p>
+         <p> Do you remember the German story of the lad who travelled _um das Grüseln zu lernen_?
+            Well, I, who never _grüselte_ before, had a touch of it a few evenings ago. I was
+            sitting here quietly drinking tea, and four or five men were present, when a cat came to
+            the door. I called ‘biss, biss,’ and offered milk, but pussy, after looking at us, ran
+            away. ‘Well dost thou, oh Lady,’ said a quiet, sensible man, a merchant here, ‘to be
+            kind to the cat, for I dare say he gets little enough at home; _his_ father, poor man,
+            cannot cook for his children every day.’ And then in an explanatory tone to the company,
+            ‘That is Alee Nasseeree’s boy Yussuf—it must be Yussuf, because his fellow twin Ismaeen
+            is with his mule at Negadeh.’ _Mir grüselte_, I confess, not but what I have heard
+            things almost as absurd from gentlemen and ladies in Europe; but an ‘extravagance’ in a
+            _kuftan_ has quite a different effect from one in a tail coat. ‘What my butcher’s boy
+            who brings the meat—a cat?’ I gasped. ‘To be sure, and he knows well where to look for a
+            bit of good cookery, you see. All twins go out as cats at night if they go to sleep
+            hungry; and their own bodies lie at home like dead meanwhile, but no one must touch
+            them, or they would die. When they grow up to ten or twelve they leave it off. Why your
+            boy Achmet does it. Oh Achmet! do you go out as a cat at night?’ ‘No,’ said Achmet
+            tranquilly, ‘I am not a twin—my sister’s sons do.’ I inquired if people were not afraid
+            of such cats. ‘No, there is no fear, they only eat a little of the cookery, but if you
+            beat them they will tell their parents next day, “So-and-so beat me in his house last
+            night,” and show their bruises. No, they are not Afreets, they are _beni Adam_ (sons of
+            Adam), only twins do it, and if you give them a sort of onion broth and camel’s milk the
+            first thing when they are born, they don’t do it at all.’ <name type="person" ref="#omar">Omar</name> professed never to have heard of it, but I am sure he had,
+            only he dreads being laughed at. One of the American missionaries told me something like
+            it as belonging to the Copts, but it is entirely Egyptian, and common to both religions.
+            I asked several Copts who assured me it was true, and told it just the same. Is it a
+            remnant of the doctrine of transmigration? However the notion fully accounts for the
+            horror the people feel at the idea of killing a cat. </p>
+         <p> A poor pilgrim from the black country was taken ill yesterday at a village six miles
+            from here, he could speak only a few words of Arabic and begged to be carried to the
+            Abab’deh. So the Sheykh el-Beled put him on a donkey and sent him and his little boy,
+            and laid him in Sheykh Hassan’s house. He called for Hassan and begged him to take care
+            of the child, and to send him to an uncle somewhere in <name type="place" ref="#cairo">Cairo</name>. Hassan said, ‘Oh you will get well Inshallah, etc., and take the boy
+            with you.’ ‘I cannot take him into the grave with me,’ said the black pilgrim. Well in
+            the night he died and the boy went to Hassan’s mat and said, ‘Oh Hassan, my father is
+            dead.’ So the two Sheykhs and several men got up and went and sat with the boy till
+            dawn, because he refused to lie down or to leave his father’s corpse. At daybreak he
+            said, ‘Take me now and sell me, and buy new cloth to dress my father for the tomb.’ All
+            the Abab’deh cried when they heard it, and Hassan went and bought the cloth, and some
+            sweet stuff for the boy who remains with him. Such is death on the road in Egypt. I tell
+            it as Hassan’s slave told it to me, and somehow we all cried again at the poor little
+            boy rising from his dead father’s side to say, ‘Come now sell me to dress my father for
+            the tomb.’ These strange black pilgrims always interest me. Many take four years to
+               <name type="place" ref="#mecca">Mecca</name> and home, and have children born to them
+            on the road, and learn a few words of Arabic.</p>
+      </body>
+   </text>
+</TEI>

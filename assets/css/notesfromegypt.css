@@ -1,3 +1,6 @@
+html {
+    min-height: 100%;
+}
 /*
  * Submenu
 */
@@ -71,7 +74,6 @@ dd {
 }
 
 .special {
-    max-width: 30em;
     min-width: 100px;
     margin-top: 5px;
 }
@@ -80,4 +82,9 @@ dd {
     max-width: 30em;
     min-width: 100px;
 }
-
+.author {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}

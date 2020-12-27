@@ -1,31 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div xmlns="http://www.w3.org/1999/xhtml" data-template="templates:surround" data-template-with="templates/page.html" data-template-at="content">
-                    <article id="main">
-						<header>
-							<h2>
-                                <div>Disclaimer &amp; Credits</div>
-                            </h2>
-						</header>
-						<section class="wrapper style5">
-							<div class="inner">
-								<section>
-									<h3>Technology stack</h3>
-									<ul>
-									    <li>
-                            <a href="https://exist-db.org">eXist-db</a>: backend for data and web application platform</li>
-									    <li>
-                            <a href="http://www.tei-c.org/">Text Encoding Initiative (TEI)</a>: semantical tagging of all texts</li>
-									    <li>
-                            <a href="https://opennlp.apache.org/">openNLP</a>: Named Entity Recognition of personal and geographic names and dates</li>
-									</ul>
-									<p>Code and data can be found on <a href="https://github.com/wenamun/Notes-From-Egypt">Github.com</a>.</p>
-								</section>
-								<section>
-								    <h3>Credits</h3>
-								    <p>Image in header of website taken from <a href="https://commons.wikimedia.org/wiki/File:Cairo,_looking_west,_Egypt._Coloured_lithograph_by_Louis_Haghe_Wellcome_V0049365.jpg">wikimedia commons</a>.</p>
-								    <p>Website layout and design is a slightly adapted version of the <a href="https://html5up.net/spectral">Spectral Design</a> by <a href="https://html5up.net/">HTML5 UP!</a>.</p>
-								</section>
-							</div>							
-						</section>
-					</article>
-                </div>
+	<article id="main">
+		<header>
+			<h2>
+				<div>Disclaimer &amp; Credits</div>
+			</h2>
+		</header>
+		<section class="wrapper style5">
+			<div class="inner">
+				<section>
+					<h3>Texts</h3>
+					<p>Texts have been downloaded from the <a href="www.gutenberg.org">Gutenberg</a>
+						project and <a href="https://archive.org">archive.org</a> and then converted
+						into TEI files, one for each letter.</p>
+					<h3>Technology stack</h3>
+					<ul>
+						<li>
+							<a href="https://exist-db.org">eXist-db</a>: backend for data and web
+							application platform using XML, Xquery, XSLT, Javascript, HTML5,
+							CSS</li>
+						<li>
+							<a href="http://www.tei-c.org/">Text Encoding Initiative (TEI)</a>:
+							semantical tagging of all texts</li>
+						<li>The Relax NG Schema <a href="./schema/tei_nfe.rng">tei_nfe.rng</a> for
+							tagging the letters is based on the TEI Simpleprint schema which has
+							been extended mainly by &lt;correspAction&gt; and &lt;correspDesc&gt;
+							elements; the ODD file can be found <a href="./schema/tei_nfe.odd">here</a>. For the place and people authority files two Relax NG
+							schemas have been prepared: <a href="./schema/tei_nfe_places.rng">tei_nfe_places.rng</a> (<a href="./schema/tei_nfe_places.odd">ODD
+								file</a>) and <a href="./schema/tei_nfe_people.rng">tei_nfe_people.rng</a> (<a href="./schema/tei_nfe_people.odd">ODD
+								file</a>).</li>
+					</ul>
+					<p>Code and data can be found on <a href="https://github.com/wenamun/Notes-From-Egypt">Github.com</a>.</p>
+				</section>
+				<section>
+					<h3>Credits</h3>
+					<p>Image in header of website taken from <a href="https://commons.wikimedia.org/wiki/File:Cairo,_looking_west,_Egypt._Coloured_lithograph_by_Louis_Haghe_Wellcome_V0049365.jpg">wikimedia commons</a>.</p>
+					<p>Texts on the authority pages (places, people) have been taken from the
+						English Wikipedia.</p>
+					<p>Website layout and design is a slightly adapted version of the <a href="https://html5up.net/spectral">Spectral Design</a> by <a href="https://html5up.net/">HTML5 UP!</a>.</p>
+				</section>
+			</div>
+		</section>
+	</article>
+</div>

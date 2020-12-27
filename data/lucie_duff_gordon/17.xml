@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, KAFR ZEYAT, October 31, 1863.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/17">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <rs type="place" ref="http://www.geonames.org/354365">Kafr az Zayyāt</rs>
+               <date when="1863-10-31">31 October 1863</date>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/315623459">Sir Alexander Duff
+                  Gordon</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <name type="person" ref="#alick">Alick</name>,</p>
+
+         <p>We left <name type="place" ref="#alexandria">Alexandria </name> on <date>Thursday</date>
+            about noon, and sailed with a fair wind along the <name type="place" ref="#mahmoudieh_canal">Mahmoudieh Canal</name>. My little boat flies like a bird,
+            and my men are a capital set of fellows, bold and careful sailors. I have only seven in
+            all, but they work well, and at a pinch <name type="person" ref="#omar">Omar</name>
+            leaves the pots and pans and handles a rope or a pole manfully. We sailed all night and
+            passed the locks at <name type="place" ref="#atleh">Atleh</name> at four o’clock
+               <date>yesterday</date>, and were greeted by old Nile tearing down like a torrent. The
+            river is magnificent, ‘seven men’s height,’ my <name type="person" ref="#reis">Reis</name> says, above its usual pitch; it has gone down five or six feet and left
+            a sad scene of havoc on either side. However what the Nile takes he repays with
+            threefold interest, they say. The women are at work rebuilding their mud huts, and the
+            men repairing the dykes. A Frenchman told me he was on board a Pasha’s steamer under
+               <name type="person" ref="#de_lesseps">M. de Lesseps</name>’ command, and they passed
+            a flooded village where two hundred or so people stood on their roofs crying for help.
+            Would you, could you, believe it that they passed on and left them to drown? None but an
+            eyewitness could have made me believe such villainy.</p>
+
+         <p>All to-day we sailed in such heavenly weather—a sky like nothing but its most beautiful
+            self. At the bend of the river just now we had a grand struggle to get round, and got
+            entangled with a big timber boat. My crew got so vehement that I had to come out with an
+            imperious request to everyone to bless the Prophet. Then the boat nearly pulled the men
+            into the stream, and they pulled and hauled and struggled up to their waists in mud and
+            water, and <name type="person" ref="#omar">Omar</name> brandished his pole and shouted
+            ‘Islam el Islam!’ which gave a fresh spirit to the poor fellows, and round we came with
+            a dash and caught the breeze again. Now we have put up for the night, and shall pass the
+            railway-bridge to-morrow. The railway is all under water from here up to <name type="place" ref="#tanta">Tantah</name>—eight miles—and in many places higher up.</p>
+      </body>
+   </text>
+</TEI>

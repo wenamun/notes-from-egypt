@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mrs. Austin. FESHN, Monday, November 30, 1862.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/3">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <rs type="place" ref="http://www.geonames.org/361329">Al Fashn</rs>
+               <date when="1862-11-30">30 November 1862</date>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/59830344">Sarah Austin</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <foreign xml:lang="de">
+               <name type="person" ref="#sarah_austin">Mutter</name>
+            </foreign>,</p>
+         <p>I have now been enjoying this most delightful way of life for ten days, and am certainly
+            much better. I begin to eat and sleep again, and cough less. My crew are a great
+            amusement to me. They are mostly men from near the <name type="place" ref="#first_cataract">first Cataract</name> above <name type="place" ref="#assouan">Assouan</name>, sleek-skinned, gentle, patient, merry black fellows. The little
+            black <name type="person" ref="#reis">Reis</name> is the very picture of good-nature and
+            full of fun, ‘chaffing’ the girls as we pass the villages, and always smiling. The
+            steersman is of lighter complexion, also very cheery, but decidedly pious. He prays five
+            times a day and utters ejaculations to the apostle Rusool continually. He hurt his ankle
+            on one leg and his instep on the other with a rusty nail, and they festered. I dressed
+            them with poultices, and then with lint and strapping, with perfect success, to the
+            great admiration of all hands, and he announced how much better he felt, ‘<foreign xml:lang="ar">Alhamdulillah, kieth-el-hairack khateer ya Sitti</foreign>’ (Praise be
+            to God and thanks without end O Lady), and everyone echoed, ‘<foreign xml:lang="ar">kieth-el-hairack khateer</foreign>.’ The most important person is the ‘<foreign xml:lang="ar">weled</foreign>’—boy—<name type="person" ref="#achmet">Achmet</name>.
+            The most merry, clever, omnipresent little rascal, with an ugly little pug face, a shape
+            like an antique Cupid, liberally displayed, and a skin of dark brown velvet. His voice,
+            shrill and clear, is always heard foremost; he cooks for the crew, he jumps overboard
+            with the rope and gives advice on all occasions, grinds the coffee with the end of a
+            stick in a mortar, which he holds between his feet, and uses the same large stick to
+            walk proudly before me, brandishing it if I go ashore for a minute, and ordering
+            everybody out of the way. ‘<foreign xml:lang="ar">Ya Achmet</foreign>!’ resounds all day
+            whenever anybody wants anything, and the ‘<foreign xml:lang="ar">weled</foreign>’ is
+            always ready and able. My favourite is <name type="person" ref="#osman">Osman</name>, a
+            tall, long-limbed black who seems to have stepped out of a hieroglyphical drawing,
+            shirt, skull-cap and all. He has only those two garments, and how anyone contrives to
+            look so inconceivably ‘neat and respectable’ (as <name type="person" ref="#sally">Sally</name> truly remarked) in that costume is a mystery. He is always at work,
+            always cheerful, but rather silent—in short, the able seaman and steady, respectable
+            ‘hand’ <hi rendition="italic">
+               <foreign xml:lang="fr">par excellence</foreign>
+            </hi>. Then we have <name type="person" ref="#zankalonee">El Zankalonee</name> from near
+               <name type="place" ref="#cairo">Cairo</name>, an old fellow of white complexion and a
+            valuable person, an inexhaustible teller of stories at night and always <foreign xml:lang="fr">en train</foreign>, full of jokes and remarkable for a dry humour much
+            relished by the crew. I wish I understood the stories, which sound delightful, all about
+            Sultans and Efreets, with effective ‘points,’ at which all hands exclaim ‘<foreign xml:lang="ar">Mashallah</foreign>!’ or ‘Ah!’ (as long as you can drawl it). The
+            jokes, perhaps, I may as well be ignorant of. There is a certain <name type="person" ref="#shereef">Shereef</name> who does nothing but laugh and work and be obliging;
+            helps <name type="person" ref="#omar">Omar</name> with one hand and <name type="person" ref="#sally">Sally</name> with the other, and looks like a great innocent black
+            child. The rest of the dozen are of various colours, sizes and ages, some quite old, but
+            all very quiet and well-behaved. </p>
+         <p>We have had either dead calm or contrary wind all the time and the men have worked very
+            hard at the tow-rope. On <date>Friday</date> I proclaimed a halt in the afternoon at a
+            village at prayer-time for the pious Muslims to go to the mosque; this gave great
+            satisfaction, though only five went, <name type="person" ref="#reis">Reis</name>,
+            steersman, <name type="person" ref="#zankalonee">Zankalonee</name> and two old men. The
+            up-river men never pray at all, and <name type="person" ref="#osman">Osman</name>
+            occupied himself by buying salt out of another boat and stowing it away to take up to
+            his family, as it is terribly dear high up the river. At <name type="place" ref="#benisouef">Benisouef</name> we halted to buy meat and bread, it is <hi rendition="italic">
+               <foreign xml:lang="fr">comme qui dirait</foreign>
+            </hi> an assize town, there is one butcher who kills one sheep a day. I walked about the
+            streets escorted by <name type="person" ref="#omar">Omar</name> in front and two sailors
+            with huge staves behind, and created a sensation accordingly. It is a dull little
+            country town with a wretched palace of <name type="person" ref="#said_pasha">Said
+               Pasha</name>. On <date>Sunday</date> we halted at <name type="place" ref="#bibbeh">Bibbeh</name>, where I caught sight of a large Coptic church and sallied forth to
+            see whether they would let me in. The road lay past the house of the headman of the
+            village, and there ‘in the gate’ sat a patriarch, surrounded by his servants and his
+            cattle. Over the gateway were crosses and queer constellations of dots, more like
+            Mithraic symbols than anything Christian, but <name type="person" ref="#girgis">Girgis</name> was a Copt, though the chosen head of the Muslim village. He rose as I
+            came up, stepped out and salaamed, then took my hand and said I must go into his house
+            before I saw the church and enter the <foreign xml:lang="ar">hareem</foreign>. His old
+            mother, who looked a hundred, and his pretty wife, were very friendly; but, as I had to
+            leave <name type="person" ref="#omar">Omar</name> at the door, our talk soon came to an
+            end, and <name type="person" ref="#girgis">Girgis</name> took me out into the divan,
+            without the sacred precincts of the <foreign xml:lang="ar">hareem</foreign>. Of course
+            we had pipes and coffee, and he pressed me to stay some days, to eat with him every day
+            and to accept all his house contained. I took the milk he offered, and asked him to
+            visit me in the boat, saying I must return before sunset when it gets cold, as I was
+            ill. The house was a curious specimen of a wealthy man’s house—I could not describe it
+            if I tried, but I felt I was acting a passage of the Old Testament. We went to the
+            church, which outside looked like nine beehives in a box. Inside, the nine domes resting
+            on square pillars were very handsome. <name type="person" ref="#girgis">Girgis</name>
+            was putting it into thorough repair at his own expense, and it will cost a good deal, I
+            think, to repair and renew the fine old wood panelling of such minute and intricate
+            workmanship. The church is divided by three screens; one in front of the eastern three
+            domes is impervious and conceals the holy of holies. He opened the horseshoe door for me
+            to look in, but explained that no <foreign xml:lang="ar">Hareem</foreign> might cross
+            the threshold. All was in confusion owing to the repairs which were actively going on
+            without the slightest regard to <date>Sunday</date>; but he took up a large bundle,
+            kissed it, and showed it me. What it contained I cannot guess, and I scrupled to inquire
+            through a Muslim interpreter. To the right of this sanctum is the tomb of a Muslim
+            saint! enclosed under the adjoining dome. Here we went in and <name type="person" ref="#girgis">Girgis</name> kissed the tomb on one side while <name type="person" ref="#omar">Omar</name> salaamed it on the other—a pleasant sight. They were much
+            more particular about our shoes than in the mosques. <name type="person" ref="#omar">Omar</name> wanted to tie handkerchiefs over my boots like at <name type="place" ref="#cairo">Cairo</name>, but the priest objected and made me take them off and
+            march about in the brick and mortar rubbish in my stockings. I wished to hear the
+            service, but it was not till sunset, and, as far as I could make out, not different on
+               <date>Sunday</date> to other days. The <foreign xml:lang="ar">Hareems</foreign> are
+            behind the screen furthest removed from the holy screen, behind a third screen where
+            also was the font, locked up and shaped like a Muslim tomb in little. (<foreign xml:lang="ar">Hareem</foreign> is used here just like the German <hi rendition="italic">
+               <foreign xml:lang="de">Frauenzimmer</foreign>
+            </hi>, to mean a respectable woman. <name type="person" ref="#girgis">Girgis</name>
+            spoke of me to <name type="person" ref="#omar">Omar</name> as ‘<foreign xml:lang="ar">Hareem</foreign>.’) The Copts have but one wife, but they shut her up much closer
+            than the Arabs. The children were sweetly pretty, so unlike the Arab brats, and the men
+            very good-looking. They did not seem to acknowledge me at all as a <hi rendition="italic">
+               <foreign xml:lang="fr">co-religionnaire</foreign>
+            </hi>, and asked whether we of the English religion did not marry our brothers and
+            sisters.</p>
+         <p>The priest then asked me to drink coffee at his house close by, and there I ‘sat in the
+               gate’—<hi rendition="italic">i.e.</hi>, in a large sort of den raised 2 feet from the
+            ground and matted, to the left of the gate. A crowd of Copts collected and squatted
+            about, and we were joined by the mason who was repairing the church, a fine, burly,
+            rough-bearded old Mussulman, who told how the Sheykh buried in the church of <name type="place" ref="#bibbeh">Bibbeh</name> had appeared to him three nights running at
+               <name type="place" ref="#cairo">Cairo</name> and ordered him to leave his work and go
+            to <name type="place" ref="#bibbeh">Bibbeh</name> and mend his church, and how he came
+            and offered to do so without pay if the Copts would find the materials. He spoke with
+            evident pride, as one who had received a Divine command, and the Copts all confirmed the
+            story and everyone was highly gratified by the miracle. I asked <name type="person" ref="#omar">Omar</name> if he thought it was all true, and he had no doubt of it. The
+            mason he knew to be a respectable man in full work, and <name type="person" ref="#girgis">Girgis</name> added that he had tried to get a man to come for years
+            for the purpose without success. It is not often that a dead saint contrives to be
+            equally agreeable to Christians and Mussulmans, and here was the staunch old ‘true
+            believer’ working away in the sanctuary which they would not allow an English
+            fellow-Christian to enter.</p>
+         <p> Whilst we sat hearing all these wonders, the sheep and cattle pushed in between us,
+            coming home at eve. The venerable old priest looked so like <name type="person" ref="#abraham">Father Abraham</name>, and the whole scene was <hi rendition="italic">so</hi> pastoral and Biblical that I felt quite as if my wish was fulfilled to live
+            a little a few thousands of years ago. They wanted me to stay many days, and then <name type="person" ref="#girgis">Girgis</name> said I must stop at <name type="place" ref="#feshn">Feshn</name> where he had a fine house and garden, and he would go on
+            horseback and meet me there, and would give me a whole troop of Fellaheen to pull the
+            boat up quick. <name type="person" ref="#omar">Omar</name>’s eyes twinkled with fun as
+            he translated this, and said he knew the Sitt would cry out, as she always did about the
+            Fellaheen, as if she were hurt herself. He told <name type="person" ref="#girgis">Girgis</name> that the English customs did not allow people to work without pay,
+            which evidently seemed very absurd to the whole party.</p>
+         <p>
+            <name type="place" ref="#gebel_sheykh_embarak">GEBEL SHEYK EMBARAK</name>, <hi rendition="italic">
+               <date>Thursday</date>
+            </hi>.</p>
+         <p> I stopped last night at <name type="place" ref="#feshn">Feshn</name>, but finding this
+            morning that my Coptic friends were not expected till the afternoon, I would not spend
+            the whole day, and came on still against wind and stream. If I could speak Arabic I
+            should have enjoyed a few days with <name type="person" ref="#girgis">Girgis</name> and
+            his family immensely, to learn their <hi rendition="italic">
+               <foreign xml:lang="de">Ansichten</foreign>
+            </hi> a little; but <name type="person" ref="#omar">Omar</name>’s English is too
+            imperfect to get beyond elementary subjects. The thing that strikes me most is the
+            tolerant spirit that I see everywhere. They say ‘Ah! it is your custom,’ and express no
+            sort of condemnation, and Muslims and Christians appear perfectly good friends, as my
+            story of <name type="place" ref="#bibbeh">Bibbeh</name> goes to prove. I have yet to see
+            the much-talked-of fanaticism, at present I have not met with a symptom of it. There
+            were thirteen Copt families at <name type="place" ref="#bibbeh">Bibbeh</name> and a
+            considerable Muslim population, who had elected <name type="person" ref="#girgis">Girgis</name> their headman and kissed his hand very heartily as our procession
+            moved through the streets. <name type="person" ref="#omar">Omar</name> said he was a
+            very good man and much liked.</p>
+         <p>The villages look like slight elevations in the mud banks cut into square shapes. The
+            best houses have neither paint, whitewash, plaster, bricks nor windows, nor any visible
+            roofs. They don’t give one the notion of human dwellings at all at first, but soon the
+            eye gets used to the absence of all that constitutes a house in Europe, the impression
+            of wretchedness wears off, and one sees how picturesque they are, with palm-trees and
+            tall pigeon-houses, and here and there the dome over a saint’s tomb. The men at work on
+            the river-banks are exactly the same colour as the Nile mud, with just the warmer hue of
+            the blood circulating beneath the skin. <name type="person" ref="#prometheus">Prometheus</name> has just formed them out of the universal material at hand, and
+            the sun breathed life into them. Poor fellows—even the boatmen, ragged crew as they
+            are—say ‘Ah, Fellaheen!’ with a contemptuous pity when they see me watch the villagers
+            at work.</p>
+         <p>The other day four huge barges passed us towed by a steamer and crammed with hundreds of
+            the poor souls torn from their homes to work at the Isthmus of <name type="place" ref="#suez">Suez</name>, or some palace of the Pasha’s, for a nominal piastre a day,
+            and find their own bread and water and cloak. One of my crew, <name type="person" ref="#andrasool">Andrasool</name>, a black savage whose function is always to jump
+            overboard whenever the rope gets entangled or anything is wanted, recognised some
+            relations of his from a village close to Assouan. There was much shouting and poor <name type="person" ref="#andrasool">Andrasool</name> looked very mournful all day. It may
+            be his turn next. Some of the crew disloyally remarked that they were sure the men there
+            wished they were working for a Sitti Ingleez, as <name type="person" ref="#andrasool">Andrasool</name> told them he was. Think too what splendid pay it must be that the
+            boat-owner can give out of £25 a month to twelve men, after taking his own profits, the
+            interest of money being enormous.</p>
+         <p>When I call my crew black, don’t think of negroes. They are elegantly-shaped Arabs and
+            all gentlemen in manners, and the black is transparent, with amber <hi rendition="italic">reflets</hi> under it in the sunshine; a negro looks <hi rendition="italic">blue</hi> beside them. I have learned a great deal that is curious
+            from <name type="person" ref="#omar">Omar</name>’s confidences, who tells me his family
+            affairs and talks about the women of his family, which he would not to a man. He refused
+            to speak to his brother, a very grand dragoman, who was with the Prince of Wales, and
+            who came up to us in the hotel at <name type="place" ref="Cairo">Cairo</name> and
+            addressed <name type="person" ref="#omar">Omar</name>, who turned his back on him. I
+            asked the reason, and <name type="person" ref="#omar">Omar</name> told me how his
+            brother had a wife, ‘An old wife, been with him long time, very good wife.’ She had had
+            three children—all dead. All at once the dragoman, who is much older than <name type="person" ref="#omar">Omar</name>, declared he would divorce her and marry a
+            young woman. Omar said, ‘No, don’t do that; keep her in your house as head of your home,
+            and take one of your two black slave girls as your Hareem.’ But the other insisted, and
+            married a young Turkish wife; whereupon <name type="person" ref="#omar">Omar</name> took
+            his poor old sister-in-law to live with him and his own young wife, and cut his grand
+            brother dead. See how characteristic!—the urging his brother to take the young slave
+            girl ‘as his Hareem,’ like a respectable man—that would have been all right; but what he
+            did was ‘not good.’ I’ll trouble you (as Mrs. Grote used to say) to settle these
+            questions to everyone’s satisfaction. I own <name type="person" ref="#omar">Omar</name>
+            seemed to me to take a view against which I had nothing to say. His account of his other
+            brother, a confectioner’s household with two wives, was very curious. He and they, with
+            his wife and sister-in-law, all live together, and one of the brother’s wives has six
+            children—three sleep with their own mother and three with their <hi rendition="italic">other</hi> mother—and all is quite harmonious.</p>
+         <p><name type="place" ref="#siout">SIOUT</name>, <hi rendition="italic">December</hi>
+            10.</p>
+         <p>I could not send a letter from <name type="place" ref="#minieh">Minieh</name>, where we
+            stopped, and I visited a sugar manufactory and a gentlemanly Turk, who superintended the
+            district, the Moudir. I heard a boy singing a <hi rendition="italic">Zikr</hi> (the
+            ninety-nine attributes of God) to a set of dervishes in a mosque, and I think I never
+            heard anything more beautiful and affecting. Ordinary Arab singing is harsh and nasal,
+            but it can be wonderfully moving. Since we left <name type="place" ref="#minieh">Minieh</name> we have suffered dreadfully from the cold; the chickens died of it,
+            and the Arabs look blue and pinched. Of course it is <hi rendition="italic">my
+               weather</hi> and there never was such cold and such incessant contrary winds known.
+            To-day was better, and <name type="person" ref="#wassef">Wassef</name>, a Copt here,
+            lent me his superb donkey to go up to the tomb in the mountain. The tomb is a mere
+            cavern, so defaced, but the view of beautiful <name type="place" ref="#siout">Siout</name> standing in the midst of a loop of the Nile was ravishing. A green
+            deeper and brighter than England, graceful minarets in crowds, a picturesque bridge,
+            gardens, palm-trees, then the river beyond it, the barren yellow cliffs as a frame all
+            around that. At our feet a woman was being carried to the grave, and the boys’ voices
+            rang out the Koran full and clear as the long procession—first white turbans and then
+            black veils and robes—wound along. It is all a dream to me. You can’t think what an odd
+            effect it is to take up an English book and read it and then look up and hear the men
+            cry, ‘Yah Mohammad.’ ‘Bless thee, Bottom, how art thou translated;’ it is the reverse of
+            all one’s former life when one sat in England and read of the East. ‘<hi rendition="italic">Und nun sitz ich mitten drein</hi>’ in the real, true Arabian
+            Nights, and don’t know whether ‘I be I as I suppose I be’ or not.</p>
+         <p>Tell <name type="person" ref="#alick">Alick</name> the news, for I have not written to
+            any but you. I do so long for my Rainie. The little Copt girls are like her, only pale;
+            but they don’t let you admire them for fear of the evil-eye.</p>
+      </body>
+   </text>
+</TEI>

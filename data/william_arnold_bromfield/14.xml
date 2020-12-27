@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>No date or place given.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from https://archive.org/details/lettersfromegypt00brom</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/william-arnold-bromfield/letters/14">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/160825459">William Arnold
+                  Bromfield</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person">Eliza Bromfield</name>
+               <name type="place" ref="http://www.geonames.org/2638911">Ryde</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>My dear E</p>
+
+         <p>We started from Wady Halfeh ill supplied with the requisites for so long a journey as we
+            actually made: our original intention not being to proceed further than New Dongola; but
+            the remains of antiquity at Neuri, Gebel Berkel, and ancient Meroe, with a wish to
+            ascend the Nile as high, or even higher than the junction of the main stream with the
+            White and Blue rivers, enticed us onwards till our stores failed us, or became too
+            scanty to be used every day. In many districts we had great difficulty in obtaining our
+            usual supply of goats' milk; and the heat soon turned it sour, if we attempted to keep
+            it for our usual morning and evening meal o rice-milk: failing in this, we were thrown
+            upon black coffee, and bread indescribably hard, stale, bitter, and dirty. The extreme
+            poverty and destitution of the peasantry made it utterly impossible to get a piece of
+            even three or four piastres changed to pay for the little milk they had to spare us for
+            money, and even in the towns and large villages, small coin for a Turkish dollar of
+            twenty piastres (about three shillings and sixpence), was rarely to be had. The coinage
+            of this unhappy country is in so debased, depreciated, and complicated a state, that the
+            people scrutinize all money offered to them with the utmost care, and should it prove,
+            as it often does, of a denomination, the exact value of which they do not understand,
+            they will absolutely refuse to take it in payment. This happened so frequently in <name type="place" ref="#nubia">Nubia</name> and Ethiopia, (where scarcely any coin passes
+            among the poorer classes, who most of them transact their bargains by barter), that
+            money was scarcely of any service to us, even where, as was not often the case, we were
+            possessed of change in the smallest denomination i.e. the para or fuddah, forty of which
+            make a piastre. We were daily exposed to the most vexatious squabbles with the
+            inhabitants of both town and country, as well as with our camel drivers, on the subject
+            of the real or present value of the money we gave them in purchase for goods and for
+            service.</p>
+
+         <p>By far the greater part of the entire distance from Wady Halfeh to Korosko was performed
+            on camels, by which mode of conveyance we travelled nearly one thousand miles, pitching
+            our tent when in the desert, and sleeping in it whilst the cold nights lasted; but when
+            at a town or village, we either took up our abode in what was called by courtesy, a
+            house, or bivouacked under the open canopy of heaven in the street, and no mode of
+            sleeping was more pleasant to us than to have our pallet bedsteads thus set out in some
+            open space, and lie gazing on the stars overhead till we fell asleep, which we were
+            never long in doing. The village dogs always shewed much more curiosity at our Frank
+            encampment than the human inhabitants; and although our things were lying about in all
+            directions, linen, carpet bags, kitchen utensils, &amp;c, and not one amongst us ever
+            remained awake to keep watch, or dreamed of such a thing, not the smallest article was
+            ever missing. One day, close to the great town of Metummeh, our Arab servants, whilst
+            they went to amuse themselves in the town, most unwarrantably left the tent pitched by
+            the river, without a single person to look after the property. I happened to return, and
+            found our camp thus deserted, but nothing had been touched.</p>
+
+         <p>I must however, do our servants the justice to say, that excepting their Arab faults of
+            occasional carelessness and supineness, their conduct has been uniformly most
+            praiseworthy, and we may consider ourselves as extremely fortunate in having people so
+            honest, and, in the main, trustworthy, about us. Our cook, Said Ibraham, is an Egyptian
+            Copt of the neighbourhood of <name type="place" ref="#siout">Siout</name>, a very
+            honest, industrious, good tempered, and singular to say, very cleanly fellow;
+            altogether, from these qualities, and his professional skill, he has been invaluable to
+            us, and he will accompany me I hope into Syria as a servant, where his knowledge of the
+            country, and the language, and his being a Christian, will be so many advantages.
+            Mohammed, a youth of about sixteen, and Achmed, a young man of about twenty-five, who
+            took his brother's place at Ourdeh (New Dongola), as Mr. Lakes' attendant, are both
+            Mahometans of the Berber country — the former, a well-disposed, honest, tractable, and
+            intelligent lad, of much originality of character; Achmed, a grave, sedate, and (for an
+            Arab), careful person, who can speak a little English and Italian, but I do not like him
+            quite so well as his less accomplished brother Ameen, who remained behind at Ourdeh at
+            the wish of an aged mother who could not bear to have both her sons away at the same
+            time. Achmed seems to think he shall find his brother Hamed Saafee (the keeper of the
+            hippopotamus in London), at <name type="place" ref="#cairo">Cairo</name> on our return;
+            but I consider it unlikely that he would quit his situation till the Great Exhibition
+            which will draw over so many sight-seeing foreigners to England, is over in October: for
+            he makes a great deal of money, his brother says, by douceurs received from visitors to
+            the gardens. Talking of hippopotami, we saw several when in the upper country above
+            Berber, and in the White river, and could sometimes hear them blowing in the water at
+            night: we never saw them on land, and could only see their broad truncated snouts, and
+            part of their huge heads occasionally raised above the surface. They are not at the
+            present day to be found below Berber.</p>
+
+         <p>As to crocodiles, Mr. Lakes, an excellent shot with his rifle, killed at least three of
+            these monsters on the sand-banks, but never could secure their bodies, as on being
+            mortally wounded, they always contrive to flounder into the water, where they either
+            sink dead, the body not rising till after, at least, twenty-four hours when
+            decomposition has begun, or they come on shore after some time to die. The crocodile is
+            a very timid animal, and I firmly believe rarely, if ever, ventures to attack an adult,
+            and then only in the water, never on land; but there is no doubt that they will seize
+            children who venture into shallow water where they abound: an instance of a little girl
+            having met with such a fate occurred at a village on our southern route, the very day
+            before our arrival. The Arabs along the Nile never evince the least fear of crocodiles;
+            the boatmen are constantly paddling about in the water to shove their boats off the
+            innumerable sand-banks that obstruct the navigation in all parts of this immensely long
+            river; and I have seen large birds strutting about almost within a foot or two of their
+            huge jaws as they lie basking on the banks, a dozen or more together, and have even seen
+            them perch on the top of the crocodiles' heads. The real danger to a man, should he be
+            able to approach so wary an animal near enough to receive injury (which could happen
+            only in the case of one disabled by a wound), would be from a stroke of his powerful
+            tail. Their mode of gliding into the water when disturbed, is by a slow motion like that
+            of some gigantic serpent or fish; they then look very slippery, and as if all joints and
+            suppleness.</p>
+
+         <p>Always, my dear E., Your affectionate Brother, William Arnold Bromfield.</p>
+      </body>
+   </text>
+</TEI>

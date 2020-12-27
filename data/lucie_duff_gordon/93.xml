@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mrs. Austin, LUXOR, January 14, 1867.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/93">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <date when="1867-01-14">14 January 1867</date>
+               <rs type="place" ref="http://www.geonames.org/360630">Cairo</rs>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/59830344">Sarah Austin</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <foreign xml:lang="de"><name type="person" ref="#sarah_austin">Mutter</name></foreign>, </p>
+         <p> We have had a very cold winter and I have been constantly ailing, luckily the cough has
+            transferred itself from the night to the day, and I get some good sleep. The last two
+            days have been much warmer and I hope matters will mend. I am beginning to take
+            cod-liver oil, as we can’t find a milch camel anywhere. </p>
+         <p> My boat has been well let in <name type="place" ref="#cairo">Cairo</name> and is
+            expected here every day. The gentlemen shoot, and tell the crew not to row, and in short
+            take it easy, and give them £2 in every place. Imagine what luxury for my crew. I shall
+            have to dismiss the lot, they will be so spoilt. The English Consul-General came up in a
+            steamer with Dr. Patterson and Mr. Francis. I dined with them one day; I wish you could
+            have seen me carried in my armchair high up on the shoulders of four men, like a
+            successful candidate, or more like one of the Pharaohs in an ancient bas-relief,
+            preceded by torch bearers and other attendants and followers, my procession was quite
+            regal. I wish I could show you a new friend of mine, <name type="person" ref="#osman">Osman</name> Ibraheem, who studied medicine five years in Paris. My heart warmed to
+            him directly, because like most high-bred Arabs, he is so like Don Quixote—only Don
+            Quixote quite in his senses. The sort of innocent sententiousness, and perfectly natural
+            love of fine language and fine sentiments is unattainable to any European, except, I
+            suppose, a Spaniard. It is quite unlike Italian fustian or French _sentiment_. I suppose
+            to most Europeans it is ridiculous, but I used to cry when the carriers beat the most
+            noble of all knights, when I was a little girl and read Don Quixote; and now I felt as
+            it were like Sancho, when I listened to <name type="person" ref="#osman">Osman</name>
+            reciting bits of heroic poetry, or uttering ‘wise saws’ and ‘modern instances,’ with the
+            peculiar mixture of strong sense of ‘exultation’ which stamps the great Don. I may not
+            repeat all I heard from him of the state of things here, and the insults he had to
+            endure—a Shereef and an educated man—from coarse Turkish Pashas; it was the carriers
+            over again. He told me he had often cried like a woman, at night in his own room, at the
+            miseries he was forced to witness and could do nothing to relieve; all the men I have
+            particularly liked I find are more or less pupils of the Sheykh el-Bagooree now dead,
+            who seems to have had a gift of inspiring honourable feeling. Our good Maōhn is one; he
+            is no conjuror, but the honesty and goodness are heroic which lead a man to starve on
+            £15 a month, when he is expected to grow rich on plunder. </p>
+         <p> The war in Crete saddens many a household here. Sheykh Yussuf’s brother, Sheykh Yooris,
+            is serving there, and many more. People are actually beginning to say ‘We hope the
+            English and French won’t fight for the Sultan if the Moscovites want to eat him—there
+            will be no good for us till the Turks are driven out.’ All the old religious devotion to
+            the Sultan seems quite gone. </p>
+         <p> Poor Mustapha has been very unwell and I stopped his Ramadan, gave him some physic and
+            ordered him not to fast, for which I think he is rather grateful. The Imaam and Mufti
+            always endorse my prohibitions of fasting to my patients. Old Ismaeen is dead, aged over
+            a hundred; he served Belzoni, and when he grew doting was always wanting me to go with
+            him to join Belzoni at Abu Simbel. He was not at all ill—he only went out like a candle.
+            His grandson brought me a bit of the meat cooked at his funeral, and begged me to eat
+            it, that I might live to be very old, according to the superstition here. When they
+            killed the buffalo for the Sheykh Abu-l-Hajjaj, the man who had a right to the feet
+            kindly gave them to <name type="person" ref="#omar">Omar</name>, who wanted to make
+            calves’ foot jelly for me. I had a sort of profane feeling, as if I were eating a
+            descendant of the bull Apis. </p>
+         <p> I am reading Mme. du Deffand’s letters. What a repulsive picture of a woman. I don’t
+            know which I dislike most, Horace Walpole or herself: the conflict of selfishness,
+            vanity and _ennui_ disguised as sentiment is quite hateful: to her Turgot was _un sot
+            animal_,—so much for her great gifts. </p>
+         <p> Remember me kindly to William and tell him how much I wish I could see his
+            ‘improvements,’ <name type="person" ref="#omar">Omar</name> also desires his salaam to
+            him, having a sort of fellow feeling for your faithful henchman. I need not say he
+            kisses your hand most dutifully.</p>
+      </body>
+   </text>
+</TEI>

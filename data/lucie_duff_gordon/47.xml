@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mrs. Austin, LUXOR, January 2, 1865.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/47">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <date when="1865-01-02">2 January 1865</date>
+               <rs type="place" ref="http://www.geonames.org/360502">Luxor</rs>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/59830344">Sarah Austin</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <foreign xml:lang="de"><name type="person" ref="#sarah_austin">Mutter</name></foreign>, </p>
+         <p> I posted a letter for you at <name type="place" ref="#girgeh">Girgeh</name>, as we
+            passed <name type="place" ref="#siout">Siout</name> with a good wind, I hope you will
+            get it. My crew worked as I never saw men work, they were paid to get to Luxor, and for
+            eighteen days they never rested or slept day or night, and all the time were merry and
+            pleasant. It shows what power of endurance these ‘lazy Arabs’ have when there is good
+            money at the end of a job, instead of the favourite panacea of ‘stick.’ </p>
+         <p> We arrived at midnight and next morning my boat had the air of being pillaged. A crowd
+            of laughing, chattering fellows ran off to the house laden with loose articles snatched
+            up at random, loaves of sugar, pots and pans, books, cushions, all helter-skelter. I
+            feared breakages, but all was housed safe and sound. The small boys of an age licensed
+            to penetrate into the cabin, went off with the oddest cargoes of dressing things and the
+            like—of backsheesh not one word. _Alhamdulillah salaameh_! ‘Thank God thou art in
+            peace,’ and _Ya Sitt, Ya Emeereh_, till my head went round. Old Ismaeen fairly hugged me
+            and little Achmet hung close to my side. I went up to Mustapha’s house while the
+            unpacking took place and breakfasted there, and found letters from all of you, from you
+            to darling Rainie, Sheykh Yussuf was charmed with her big writing and said he thought
+            the news in that was the best of all. </p>
+         <p> The weather was intensely hot the first two days. Now it is heavenly, a fresh breeze
+            and gorgeous sunshine. I brought two common Arab lanterns for the tomb of Abu-l-Hajjaj
+            and his _moolid_ is now going on. <name type="person" ref="#omar">Omar</name> took them
+            and lighted them up and told me he found several people who called on the rest to say
+            the _Fathah_ for me. I was sitting out yesterday with the people on the sand looking at
+            the men doing _fantasia_ on horseback for the Sheykh, and a clever dragoman of the party
+            was relating about the death of a young English girl whom he had served, and so _de fil
+            en aiguille_ we talked about the strangers buried here and how the bishop had extorted
+            £100. I said, ‘_Maleysh_ (never mind) the people have been hospitable to me alive and
+            they will not cease if I die, but give me a tomb among the Arabs.’ One old man said,
+            ‘May I not see thy day, oh Lady, and indeed thou shouldest be buried as a daughter of
+            the Arabs, but we should fear the anger of thy Consul and thy family, but thou knowest
+            that wherever thou art buried thou wilt assuredly lie in a Muslim grave.’ ‘How so?’ said
+            I. ‘Why, when a bad Muslim dies the angels take him out of his tomb and put in one of
+            the good from among the Christians in his place.’ This is the popular expression of the
+            doctrine that the good are sure of salvation. <name type="person" ref="#omar">Omar</name> chimed in at once, ‘Certainly there is no doubt of it, and I know a
+            story that happened in the days of Mahommed Ali Pasha which proves it.’ We demanded the
+            story and <name type="person" ref="#omar">Omar</name> began. ‘There was once a very rich
+            man of the Muslims so stingy that he grudged everybody even so much as a “bit of the
+            paper inside the date” (Koran). When he was dying he said to his wife, “Go out and buy
+            me a lump of pressed dates,” and when she had brought it he bade her leave him alone.
+            Thereupon he took all his gold out of his sash and spread it before him, and rolled it
+            up two or three pieces at a time in the dates, and swallowed it piece after piece until
+            only three were left, when his wife came in and saw what he was doing and snatched them
+            from his hand. Presently after he fell back and died and was carried out to the burial
+            place and laid in his tomb. When the Kadee’s men came to put the seal on his property
+            and found no money they said, “Oh woman, how is this? we know thy husband was a rich man
+            and behold we find no money for his children and slaves or for thee.” So the woman told
+            what had happened, and the Kadee sent for three other of the Ulema, and they decided
+            that after three days she should go herself to her husband’s tomb and open it, and take
+            the money from his stomach; meanwhile a guard was put over the tomb to keep away
+            robbers. After three days therefore the woman went, and the men opened the tomb and
+            said, “Go in O woman and take thy money.” So the woman went down into the tomb alone.
+            When there, instead of her husband’s body she saw a box (coffin) of the boxes of the
+            Christians, and when she opened it she saw the body of a young girl, adorned with many
+            ornaments of gold necklaces, and bracelets, and a diamond _Kurs_ on her head, and over
+            all a veil of black muslin embroidered with gold. So the woman said within herself,
+            “Behold I came for money and here it is, I will take it and conceal this business for
+            fear of the Kadee.” So she wrapped the whole in her _melayeh_ (a blue checked cotton
+            sheet worn as a cloak) and came out, and the men said “Hast thou done thy business?”’
+            and she answered “Yes” and returned home. </p>
+         <p> ‘In a few days she gave the veil she had taken from the dead girl to a broker to sell
+            for her in the <foreign xml:lang="ar">bazaar</foreign>, and the broker went and showed
+            it to the people and was offered one hundred piastres. Now there sat in one of the shops
+            of the merchants a great Ma-allim (Coptic clerk) belonging to the Pasha, and he saw the
+            veil and said, “How much asketh thou?” and the broker said “Oh thine honour the clerk
+            whatever thou wilt.” “Take from me then five hundred piastres and bring the person that
+            gave thee the veil to receive the money.” So the broker fetched the woman and the Copt,
+            who was a great man, called the police and said, “Take this woman and fetch my ass and
+            we will go before the Pasha,” and he rode in haste to the palace weeping and beating his
+            breast, and went before the Pasha and said, “Behold this veil was buried a few days ago
+            with my daughter who died unmarried, and I had none but her and I loved her like my eyes
+            and would not take from her her ornaments, and this veil she worked herself and was very
+            fond of it, and she was young and beautiful and just of the age to be married; and
+            behold the Muslims go and rob the tombs of the Christians and if thou wilt suffer this
+            we Christians will leave Egypt and go and live in some other country, O Effendina, for
+            we cannot endure this abomination.” </p>
+         <p> ‘Then the Pasha turned to the woman and said, “Woe to thee O woman, art thou a Muslimeh
+            and doest such wickedness?” And the woman spoke and told all that had happened and how
+            she sought money and finding gold had kept it. So the Pasha said, “Wait oh Ma-allim, and
+            we will discover the truth of this matter,” and he sent for the three Ulema who had
+            desired that the tomb should be opened at the end of three days and told them the case;
+            and they said, “Open now the tomb of the Christian damsel.” And the Pasha sent his men
+            to do so, and when they opened it behold it was full of fire, and within it lay the body
+            of the wicked and avaricious Mussulman.’ Thus it was manifest to all that on the night
+            of terror the angels of God had done this thing, and had laid the innocent girl of the
+            Christians among those who have received direction, and the evil Muslim among the
+            rejected. Admire how rapidly legends arise here. This story which everybody declared was
+            quite true is placed no longer ago than in Mahommed Ali Pasha’s time. </p>
+         <p> There are hardly any travellers this year, instead of a hundred and fifty or more
+            boats, perhaps twenty. A son of one of the Rothschilds, a boy of fourteen, has just gone
+            up like a royal prince in one of the Pasha’s steamers—all his expenses paid and crowds
+            of attendants. ‘All that honour to the money of the Jew,’ said an old fellah to me with
+            a tone of scorn which I could not but echo in my heart. He has turned out his dragoman—a
+            respectable elderly man, very sick, and paid him his bare wages and the munificent sum
+            of £5 to take him back to <name type="place" ref="#cairo">Cairo</name>. On board there
+            was a doctor and plenty of servants, and yet he abandons the man here on Mustapha’s
+            hands. I have brought Er-Rasheedee here (the sick man) as poor Mustapha is already
+            overloaded with strangers. I am sorry the name of _Yahoodee_ (Jew) should be made to
+            stink yet more in the nostrils of the Arabs. I am very well, indeed my cough is almost
+            gone and I can walk quite briskly and enjoy it. I think, dear <name type="person" ref="#sarah_austin">Mutter</name>, I am really
+            better. I never felt the cold so little as this winter since my illness, the chilly
+            mornings and nights don’t seem to signify at all now, and the climate feels more
+            delicious than ever. </p>
+         <p> Mr. Herbert, the painter, went back to <name type="place" ref="#cairo">Cairo</name>
+            from Farshoot below <name type="place" ref="#kenneh">Keneh</name>; so I have no
+            ‘Frangee’ society at all. But Sheykh Yussuf and the Kadee drop in to tea very often and
+            as they are agreeable men I am quite content with my company. </p>
+         <p> Bye the bye I will tell you about the tenure of land in Egypt which people are always
+            disputing about, as the Kadee laid it down for me. The _whole_ land belongs to the
+            Sultan of Turkey, the Pasha being his vakeel (representative), nominally of course as we
+            know. Thus there are no owners, only tenants paying from one hundred piastres tariff
+            (£1) down to thirty piastres yearly per feddan (about an acre) according to the quality
+            of the land, or the favour of the Pasha when granting it. This tenancy is hereditary to
+            children only—not to collaterals or ascendants—and it may be sold, but in that case
+            application must be made to the Government. If the owner or tenant dies childless the
+            land reverts to the Sultan, _i.e._ to the Pasha, and _if the Pasha chooses to have any
+            man’s land he can take it from him on payment—or without_. Don’t let any one tell you
+            that I exaggerate; I have known it happen: I mean the _without_, and the man received
+            feddan for feddan of desert, in return for his good land which he had tilled and
+            watered. </p>
+         <p> To-morrow night is the great night of Sheykh Abu-l-Hajjaj’s _moolid_ and I am desired
+            to go to the mosque for the benefit of my health, and that my friends may say a prayer
+            for my children. The kind hearty welcome I found here has been a real pleasure, and
+            every one was pleased because I was glad to come home to my _beled_ (town), and they all
+            thought it so nice of ‘my master’ to have come so far to see me because I was sick—all
+            but one Turk, who clearly looked with pitying contempt on so much trouble taken about a
+            sick old woman. </p>
+         <p> I have left my letter for a long while. You will not wonder—for after some ten days’
+            fever, my poor guest Mohammed Er-Rasheedee died to-day. Two Prussian doctors gave me
+            help for the last four days, but left last night. He sank to sleep quietly at noon with
+            his hand in mine, a good old Muslim sat at his head on one side and I on the other.
+               <name type="person" ref="#omar">Omar</name> stood at his head and his black boy Khayr
+            at his feet. We had laid his face to the Kibleh and I spoke to him to see if he knew
+            anything and when he nodded the three Muslims chanted the _Islamee La Illáhá_, etc.,
+            etc., while I closed his eyes. The ‘respectable men’ came in by degrees, took an
+            inventory of his property which they delivered to me, and washed the body, and within an
+            hour and a half we all went out to the burial place; I following among a troop of women
+            who joined us to wail for ‘the brother who had died far from his place.’ The scene as we
+            turned in between the broken colossi and the pylons of the temple to go to the mosque
+            was over-powering. After the prayer in the mosque we went out to the graveyard, Muslims
+            and Copts helping to carry the dead, and my Frankish hat in the midst of the veiled and
+            wailing women; all so familiar and yet so strange. After the burial the Imám, Sheykh
+            Abd-el-Waris, came and kissed me on the shoulders and the Shereef, a man of eighty, laid
+            his hands on my shoulders and said, ‘Fear not my daughter, neither all the days of thy
+            life nor at the hour of thy death, for God is with thee.’ I kissed the old man’s hand
+            and turned to go, but numberless men came and said ‘A thousand thanks, O our sister, for
+            what thou hast done for one among us,’ and a great deal more. Now the solemn chanting of
+            the _Fikees_, and the clear voice of the boy reciting the Koran in the room where the
+            man died are ringing through the house. They will pass the night in prayer, and
+            to-morrow there will be the prayer of deliverance in the mosque. Poor Khayr has just
+            crept in to have a quiet cry—poor boy. He is in the inventory and to-morrow I must
+            deliver him up to _les autorités_ to be forwarded to <name type="place" ref="#cairo">Cairo</name> with the rest of the property. He is very ugly with his black face wet
+            and swollen, but he kisses my hand and calls me his mother quite ‘natural like’—you see
+            colour is no barrier here. </p>
+         <p> The weather is glorious this year, and in spite of some fatigue I am extremely well and
+            strong, and have hardly any cough at all. I am so sorry that the young Rothschild was so
+            hard to Er-Rasheedee and that his French doctor refused to come and see him. It makes
+            bad blood naturally. However, the German doctors were most kind and helpful. </p>
+         <p> The festival of Abu-l-Hajjaj was quite a fine sight, not splendid at all—_au
+            contraire_—but spirit-stirring; the flags of the Sheykh borne by his family chanting,
+            and the men tearing about in mimic fight on horseback with their spears. My acquaintance
+            of last year, Abd-el-Moutovil, the fanatical Sheykh from Tunis was there. At first he
+            scowled at me. Then someone told him how Rothschild had left Er-Rasheedee, and he held
+            forth about the hatred of all the unbelievers to the Muslims, and ended by asking where
+            the sick man was. A quaint little smile twinkled in Sheykh Yussuf’s soft eyes and he
+            curled his silky moustache as he said demurely, ‘Your Honour must go and visit him at
+            the house of the English Lady.’ I am bound to say that the Pharisee ‘executed himself
+            handsomely, for in a few minutes he came up to me and took my hand and even hoped I
+            would visit the tomb of Abu-l-Hajjaj with him!! </p>
+         <p> Since I wrote last I have been rather poorly—more cough, and most wearing
+            sleeplessness. A poor young Englishman died here at the house of the Austrian Consular
+            agent. I was too ill to go to him, but a kind, dear young Englishwoman, a Mrs. Walker,
+            who was here with her family in a boat, sat up with him three nights and nursed him like
+            a sister. A young American lay sick at the same time in the house, he is now gone down
+            to <name type="place" ref="#cairo">Cairo</name>, but I doubt whether he will reach it
+            alive. The Englishman was buried on the first day of Ramadan where they bury strangers,
+            on the site of a former Coptic church. Archdeacon Moore read the service; <name type="person" ref="#omar">Omar</name> and I spread my old flag over the bier, and
+            Copts and Muslims helped to carry the poor stranger. It was a most impressive sight. The
+            party of Europeans, all strangers to the dead but all deeply moved; the group of
+            black-robed and turbaned Copts; the sailors from the boats; the gaily dressed dragomans;
+            several brown-shirted fellaheen and the thick crowd of children—all the little Abab’deh
+            stark naked and all behaving so well, the expression on their little faces touched me
+            most of all. As Muslims, <name type="person" ref="#omar">Omar</name> and the boatmen
+            laid him down in the grave, and while the English prayer was read the sun went down in a
+            glorious flood of light over the distant bend of the Nile. ‘Had he a mother, he was
+            young?’ said an Abab’deh woman to me with tears in her eyes and pressing my hand in
+            sympathy for that far-off mother of such a different race. </p>
+         <p> Passenger steamboats come now every fortnight, but I have had no letter for a month. I
+            have no almanack and have lost count of European time—to-day is the 3 of Ramadan, that
+            is all I know. The poor black slave was sent back from <name type="place" ref="#kenneh">Keneh</name>, God knows why—because he had no money and the Moudir could not ‘eat
+            off him’ as he could off the money and property—he believes. He is a capital fellow, and
+            in order to compensate me for what he eats he proposed to wash for me, and you would be
+            amused to see Khayr with his coal-black face and filed teeth doing laundry-maid out in
+            the yard. He fears the family will sell him and hopes he may fetch a good price for ‘his
+            boy’—only on the other hand he would so like me to buy him—and so his mind is disturbed.
+            Meanwhile the having all my clothes washed clean is a great luxury. </p>
+         <p> The steamer is come and I must finish in haste. I have corrected the proofs. There is
+            not much to alter, and though I regret several lost letters I can’t replace them. I
+            tried, but it felt like a forgery. Do you cut out and correct, dearest <name type="person" ref="#sarah_austin">Mutter</name>, you will
+            do it much better than I.</p>
+      </body>
+   </text>
+</TEI>

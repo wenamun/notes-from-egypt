@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sheppard's Hotel, Usbekieh, <name type="place" ref="#cairo">Cairo</name>, November 7th, 1850.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from https://archive.org/details/lettersfromegypt00brom</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/william-arnold-bromfield/letters/4">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/160825459">William Arnold
+                  Bromfield</name>
+               <name type="place" ref="http://www.geonames.org/360630">Sheppard's Hotel, Usbekieh,
+                     <name type="place" ref="#cairo">Cairo</name></name>
+               <date when="1850-11-07">7 November 1850</date>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person">Eliza Bromfield</name>
+               <name type="place" ref="http://www.geonames.org/2638911">Ryde</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>My dear E</p>
+
+         <p>Having returned from an expedition to the Pyramids yesterday, I hasten to give you a
+            narrative of our proceedings to and from those wonderful structures, and the impression
+            they made on my mind, whilst quite fresh from the visit. Amongst the passengers by the
+            Austrian Lloyds vessel from Trieste, which arrived at <name type="place" ref="#alexandria">Alexandria </name> on the 3rd, was a gentleman with whom I got into
+            conversation at the table d'hote here, and who proved to be an intimate friend and
+            neighbour of Mr. L. V. H — — , and whom I recollect having met at W. D. a few years
+            back. ( He and his son were intending to see the Pyramids if possible before leaving
+               <name type="place" ref="#cairo">Cairo</name>, and proposed my joining them, an
+            arrangement to which I readily assented, and we agreed to set off the same afternoon,
+            and taking a tent and provisions with us, to bivouack at the Pyramids that night, and
+            rise fresh for their examination at daybreak. Our train consisted of four donkeys for
+            our party of three, and the dragoman, besides a spare donkey, and their attendant
+            drivers, and a horse for carrying the tent, some spare clothing, thick horse cloths
+            instead of mats, a large chest or box for provisions, knives, forks, glasses, &amp;c;
+            the provisions consisting of cold chicken, a cold goose, ditto roast shoulder of mutton,
+            bread, cheese, coffee, sugar and eggs, a few bottles of pale ale, one of water, and
+            another of brandy. We mounted our donkeys about half-past four, a great deal too late in
+            the day for a journey of eighteen miles, which is the distance of the Pyramids from
+               <name type="place" ref="#cairo">Cairo</name> during the time of high Nile, or the
+            season of inundation; but we had been riding about the city, to the citadel, and
+            elsewhere all the morning, and Mr, W had engagements that detained him till late in the
+            afternoon, leaving us only an hour before sunset, which in this latitude, and in the
+            beginning of November, happens at half-past five o'clock, and the twilight afterwards is
+            not of very long duration. Our route lay through Old <name type="place" ref="#cairo">Cairo</name>, (which stands on the site of the fortress of Babylon), we then crossed
+            the Nile in a ferry boat to the large and populous village of Geezeh or Ghizeh, (Arabic
+            names are spelt in various ways, and the g is either hard or soft according to the
+            dialect), from whence these Pyramids take their names. The views on the Nile at Old
+               <name type="place" ref="#cairo">Cairo</name> and Geezeh are very pretty, white
+            houses, on either side of the broad river, being interspersed everywhere with trees,
+            gardens, date groves, and the island of Rhoda, clad in rich cultivation, occupying the
+            centre of the Nile. The way from Old to New <name type="place" ref="#cairo">Cairo</name>
+            is a fine broad road, planted with trees, and through one continuous garden of olive,
+            fig, mulberry, castor, or prickly pear, &amp;c, beneath which grow all the kinds of
+            esculent vegetables for which Egypt was formerly renowned, as leeks, onions, garlic,
+            lentils, lettuce, beans, melons, and many others. After leaving Geezeh the daylight
+            began to fail us, but the twilight lasted us still for a few miles farther, and when the
+            new moon set, the Evening star shone with such brilliancy as to supply her place nearly
+            as well. The roads at this season of the inundation ran over the broad embankment
+            between the now inundated fields, which give the country the aspect of a vast inland sea
+            or lake, studded with islands^ and intersected with isthmuses and long promontories. The
+            night was beautifully clear, and deliciously cool, and the Pyramids were always in view,
+            seen in deep relief against the sky, but for a long time we never seemed to approach any
+            nearer to them. At length we unexpectedly came to a spot where the weight of the w r
+            ater had forced a passage through the embankment in two places, and made it impossible
+            for our donkeys to proceed further, and we began to fear that we should have to pass the
+            night on this narrow causeway, between two inundated tracts of land; but our dragoman
+            comforted us with the assurance, that by shouting, and shewing our lantern, (which we
+            did by perching the dragoman on the horse's back, and making him a living Pharos), a
+            sailing boat would put off to the breach from the shore beneath the Pyramids, or from a
+            village near at hand, which we could dimly descry. We had, however, to wait about an
+            hour before the boat arrived, during which time the dew fell, and the air began to be
+            chilly; but to this, our half naked Arabs did not appear to be in the least degree
+            sensible. We amused ourselves with getting the provision chest unloaded from the horse,
+            and making a good supper upon the contents, the chest itself serving for table and
+            chairs. When the boat came, we put our tent, clothes, and the above mentioned chest into
+            it, and proceeded with our dragoman, who was also our cook, (Mohammed by name), over
+            inundated fields, destined to become in a few month's time, dry and verdant with the
+            fruits of the East — but now the habitation of innumerable frogs, and myriads of water
+            fowl, — to the landing place beneath the Pyramids, which we reached about ten o'clock,
+            p.m. The horse, donkeys, and donkey boys, remained under the open canopy of heaven at
+            the broken down embank- ment till our return, about two, p.m., the next day, with no
+            other covering than the scanty clothing they had on, which is very frequently not even
+            as much as strict decency requires.</p>
+
+         <p>The ascent from the usual landing place towards the Pyramids is long and steep. We
+            arrived at a row of tombs, hewn out of the rock, still much below the Pyramids, close in
+            front of which we soon found ourselves, and pitched our tents on the soil composed of
+            debris of sepulchres, pottery, &amp;c, mixed with sand and stones, and were immediately
+            visited by the Shekh of the village, and his posse of chattering Arabs, whose
+            vociferations never ceased for a moment, till the picturesque guard was set for the
+            night, when they subsided into low gossiping tones that continued audible till I fell
+            asleep on my horse cloth, which with a thick pilot cloth great coat and flannel under
+            garments, in addition to the ordinary upper ones of coat, &amp;c, I found insufficient
+            wholly to ward off the cold of the desert air, even under the shelter of a tent, for the
+            wind blew in upon us from under it all night, though not with any great violence. A
+            French traveller and his party were encamped in another tent near us, having the tri-
+            coloured flag displayed.</p>
+
+         <p>The next morning we were up a little before sun-rise, (about half-past six), and saw
+            that luminary emerge, and light up a beautiful and singular landscape, the rich
+            inundated valley of the Nile, with the villages rising like islands out of the watery
+            expanse, which teems with incredible numbers of geese and other water birds at this
+            season. From our elevated position, looking northwards, we distinctly saw <name type="place" ref="#cairo">Cairo</name> with its lofty citadel, and the magnificent
+            mosque of Mohammed Ali crowning all; the Pyramids were behind us, high above our heads,
+            and even their tops concealed by the steep intervening hills of coarse sand and gravel,
+            stones of all sizes, angular blocks of basalt, reddish granite, and soft white limestone
+            rock on which the Pyramids stand, and of which they are mainly composed, pebbles of
+            agate, rounded by attrition, fragments of pottery, (coarse red earth er ii ware ), ibis
+            vases, human and other bones, and a strange assemblage of debris, belonging to different
+            epochs and formations, amongst which is one having a volcanic appearance like lava or
+            tufa, and very decomposable, whilst portions of the white limestone which is soft enough
+            to be cut with a knife, are a complete mass of shells. I also picked up near the
+            Pyramids of Cephrenes fragments of a hard rock of a violet or even puce colour, of which
+            I saw no block of any size. As soon as the sun had risen we toiled up to the base of the
+            greater pyramid. To say that it came up to, or fell short of, or exceeded my
+            expectations of its magnitude, would not express the impression I received from its
+            contemplation, and that of the whole group, so unlike did I find the reality to all the
+            representations I have seen of these enormous structures. Their exterior is far more
+            rude and rugged, from time and wilful spoliation than I had any conception of; and I can
+            compare them, on a close approach, to nothing so much as to the products of some vast
+            stone quarry, shaped into roughly squared blocks, broken and chipped in the process, and
+            piled into a huge pyramid for convenience of transport, or use upon the spot. So great
+            is their magnitude, that at a very moderate distance, say half a mile or less, the
+            dilapidation of the courses of stone becomes almost invisible, and the pyramidal outline
+            stands forth in all the symmetrical regularity which these structures possessed when
+            their casing was entire, and as they appear in drawings and prints of them taken from a
+            distance. They are chiefly built of a greyish or yellowish white limestone, easily cut
+            with a knife, and approaching in texture to indurated chalk of the Freshwater cliffs,
+            not indeed quite so soft, but almost as white, and of different degrees of hardness,
+            often full of shells. I brought away pieces of the great pyramid of Cheops, and
+            specimens of the mortar or cement used to unite them, which is harder than the stone
+            itself. Mr. W — — , who seems quite an antiquary, could see nothing in the Pyramids but
+            what was matter for wonder and astonishment, and like the rest of his brethren,
+            professed to find deep skill and science in the architectural details. To myself, they
+            seem very inartificial structures, requiring only a knowledge of the common principles
+            of levelling, and the application of the most ordinary mechanical means, to rear them.
+            With the exception of the vast granite blocks that form the entrance and the walls of
+            the interior chambers, the extreme softness of the limestone offered great facility to
+            the workmen employed on that material for the courses; and as to the raising and placing
+            these blocks in situ, I had, long before I saw them, doubted the supposed difficulty of
+            that process, on which people are so fond of expatiating. In this doubt I am more than
+            ever confirmed, by observing on the spot the great inferiority of these blocks in regard
+            to size, to the exaggerated accounts usually given by travellers of their enormous
+            dimensions, which are in truth, no greater than those of similar blocks in ordinary use
+            for our own solid public works, and vastly smaller than the gigantic masses employed in
+            the Breakwater at Plymouth. It would not be fair to charge the manifest inequality of
+            size as a defect in stones intended to be hidden from view by a solid exterior casing,
+            such as there seems no doubt, once encrusted the Pyramids, and of which a part still
+            remains in good preservation about the summit of the second pyramid, or that of
+            Cephrenes; but this casing would appear to have been after all, but a mere coating of
+            stucco or concrete. The cement has worked Out from between most of the blocks, leaving
+            them in a degree disconnected, and numbers of them are displaced wholly or partially, or
+            have fallen to the bottom, and have shivered into those fragments which compose the very
+            soil for a great distance around the base of the Pyramids. No one will contend that
+            there is any beauty whatever in these structures; even when perfect, they could have had
+            none, and yet they must be objects of surpassing interest to any person possessing a
+            spark of imagination.</p>
+
+         <p>At first we contented ourselves with such a glance at them as could be got by ascending
+            the steep hill on which that of Cheops and Cephrenes stand; for being on the point of
+            commencing the ascent, the keen morning air reminded us that we had not breakfasted: so
+            in spite of the vociferations of the Arabs who act as guides, and who hovered around us
+            like a swarm of bees, worrying us at every step with their impertinent importunities, we
+            returned to our tent, where we found our trusty Mohammed busily engaged in preparing a
+            substantial breakfast of omelettes and excellent Mocha coffee, which being dispatched,
+            we returned to the great Pyramid to make the ascent in earnest, having before only stood
+            on the lowermost course or two of stones, and satisfied ourselves of the truth of the
+            assertion, that the vast size of the Pyramids is only apparent when you are in actual
+            contact with them; at the distance of even a few hundred yards they lose half of their
+            really gigantic proportions. Another peculiarity about them, and which I have not seen
+            noticed by any traveller, is, that when you approach within a hundred yards or less of
+            the Pyramid, the fore-shortening of the sloping face of the side you are looking on, has
+            the curious effect to the eye of a perpendicular wall of rough masonry, tapering to a
+            point of course, but all idea of its forming one side of a pyramid is dispelled by this
+            illusive appearance. Excepting from their extremely dilapidated condition, the Pyramids
+            convey no impression of antiquity: for in this climate, no moss or lichen seems capable
+            of existing, and the stones might have been piled up within the memory of a child, for
+            any of those indications of age which the lower tribes of vegetation in damper regions
+            impart to masonry through lapse of time; the colour of the stone is as light and fresh
+            as if just quarried.</p>
+
+         <p>I had no idea that the Pyramids stood on so elevated a site; I do not know the
+            elevation, but you look down from the table land at their base into the plain of the
+            Nile below, as if from the summit of a very high cliff; indeed, their situation was one
+            of the points on which my pre-conceived notions were completely at variance with the
+            fact, nor have I ever seen any drawings that give a just idea of the position of the
+            Pyramids and the scenery around them. The deeply undulating surface exhibits a scene of
+            utter desolation, not a blade of grass springs upon, nor does the faintest tint of green
+            enliven the pale brownish white waste, composed of debris and coarse sandy gravel, mixed
+            with fragments of pottery, and human bones thrown out from the tombs. The ascent and
+            descent of the great Pyramid has often been described as an arduous undertaking; it is
+            certainly somewhat tiring, but I found both going up and coming down, very far easier
+            than I expected, and excepting perhaps for ladies, it is no achievement at all. With by
+            no means a strong head for climbing dizzy heights, I found I could look down from any
+            part of the ascent without the least feeling whatever of giddiness, and should
+            infinitely have preferred being allowed to scale the Pyramids unattended, and to have
+            taken my own time in the ascent; but that, the officious importunate Arabs would never
+            allow strangers to do, as they would thereby lose a chance of getting Bakscheesh from
+            him, were he simple enough to comply with their demands, which are almost incessant from
+            the moment he arrives, to the instant he leaves the Pyramids. To a person in good
+            health, the chief, if not the only source of fatigue in ascending, consists in the
+            rapidity with which he scrambles to the summit, urged on by the Arabs, who will not
+            allow him a moment's rest, but continue pulling and pushing him up the successive
+            courses of stones; when if he were allowed quietly and deliberately to select his own
+            footing, he might reach the summit nearly as fresh as when he began to mount. The ascent
+            is generally made at the north east angle, and the blocks are mostly so broken and
+            disjointed, that in the space of a few yards of every course, there is seldom wanting a
+            place for the feet to enable the climber to get on to the course next above him, without
+            being obliged to raise himself up the whole height of the block, and wear out his knees
+            in planting them on the top of the range: but the Arabs insist on taking you up partly
+            by this exertion on your own side, partly by the pulling and pushing process on theirs,
+            under the idea that your vanity will be gratified by arriving at the platform before any
+            other of your companions. A considerable portion of the angle is broken away about
+            two-thirds from the top, and here travellers generally halt for a few minutes to take
+            breath, if the guides will let them, before completing the ascent. The descent, often
+            pictured as quite formidable compared with the ascent, I found mere child's play, and
+            arrived at the entrance of the pyramid some minutes before my two companions, by jumping
+            off each course to the one beneath, where a broken part did not present a convenient
+            step for the foot. The day was, as every day has been, uninterrupted sunshine ; the cool
+            season had just set in, and has since continued, after a summer of unpre- cedented heat
+            and duration, up to the present date, (November 8th); a fine north breeze blew freshly
+            the whole day, and my two companions allowed that they felt no fatigue or oppression in
+            several hours rambling on the arid shadeless soil, in the full blaze of the sun, so
+            temperate were his rays.</p>
+
+         <p>The view from the top of the great pyramid, lighted up by a bright sun, which is rarely
+            obscured for a moment, is glorious. From north to south, and at our feet, stretched the
+            broad green valley of the Nile, its surface like a sea with promontories and isthmuses,
+            shooting into and across it, with villages, palm groves, and exuberant tracts of
+            cultivation rising from the bright placid surface which is alive with countless
+            multitudes of wild fowl, geese, cranes, ibises, pelicans, &amp;c. over which numerous
+            birds of prey, falcons, kites, and vultures, with which Egypt pre-eminently abounds, are
+            constantly soaring. Beyond the limits of the inundation, and on either side of the river
+            stretched the great Lybian desert, its unbounded and unvaried surface of brownish white
+            sand raised by the wind into long ridges, or broken into shorter undulations, and the
+            whole resembling a vast ocean in every thing but colour, agitated and swelling into
+            billows. I ought however to add, that ranges of hills of white limestone, the same as
+            that of which the Pyramids are built, are visible on the north and south, being part of
+            a chain terminating in the Bed Sea at <name type="place" ref="#suez">Suez </name>, and
+            of which the Mokattan hills also behind <name type="place" ref="#cairo">Cairo</name> are
+            a portion. These hills seem to run parallel with the Nile and its principal branches on
+            the side of the desert, and were possibly at one period its boundaries. We remained on
+            the top for perhaps an hour or more, during all which time our guides would hardly allow
+            us a moment's peace, through the reiterated clamour for Baksheesh, and to have the word
+            given for descending from this, and mounting to the top of the adjoining pyramid of
+            Cephrenes in five minutes, which one of them actually accomplished in four minutes and a
+            half, in our sight. The distance between the two Pyramids, which are of nearly equal
+            height, appears to be about two hundred yards, and the angles of each are exactly
+            opposite one another. Two of our most active Arabs, on promise of a few piastres as
+            Baksheesh, started for the race, running down the angle of the vast incline like cats,
+            and quickly disappeared from view, till on gaining the base, they were again seen
+            coursing over the rough stony ground, during which run, one of them divested himself of
+            every fragment of his scanty clothing, and in a few moments of time was scaling the
+            second pyramid, and was reduced by distance to so pigmy a size that I repeatedly lost
+            sight of him if I took my eyes off him for a moment, and I always had much difficulty to
+            find him again, although he never could for an instant be hidden by any intervening
+            object. The apex of the pyramid is covered with the remains of the original casing, yet
+            over this comparatively smooth surface the man contrived to clamber with the facility of
+            a cat, and a moment after was seen waving his arms on the summit. He then descended the
+            second Pyramid, and re-ascended the first, and as rapidly joined us again on the
+            platform. The extreme softness of the stone offers great facility to those aspirants to
+            such fame as can be secured through after ages by the simple agency of an inscription,
+            and I am ashamed to say that I yielded to the national propensity, and found time to
+            carve in large and deep letters the initials W. A. B. on the face of one of the
+            altar-like blocks that occupy the centre of the platform, but could not add the date
+            before our party proposed descending to view the interior.</p>
+
+         <p>The entrance may be perhaps at one third of the total height of the pyramid from the
+            ground, and the descent into the passage leading to the great chamber, and the
+            subsequent ascent to the latter, is the only arduous part of the undertaking, and it may
+            justly be termed so; as for ladies, it is really a serious affair, and rather an awkward
+            one for any person. The descent to the mouth of the passage is itself exceedingly steep
+            and slippery, being composed of huge granite blocks inclining inwards and downwards at a
+            pitch as sharp as the roof of any house, and nothing to hold on by. The first part of
+            the passage is extremely low and narrow, but it widens and increases greatly in height,
+            becoming at the same time, so excessively steep, that the combined support of the guides
+            is required to prevent your sliding back, an event which would prove fatal, as the
+            length of the incline is so great that a light at either end appears to be a star, as in
+            the gallery of a mine, and at the lower extremity of this inclined passage is a sudden
+            perpendicular fall of at least six feet, I should say, seven or eight, with very rugged
+            sides, which I found a nervous business to surmount on returning, as the guides could
+            hardly find footing for themselves whilst having to support each person of our party,
+            and literally to lift him down. In one part of the incline you have to walk along a
+            narrow ledge for several yards, not above a foot wide from the perpendicular face of the
+            wall, and having a deep, rugged, and very slanting way below you on the right hand. On
+            this ledge the Arabs enable you to walk by holding you by the arms, but I could not
+            altogether overcome the feeling of insecurity, as there is not any projection whatever
+            to lay hold of, and the stone you tread on is quite smooth, which with the precipitous
+            character of the ascent, gives the appearance of some danger to the undertaking. I would
+            strongly advise no nervous lady, and perhaps I might add, no nervous man, to attempt
+            visiting the interior of the great pyramid, for after all, there is very little to be
+            seen, and that little can be conveyed by description nearly as well as by a personal
+            view. The lights furnished by our Arab guides were utterly insufficient to show us the
+            size, proportions, and colours of the chamber in which the sarcophagus stands. We could
+            only see by shifting our position, portions of the walls, and a dim discovery of the
+            roof by holding up the candles: all else was one deep black vacuity of darkness; with a
+            stagnant suffocating atmosphere, never under 80°, and never renewed by ventilation: the
+            only changes of air coming in and going out by the same long confined passage, which is
+            the sole entrance to this sepulchral chamber. We found no bats in it, at least if there
+            were any, they did not show that they were at all disturbed by our entrance, and we
+            noticed nothing of their remains, at which I was surprised, having heard that they
+            abounded so much in the interior of the great Pyramid; but we found them in swarms in
+            the adjoining sepulchral grottos hewn in the rock that forms the area around the second
+            Pyramid. We saw so little of the first or lowest chamber, and found the dust and
+            closeness so disagreeable and oppressive, and the incessant importunities of the Arabs
+            for Baksheesh, at this stage of their conductorship, so intolerable, that we agreed not
+            to visit the second or upper chamber, as not likely to repay the toil of the ascent.
+            Whilst looking, or rather, groping about in the chamber, I inadvertently stepped into an
+            opening leading downwards from the floor to some passage below, and had not an Arab
+            guide been most providentially close at my elbow, (no doubt teasing me at the moment for
+            Baksheesh), who caught me by the arm, and just saved me in time, my fall would have been
+            a most serious, if not fatal one. The light held over the spot disclosed a very awkward
+            looking cavity, sloping down at an abrupt angle, which the pitchy darkness prevented me
+            entirely from seeing. I gave the old Arab a special token of my gratitude for his timely
+            succour in the hour of danger ; but from the moment of the accident, till we quitted the
+            pyramid, he showed constant fear that his services would be unrequited^ (as by an Arab,
+            they certainly would have been), and continued to remind me of the aid he had rendered,
+            till I was sick of hearing about it. We made it a rule to reserve all payments and
+            gratuities for our return to the tent, and to the very last moment before striking it,
+            and to shew not even a para to the guides, as their importunities for Baksheesh would
+            have been redoubled at the sight of the smallest coin. As regards robbery by open
+            violence, or even intimidation, there is not the slightest danger in visiting the
+            Pyramids noiv, whatever risk there might have been formerly; the shewing these
+            structures being at the present day carried on in a perfectly systematic manner, the
+            right being a vested one of doing so, and the Shekh, or chief of the village, being
+            answerable to government for the security of visitors; but pilfering may happen, and
+            should be guarded against, by keeping watch on the pockets, and by having a trustworthy
+            dragoman always about the personal baggage, &amp;c. On leaving the great Pyramids of
+            Cheops, we proceeded to view (the exteriors only), those of Cephrenes, Belzoni, and the
+            fourth and far smaller one of Colonel Yyse, a description of which is of course
+            unnecessary. This examination occupied us several hours, and we did not start for <name type="place" ref="#cairo">Cairo</name> till 2 p.m. The day was heavenly, and though
+            the sun shone out unclouded, not one of us felt his rays, to which we were fully
+            exposed, in the least degree oppressive, even after all our climbing, and disturbed rest
+            the night before.</p>
+
+         <p>The Pyramid of Cephrenes stands in the centre of a vast square or court, two sides of
+            which are nearly perfect and form a series of tombs hewn in the solid rock with many
+            curious inscriptions in hieroglyphics, besides bas-reliefs, some of which are in
+            excellent preservation, and the figures of a few, representing oxen and other animals,
+            extremely well designed. The two other sides of the square are distinctly traceable, but
+            much encumbered by mounds of rubbish, and consist of arched tombs and sepulchres of
+            solid masonry, here and there in very good preservation; but the pyramid they surround
+            is in as dilapidated a state as that of Cheops, excepting the small portion of casing
+            which remains at the top tolerably entire. The third pyramid, that called after Belzoni,
+            is of very inferior size, but at the base it is partly cased with red granite in
+            excellent preservation, and around it lie many granite blocks, together with fragments
+            of columns, and sculptured stones, which must have been the remains of some building of
+            wholly different architecture. The interior of this Pyramid has been opened up and
+            examined by Belzoni. The fourth Pyramid is of very much smaller dimensions, and is
+            surrounded by, or at least stands in a court or enclosure of tombs like that of
+            Cephrenes, and its interior, Dr. Abbott tells me, is very interesting in an antiquarian
+            point of view. All around the Pyramids are deep mummy pits, and about mid-way between
+            the Pyramid of Cephrenes and the Sphinx, we saw lying on the sand two lids of sarcophagi
+            sculptured as mummies, one of which was in the most beautiful preservation imaginable,
+            and covered with hieroglyphics: they were both of blue or dove coloured marble, the
+            second somewhat injured. We also saw a very large tomb which had been excavated from the
+            drift sand and rubbish by Colonel Vyse, but we could not gain access to it.</p>
+
+         <p>The Sphinx I found with the features much more mutilated than is generally represented
+            in public accounts; indeed, very few lineaments of the human face remain, and viewed
+            from behind, the head has a grotesque, almost ludicrous aspect, like an immense bob wig
+            : but the front view of this wonderful structure is very striking: it is wonderful only
+            however from its colossal size, for the stone is the same with that composing the
+            Pyramids, and extremely soft. I searched carefully for some small memorial of antiquity,
+            a scarabaeus, or mummy of glass or earthenware, but could pick up nothing, although the
+            Arabs have innumerable relics of the kind for sale at very low prices, which Dr. Abbott
+            says are really genuine in most cases, and not, as asserted, manufactured in England on
+            speculation.</p>
+
+         <p>Believe me, always, Your affectionate Brother, William Arnold Bromfield. </p>
+      </body>
+   </text>
+</TEI>

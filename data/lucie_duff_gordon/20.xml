@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mrs. Ross, CAIRO, December 1, 1863.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/20">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <rs type="place" ref="http://www.geonames.org/360630">Cairo</rs>
+               <date when="1863-12-01">1 December 1863</date>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person">Mrs. Ross</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>DEAREST JANET,</p>
+
+         <p>I should much like to go with Thayer if his times and seasons will suit mine; but I
+            cannot wait indefinitely, still less come down the river before the end of April. But
+            most likely the Pasha will give him a boat. It is getting cold here and I feel my throat
+            sore to-day. I went to see Hassan yesterday, he is much better, but very weak and pale.
+            It is such a nice family—old father, mother, and sister, all well-bred and pleasing like
+            Hassan himself. He almost shrieked at hearing of your fall, and is most anxious to see
+            you when you come here. Zeyneb, after behaving very well for three weeks, has turned
+            quietly sullen and displays great religious intolerance. It would seem that the Berberi
+            men have put it into her head that we are inferior beings, and she pretends not to be
+            able to eat because she thinks everything is pig. <name type="person" ref="#omar">Omar</name>’s eating the food does not convince her. As she evidently does not like
+            us I will offer her to Mrs. <name type="person" ref="#hekekian_bey">Hekekian Bey</name>,
+            and if she does not do there, in a household of black Mussulman slaves, they must pass
+            her on to a Turkish house. She is very clever and I am sorry, but to keep a sullen face
+            about me is more than I can endure, as I have shown her every possible kindness. I think
+            she despises <name type="person" ref="#omar">Omar</name> for his affection towards me.
+            How much easier it is to instil the bad part of religion than the good; it is really a
+            curious phenomenon in so young a child. She waits capitally at table, and can do most
+            things, but she won’t move if the fancy takes her except when ordered, and spends her
+            time on the terrace. One thing is that the life is dull for a child, and I think she
+            will be happier in a larger, more bustling house. I don’t know whether, after the
+            fearful example of Mrs. B., I can venture to travel up the Nile with such a _séducteur_
+            as our dear Mr. Thayer. What do you think? Will gray hairs on my side and _mutual_ bad
+            lungs guarantee our international virtue; or will someone ask the Pater when he means to
+            divorce me? Would it be considered that Yankeedoodle had ‘stuck a feather in his cap’ by
+            leading a British matron and grandmother astray?</p>
+      </body>
+   </text>
+</TEI>

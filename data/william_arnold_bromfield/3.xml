@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sheppard's British Hotel, Uzbekieh, <name type="place" ref="#cairo">Cairo</name>, October 29th, 1850.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from https://archive.org/details/lettersfromegypt00brom</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/william-arnold-bromfield/letters/3">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/160825459">William Arnold
+                  Bromfield</name>
+               <name type="place" ref="http://www.geonames.org/360630">Sheppard's British Hotel,
+                  Uzbekieh, <name type="place" ref="#cairo">Cairo</name></name>
+               <date when="1850-10-29">29 October 1850</date>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person">Eliza Bromfield</name>
+               <name type="place" ref="http://www.geonames.org/2638911">Ryde</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> My dear E</p>
+
+         <p>In my last letter dispatched from this interestingcity, I had not space left for any
+            account of my voyage of thirty hours from <name type="place" ref="#alexandria">Alexandria </name>, which I shall now proceed with, before giving you my impressions
+            of <name type="place" ref="#cairo">Cairo</name>, of which I have already seen some of
+            the chief lions, including the Pasha himself. The heat, though much below what it is a
+            month earlier, still continues very high for the season, keeping steadily at 80° or 82°
+            during the day; this morning at eight o'clock it was only 78°, and the sun when not
+            veiled as it was yesterday by thin stratified clouds, is scorchingly hot, and the nights
+            are still so warm that a single sheet is an ample covering under the mosquito net, which
+            of course is a necessary evil, as it obstructs the ingress of cool, and the egress of
+            heated air. Captain Lindguist, who has been residing six years at <name type="place" ref="#suez">Suez </name>, as an agent of the Oriental company, or Transit
+            administration, tells me, that when here in ordinary seasons, he is accustomed to have a
+            fire in his office from the 1st of November, and that this year the cold was so long
+            protracted, that he did not leave off fires till the 25th of April, which really seems
+            incredible in this latitude, 30°, and at the sea level. Mr. Trail, late gardener to
+            Ibrahim Pasha at Rhoda, for whom I had a letter and pamphlet from Sir W. J. Hooker, and
+            whom I traced out to his abode at Old <name type="place" ref="#cairo">Cairo</name>
+            yesterday, informs me, that hoar frost is no uncommon tiling here in the winter
+            mornings, and that he has seen ice, (thin of course), formed on pools in the desert ;
+            probably more through the brisk evaporation by the wind in this dry climate, than
+            through the actually low temperature of the atmosphere. At present, I do not conceive
+            that the most chilly person in the world would think of a fire in his room without a
+            double distillation of lily dew at every pore, from the bare idea; but the temperature
+            will perhaps fall rapidly when it begins to sink, and I am thankful when I look on the
+            warm clothing, flannel waistcoats, &amp;c, which I had the precaution to add to my
+            travelling list on leaving England.</p>
+
+         <p>I left <name type="place" ref="#alexandria">Alexandria </name> at 5 p.m. on the 24th, in
+            one of the boats for the conveyance to <name type="place" ref="#cairo">Cairo</name> of
+            ordinary passengers, (not going to India), and which is tracked by a small steamer that
+            likewise has passengers on board, on the Mahmoudeh canal, as far as Atfeh, where the
+            canal joins the Xile, and where a steamer of a larger size waits to receive the
+            passengers and their luggage, and take them on to <name type="place" ref="#cairo">Cairo</name>. These boats belong to the Transit administration, which is entirely in
+            the hands of the Pasha, The time of departure was unfortunate, inasmuch as the most
+            interesting part of the trip on the canal to Atfeh was performed in the dark, and indeed
+            for most part of the night in a thick fog which shrouded from view all that a bright,
+            but rather late rising moon would have revealed of the banks on either side of the
+            canal. Hence, I got no sight of the former situation of Sais, once the capital of the
+            Delta, and the new buildings at Atfeh, the locks, &amp;c, were but dimly caught sight of
+            across the mist which wetted everything on deck, and caused some unpleasant reflections
+            on intermittent or remittent fever to cross my mind occasionally, as a few hours before
+            embarking the heat was very great, and the air now felt chilly as well as damp, and I
+            wished for a great coat in addition to the light clothing 1 had on, not desiring to be
+            in the cabin below, which was crowded and insufferably close. We arrived at Atfeh before
+            daybreak, and the fog on the river did not clear away till some hours after sunrise.
+            Shortly after leaving <name type="place" ref="#alexandria">Alexandria </name>, we heard
+            a great splashing in the canal, and much stir and vociferation on board the steamer,
+            which caused us novices some alarm, as we imagined that a man had fallen overboard; it
+            turned out to be only the landing a passenger, which was accomplished by his divesting
+            himself of every article of clothing, then jumping overboard and swimming ashore, his
+            wardrobe, previously made into a bundle, being flung after him. Our starting point on
+            the Mahmoudeh Canal was about two miles from the hotel; the canal itself is of great
+            width, and a wonderful undertaking, when one considers that it was finished through its
+            entire length of about fifty miles, within a twelvemonth : but the reflection that the
+            convenience to travellers derived from it was owing to a terrible exercise of arbitrary
+            power, and attended with a fearful sacrifice of human life, became the predominant
+            feeling at the sight of it.</p>
+
+         <p>Night soon closed in and hid the country from view, but that part of it which we saw on
+            quitting <name type="place" ref="#alexandria">Alexandria </name> was pretty in its way,
+            the banks of the canal being diversified with white villas, gardens, and small
+            cultivated fields of maize, melons, and different kinds of vegetables, with fine
+            sycamore and acacia trees planted along the roads. The night passed slowly and
+            disagreeably owing to the thick wet fog on deck, and the stifling closeness of the cabin
+            below, where, however I could have slept away the hours well enough, had there been room
+            to lie down, but every place, even to the tables was occupied by recumbent passengers,
+            Turks, Italians, Greeks, and non-descripts of all nations, by some of whom it would not
+            have been prudent or agreeable to have bivouacked, and the cabin smelt strongly of
+            tobacco, and odours less refined even than that. We had one distinguished person on
+            board, of no less rank than a Pasha, I think he was called Kheredden Pasha, or something
+            very like it, a stout middle-aged, jovial personage, with a round good humoured
+            countenance, and jet black beard, who fared like any of the other passengers, and spent
+            his time in smoking and playing cards. He wore the insignia of a Pasha, a crescent and
+            star of diamonds on the vest in front, and the dress of a Turkish field officer and
+            admiral, as he belongs to both services, and was present at the battle of Navarino. I
+            understand that he contracts to furnish the Transit administration with butchers' meat,
+            which is not thought derogatory to the high dignity he has attained. A day or two after
+            this arrangement was made, he invited all the officers of the administration to a dinner
+            in <name type="place" ref="#cairo">Cairo</name>, at which, I am told that the cham-
+            pagne, which is his Highness' pet beverage, flowed without scant. The diamond decoration
+            of the star and crescent is conferred with the rank, but is only lent so long as the
+            Pasha continues in favour; at his death, or deposition, it reverts to the Sultan, but
+            may be purchased like any other jewel by the family. No ceremony was observed towards
+            him while on board; he ate 3 drank, talked, and smoked, like all the rest, and his
+            Highness favoured us with his company in an omnibus expedition on the Desert, which he
+            appeared to enjoy as much as any of us. I fancy however that Khereddin Pasha holds a
+            sort of brevet rank, as I understand he has no province to rule over : he is said to be
+            a man of great energy and some talent : he certainly is marvellously inclined to good
+            fellowship, and I think were he in power, could never prove a harsh or tyrannical
+            governor, to judge from his countenance only.</p>
+
+         <p>During the whole of the 24th we had a good view of the Delta through which we passed.
+            The features are very tame, and monotonously uniform. The yellow turbid Nile flowing
+            between crumbling banks of brown alluvial soil, which offers nothing but a perfect dead
+            level over which large towns and villages are thickly dispersed, each an assemblage of
+            the most miserable hovels of mud or unburnt brick, with here and there a tenement or two
+            of rather better description, perhaps the residence of the sheyk, or chief man of the
+            village. Many of these places are of considerable size, and all have one or more
+            mosques, the minarets of which are the only buildings that have the smallest pretension
+            to anything like architectural design or skill. Of these towns or large villages, no one
+            but the Arab knows the names, so that could I have remembered them 3 there was no
+            possibility of learning their different designations : some of them were doubtless on
+            the sites of ancient places of celebrity. Groves of date-palms which here shoot up to
+            fifty, sixty, and seventy feet, usually surround these places, with here and there a
+            spreading sycamore or acacia. A most oppressive tax of three piastres annually is levied
+            on every date tree, which, when their great number is considered, and the extreme
+            poverty of the inhabitants, must be a cruel impost, but I have great doubts of the
+            correctness of the statement, as a tax of rather more than sixpence on every tree, where
+            these amount to many hundreds, perhaps even thousands, is more than I can well conceive
+            so destitute a population able to pay, being mainly, if not entirely made up of fellahs
+            or cultivators of the soil, a wretched, half clad race, of coarse, ugly features, and
+            squalid to the last degree. Camels, dromedaries, donkeys, and huge buffaloes, with a few
+            dark brown sheep, are their chief possessions; the buffaloes may be seen continually
+            lying in mid river, with their noses alone out of the water, or swimming across to the
+            opposite bank, quiet inoffensive animals, used both for draught and burden. We remarked
+            many persons ploughing with a camel and a buffalo yoked together in most ill assorted
+            fellowship. Dovecotes swarming with myriads of pigeons, rose high above the houses in
+            some of the larger towns,, of a conical shape, like immense haystacks, and pierced with
+            innumerable holes for the birds to enter in and come out. Pigeons are a great article of
+            consumption in Egypt, where poultry takes the place of butchers' meat in a great
+            measure. These Egyptian towns have the same light brown colour as the soil; there is
+            nothing to break the uniformity of their aspect, no contrast of colouring; the only
+            arborescent vegetation is the date palm dispersed in groups, or forming groves, but
+            giving no shade, which can only be had under an occasional acacia, sycamore, or nabr, a
+            gigantic but common species of buckthorn, the small fruit of which is eaten by the Arabs
+            : while the unvarying glare, and sameness of splendour in the sky, must soon fatigue and
+            satiate the eye that has no diversity of scenery or of objects to turn to for relief on
+            the earth beneath. The flats of Holland have more to interest than the Delta of the
+            Nile; for there one sees a population flourishing in plenty and comfort: here, nothing
+            but a people in the lowest condition as regards civilization, poor, and oppressed beyond
+            that of any other country. I was coniderably disappointed in the verdure of the Delta,
+            of which one hears so much : the cultivation, such as it is, appears to occupy patches;
+            a great part of the river banks is still untilled, and either bare of vegetation, or
+            producing coarse herbage, the nature of which I could not determine, but it is most
+            monotonous in its character, and we were seldom near enough to the shore to ascertain
+            the kind of crop with certainty. Maize seemed to be one of the most important
+            productions, and I remarked sugar and tobacco occasionally, as also cotton, but many of
+            the crops were only now springing up, the Nile having so lately begun to subside. From
+            the low level of the steamer's deck no extensive view of the Delta can be obtained. Not
+            even from the flat roof of this hotel, which is of very considerable height, nor from
+            the still loftier elevation of the citadel, which offers one of the most magnificent
+            panoramas in the world, can I descry anything of that lake-like appearance the country
+            is said to present at the season of u hio-h Nile." I had fine views of the Delta from
+            the skirts of the desert on the way to <name type="place" ref="#suez">Suez </name> two
+            days ago, but at an elevation much too low, and with a sky too hazy to distinguish
+            objects clearly. The effect was that of a Dutch landscape by one of the old masters,
+            with much of that indistinctness which age gives to an oil painting, of a couple of
+            centuries ago.</p>
+
+         <p>We passed the Barrage, where the Nile is prevented by strong embankments from subsiding
+            in the Delta till the irrigation of the land is complete; and our approach to <name type="place" ref="#boulak">Boulak</name>, the port of <name type="place" ref="#cairo">Cairo</name>, did not take place till 10, p.m. of the 25th. We landed amidst a
+            confused hubbub of camels, donkeys, and vociferous and quarrelsome Arabs, and found Mr.
+            Sheppard, the proprietor of the English Hotel at which I am staying, ready, with two or
+            three omnibuses, to whirl us away along an excellent road bordered with thriving acacias
+            to his establishment in this magnificent Square, the Usbekeih, about a mile and a half
+            distant from <name type="place" ref="#boulak">Boulak</name>.</p>
+
+         <p>November 1st. This place is immeasurably above <name type="place" ref="#alexandria">Alexandria </name> in point of interest, as regards variety, comfort, and beauty;
+            from the flat roof of this hotel I have a splendid view of the city, with its thousand
+            mosques and minarets; and above all, conspicuous in the distance to the S.S.W,, yet
+            seemingly close at hand, the mighty pyramids of Ghizeh, appearing like mountains against
+            the pale blue sky; but with my invaluable companion at my side, the telescope, I can
+            distinctly bring all the ranges of stone composing them into view. Below me is a waving
+            sea of foliage, from rows of fine acacias, ( Acacia Lebbek ), sycomores of scripture,
+            (Ficus Sycomorus), and other trees, with which the fine esplanade is thickly planted,
+            but there is not an atom of turf, scarcely a blade of grass, or weed of any kind beneath
+            the trees; all is bare ground, as in the desert — a poor, thin, wiry grass is only seen
+            here and there in spots artificially irrigated.</p>
+
+         <p>My delight is to mount the roof about sun-set, and watch the departing rays, bringing
+            out the pyramids in stronger and stronger relief as darkness approaches, till at length
+            they can just be discerned as two dark masses like little mountains on the skirts of the
+            desert. I have witnessed one or two splendid sunsets since my arrival in Egypt, but more
+            frequently they have been dull and vapoury, the sky pale and milky by day, with dim
+            starlight by night.</p>
+
+         <p>To day, November 2nd, the heavens are quite overspread with a thin veil of white vapour,
+            with a faint blue sky, streaked and speckled with fleecy clouds, (^mackerel sky), here
+            and there. We have had little else but south and south east winds lately, most
+            unfavourable for travellers going up the Nile. Accounts have just been received from the
+            Red Sea of the cholera having committed most dreadful ravages at Jeddah, the port of
+               <name type="place" ref="#mecca">Mecca</name>, among the pilgrims now assembled there.
+               <name type="place" ref="#cairo">Cairo</name> is at present quite free from the
+            visitation. All residents with whom I have conversed, on the subject, are unan- imous in
+            asserting that the season of greatest heat in <name type="place" ref="#cairo">Cairo</name>, (that is, from July to September inclusive), is the freest of all the
+            four from sickness of every kind, al- though inducing much personal discomfort; and that
+            the winter is in fact the time looked upon by the inhabitants as the least healthy, on
+            account of the comparative dampness of the air, and the vicissitudes of temperature.
+            Although the cool season has commenced, the heat is still very considerable. I have not
+            seen it under 80° night or morning, and at mid-day in my room I have noted it as high as
+            83 '. As the sun now sets before half-past five, the union of such short days with such
+            long hot nights makes one feel as if one was between the tropics, as the temperature
+            just now is as high and as agreeable as in the West Indies. It was at 90°, I understand,
+            at <name type="place" ref="#alexandria">Alexandria </name> a few days ago. This house is
+            quite modern, indeed almost new, with very thick stone walls, but from the bad clumsy
+            fitting, and want of finish about the woodwork and painting, which last is never
+            "renewed after the first application, you would suppose the building to be a century
+            old. The room I occupy is a large, airy apartment, with whitewashed walls, coarsely
+            coloured in fresco below in a sort of imitation of panel wainscoting of a slate colour,
+            bordered with dark red brown, above which is a sort of fleur-de-lys pattern impressed on
+            the walls in flaming scarlet ! The room, which has a south aspect, is nearly a square of
+            about twenty-four feet, and has an alcoved roof, very little, if at all, less in height
+            from the well laid stone floor, and finished in a cornice and oval of unpainted wood,
+            pierced in an open pattern, displaying neither taste nor skill in design. Three very
+            large glazed sash windows nearly fill up the front side, which looks on the Uzbekeih,
+            and immediately below them runs a raised stone dado, covered with luxurious cushions or
+            divans, of blue printed calico, which with window curtains to match, a light iron
+            bedstead with mosquito curtains of thin muslin, &amp;c. &amp;c. complete the furniture
+            of my domicile, which is very comfortable at this season, but I suspect, must prove cold
+            in the winter. Mr. Sheppard is fitting up new premises on a more extensive scale than
+            these, with every convenience for English travellers. The charges are forty piastres per
+            diem, six shillings and eight-pence, if by the week; or fifty piastres, eight shillings
+            and four-pence, for a less time. This includes lodging and board, which last consists of
+            a most substantial breakfast at half-past eight, luncheon, with fruit, at one, dinner,
+            (excellent), at half-past six, with a cup of coffee afterwards; but no tea, unless
+            required, and paid for as an extra.</p>
+
+         <p>I find <name type="place" ref="#cairo">Cairo</name> an extremely amusing place, and from
+            its great size, its novelties are not soon exhausted. The population is variously
+            stated, from eighty thousand to two hundred and fifty thousand, and together with old
+               <name type="place" ref="#cairo">Cairo</name> and <name type="place" ref="#boulak">Boulak</name>, which may be called suburbs, the extent of ground it covers is very
+            great. For five piastres, or one shilling, I can get a donkey, (of which animal the
+            choice is inexhaustible), for the whole day, on which, or sometimes on foot, I thread
+            the inextricable labyrinth of crooked streets, lanes and alleys, of which the city is
+            made up, trusting to chance to bring me into some familiar street, or open place from
+            whence I can direct my steps homewards again. No one who has not visited <name type="place" ref="#cairo">Cairo</name> can form an adequate idea of these strange
+            thoroughfares, from the published views made from drawings by the cleverest artists;
+            because none that I have seen, convey any just notion of the extreme dinginess and
+            dilapidation that everywhere meet the eye. The worst parts of London cannot be compared
+            with the residences of even the respectable class of Cairenes. The houses are solidly
+            built of stone, at least as high as the basement story, which is commonly pierced with
+            low doorways, gates, and iron barred windows, sometimes having quaint carvings or Arabic
+            inscriptions above them, but mostly very dungeon -like in appearance, and opening into
+            receptacles for dust and rubbish, or into square courts, which give light and air to the
+            residents on the next and succeeding stories, — for the basement is seldom or never, I
+            believe, inhabited, unless it may be by the poorer classes. The part of the house above
+            the basement usually projects forward on timber beams, and presents a confused mass of
+            plaster, with windows glazed, or more commonly with a cagelike projection, carved or
+            rather pierced in elaborate patterns of brown unpainted wood. Some, however, of the
+            principal thoroughfares are more regular, in better repair, and wider, and the city
+            exhibits a variety of architecture that appears absolutely inexhaustible. You come at
+            almost every step to some mosque, arched gate, or passage covered with tracery, or
+            painted in various colours, and with Arabic inscriptions in fresco, or sculptured on the
+            stone, for the most part in miserable taste and execution, but at other times in a style
+            of elegance and finish, that surprises you by the taste and artistic skill displayed,
+            and by the strange contrasts of the decorations on perhaps the same building. Some of
+            the lanes or alleys are so narrow that there is barely room for a single donkey to
+            squeeze himself through, but these are not either common or much frequented: very few of
+            the streets are wider than the narrowest alley in London, and are always thronged with
+            pedestrians, donkeys and their riders, with horses, camels, and occasionally with
+            carriages and carts. I had been led to suppose that much caution and circumspection were
+            required in riding through the streets and lanes of <name type="place" ref="#cairo">Cairo</name>, to avoid accidents from collision with camels and wheeled carriages,
+            but I find it the easiest and safest thing in the world to pass through the narrowest
+            and most densely crowded thoroughfares, both on foot and on a donkey. In the latter case
+            the animal seems to know how to save you the trouble of guiding him, and threads his way
+            through the crowd with an adroitness that is surprising, even at a full trot or amble,
+            their only serious defect being that they are apt to come down with you sometimes, (an
+            accident which has not yet happened to me), and when it does occur, is in general only a
+            subject for laughter. The pace of the camel is so extremely slow, that though noiseless,
+            there is very little difficulty in avoiding; a string of these animals on meeting them,
+            but there is a possibility of their coming against you unawares from behind, since
+            unless furnished with bells, which is not always the case, their tread is quite
+            inaudible, and you might be swept off your donkey by the enormous loads which project
+            from their sides : but I have not witnessed or heard of such an occurrence. The approach
+            of a carriage is always announced in time to avoid it, by a courier on foot, who cracks
+            a ponderous whip to clear the way. Every one of rank amongst the natives, on driving, or
+            riding out on horseback, is preceded by a running footman, attired with sash or girdle,
+            bringing to mind the act of Elijah girding up his loins, and running before the chariot
+            of Ahab to the entrance of Jezreel. The donkeys have been called the cabs of <name type="place" ref="#cairo">Cairo</name>, and truly the comparison holds both as to
+            their number and convenience. These animals literally swarm, as they are used equally by
+            high and low, and you can never be at a loss for one in whatever part of the town you
+            may chance to find yourself, but you will have to contend against a host of donkey boys,
+            each endeavouring with loud vociferations to force his own donkey upon your notice as
+            super-eminent for all valuable asinine qualities above its fellows. Fortunately these
+            creatures are not much given to kicking, otherwise, it might fare ill with the
+            pedestrian whilst making his selection from a dozen or more, all hustling and jostling,
+            head and heels turned towards himself, (the centre of the group), indifferently. Their
+            pace, whether amble, trot, or gallop, is extremely easy, and the saddles are famously
+            padded; the pommel is very high and stuffed like a cushion, which in the event of a
+            tumble must be a great advantage. The donkey boy accompanies you, to urge on the animal
+            with his stick, and constant cry of "oai, oai," without which appliances, an Egyptian
+            donkey could no more be incited to active locomotion than his English brethren by those
+            of similar import, from whom I was surprised to find them, after what I had heard of
+            their qualities, capabilities and appearance, differ so little. English donkeys that
+            have been well treated and looked after, I do not think are inferior to those of Egypt
+            in any points of importance. The race here is generally of rather slighter make, the
+            legs longer, and flanks thinner than at home, indicating as we should say, more of blood
+            ; they are perhaps also more active, but are not superior in size, and require as much
+            urging to make them go, when not accompanied by their drivers, as ours usually do. Still
+            they are admirable little animals for the service they have to perform, that of winding
+            their way through over crowded streets, where horses could not find a passage in equal
+            numbers, or with equal safety. I saw a donkey the other day with dark stripes across the
+            legs, as if a cross with the Zebra; but as that creature does not inhabit Egypt or
+            Northern Africa, the darker markings may have had some other origin.</p>
+
+         <p>With kindest regards to all our friends, Believe me, Your affectionate Brother, William
+            Arnold Bromfield. </p>
+      </body>
+   </text>
+</TEI>

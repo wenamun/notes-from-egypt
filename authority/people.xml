@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe_people.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>NFE: Controlled vocabulary for all people</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Data from this authority file for people can be reused under the Creative Commons
+                    Attribution-ShareAlike 4.0 licence (CC-BY-SA 4.0).</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the authority file for people used in the "Notes from Egypt" project
+                    (https://notesfromegypt.info).</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="abdallah_pasha">
+                    <name>Abdallah Pasha</name>
+                    <note>Abdullah Pasha ibn Ali (commonly referred to simply as Abdullah Pasha;
+                        1801–?) was the Ottoman governor (wali) of Sidon Eyalet between May 1820 and
+                        May 1832, with a nine-month interruption in 1822–23. Like his predecessors
+                        Jazzar Pasha and Sulayman Pasha, Abdullah Pasha ruled from the port city of
+                        Acre. During his reign, all of Palestine and the Syrian coastline came under
+                        his jurisdiction. Among his major military victories was his survival of an
+                        imperial-backed siege of Acre in 1822 instigated by the Farhi family in
+                        retaliation for Abdullah's execution of his mentor Haim Farhi, the
+                        suppression of revolts in Mount Lebanon and Jerusalem in 1824 and 1826,
+                        respectively, and the 1831 capture of the Sanur fortress. While Abdullah
+                        oversaw a period of relative stability in Syria, during his reign the region
+                        also experienced economic reversals and increasing poverty, while Acre's key
+                        role as an export center of Levantine cotton and olive oil increasingly
+                        diminished. Abdullah was the last governor of Sidon to rule from Acre and
+                        his defeat to the forces of Muhammad Ali of Egypt in 1832 marked the end of
+                        Acre as a political and economic power. Following his defeat, he lived in
+                        exile in Egypt and then the Hejaz, where he died.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Abdullah_Pasha_ibn_Ali</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q21182756</idno>
+                </person>
+                <person xml:id="abraham">
+                    <name>Abraham</name>
+                    <note>Abraham (originally Abram) is the common patriarch of the Abrahamic
+                        religions, including Judaism, Christianity, and Islam. In Judaism, he is the
+                        founding father of the covenant of the pieces, the special relationship
+                        between the Hebrews and God; in Christianity, he is the spiritual progenitor
+                        of all believers, Jewish or Gentile; and in Islam he is seen as a link in
+                        the chain of prophets that begins with Adam and culminates in
+                        Muhammad.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Abraham</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q9181</idno>
+                    <idno type="viaf">https://viaf.org/viaf/89660956</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/118500201</idno>
+                </person>
+                <person xml:id="achmet">
+                    <name>Achmet</name>
+                    <note>One of the crew of Lucy Duff Gordons boat, the cook for the crew</note>
+                </person>
+                <person xml:id="ali_asleemee">
+                    <name>Ali Asleemee</name>
+                </person>
+                <person xml:id="ans_el_wogood">
+                    <name>Ans el Wogood</name>
+                </person>
+                <person xml:id="alick">
+                    <name>Sir Alexander Cornewall Duff-Gordon</name>
+                    <note>Sir Alexander Cornewall Duff-Gordon, 3rd Baronet (3 February 1811 – 27
+                        October 1872) was a British civil servant and Baronet of Halkin. He was the
+                        husband of Lucie, Lady Duff-Gordon, the English writer on Egypt.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Sir_Alexander_Cornewall_Duff-Gordon,_3rd_Baronet</idno>
+                    <idno type="gnd">http://d-nb.info/gnd/107745211X</idno>
+                </person>
+                <person xml:id="sarah_austin">
+                    <name>Sarah Austin</name>
+                    <note>Sarah Austin (1793–1867), mother of Lucy Duff Gordon, was an English
+                        editor, linguist and translator from German</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Sarah_Austin_(translator)</idno>
+                    <idno type="gnd">http://d-nb.info/gnd/116215208</idno>
+                    <idno type="viaf">https://viaf.org/viaf/59830344</idno>
+                </person>
+                <person xml:id="ammon_ra">
+                    <name>Amun Ra</name>
+                    <note>Amun (US: /ˈɑːmən/; also Amon, Ammon, Amen, Ancient Egyptian: jmn,
+                        reconstructed [jaˈmaːnuw]; Greek Ἄμμων Ámmōn, Ἅμμων Hámmōn) was a major
+                        ancient Egyptian deity who appears as a member of the Hermopolitan Ogdoad.
+                        Amun was attested from the Old Kingdom together with his wife Amaunet. With
+                        the 11th Dynasty (c. 21st century BC), Amun rose to the position of patron
+                        deity of Thebes by replacing Montu. After the rebellion of Thebes against
+                        the Hyksos and with the rule of Ahmose I (16th century BC), Amun acquired
+                        national importance, expressed in his fusion with the Sun god, Ra, as
+                        Amun-Ra or Amun-Re.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Amun</idno>
+                </person>
+                <person xml:id="andrasool">
+                    <name>Andrasool</name>
+                    <note>Crew member of Lucy Duff Gordons boat.</note>
+                </person>
+                <person xml:id="bacchus">
+                    <name>Bacchus/Dionysus</name>
+                    <note>Dionysus (/daɪ.əˈnaɪsəs/; Greek: Διόνυσος) is the god of the
+                        grape-harvest, winemaking and wine, of fertility, orchards and fruit,
+                        vegetation, insanity, ritual madness, religious ecstasy, festivity and
+                        theatre in ancient Greek religion and myth. He is also known as Bacchus
+                        (/ˈbækəs/ or /ˈbɑːkəs/; Greek: Βάκχος, Bákkhos), the name adopted by the
+                        Romans; the frenzy he induces is bakkheia.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dionysus</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q41680</idno>
+                    <idno type="gnd">http://d-nb.info/gnd/118679759</idno>
+                    <idno type="viaf">https://viaf.org/viaf/10152079049807110114</idno>
+                </person>
+                <person xml:id="boaz">
+                    <name>Boaz</name>
+                </person>
+                <person xml:id="brigg">
+                    <name>Brigg</name>
+                </person>
+                <person xml:id="de_leo_bey">
+                    <name>De Leo Bey</name>
+                    <note>surgeon-in-chief of the Pasha’s troops</note>
+                </person>
+                <person xml:id="claude">
+                    <name>Claude</name>
+                </person>
+                <person xml:id="dante">
+                    <name>Dante</name>
+                    <note>Dante Alighieri (Italian: [ˈdante aliˈɡjɛːri]), probably baptized Durante
+                        di Alighiero degli Alighieri and often referred to simply as Dante
+                        (/ˈdɑːnteɪ, ˈdænteɪ, ˈdænti/, also US: /ˈdɑːnti/; c. 1265 – 1321), was an
+                        Italian poet, writer and philosopher. His Divine Comedy, originally called
+                        Comedìa (modern Italian: Commedia) and later christened Divina by Giovanni
+                        Boccaccio, is widely considered the most important poem of the Middle Ages
+                        and the greatest literary work in the Italian language.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dante_Alighieri</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1067</idno>
+                    <idno type="viaf">https://viaf.org/viaf/97105654</idno>
+                </person>
+                <person xml:id="ellen">
+                    <name>Ellen</name>
+                </person>
+                <person xml:id="girgis">
+                    <name>Girgis</name>
+                    <note>A Copt living at Bibbeh</note>
+                </person>
+                <person xml:id="hajjee_ali">
+                    <name>Hajjee Ali</name>
+                </person>
+                <person xml:id="hamees">
+                    <name>Hamees</name>
+                </person>
+                <person xml:id="hannah">
+                    <name>Hannah</name>
+                </person>
+                <person xml:id="hassan">
+                    <name>Hassan</name>
+                </person>
+                <person xml:id="hathor">
+                    <name>Hathor</name>
+                    <note>Hathor (Ancient Egyptian: ḥwt-ḥr "House of Horus", Greek: Ἁθώρ Hathōr) was
+                        a major goddess in ancient Egyptian religion who played a wide variety of
+                        roles. As a sky deity, she was the mother or consort of the sky god Horus
+                        and the sun god Ra, both of whom were connected with kingship, and thus she
+                        was the symbolic mother of their earthly representatives, the pharaohs. She
+                        was one of several goddesses who acted as the Eye of Ra, Ra's feminine
+                        counterpart, and in this form she had a vengeful aspect that protected him
+                        from his enemies.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Hathor</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q133343</idno>
+                    <idno type="viaf">https://viaf.org/viaf/74154800227956192013</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/119219646</idno>
+                </person>
+                <person xml:id="hegab">
+                    <name>Hegab</name>
+                </person>
+                <person xml:id="hekekian_bey">
+                    <name>Hekekian Bey</name>
+                    <note>An Armenian living in Cairo</note>
+                </person>
+                <person xml:id="hekekian">
+                    <name>Mrs. Hekekian</name>
+                    <note>wife of Hekekian Bey</note>
+                </person>
+                <person xml:id="herodotus">
+                    <name>Herodotus</name>
+                    <note>Herodotus (/hɪˈrɒdətəs/; Ancient Greek: Ἡρόδοτος, Hēródotos, Attic Greek
+                        pronunciation: [hɛː.ró.do.tos]; c. 484 – c. 425 BC) was an ancient Greek
+                        historian who was born in Halicarnassus in the Persian Empire (modern-day
+                        Bodrum, Turkey). He is known for having written the book The Histories
+                        (Greek: Ἱστορίαι Historíai), a detailed record of his "inquiry" (ἱστορία
+                        historía) on the origins of the Greco-Persian Wars. He is widely considered
+                        to have been the first writer to have treated historical subjects using a
+                        method of systematic investigation—specifically, by collecting his materials
+                        and then critically arranging them into an historiographic narrative. On
+                        account of this, he is often referred to as "The Father of History," a title
+                        first conferred on him by the first-century BC Roman orator Cicero.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Herodotus</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q26825</idno>
+                    <idno type="viaf">https://viaf.org/viaf/100225976</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/118549855</idno>
+                </person>
+                <person xml:id="hobson">
+                    <name>Hobson</name>
+                    <note>19th century traveller in Egypt</note>
+                </person>
+                <person xml:id="isis">
+                    <name>Isis</name>
+                    <note>Isis (Ancient Egyptian: ꜣst; Coptic: Ⲏⲥⲉ Ēse; Classical Greek: Ἶσις Isis;
+                        Meroitic: 𐦥𐦣𐦯 Wos[a] or Wusa) was a major goddess in ancient Egyptian
+                        religion whose worship spread throughout the Greco-Roman world.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Isis</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q79876</idno>
+                    <idno type="viaf">https://viaf.org/viaf/292120530</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/118932640</idno>
+                </person>
+                <person xml:id="ismail_pasha">
+                    <name>Ismail Pasha</name>
+                </person>
+                <person xml:id="janet">
+                    <name>Janet Ann Ross</name>
+                    <note>Janet Ann Ross (1842–1927), daughter of Lucy Duff Gordon, was an English
+                        historian, biographer, and Tuscan cookbook author.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Janet_Ross</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q6153581</idno>
+                    <idno type="viaf">https://viaf.org/viaf/54518827</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/117595802</idno>
+                </person>
+                <person xml:id="juvenal">
+                    <name>Juvenal</name>
+                    <note>Decimus Junius Juvenalis (Latin: [ˈdɛkɪmʊs ˈjuːnɪ.ʊs jʊwɛˈnaːlɪs]), known
+                        in English as Juvenal (/ˈdʒuːvənəl/ JOO-vən-əl), was a Roman poet active in
+                        the late first and early second century AD. He is the author of the
+                        collection of satirical poems known as the Satires.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Juvenal</idno>
+                    <idno type="wikidata">https://en.wikipedia.org/wiki/Juvenal</idno>
+                    <idno type="viaf">https://viaf.org/viaf/83985148</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/118556126</idno>
+                </person>
+                <person xml:id="laura">
+                    <name>Laura</name>
+                </person>
+                <person xml:id="lord_lansdowne">
+                    <name>Lord Lansdowne</name>
+                </person>
+                <person xml:id="de_lesseps">
+                    <name>de Lesseps</name>
+                    <note>Ferdinand Marie, vicomte de Lesseps GCSI (French: [də lesɛps]; 19 November
+                        1805 – 7 December 1894) was a French diplomat and later developer of the
+                        Suez Canal, which in 1869 joined the Mediterranean and Red Seas,
+                        substantially reducing sailing distances and times between Europe and East
+                        Asia.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Ferdinand_de_Lesseps</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q209169</idno>
+                    <idno type="viaf">https://viaf.org/viaf/4952685</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/118572105</idno>
+                </person>
+                <person xml:id="mahbrooka">
+                    <name>Mahbrooka</name>
+                </person>
+                <person xml:id="malibran">
+                    <name>Maria Malibran</name>
+                    <note>Maria Felicia Malibran (24 March 1808 – 23 September 1836) was a Spanish
+                        singer who commonly sang both contralto and soprano parts, and was one of
+                        the best-known opera singers of the 19th century. Malibran was known for her
+                        stormy personality and dramatic intensity, becoming a legendary figure after
+                        her death at age 28. Contemporary accounts of her voice describe its range,
+                        power and flexibility as extraordinary.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Maria_Malibran</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q232783</idno>
+                    <idno type="viaf">https://viaf.org/viaf/9855564</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/118781421</idno>
+                </person>
+                <person xml:id="maurice">
+                    <name>Maurice Duff Gordon</name>
+                    <note>4th Duff-Gordon baronet (1849–1896), son of Lucy Duff Gordon</note>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q75503229</idno>
+                </person>
+                <person xml:id="mehemet_ali">
+                    <name>Mehemet Ali</name>
+                    <note>Muhammad Ali Pasha al-Mas'ud ibn Agha, known as Muhammad Ali of Egypt and
+                        the Sudan (Ottoman script: محمد علی پاشا المسعود بن آغا; Arabic: محمد علي
+                        باشا‎, ALA-LC: Muḥammad ‘Alī Bāshā; 4 March 1769 – 2 August 1849), was the
+                        Albanian Ottoman governor and the de facto ruler of Egypt from 1805 to 1848,
+                        is considered the founder of modern Egypt. At the height of his rule, he
+                        controlled Lower Egypt, Upper Egypt, Sudan and parts of Arabia and the
+                        entire Levant.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Muhammad_Ali_of_Egypt</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q182781</idno>
+                    <idno type="viaf">https://viaf.org/viaf/29512610</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/118782835</idno>
+                </person>
+                <person xml:id="miriam">
+                    <name>Miriam</name>
+                    <note>Miriam (מִרְיָם‎ Mīrəyām) was described in the Hebrew Bible as the
+                        daughter of Amram and Jochebed, and the older sister of Moses and Aaron. She
+                        was a prophetess and first appears in the Book of Exodus.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Miriam</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1938388</idno>
+                    <idno type="viaf">https://viaf.org/viaf/57686436</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/129232726</idno>
+                </person>
+                <person xml:id="mishregi">
+                    <name>Mishregi</name>
+                </person>
+                <person xml:id="mohammed">
+                    <name>Muhammad</name>
+                    <note>Muhammad (Arabic: مُحَمَّد‎, pronounced [muħammad]; c. 570 CE – 8 June 632
+                        CE) was an Arab religious, social, and political leader and the founder of
+                        Islam. According to Islamic doctrine, he was a prophet, sent to preach and
+                        confirm the monotheistic teachings of Adam, Abraham, Moses, Jesus, and other
+                        prophets. He is believed to be the final prophet of God in all the main
+                        branches of Islam, though some modern denominations diverge from this
+                        belief. Muhammad united Arabia into a single Muslim polity, with the Quran
+                        as well as his teachings and practices forming the basis of Islamic
+                        religious belief.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Muhammad</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q9458</idno>
+                    <idno type="viaf">https://viaf.org/viaf/97245226</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/118583158</idno>
+                </person>
+                <person xml:id="murray">
+                    <name>Murray</name>
+                </person>
+                <person xml:id="mustapha_aga">
+                    <name>Mustapha Aga</name>
+                    <note>consular agent at Thebes</note>
+                </person>
+                <person xml:id="nurreddin_bey">
+                    <name>Nurreddin Bey</name>
+                </person>
+                <person xml:id="omar">
+                    <name>Omar Abou el-Haláweh</name>
+                    <note>Personal servant of Lady Lucy Duff Gordon during her stay in Egypt</note>
+                </person>
+                <person xml:id="osiris">
+                    <name>Osiris</name>
+                    <note>Osiris (/oʊˈsaɪrɪs/, from Egyptian wsjr, Coptic ⲟⲩⲥⲓⲣⲉ) is the god
+                        of fertility, agriculture, the afterlife, the dead, resurrection, life, and
+                        vegetation in ancient Egyptian religion. He was classically depicted as a
+                        green-skinned deity with a pharaoh's beard, partially mummy-wrapped at the
+                        legs, wearing a distinctive atef crown, and holding a symbolic crook and
+                        flail.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Osiris</idno>
+                    <idno type="viaf">https://viaf.org/viaf/61789844</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/118747770</idno>
+                </person>
+                <person xml:id="osman">
+                    <name>Osman</name>
+                    <note>Member of the crew of Lucy Duff Gordons boat.</note>
+                </person>
+                <person xml:id="parker">
+                    <name>Parker</name>
+                    <note>General</note>
+                </person>
+                <person xml:id="polyphemus">
+                    <name>Polyphemus</name>
+                    <note>Polyphemus (/ˌpɒlɪˈfiːməs/; Greek: Πολύφημος Polyphēmos Epic Greek:
+                        [po.lý.pʰɛː.mos]; Latin: Polyphēmus Classical Latin: [pɔ.lʲʏˈpʰeː.mʊs̠]) is
+                        the one-eyed giant son of Poseidon and Thoosa in Greek mythology, one of the
+                        Cyclopes described in Homer's Odyssey. His name means "abounding in songs
+                        and legends". Polyphemus first appeared as a savage man-eating giant in the
+                        ninth book of the Odyssey. In the work of even later authors, however, he is
+                        presented as both a successful lover and skilled musician. From the
+                        Renaissance on, art and literature reflect all of these interpretations of
+                        the giant.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Polyphemus</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q193567</idno>
+                    <idno type="viaf">https://viaf.org/viaf/172873171</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/118595598</idno>
+                </person>
+                <person xml:id="prometheus">
+                    <name>Prometheus</name>
+                    <note>In Greek mythology, Prometheus (/prəˈmiːθiəs/; Ancient Greek: Προμηθεύς,
+                        [promɛːtʰéu̯s], possibly meaning "forethought"), is a Titan god of fire.
+                        Prometheus is a culture hero and trickster figure who is credited with the
+                        creation of humanity from clay, and who defies the gods by stealing fire and
+                        giving it to humanity as civilization. Prometheus is known for his
+                        intelligence and for being a champion of humankind, and is also seen as the
+                        author of the human arts and sciences generally.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Prometheus</idno>
+                    <idno type="viaf">https://viaf.org/viaf/3263350</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/118596756</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q83160</idno>
+                </person>
+                <person xml:id="pueckler_muskau">
+                    <name>Prince Pückler Muskau</name>
+                    <note>Prince Hermann Ludwig Heinrich von Pückler-Muskau; born as Count Pückler,
+                        from 1822 Prince; 30 October 1785 – 4 February 1871) was a German nobleman,
+                        renowned as an accomplished artist in landscape gardening, as well as the
+                        author of a number of books mainly centering around his travels in Europe
+                        and Northern Africa, published under the pen name of "Semilasso".</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Hermann,_Fürst_von_Pückler-Muskau</idno>
+                    <idno type="viaf">https://viaf.org/viaf/68973825</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/118597019</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q61797</idno>
+                </person>
+                <person xml:id="rachel">
+                    <name>Rachel</name>
+                    <note>Rachel (Hebrew: רָחֵל‎, romanized: Rāḥêl, lit. 'ewe') was a Biblical
+                        figure, the favorite of Jacob's two wives, and the mother of Joseph and
+                        Benjamin, two of the twelve progenitors of the tribes of Israel.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Rachel</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q207389</idno>
+                    <idno type="viaf">https://viaf.org/viaf/16251571</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/118836889</idno>
+                </person>
+                <person xml:id="rainie">
+                    <name>Rainie</name>
+                </person>
+                <person xml:id="ramses">
+                    <name>Ramses II (The Great)</name>
+                    <note>Ramesses II /ˈræməsiːz, ˈræmsiːz, ˈræmziːz/ (variously also spelt
+                        Rameses or Ramses, Ancient Egyptian: rꜥ-ms-sw "Ra is the one who bore
+                        him", Koinē Greek: Ῥαμέσσης, romanized: Rhaméssēs, c. 1303 BC – July or
+                        August 1213; reigned 1279–1213 BC), also known as Ramesses the Great, was
+                        the third pharaoh of the Nineteenth Dynasty of Egypt. He is often regarded
+                        as the greatest, most celebrated, and most powerful pharaoh of the New
+                        Kingdom, itself the most powerful period of Ancient Egypt. He is known as
+                        Ozymandias in Greek sources (Koinē Greek: Οσυμανδύας, romanized:
+                        Osymandýas), from the first part of Ramesses's regnal name, Usermaatre
+                        Setepenre, "The Maat of Ra is powerful, Chosen of Ra".</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Ramesses_II</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1523</idno>
+                    <idno type="viaf">https://viaf.org/viaf/7363190/</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/118598171</idno>
+                </person>
+                <person xml:id="rusool">
+                    <name>Rasul</name>
+                </person>
+                <person xml:id="reis">
+                    <name>Reis</name>
+                    <note>This refers to teh captain of Lucy Duff Gordons ship during her stay in
+                        Egypt</note>
+                </person>
+                <person xml:id="ross">
+                    <name>Ross</name>
+                </person>
+                <person xml:id="said_pasha">
+                    <name>Said Pasha</name>
+                    <note>Mohamed Sa'id Pasha (Arabic: محمد سعيد باشا‎, Turkish: Mehmed Said Paşa,
+                        March 17, 1822 – January 17, 1863) was the Wāli of Egypt and Sudan from 1854
+                        until 1863, officially owing fealty to the Ottoman Sultan but in practice
+                        exercising virtual independence. He was the fourth son of Muhammad Ali
+                        Pasha. Sa'id was a Francophone, educated in Paris. Under Sa'id's rule there
+                        were several law, land and tax reforms.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Sa%27id_of_Egypt</idno>
+                    <idno type="viaf">https://viaf.org/viaf/88532611</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/1024058859</idno>
+                </person>
+                <person xml:id="sakna">
+                    <name>Sakna</name>
+                </person>
+                <person xml:id="sally">
+                    <name>Sally</name>
+                </person>
+                <person xml:id="seyd_el_bedawee">
+                    <name>Seyd el-Bedawee</name>
+                </person>
+                <person xml:id="shereef">
+                    <name>Shereef</name>
+                    <note>Crew member of Lucy Duff Gordons boat.</note>
+                </person>
+                <person xml:id="sid_achmet_el_berberi">
+                    <name>Sid Achmet el-Berberi</name>
+                    <note>boat owner from Cairo</note>
+                </person>
+                <person xml:id="st_george">
+                    <name>St. George</name>
+                    <note>Saint George (Greek: Γεώργιος, d. 23 April 303), also George of Lydda, was
+                        a Christian who is accepted as a saint in Christianity. In hagiography, as
+                        one of the Fourteen Holy Helpers and one of the most prominent military
+                        saints, he is immortalized in the legend of Saint George and the Dragon. His
+                        memorial, Saint George's Day, is traditionally celebrated on 23
+                        April.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Saint_George</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q48438</idno>
+                    <idno type="viaf">https://viaf.org/viaf/27862930</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/118538527</idno>
+                </person>
+                <person xml:id="tomkins">
+                    <name>Tomkins</name>
+                    <note>19th century traveller in Egypt</note>
+                </person>
+                <person xml:id="wassef">
+                    <name>Wassef</name>
+                    <note>A copt living at Minieh.</note>
+                </person>
+                <person xml:id="thayer">
+                    <name>William Sydney Thayer</name>
+                    <note>American Consul-General in Egypt during 1861 and 1864.</note>
+                </person>
+                <person xml:id="tom_taylor">
+                    <name>Tom Taylor</name>
+                </person>
+                <person xml:id="wilkinson">
+                    <name>Wilkinson</name>
+                    <note>Consul</note>
+                </person>
+                <person xml:id="zeyneb">
+                    <name>Zeyneb</name>
+                </person>
+                <person xml:id="zankalonee">
+                    <name>Zankalonee</name>
+                    <note>Crew member on Lucy Duff Gordons boat.</note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

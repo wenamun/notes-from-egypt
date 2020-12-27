@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Khartoum, at the junction of the White and Blue Rivers, lat. 15° N. Long. 34° 10.
+               March 20th, 1851.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from https://archive.org/details/lettersfromegypt00brom</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/william-arnold-bromfield/letters/13">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/160825459">William Arnold
+                  Bromfield</name>
+               <name type="place" ref="http://www.geonames.org/379252"><name type="place" ref="#khartoum">Khartoum </name></name>
+               <date when="1851-03-20">20 March 1851</date>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person">Eliza Bromfield</name>
+               <name type="place" ref="http://www.geonames.org/2638911">Ryde</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>My dear E</p>
+
+         <p>Since my last was dispatched from Wady Halfeh for <name type="place" ref="#cairo">Cairo</name>, through the favour of a gentleman going down the river, our little
+            party has penetrated to this remote town, almost in the very heart of tropical Africa,
+            and, thank God, we are all quite well in health and spirits.</p>
+
+         <p>In this region of dust, dirt, and barbarism, I am reduced to the necessity of using pens
+            made of reeds, the only ones in use among eastern nations, and which are neither
+            lasting, nor easy to write with; I hope, how: ever, to make this letter tolerably
+            legible, and to send it off before leaving Khartoun, which we do to-morrow, in a boat we
+            have engaged to carry us a day or two up the White Nile, and, on our return, to Berber,
+            a voyage of eight or ten days from hence, where we have an order from the Pasha
+            (Governor of Khartoun), for camels across the desert to Korosko, where we rejoin our
+            little boat the Mary Victoria, which has been await: ing our arrival there for the last
+            two months, to convey us back to <name type="place" ref="#cairo">Cairo</name>, whither
+            we trust to find ourselves safely transported about the third week in May. I can only
+            give you a very short abstract of our journey hither from Wady Halfeh. Our caravan
+            consisted of seven camels, three for ourselves, and four for our ser: vants and luggage,
+            tents, and water-skins. The way lay partly along the banks of the Nile, and partly next
+            the desert, amidst scenery of a totally different de: scription from any I had met with
+            before; that of the river, extremely picturesque in many places; that of the desert,
+            wild and savage in the extreme. Although between the tropics, the nights were very cold,
+            with occasional heavy gales of wind, during one of which, about two o'clock in the
+            morning of the 17th, our tent was blown over completely, and we were left exposed in our
+            beds to a keen blast, and obliged to rise, clothe our: selves, and get the tent up
+            again. At eight o'clock, a.m. on the 18th (more than an hour after sunrise), the ther:
+            mometer suspended on a bush near the tent, stood at 51° only, and at half-past seven on
+            the morning of the 19th at 42° ! a cold felt to be very penetrating after the great heat
+            which often prevailed during the day; but the excessive dryness of the air in the desert
+            prevented any injurious effects resulting from these great and often sudden changes of
+            temperature. On the 21st our progress was delayed for some hours by an accident to our
+            servant Ameen, who was stung in the hand by one of the great yellow African scorpions,
+            that had been brought to me by one of the camel drivers. Ameen, foolishly relying on a
+            supposed immunity from the venomous effects of these and other noxious animals, which he
+            believed had been communicated to him by a serpent charmer at <name type="place" ref="#cairo">Cairo</name> for a consideration of eleven piastres, actually grasped
+            the scorpion with his bare hand, and it instantly struck him at the root of the second
+            finger of the left hand. He suffered intense pain for a few hours, with a feeling of
+            great coldness all over, numbness on the left side of the body, indistinct vision,
+            sickness, and other constitutional symptoms of rather an alarming nature. I had none of
+            the proper remedies with me for scorpion stings, such as ammonia, and ipecacuanha; but
+            applied laudanum to the wound, and brandy internally; the next day the symptoms had,
+            quite subsided, and Ameen felt well able to continue the journey. The scorpion was one
+            of the largest I had ever seen, and was about five inches in length to the end of the
+            tail.</p>
+
+         <p>On the 27th we encamped on the fine island of Argo, the largest of those formed by the
+            Nile, being thirty miles in length. The mirage was very strong on the desert this day.
+            On the 31st we arrived at Ourdi or New Dongola, a miserable collection of mud built
+            hovels, one of which we occupied during our stay. The air we found excessively cold at
+            night, and till eight or nine o'clock in the morning frequently making us shiver even in
+            the sun. I forgot to mention that when in Argo island, we visited the two remarkable
+            colossal Egyptian statues, supposed to be those of Osiris and his wife Isis, with their
+            son Horus. They are about twenty: two feet in length, of the red granite of Syene (<name type="place" ref="#assouan">Assouan</name>) in Upper Egypt, which is not found near
+            this place. Both statues have been thrown down, and one broken asunder in its fall; and
+            it is remarkable that not the smallest trace exists of any temple to which they might
+            have belonged.</p>
+
+         <p>We left Dongola on the 3rd February for Meroweh, near the ancient Napata, the supposed
+            capital of Ethi: opia in the time of Queen Candace, the ruins of which still exist close
+            beneath the fine mountain of Gebel Berkel; in the craggy face of which, is a rock temple
+            covered with hieroglyphics, and finely sculptured figures. On one side of the mountain
+            stand a number of stone pyramids, and a few miles further are those of Neuri, of both
+            which I shall give an account presently.</p>
+
+         <p>From Ourdeh, (New Dongola) to Korti, we took a boat on the Nile, a wretched craft, full
+            of dust and dirt, happily free from vermin, but of the roughest possible ' construction,
+            and extremely incommodious: the re: mainder of the journey was performed on camels,
+            across the desert to the opposite bend of the river at Abou Doun El Haweshab, a very
+            prettily situated village, nearly facing the now almost deserted town of Merowah, and
+            which we reached on the 1 7th; taking up as usual our quarters in the place, by
+            dispossessing some one of his house without ceremony, the rent of which was handsomely
+            paid for at one piastre per diem, or rather more than two-pence. The same morning, my
+            camel becoming suddenly ungovernable set oif without the slightest warning at full
+            gallop, throwing myself off first, and then the saddle with the articles attached to it,
+            gun, water skin, carpet bag, &amp;c. Luckily that part of the desert was of a soft and
+            sandy, not as in many places, of a stony rocky character, or my fall might have been as
+            serious as it was in reality matter for jocular remark from my two companions and the
+            Arabs. The great height of a camel's back renders a fall in such a case more dangerous
+            than from a horse, but the generally slow staid demeanour of these most odious and
+            disgusting of all domesticated animals, causes a similar occurrence to that which befel
+            myself to be much rarer than on horseback. I must say however, that much as I dislike
+            the animal for its manners and disagreeable qualities, and the negative nature of the
+            few good ones it possesses, that I have found camel riding to be infinitely better than
+            I expected after the first day or two; the fatigue is almost nothing of a day's journey
+            of from eight to ten hours, the pace is very easy, enabling you to compose yourself to a
+            reverie as you. traverse the burning track of white, yellow, or red sand, or the glowing
+            rugged rocks under a cloudless sky, hour after hour, with little feeling of weariness;
+            whilst from your lofty seat on the camel's hump, you constantly enjoy a good view of the
+            country you are passing over at the ordinary pace of from two and a half to three miles
+            an hour. At Abou Doun El Haw: eshab, we engaged donkeys early on the morning of February
+            18th to convey us to the Pyramids of Neuri (so called from a neighbouring village of
+            that name), the more distant of the two groups from Meroweh, or about five miles from
+            that deserted town. These Pyramids stand like their more renowned fellows near <name type="place" ref="#cairo">Cairo</name>, on the verge of a desert, amid drift sand,
+            and heaps of rubbish, but no tombs. They are very numer: ous, placed without the
+            smallest attention to order or arrangement, many are still so far entire that their out:
+            line is preserved, and like those at Memphis they appear whole at a distance, but on a
+            nearer inspection, they will be found equally disjointed and dilapidated. These Pyramids
+            and those of Napata or Gebel Berkel, are exactly of the same form and dimensions: I can
+            guess that they are on an average about forty feet high, and their angles of inclination
+            are much more acute than those of the Egyptian structures of the same kind; like them,
+            those of Neuri, have, now at least, no casing. The stone they are built of is of two or
+            three kinds, a white and extremely soft limestone, similar to that of the great Pyramids
+            of Geezeh, and one or two species of red or yellow conglomerate, of the coarsest, and
+            most crumbling description that can be conceived. As the country here is within the
+            limits of the periodical tro: pical rains, it is surprising how these Pyramids can have
+            so long resisted the influence of the weather, made as they are of such perishable
+            stone. On the 19th, we set out on donkey back for the ancient supposed site of Napata
+            and the Pyramids adjacent, usually known as those of Gebel Berkel, from the fine rock or
+            mountain of that name, under which both are situated. The ruins of Napata are not
+            extensive, but the remains of several buildings still exist above ground, and what is
+            singular, some slender columns are yet erect, and tolerably per: fect, whilst every
+            other part of the ruin is thrown down. In the face of the mountain is a rock temple,
+            with some of the best designed and executed sculptures and hiero: glyphics I have seen
+            in Egypt, and the capitals of the columns are very tastefully designed in a style quite
+            different from any pattern I ever saw before. We ob: served one or two finely polished
+            blocks of grey or blue granite with sculptured cornices, (perhaps sarcophagi), but
+            nothing else of note amongst the ruins. The weather to-day and yesterday, was remarkably
+            cold, with very high east wind, and clouds of sand from the desert. We observed the
+            names of one or two English travellers on the walls of this remote and beautiful rock:
+            temple, which faces the ruins of the ancient city, of which no doubt, it formed one of
+            the most considerable edifices. The Pyramids stand on the desert, about three quarters
+            of a mile from the ruins, and are thirteen in number; eight are merely crumbling masses
+            of stone; the remaining five are generally speaking, in a wonder: ful state of
+            preservation, almost as entire as when first erected. Their average height, as we found
+            by measure: ment, is about forty-two feet, they are all built in steps, but the stones
+            are not above thirten inches thick, and it was by counting the number of courses, that
+            we were enabled to ascertain the height of the whole structure. The angles are very
+            neatly finished with quoins of whiter stone than the rest of the building, but the apex
+            of each Pyramid is gone. The acuteness of the angle of inclination was such, that I
+            could not venture to mount the courses, (as I easily did those of the Pyra: mids of
+            Cheops) without a feeling of giddiness soon coming on; but my sailor friends achieved
+            the ascent without difficulty, and carved their names on the flat top of one of the
+            principal and most perfect. These Pyramids, like those of Neuri, stand grouped without
+            arrangement, contiguous to, and at all angles to each other, and each Pyramid has a
+            stone porch, adorned with sculpture and hieroglyphics: sometimes the roof or ceiling of
+            the porch is painted in colours, still in very tolerable preservation, but evincing a
+            rude state of the art; some of the sculpture is extremely well executed, and very
+            curious as to subject and design. We found very few memorials of European travellers
+            upon these Pyramids, so we held ourselves excused in gratifying the national
+            predilection for this way of acquiring im: mortality, by carving our names enclosed in
+            an oval or cartouche, and each name again separately on different Pyramids. Mine, I cut
+            at full length, and in large Eoman letters, with month and year, inside one of the
+            porches, the roof of which was badly painted with lotus wreaths, just over the name of
+            Prince Puckler Muskau, who has left no memorial of the date of his visit. In one Pyramid
+            only, did we find any entrance from the porch, all the rest were closed with blocks of
+            stone: in the exceptional case, the opening led only to an irregular cavity, as if
+            purposely broken up in search of a sepulchral chamber; but the penetrated Pyramids, here
+            and at Neuri, appear to shew that they were all constructed solidly from the first, the
+            centre being filled with loose stones or rubble. On our return to our hovel at Al Dour,
+            through beautiful fields of ripe, and ripening, as well as springing barley and wheat,
+            we visited the now nearly deserted town of Meroweh. There is a work entitled " Hosldn's
+            Travels in Ethiopia," ^ hich is highly spoken of by Sir Gardner Wilkinson; in tins book
+            there is doubtless a full account of every object of interest along the route we have
+            taken from Wady Halfeh to Khartoun, and as such, it would be worth your while enquiring
+            for, or ordering it for the Club.</p>
+
+         <p>February 20th. Left Al Doun El Hawasheb on camels, across the desert for Metummeh, a
+            large straggling place a few miles above Shendy, but on the opposite side of the river,
+            and to which, since the de: struction of the former place by the troops of Mohammed Bey
+            Deftender, in revenge for the murder, by the chief of the province, of the youngest son
+            of Mehemet Ali in 1822, the trade of Shendy has been transferred. The Wadys, or little
+            valleys between the hills in this desert, contain many trees and thickets, and there is
+            good water at intervals, but we were forced at first to put up with that from a deep
+            stagnant reservoir of natural formation in a rocky bason supplied by the periodical
+            rains, and which now emitted a putrid smell, and was filled with various impurities. The
+            next day, we gladly changed it for spring water, at a group of wells to which all the
+            neighbouring tribes resort to water their flocks at stated intervals. The heat in
+            crossing this desert was very considerable, but the nights were always deliciously cool,
+            and indeed unpleasantly so at day-break, and for some time afterwards, but the air on
+            the desert is so perfectly dry, that we slept every night under the canopy of stars,
+            often with a cold and high wind blow: ing on our beds, and even on our persons, without
+            the slightest ill elfect.</p>
+
+         <p>The following are the temperatures, as taken by my pocket thermometer :— 1851. Shade.
+            Sun. Time. Feb. 24th, desert between Meroweh &amp; Shendy. . 87° . . H4o on hot sand. .
+            11 30 a.m. „ 27th, „ „ 95o..l26o „ 120p.m. Mar. 1st, Metummeh, in the tent 98° . . 137©
+            on dry earth. .20,, „ 2nd, „ „ .. .. 101o..l46o „ noon. „ 2nd, „ „ .... 106o..l42o „ 2
+            p.m. „ 4th, in a hut, at Koornar 102 noon. „ 4th, „ „ 102o.. 1520 2 0p.m.</p>
+
+         <p>Although these temperatures exceeded any to which I had been hitherto exposed, and on
+            the 2nd and 5th of March the air and earth glowed like a furnace, with a stifling hot
+            S.E. wind, I felt not the slightest incon: venience, and hardly any discomfort when
+            seated on my camel in the full rays of the sun. My companions felt the heat a little,
+            but thank God, we continued all well, and even at our mid-day's baitings enjoyed our
+            dinner with the thermometer at, or above 100° in our tent under an acacia, (or when at a
+            village), in some deserted mud hovel, which last are always extremely cool, owing to the
+            great thickness of the walls.</p>
+
+         <p>On the 28th we arrived at Metummeh, having tra: versed the distance from Meroweh (160
+            miles) in nine days. This is a great straggling town or collection of wretched hovels of
+            mud and crude brick, like all other towns in Soudan: we encamped near the river side at
+            some little distance from the place. The Nile, though now so low, and consequently so
+            contracted in its channel is still a noble stream, bearing freshness and verdure
+            wherever it meanders, hence the temperature along its banks is always cooler than that
+            of the adjoining country, and accustomed as we have been for weeks past to a continued
+            high temperature, that which we enjoy on the river, or in its vicinity, feels quite
+            moderate and agreeable; the general range of the thermometer at noon, and at 2 p.m.
+            being from 85° to 92°, but at this moment, the air is particularly cool from the
+            continuance of strong northerly winds, which are daily expected to cease, when very hot
+            weather will surely succeed. We left Metummeh on the third day from our arrival for this
+            place ( Khartoun) where we have been ever since; but shall start in a day or two by boat
+            for Shendy, Berber, and Abou Hamel, visiting on our way the pyramids of Assuer near the
+            site of the ancient Meroe. At Berber we again engage camels for Abou Hamel, from whence
+            we take our way across a tree-less, herb: less, and in part water-less desert, to
+            Korosko, where our little bark has for nearly three months been awaiting our return to
+               <name type="place" ref="#cairo">Cairo</name>.</p>
+
+         <p>We were most civilly and kindly received by the chief people both Franks and Turks at
+            this place, and most courteously and affably by the governor of the vast province of
+            Khartoun, Latif Pasha, to whom we were introduced, and from whom we received a govern:
+            ment order for camels at Berber. The manners and customs of this strange, wild, out of
+            the way corner of the world, are so entirely different from our own, that it would
+            require much more time and space than I can spare to give even a sketch of our numerous
+            and often droll adventures; besides this, the reed pens are the most unfit of all
+            instruments for voluminous commu: nications, I must therefore reserve my account of our
+            proceedings amongst Arabs and Turks for a verbal narrative of foreign travel.</p>
+
+         <p>Owing to the continuance of strong northerly winds, and to the situation of the place
+            between two broad rivers, the temperature of Khartoun continues to be very moderate for
+            the advancing season, it being usually about 90° — -92° in the house at mid-day; the
+            evenings and mornings, especially the latter, extremely fresh and! cool, quite like
+            summer mornings in England.</p>
+
+         <p>I quite forgot to mention in its proper place, that on i our way from Meroweh to
+            Metummeh we visited, at a spot called Gebal ab Gazal, or the mountain of the gazelles,
+            one of those ancient Christian temples of which in early times there were so many in
+            Ethiopia. It is now in ruins, but a great part of the walls are standing, and the cross
+            nave and chancel, are still perfectly dis: tinguishable as in our modern churches,
+            whilst the frequent occurrence of the cross sculptured on the walls betokens the
+            Christian character of the edifice.</p>
+
+         <p>We all look forward to getting back to <name type="place" ref="#cairo">Cairo</name>,
+            about the middle, or towards the end of May; sooner it is not probable we should arrive
+            there, as we shall have still to visit some objects of interest at <name type="place" ref="#thebes">Thebes</name>, the Memnonium, Medinet Habou, the tombs of the kings,
+            the two Colossi in the Nile, and to take a second and parting look at Dendereh, Luxor,
+            and Darfour, which we left till our return northwards; besides which, we propose a ride
+            for a couple of days into the Fayoum, a singular district, being an oasis in the desert,
+            a little to the south of <name type="place" ref="#cairo">Cairo</name>, and remarkable
+            for the manners and customs of the people who are mostly Copts.</p>
+
+         <p>When you write to H. tell him that he would find abundant amusement in Soudan (Ethiopia
+            Proper) amongst the innumerable multitude of birds that inhabit this region, and the
+            whole vallev of the Nile: the number of individuals is perfectly astonishing, and the
+            species themselves numerous. Birds of prey abound as in Egypt, hawks, kites, eagles,
+            vultures, are ever seen in the air; the multitude of aquatic fowl is in: credible,
+            geese, herons, storks, cranes, spoonbills, ibises, pelicans actually swarm, and fill the
+            air with their myriads. Every grove resounds with the cooing of doves, of which we have
+            killed five or six different species between <name type="place" ref="#cairo">Cairo</name> and Khartoun, the species chang: ing with the latitude. Many European
+            genera are amongst the commonest of those inhabiting this country. Wag-tails, white
+            throats, larks, plovers, and sparrows are seen everywhere; in many cases apparently
+            identical with our English species; as for instance, the sky lark, common plover, or
+            lap-wing, and perhaps the ordinary sparrow of the country, which comes exceedingly close
+            to our common house sparrow, if it be not the very same bird; being equally domestic and
+            familiar, and even more plentiful than in Europe. In the thickets and groves along the
+            Nile, and which here and there adorn even the desert, various richly decorated tropical
+            birds are met with, but the ornithology of this part of Africa, like its botany, has a
+            plain, unadorned character, partaking throughout of that found to prevail in the
+            temperate zone. I have already collected a considerable number of the plants of Soudan,
+               <name type="place" ref="#nubia">Nubia</name>, and Upper Egypt, and all the seeds I
+            can find for the Kew Gardens, together with every interesting vegetable product for the
+            Museum which Sir William Hooker is now forming there; but collecting in this country is
+            attended with considerable trouble and difficulty, on account of the want of quick and
+            ready communication between places, and the wretched means of transport on camel's
+            backs, which spoil, and wear out everything. The few clothes we took with us from the
+            boat at Wady Halfeh, are in a sadly dilapidated condition, and those which I put in my
+            carpet bag are in tatters, the linen is far too fine, and delicate for such rough
+            travelling as we are now per-; forming in barbarous Africa. Your little housewife has
+            been in constant requisition amongst our party, and our servants, one or two of whom are
+            tolerably expert at their needle, i.e. can darn, patch, and coarsely hem, or sew on
+            buttons, but nothing more: my two sailor com: panions, can of course, do a little in the
+            way of tailoring and needlework, but ironing and mangling, are processes unknown in this
+            country, and our linen is therefore got up in the roughest possible style. And now, dear
+            E. fare thee well — I shall write again as soon as possible, and send this by the
+            government post or courier, to anticipate my arrival in <name type="place" ref="#cairo">Cairo</name>, which I hope (Inshallah !) will be in about six weeks time, or two
+            months at farthest. I long to reach Ernout, (the ancient Hermanthis) in Upper Egypt,
+            that I may have tidings of you from Mr. Fox.</p>
+
+         <p>With my kind regards to all my friends at Ryde and elsewhere.</p>
+
+         <p>Always your affectionate Brother, Abou Hasheesh.</p>
+      </body>
+   </text>
+</TEI>

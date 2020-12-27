@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mrs. Austin, CAIRO, November 21, 1863.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/19">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <rs type="place" ref="http://www.geonames.org/360630">Cairo</rs>
+               <date when="1863-11-21">21 November 1863</date>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/59830344">Sarah Austin</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <foreign xml:lang="de"><name type="person" ref="#sarah_austin">Mutter</name></foreign>,</p>
+
+         <p>I shall stay on here till it gets colder, and then go up the Nile either in a steamer or
+            a boat. The old father of my donkey-boy, Hassan, gave me a fine illustration of Arab
+            feeling towards women to-day. I asked if Abd el-Kader was coming here, as I had heard;
+            he did not know, and asked me if he were not _Achul en-Benàt_, a brother of girls. I
+            prosaically said I did not know if he had sisters. ‘The Arabs, O lady, call that man a
+            “brother of girls” to whom God has given a clean heart to love all women as his sisters,
+            and strength and courage to fight for their protection.’ <name type="person" ref="#omar">Omar</name> suggested a ‘thorough gentleman’ as the equivalent of Abou Hassan’s
+            title. Our European _galimatias_ about the ‘smiles of the fair,’ etc., look very mean
+            beside ‘Achul en Benàt,’ methinks. Moreover, they carry it into common life. <name type="person" ref="#omar">Omar</name> was telling me of some little family
+            tribulations, showing that he is not a little henpecked. His wife wanted all his money.
+            I asked how much she had of her own, as I knew she had property. ‘Oh, ma’am! I can’t
+            speak of that, shame for me if I ask what money she got.’ A man married at <name type="place" ref="#alexandria">Alexandria </name>, and took home the daily provisions
+            for the first week; after that he neglected it for two days, and came home with a lemon
+            in his hand. He asked for some dinner, and his wife placed the stool and the tray and
+            the washing basin and napkin, and in the tray the lemon cut in quarters. ‘Well, and the
+            dinner?’ ‘Dinner! you want dinner? Where from? What man are you to want women when you
+            don’t keep them? I am going to the Cadi to be divorced from you;’ and she did. The man
+            must provide all necessaries for his <foreign xml:lang="ar">Hareem</foreign>, and if she
+            has money or earns any she spends it in dress; if she makes him a skullcap or a
+            handkerchief he must pay her for her work. _Tout n’est pas roses_ for these Eastern
+            tyrants, not to speak of the unbridled license of tongue allowed to women and children.
+            Zeyneb hectors <name type="person" ref="#omar">Omar</name> and I cannot persuade him to
+            check her. ‘How I say anything to it, that one child?’ Of course, the children are
+            insupportable, and, I fancy, the women little better.</p>
+
+         <p> A poor neighbour of mine lost his little boy yesterday, and came out in the streets, as
+            usual, for sympathy. He stood under my window leaning his head against the wall, and
+            sobbing and crying till, literally, his tears wetted the dust. He was too grieved to
+            tear off his turban or to lament in form, but clasped his hands and cried, ‘Yah weled,
+            yah weled, yah weled’ (O my boy, my boy). The bean-seller opposite shut his shop, the
+            dyer took no notice but smoked his pipe. Some people passed on, but many stopped and
+            stood round the poor man, saying nothing, but looking concerned. Two were well-dressed
+            Copts on handsome donkeys, who dismounted, and all waited till he went home, when about
+            twenty men accompanied him with a respectful air. How strange it seems to us to go out
+            into the street and call on the passers-by to grieve with one! I was at the house of
+               <name type="person" ref="#hekekian_bey">Hekekian Bey</name> the other day when he
+            received a parcel from his former slave, now the Sultan’s chief eunuch. It contained a
+            very fine photograph of the eunuch—whose face, though negro, is very intelligent and of
+            charming expression—a present of illustrated English books, and some printed music
+            composed by the Sultan, Abd el Aziz, himself. _O tempera_! _O mores_! one was a waltz.
+            The very ugliest and scrubbiest of street dogs has adopted me—like the Irishman who
+            wrote to Lord Lansdowne that he had selected him as his patron—and he guards the house
+            and follows me in the street. He is rewarded with scraps, and <name type="person" ref="#sally">Sally</name> cost me a new tin mug by letting the dog drink out of the old one,
+            which was used to scoop the water from the jars, forgetting that <name type="person" ref="#omar">Omar</name> and Zeyneb could not drink after the poor beast.</p>
+
+         <p>_Monday_.—I went yesterday to the port of <name type="place" ref="#cairo">Cairo</name>,
+               <name type="place" ref="#boulak">Boulak</name>, to see Hassaneyn Effendi about boats.
+            He was gone up the Nile, and I sat with his wife—a very nice Turkish woman who speaks
+            English to perfection—and heard all sorts of curious things. I heard the whole story of
+            an unhappy marriage made by Leyla, my hostess’s sister, and much <name type="place" ref="#cairo">Cairo</name> gossip. Like all Eastern ladies that I have seen she
+            complains of indigestion, and said she knew she ought to go out more and to walk, but
+            custom _e contra il nostro decoro_.</p>
+
+         <p>Mr. Thayer will be back in Egypt on December 15, so I shall embark about that time, as
+            he may want his house here. It is now a little fresh in the early morning, but like fine
+            English summer weather.</p>
+
+         <p>_Tuesday_.—Since I have been here my cough is nearly gone, and I am better for having
+            good food again. <name type="person" ref="#omar">Omar</name> manages to get good mutton,
+            and I have discovered that some of the Nile fish is excellent. The _abyad_, six or eight
+            feet long and very fat, is delicious, and I am told there are still better; the eels are
+            delicate and good too. <name type="person" ref="#maurice">Maurice</name> might hook an
+            _abyad_, but how would he land him? The worst is that everything is just double the
+            price of last year, as, of course, no beef can be eaten at all, and the draught oxen
+            being dead makes labour dear as well. The high Nile was a small misfortune compared to
+            the murrain. There is a legend about it, of course. A certain Sheykh el-Beled
+            (burgomaster) of some place—not mentioned—lost his cattle, and being rich defied God,
+            said he did not care, and bought as many more; they died too, and he continued
+            impenitent and defiant, and bought on till he was ruined, and now he is sinking into the
+            earth bodily, though his friends dig and dig without ceasing night and day. It is
+            curious how like the German legends the Arab ones are. All those about wasting bread
+            wantonly are almost identical. If a bit is dirty, <name type="person" ref="#omar">Omar</name> carefully gives it to the dog; if clean, he keeps it in a drawer for
+            making breadcrumbs for cutlets; not a bit must fall on the floor. In other things they
+            are careless enough, but _das liebe Brod_ is sacred—_vide_ Grimm’s _Deutsche Sagen_. I
+            am constantly struck with resemblances to German customs. A Fellah wedding is very like
+            the German _Bauern hochzeit_ firing of guns and display of household goods, only on a
+            camel instead of a cart. I have been trying to get a teacher of Arabic, but it is very
+            hard to find one who knows any European language, and the consular dragoman asks four
+            dollars a lesson. I must wait till I get to <name type="place" ref="#thebes">Thebes</name>, where I think a certain young Said can teach me. Meanwhile I am
+            beginning to understand rather more and to speak a very little. Please direct to me to
+            Briggs and Co. at <name type="place" ref="#cairo">Cairo</name>; if I am gone, the
+            letters will follow up the river.</p>
+      </body>
+   </text>
+</TEI>

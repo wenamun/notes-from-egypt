@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, LUXOR, April 14, 1864.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/38">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <rs type="place" ref="http://www.geonames.org/360502">Luxor</rs>
+               <date when="1864-04-14">14 April 1864</date>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/315623459">Sir Alexander Duff
+                  Gordon</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <name type="person" ref="#alick">Alick</name>,</p>
+         <p>I have but this moment received your letter of the 18th March, which went after <name type="person" ref="#janet">Janet</name>, who was hunting at Tel-el-Kebir. We have had
+            a tremendous Khamseen wind, and now a strong north wind quite fresh and cool. The
+            thermometer was 92° during the Khamseen, but it did me no harm. Luckily I am very well
+            for I am worked hard, as a strange epidemic has broken out, and I am the _Hakeemeh_
+            (doctress) of Luxor. The _Hakeem_ Pasha from <name type="place" ref="#cairo">Cairo</name> came up and frightened the people, telling them it was catching, and
+            Yussuf forgot his religion so far as to beg me not to be all day in the people’s huts;
+            but <name type="person" ref="#omar">Omar</name> and I despised the danger, I feeling
+            sure it was not infectious, and <name type="person" ref="#omar">Omar</name> saying _Min
+            Allah_. The people get stoppage of the bowels and die in eight days unless they are
+            physicked; all who have sent for me in time have recovered. _Alhamdulillah_, that I can
+            help the poor souls. It is harvest, and the hard work, and the spell of intense heat,
+            and the green corn, beans, etc., which they eat, brings on the sickness. Then the Copts
+            are fasting from all animal food, and full of green beans and salad, and green corn.
+            Mustapha tried to persuade me not to give physick, for fear those who died should pass
+            for being poisoned, but both <name type="person" ref="#omar">Omar</name> and I are sure
+            it is only to excuse his own selfishness. <name type="person" ref="#omar">Omar</name> is
+            an excellent assistant. The bishop tried to make money by hinting that if I forbade my
+            patients to fast, I might pay for their indulgence. One poor, peevish little man refused
+            the chicken-broth, and told me that we Europeans had _our_ heaven in _this_ world; <name type="person" ref="#omar">Omar</name> let out _kelb_ (dog), but I stopped him, and
+            said, ‘Oh, my brother, God has made the Christians of England unlike those of Egypt, and
+            surely will condemn neither of us on that account; mayest thou find a better heaven
+            hereafter than I now enjoy here.’ <name type="person" ref="#omar">Omar</name> threw his
+            arms round me and said, ‘Oh, thou good one, surely our Lord will reward thee for acting
+            thus with the meekness of a Muslimeh, and kissing the hand of him who strikes thy face.’
+            (See how each religion claims humility.) Suleyman was not pleased at his
+            fellow-christian’s display of charity. It does seem strange that the Copts of the lower
+            class will not give us the blessing, or thank God for our health like the Muslimeen.
+            Most of my patients are Christians, and some are very nice people indeed. The people
+            here have named me Sittee (Lady) _Noor-ala-Noor_. A poor woman whose only child, a young
+            man, I was happy enough to cure when dreadfully ill, kissed my feet and asked by what
+            name to pray for me. I told her my name meant _Noor_ (light—_lux_), but as that was one
+            of the names of God I could not use it. ‘Thy name is _Noor-ala-Noor_,’ said a man who
+            was in the room. That means something like ‘God is upon thy mind,’ or ‘light from the
+            light,’ and _Noor-ala-Noor_ it remains; a combination of one of the names of God is
+            quite proper, like Abdallah, Abdurachman, etc. I begged some medicines from a Countess
+            Braniscki, who went down the other day; when all is gone I don’t know what I shall do. I
+            am going to try to make castor oil; I don’t know how, but I shall try, and <name type="person" ref="#omar">Omar</name> fancies he can manage it. The cattle disease
+            has also broken out desperately up in <name type="place" ref="#esneh">Esneh</name>, and
+            we see the dead beasts float down all day. Of course we shall soon have it here.</p>
+         <p>_Sunday_, _April_ 17.—The epidemic seems to be over, but there is still a great deal of
+            gastric fever, etc., about. The _hakeem_ from <name type="place" ref="#kenneh">Keneh</name> has just been here—such a pleasing, clever young man, speaking Italian
+            perfectly, and French extremely well. He is the son of some fellah of Lower Egypt, sent
+            to study at Pisa, and has not lost the Arab gentility and elegance by a _Frenghi_
+            education. We fraternized greatly, and the young _hakeem_ was delighted at my love for
+            his people, and my high opinion of their intelligence. He is now gone to inspect the
+            sick, and is to see me again and give me directions. He was very unhappy that he could
+            not supply me with medicines; none are to be bought above <name type="place" ref="#cairo">Cairo</name>, except from the hospital doctors, who sell the medicines
+            of the Government, as the Italian at <name type="place" ref="#siout">Siout</name> did.
+            But Ali Effendi is too honest for that. The old bishop paid me a visit of three and a
+            half hours yesterday, and _pour me tirer une carotte_ he sent me a loaf of sugar, so I
+            must send a present ‘for the church’ to be consumed in raki. The old party was not very
+            sober, and asked for wine. I coolly told him it was _haraam_ (forbidden) to us to drink
+            during the day—only with our dinner. I never will give the Christians drink here, and
+            now they have left off pressing me to drink spirits at their houses. The bishop offered
+            to alter the hour of prayer for me, and to let me into the _Heykel_ (where women must
+            not go) on Good Friday, which will be eighteen days hence. All of which I refused, and
+            said I would go on the roof of the church and look down through the window with the
+            other _<foreign xml:lang="ar">Hareem</foreign>at_. <name type="person" ref="#omar">Omar</name> kissed the bishop’s hand, and I said: ‘What! do _you_ kiss his hand like
+            a Copt?’ ‘Oh yes, he is an old man, and a servant of my God, but dreadful dirty,’ added
+               <name type="person" ref="#omar">Omar</name>; and it was too true. His presence
+            diffused a fearful monastic odour of sanctity. A Bishop must be a monk, as priests are
+            married.</p>
+         <p>_Monday_.—To-day Ali Effendi-_el-Hakeem_ came to tell me how he had been to try to see
+            my patients and failed; all the families declared they were well and would not let him
+            in. Such is the deep distrust of everything to do with the Government. They all waited
+            till he was gone away, and then came again to me with their ailments. I scolded, and
+            they all said, ‘_Wallah, ya Sitt, ya Emeereh_; that is the _Hakeem_ Pasha, and he would
+            send us off to hospital at <name type="place" ref="#kenneh">Keneh</name>, and then they
+            would poison us; by thy eyes do not be angry with us, or leave off from having
+            compassion on us on this account.’ I said, ‘Ali Effendi is an Arab and a Muslim and an
+            _Emeer_ (gentleman), and he gave me good advice, and would have given more,’ etc. No use
+            at all. He is the Government doctor, and they had rather die, and will swallow anything
+            from _el-Sittee Noor-ala-Noor_. Here is a pretty state of things.</p>
+         <p>I gave Sheykh Yussuf £4 for three months’ daily lessons last night, and had quite a
+            contest to force it upon him. ‘It is not for money, oh Lady;’ and he coloured crimson.
+            He had been about with Ali Effendi, but could not get the people to see him. The Copts,
+            I find, _have_ a religious prejudice against him, and, indeed, against all heretics.
+            They consider themselves and the Abyssinians as the only true believers. If they
+            acknowledge _us_ as brethren, it is for money. I speak only of the low class, and of the
+            priests; of course the educated merchants are very different. I had two priests and two
+            deacons, and the mother of one, here to-day for physic for the woman. She was very
+            pretty and pleasing; miserably reduced and weak from the long fast. I told her she must
+            eat meat and drink a little wine, and take cold baths, and gave her quinine. She will
+            take the wine and the quinine, but neither eat nor wash. The Bishop tells them they will
+            die if they break the fast, and half the Christians are ill from it. One of the priests
+            spoke a little English; he fabricates false antiques very cleverly, and is tolerably
+            sharp; but, Oh _mon Dieu_, it is enough to make one turn Muslim to compare these greasy
+            rogues with such high-minded charitable _shurafa_ (noblemen) as Abd-el-Waris and Sheykh
+            Yussuf. A sweet little Copt boy who is very ill will be killed by the stupid bigotry
+            about the fast. My friend Suleyman is much put out, and backs my exhortations to the
+            sick to break it. He is a capital fellow, and very intelligent, and he and <name type="person" ref="#omar">Omar</name> are like brothers; it is the priests who do all
+            they can to keep alive religious prejudice. _Alhamdulillah_, they are only partially
+            successful. Mohammed has just heard that seventy-five head of cattle are dead at
+            El-Moutaneh. Here only a few have died as yet, and Ali Effendi thinks the disease less
+            virulent than in Lower Egypt. I hope he is right; but dead beasts float down the river
+            all day long.</p>
+         <p>To turn to something more amusing—but please don’t tell it—such a joke against my gray
+            hairs. I have had a proposal, or at least an attempt at one. A very handsome
+            Sheykh-el-Arab (_Bedawee_) was here for a bit, and asked <name type="person" ref="#omar">Omar</name> whether I were a widow or divorced, as in either case he would send a
+            _dellaleh_ (marriage brokeress) to me. <name type="person" ref="#omar">Omar</name> told
+            him that would never do. I had a husband in England; besides, I was not young, had a
+            married daughter, my hair was gray, etc. The Sheykh swore he didn’t care; I could dye my
+            hair and get a divorce; that I was not like stupid modern women, but like an ancient
+            Arab _Emeereh_, and worthy of Antar or Abou Zeyd—a woman for whom men killed each other
+            or themselves—and he would pay all he could afford as my dowry. <name type="person" ref="#omar">Omar</name> came in in fits of laughter at the idea, and the difficulty
+            he had had in stopping the _dellaleh’s_ visit. He told the Sheykh I should certainly
+            beat her I should be so offended. The disregard of differences of age here on marriage
+            is very strange. My adorer was not more than thirty, I am sure. Don’t tell people, my
+            dear <name type="person" ref="#alick">Alick</name>; it is so very absurd; I should be
+            ‘ashamed before the people.’</p>
+         <p>_Saturday_, _April_ 23.—_Alhamdulillah_! the sickness is going off. I have just heard
+            Suleyman’s report as follows: Hassan Abou-Achmet kisses the Emeereh’s feet, and the
+            bullets have cleaned his stomach six times, and he has said the _Fathah_ for the Lady.
+            The two little girls who had diarrhœa are well. The Christian dyer has vomited his
+            powder and wants another. The mother of the Christian cook who married the priest’s
+            sister has got dysentery. The <foreign xml:lang="ar">hareem</foreign> of Mustapha
+            Abou-Abeyd has two children with bad eyes. The Bishop had a quarrel, and scolded and
+            fell down, and cannot speak or move; I must go to him. The young-deacon’s jaundice is
+            better. The slave girl of Kursheed A’gha is sick, and Kursheed is sitting at her head in
+            tears; the women say I must go to her, too. Kursheed is a fine young Turk, and very good
+            to his _<foreign xml:lang="ar">Hareem</foreign>at_. That is all; Suleyman has nothing on
+            earth to do, and brings me a daily report; he likes the gossip and the importance.</p>
+         <p>The reis of a cargo-boat brought me up your Lafontaine, and some papers and books from
+               <name type="person" ref="#hekekian_bey">Hekekian Bey</name>. Sheykh Yussuf is going
+            down to <name type="place" ref="#cairo">Cairo</name>, to try to get back some of the
+            lands which Mahommed Ali took away from the mosques and the Ulema without compensation.
+            He asked me whether <name type="person" ref="#ross">Ross</name> would speak for him to
+            Effendina! What are the Muslimeen coming to? As soon as I can read enough he offers to
+            read in the Koran with me—a most unusual proceeding, as the ‘noble Koran’ is not
+            generally put into the hands of heretics; but my ‘charity to the people in sickness’ is
+            looked upon by Abd-el-Waris the Imam, and by Yussuf, as a proof that I have ‘received
+            direction,’ and am of those Christians of whom _Seyyidna_ Mohammed (upon whose name be
+            peace) has said ‘that they have no pride, that they rival each other in good works, and
+            that God will increase their reward.’ There is no _arrière pensée_ of conversion that
+            they think hopeless, but charity covers all sins with Muslimeen. Next Friday is the
+            _Djuma el-Kebeer_ (Good Friday) with the Copts, and the prayers are in the daytime, so I
+            shall go to the church. Next moon is the great Bairam, _el-Eed el-Kebeer_ (the great
+            festival), with the Muslimeen—the commemoration of the sacrifice of Isaac or Ishmael
+            (commentators are uncertain which)—and <name type="person" ref="#omar">Omar</name> will
+            kill a sheep for the poor for the benefit of his baby, according to custom. I have at
+            length compassed the destruction of mine enemy, though he has not written a book. A
+            fanatical Christian dog (quadruped), belonging to the Coptic family who live on the
+            opposite side of the yard, hated me with such virulent intensity that, not content with
+            barking at me all day, he howled at me all night, even after I had put out the lantern
+            and he could not see me in bed. Sentence of death has been recorded against him, as he
+            could not be beaten into toleration. Michaïl, his master’s son, has just come down from
+            El-Moutaneh, where he is _vakeel_ to M. Mounier. He gives a fearful account of the
+            sickness there among men and cattle—eight and ten deaths a day; here we have had only
+            four a day, at the worst, in a population of (I guess) some 2,000. The Mouniers have put
+            themselves in quarantine, and allow no one to approach their house, as Mustapha wanted
+            me to do. One hundred and fifty head of cattle have died at El-Moutaneh; here only a few
+            calves are dead, but as yet no full-grown beasts, and the people are healthy again. I
+            really think I did some service by not showing any fear, and <name type="person" ref="#omar">Omar</name> behaved manfully. By-the-by, will you find out whether a
+            _passaporto_, as they call it, a paper granting British protection, can be granted in
+            England. It is the object of <name type="person" ref="#omar">Omar</name>’s highest
+            ambition to belong as much as possible to the English, and feel safe from being forced
+            to serve a Turk. If it can be done by any coaxing and jobbing, pray do it, for <name type="person" ref="#omar">Omar</name> deserves any service I can render him in return
+            for all his devotion and fidelity. Someone tried to put it into his head that it was
+            _haraam_ to be too fond of us heretics and be faithful, but he consulted Sheykh Yussuf,
+            who promised him a reward hereafter for good conduct to me, and who told me of it as a
+            good joke, adding that he was _raghil ameen_, the highest praise for fidelity, the
+            sobriquet of the Prophet. Do not be surprised at my lack of conscience in desiring to
+            benefit my own follower _in qualunque modo_; justice is not of Eastern growth, and
+            _Europeo_ is ‘your only wear,’ and here it is only base not to stick by one’s friends.
+               <name type="person" ref="#omar">Omar</name> kisses the hands of the _Sidi-el-Kebeer_
+            (the great master), and desires his best salaam to the little master and the little
+            lady, whose servant he is. He asks if I, too, do not kiss Iskender Bey’s hand in my
+            letter, as I ought to do as his <foreign xml:lang="ar">Hareem</foreign>, or whether ‘I
+            make myself big before my master,’ like some French ladies he has seen? I tell him I
+            will do so if Iskender Bey will get him his _warak_ (paper), whereupon he picks up the
+            hem of my gown and kisses that, and I civilly expostulate on such condescension to a
+            woman. Yussuf is quite puzzled about European women, and a little shocked at the want of
+            respect to their husbands they display. I told him that the outward respect shown to us
+            by our men was _our veil_, and explained how superficial the difference was. He fancied
+            that the law gave us the upper hand. <name type="person" ref="#omar">Omar</name> reports
+            yesterday’s sermon ‘on toleration,’ it appears. Yussuf took the text of ‘Thou shalt love
+            thy brother as thyself, and never act towards him but as thou wouldest he should act
+            towards thee.’ I forget chapter and verse; but it seems he took the bull by the horns
+            and declared _all men_ to be brothers, not Muslimeen only, and desired his congregation
+            to look at the good deeds of others and not at their erroneous faith, for God is
+            all-knowing (_i.e._, He only knows the heart), and if they saw aught amiss to remember
+            that the best man need say _Astafer Allah_ (I beg pardon of God) seven times a day.</p>
+         <p>I wish the English could know how unpleasant and mischievous their manner of talking to
+            their servants about religion is. <name type="person" ref="#omar">Omar</name> confided
+            to me how bad it felt to be questioned, and then to see the Englishman laugh or put up
+            his lip and say nothing. ‘I don’t want to talk about his religion at all, but if he
+            talks about mine he ought to speak of his own, too. You, my Lady, say, when I tell you
+            things, that is the same with us, or that is different, or good, or not good in your
+            mind, and that is the proper way, not to look like thinking “all nonsense.”’</p>
+         <p>ESNEH, _Saturday_, _April_ 30.</p>
+         <p>On Thursday evening as I was dreamily sitting on my divan, who should walk in but Arthur
+            Taylor, on his way, all alone in a big dahabieh, to <name type="place" ref="#edfou">Edfou</name>. So I offered to go too, whereupon he said he would go on to <name type="place" ref="#assouan">Assouan</name> and see <name type="place" ref="#philae">Philae</name> as he had company, and we went off to Mustapha to make a bargain with
+            his <name type="person" ref="#reis">Reis</name> for it; thus then here we are at <name type="place" ref="#esneh">Esneh</name>. I embarked on Wednesday evening, and we have
+            been two days _en route_. Yesterday we had the thermometer at 110; I was the only person
+            awake all day in the boat. <name type="person" ref="#omar">Omar</name>, after cooking,
+            lay panting at my feet on the deck. Arthur went fairly to bed in the cabin; ditto <name type="person" ref="#sally">Sally</name>. All the crew slept on the deck. <name type="person" ref="#omar">Omar</name> cooked amphibiously, bathing between every meal. The silence
+            of noon with the _white heat_ glowing on the river which flowed like liquid tin, and the
+            silent Nubian rough boats floating down without a ripple, was magnificent and really
+            awful. Not a breath of wind as we lay under the lofty bank. The Nile is not quite so
+            low, and I see a very different scene from last year. People think us crazy to go up to
+               <name type="place" ref="#assouan">Assouan</name> in May, but I do enjoy it, and I
+            really wanted to forget all the sickness and sorrow in which I have taken part. When I
+            went to Mustapha’s he said Sheykh Yussuf was ill, and I said ‘Then I won’t go.’ But
+            Yussuf came in with a sick headache only. Mustapha repeated my words to him, and never
+            did I see such a lovely expression in a human face as that with which Yussuf said _Eh,
+            ya Sitt_! Mustapha laughed, and told him to thank me, and Yussuf turned to me and said,
+            in a low voice, ‘my sister does not need thanks, save from God.’ Fancy a Shereef, one of
+            the Ulema, calling a _Frengeeyeh_ ‘sister’! His pretty little girl came in and played
+            with me, and he offered her to me for <name type="person" ref="#maurice">Maurice</name>.
+            I cured Kursheed’s Abyssinian slave-girl. You would have laughed to see him obeying my
+            directions, and wiping his eyes on his gold-embroidered sleeve. And then the Coptic
+            priest came for me for his wife who was ill. He was in a great quandary, because, if she
+            died, he, as a priest, could never marry again, as he loudly lamented before her; but he
+            was truly grieved, and I was very happy to leave her convalescent.</p>
+         <p>Verily we are sorely visited. The dead cattle float down by thousands. M. Mounier buried
+            a thousand at El-Moutaneh alone, and lost forty men. I would not have left Luxor, but
+            there were no new cases for four days before, and the worst had been over for full ten
+            days. Two or three poor people brought me new bread and vegetables to the boat when they
+            saw me going, and Yussuf came down and sat with us all the evening, and looked quite
+            sad. <name type="person" ref="#omar">Omar</name> asked him why, and he said it made him
+            think how it would seem when ‘_Inshallah_ should be well and should leave my place empty
+            at Luxor and go back with the blessing of God to my own place and to my own people.’
+            Whereupon <name type="person" ref="#omar">Omar</name> grew quite sentimental too, and
+            nearly cried. I don’t know how Arthur would have managed without us, for he had come
+            with two Frenchmen who had proper servants and who left the boat at <name type="place" ref="#girgeh">Girgeh</name>, and he has a wretched little dirty idiotic Coptic tailor
+            as a servant, who can’t even sew on a button. It is becoming quite a calamity about
+            servants here. Arthur tells me that men, not fit to light <name type="person" ref="#omar">Omar</name>’s pipe, asked him £10 a month in <name type="place" ref="#cairo">Cairo</name> and would not take less, and he gives his Copt £4. I really
+            feel as if I were cheating <name type="person" ref="#omar">Omar</name> to let him stay
+            on for £3; but if I say anything he kisses my hand and tells me ‘not to be cross.’</p>
+         <p>I have letters from Yussuf to people at <name type="place" ref="#assouan">Assouan</name>. If I want anything I am to call on the Kadee. We have a very excellent
+            boat and a good crew, and are very comfortable. When the Luxor folk heard the ‘son of my
+            uncle’ was come, they thought it must be my husband. I was diverted at <name type="person" ref="#omar">Omar</name>’s propriety. He pointed out to Mustapha and
+            Yussuf how _he_ was to sleep in the cabin between Arthur’s and mine, which was
+            considered quite satisfactory apparently, and it was looked upon as very proper of <name type="person" ref="#omar">Omar</name> to have arranged it so, as he had been sent to
+            put the boat in order. Arthur has been all along the <name type="place" ref="#suez">Suez
+            </name> Canal, and seen a great many curious things. The Delta must be very unlike Upper
+            Egypt from all he tells me. The little troop of pilgrims for <name type="place" ref="#mecca">Mecca</name> left Luxor about ten days ago. It was a pretty and touching
+            sight. Three camels, five donkeys, and about thirty men and women, several with babies
+            on their shoulders, all uttering the _zaghareet_ (cry of joy). They were to walk to
+            Koseir (eight days’ journey with good camels), babies and all. It is the happiest day of
+            their lives, they say, when they have scraped together money enough to make the
+            _hajj_.</p>
+         <p>This minute a poor man is weeping beside our boat over a pretty heifer decked with many
+            _hegabs_ (amulets), which have not availed against the sickness. It is heart-rending to
+            see the poor beasts and their unfortunate owners. Some dancing girls came to the boat
+            just now for cigars which Arthur had promised them, and to ask after their friend el
+            Maghribeeyeh, the good dancer at Luxor, whom they said was very ill. <name type="person" ref="#omar">Omar</name> did not know at all about her, and the girls seemed much
+            distressed. They were both very pretty, one an Abyssinian. I must leave off to send this
+            to the post; it will cost a fortune, but you won’t grudge it.</p>
+      </body>
+   </text>
+</TEI>

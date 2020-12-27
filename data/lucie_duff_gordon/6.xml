@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mrs. Austin, A FEW MILES BELOW GIRGEH, March 7, 1863.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/6">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <rs type="place" ref="http://www.geonames.org/355026">Girga</rs>
+               <date when="1863-03-07">7 March 1863</date>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/59830344">Sarah Austin</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <foreign xml:lang="de"><name type="person" ref="#sarah_austin">Mutter</name></foreign>,</p>
+
+         <p>I was so glad to find from your letter (which Janet sent me to <name type="place" ref="#thebes">Thebes</name> by a steamer) that mine from <name type="place" ref="#siout">Siout</name> had reached you safely. First and foremost I am wonderfully
+            better. In <name type="place" ref="#cairo">Cairo</name> the winter has been terribly
+            cold and damp, as the Coptic priest told me yesterday at <name type="place" ref="#girgeh">Girgeh</name>. So I don’t repent the expense of the boat for <hi rendition="italic"><foreign xml:lang="fr">j’en ai pour mon argent</foreign></hi>—I am
+               <hi rendition="italic">all</hi> the money better and really think of getting well.
+            Now that I know the ways of this country a little, which <name type="person" ref="#herodotus">Herodotus</name> truly says is like no other, I see that I might
+            have gone and lived at <name type="place" ref="#thebes">Thebes</name> or at <name type="place" ref="#kenneh">Keneh</name> or <name type="place" ref="#assouan">Assouan</name> on next to nothing, but then how could I know it? The English have
+            raised a mirage of false wants and extravagance which the servants of the country of
+            course, some from interest and others from mere ignorance, do their best to keep up. As
+            soon as I had succeeded in really persuading <name type="person" ref="#omar">Omar</name>
+            that I was not as rich as a Pasha and had no wish to be thought so, he immediately
+            turned over a new leaf as to what must be had and said ‘Oh, if I could have thought an
+            English lady would have eaten and lived and done the least like Arab people, I might
+            have hired a house at <name type="place" ref="#kenneh">Keneh</name> for you, and we
+            might have gone up in a clean passenger boat, but I thought no English could bear it.’
+            At <name type="place" ref="#cairo">Cairo</name>, where we shall be, <foreign xml:lang="ar">Inshallaha</foreign>, on the <date>19th</date>, <name type="person" ref="#omar">Omar</name> will get a lodging and borrow a few mattresses and a table
+            and chair and, as he says, ‘keep the money in our pockets instead of giving it to the
+            hotel.’ I hope <name type="person" ref="#alick">Alick</name> got my letter from <name type="place" ref="#thebes">Thebes</name>, and that he told you that I had dined with
+            ‘the blameless Ethiopians.’ I have seen all the temples in <name type="place" ref="#nubia">Nubia</name> and down as far as I have come, and nine of the tombs at
+               <name type="place" ref="#thebes">Thebes</name>. Some are wonderfully beautiful—<name type="place" ref="#abou_simbel">Abou Simbel</name>, <name type="place" ref="#kalabshee">Kalabshee</name>, <name type="place" ref="#koum_ombo">Koom
+               Ombo</name>—a little temple at <name type="place" ref="#el_kab">El Kab</name>,
+            lovely—three tombs at <name type="place" ref="#thebes">Thebes</name> and most of all
+               <name type="place" ref="#abydos">Abydos</name>; <name type="place" ref="#edfou">Edfou</name> and <name type="place" ref="#dendera">Dendera</name> are the most
+            perfect, <name type="place" ref="#edfou">Edfou</name> quite perfect, but far less
+            beautiful. But the most lovely object my eyes ever saw is the island of <name type="place" ref="#philae">Philæ</name>. It gives one quite the supernatural feeling
+            of <name type="person" ref="#claude">Claude</name>’s best landscapes, only not the least
+            like them—<hi rendition="italic"><foreign xml:lang="de">ganz anders</foreign></hi>. The
+            Arabs say that <name type="person" ref="#ans_el_wogood">Ans el Wogood</name>, the most
+            beautiful of men, built it for his most beautiful beloved, and there they lived in
+            perfect beauty and happiness all alone. If the weather had not been so cold while I was
+            there I should have lived in the temple, in a chamber sculptured with the mystery of
+               <name type="person" ref="#osiris">Osiris</name>’ burial and resurrection. <name type="person" ref="#omar">Omar</name> cleaned it out and meant to move my things
+            there for a few days, but it was too cold to sleep in a room without a door. The winds
+            have been extraordinarily cold this year, and are so still. We have had very little of
+            the fine warm weather, and really been pinched with cold most of the time. On the shore
+            away from the river would be much better for invalids.</p>
+
+         <p><name type="person" ref="mustapha_aga">Mustapha Aga</name>, the consular agent at <name type="place" ref="#thebes">Thebes</name>, has offered me a house of his, up among the
+            tombs in the finest air, if ever I want it. He was very kind and hospitable indeed to
+            all the English there. I went into his <foreign xml:lang="ar">hareem</foreign>, and
+            liked his wife’s manners very much. It was charming to see that she henpecked her
+            handsome old husband completely. They had fine children and his boy, about thirteen or
+            so, rode and played Jereed one day when <name type="person" ref="#abdallah_pasha">Abdallah Pasha</name> had ordered the people of the neighbourhood to do it for
+            General <name type="person" ref="#parker">Parker</name>. I never saw so beautiful a
+            performance. The old General and I were quite excited, and he tried it to the great
+            amusement of the Sheykh el Beled. Some young Englishmen were rather grand about it, but
+            declined mounting the horses and trying a throw. The Sheykh and young Hassan and then
+            old Mustapha wheeled round and round like beautiful hawks, and caught the palm-sticks
+            thrown at them as they dashed round. It was superb, and the horses were good, though the
+            saddles and bridles were rags and ends of rope, and the men mere tatterdemalions. A
+            little below <name type="place" ref="#thebes">Thebes</name> I stopped, and walked inland
+            to <name type="place" ref="#koos">Koos</name> to see a noble old mosque falling to ruin.
+            No English had ever been there and we were surrounded by a crowd in the <foreign xml:lang="ar">bazaar</foreign>. Instantly five or six tall fellows with long sticks
+            improvised themselves our body-guard and kept the people off, who <hi rendition="italic"><foreign xml:lang="fr">du reste</foreign></hi> were perfectly civil and only
+            curious to see such strange ‘<foreign xml:lang="ar">Hareem</foreign>,’ and after seeing
+            us well out of the town evaporated as quietly as they came without a word. I gave about
+            ten-pence to buy oil, as it is Ramadan and the mosque ought to be lighted, and the old
+            servant of the mosque kindly promised me full justice at the Day of Judgment, as I was
+            one of those Nasranee of whom the Lord <name type="person" ref="#mohammed">Mohammed</name> said that they are not proud and wish well to the Muslimeen. The
+            Pasha had confiscated all the lands belonging to the mosque, and allowed 300
+            piastres—not £2 a month—for all expenses; of course the noble old building with its
+            beautiful carving and arabesque mouldings must fall down. There was a smaller one beside
+            it, where he declared that anciently forty girls lived unmarried and recited the
+            Koran—Muslim nuns, in fact. I intend to ask the Alim, for whom I have a letter from
+            Mustapha, about such an anomaly.</p>
+
+         <p>Some way above <name type="place" ref="#bellianeh">Bellianeh</name>
+            <name type="person" ref="#omar">Omar</name> asked eagerly leave to stop the boat as a
+            great Sheyk had called to us, and we should inevitably have some disaster if we
+            disobeyed. So we stopped and <name type="person" ref="#omar">Omar</name> said, ‘come and
+            see the Sheyk, ma’am.’ I walked off and presently found about thirty people, including
+            all my own men, sitting on the ground round St. Simon Stylites—without the column. A
+            hideous old man like <name type="person" ref="#polyphemus">Polyphemus</name>, utterly
+            naked, with the skin of a rhinoceros all cracked with the weather, sat there, and had
+            sat day and night, summer and winter, motionless for twenty years. He never prays, he
+            never washes, he does not keep Ramadan, and yet he is a saint. Of course I expected a
+            good hearty curse from such a man, but he was delighted with my visit, asked me to sit
+            down, ordered his servant to bring me sugar-cane, asked my name and tried to repeat it
+            over and over again, and was quite talkative and full of jokes and compliments, and took
+            no notice of anyone else. <name type="person" ref="#omar">Omar</name> and my crew smiled
+            and nodded, and all congratulated me heartily. Such a distinction proves my own
+            excellence (as the Sheyk knows all people’s thoughts), and is sure to be followed by
+            good fortune. Finally <name type="person" ref="#omar">Omar</name> proposed to say the
+               <foreign xml:lang="ar">Fathah</foreign> in which all joined except the Sheykh, who looked rather
+            bored by the interruption, and desired us not to go so soon, unless I were in a hurry. A
+            party of Bedaween came up on camels with presents for the holy man, but he took no
+            notice of them, and went on questioning <name type="person" ref="#omar">Omar</name>
+            about me, and answering my questions. What struck me was the total absence of any
+            sanctimonious air about the old fellow, he was quite worldly and jocose; I suppose he
+            knew that his position was secure, and thought his dirt and nakedness proved his
+            holiness enough. <name type="person" ref="#omar">Omar</name> then recited the Fathah
+            again, and we rose and gave the servants a few foddahs—the saint takes no notice of this
+            part of the proceeding—but he asked me to send him twice my hand full of rice for his
+            dinner, an honour so great that there was a murmur of congratulation through the whole
+            assembly. I asked <name type="person" ref="#omar">Omar</name> how a man could be a saint
+            who neglected all the duties of a Muslim, and I found that he fully believed that Sheykh
+            Seleem could be in two places at once, that while he sits there on the shore he is also
+            at <name type="place" ref="#mecca">Mecca</name>, performing every sacred function and
+            dressed all in green. ‘Many people have seen him there, ma’am, quite true.’</p>
+
+         <p>From <name type="place" ref="#bellianeh">Bellianeh</name> we rode on pack-donkeys
+            without bridles to <name type="place" ref="#abydos">Abydos</name>, six miles through the
+            most beautiful crops ever seen. The absence of weeds and blight is wonderful, and the
+            green of Egypt, where it is green, would make English green look black. Beautiful
+            cattle, sheep and camels were eating the delicious clover, while their owners camped
+            there in reed huts during the time the crops are growing. Such a lovely scene, all
+            sweetness and plenty. We ate our bread and dates in <name type="person" ref="#osiris">Osiris</name>’ temple, and a woman offered us buffalo milk on our way home, which we
+            drank warm out of the huge earthen pan it had been milked in. At <name type="place" ref="#girgeh">Girgeh</name> I found my former friend <name type="person" ref="#mishregi">Mishregi</name> absent, but his servants told some of his friends of
+            my arrival, and about seven or eight big black turbans soon gathered in the boat. A
+            darling little Coptic boy came with his father and wanted a ‘<hi rendition="italic"><foreign xml:lang="ar">kitaab</foreign></hi>’ (book) to write in, so I made one
+            with paper and the cover of my old pocket-book, and gave him a pencil. I also bethought
+            me of showing him ‘pickys’ in a book, which was so glorious a novelty that he wanted to
+            go with me to my town, ‘Beled Ingleez,’ where more such books were to be found.</p>
+
+         <p><name type="place" ref="#siout">Siout</name>, <date><hi rendition="italic">March</hi>
+               9</date>.</p>
+
+         <p>I found here letters from <name type="person" ref="#alick">Alick</name>, telling me of
+            dear <name type="person" ref="#lord_lansdowne">Lord Lansdowne</name>’s death. Of course
+            I know that his time was come, but the thought that I shall never see his face again,
+            that all that kindness and affection is gone out of my life, is a great blow. No friend
+            could leave such a blank to me as that old and faithful one, though the death of younger
+            ones might be more tragic; but so many things seem gone with him into the grave. Many
+            indeed will mourn that kind, wise, steadfast man—<hi rendition="italic"><foreign xml:lang="lat">Antiqua fides</foreign></hi>. No one nowadays will be so noble with
+            such unconsciousness and simplicity. I have bought two Coptic turbans to make a black
+            dress out of. I thought I should like to wear it for him—here, where ‘compliment’ is out
+            of the question.</p>
+
+         <p>I also found a letter from <name type="person" ref="#janet">Janet</name>, who has been
+            very ill; the account was so bad that I have telegraphed to hear how she is, and shall
+            go at once to <name type="place" ref="#alexandria">Alexandria</name> if she is not
+            better. If she is I shall hold to my plan and see <name type="place" ref="#beni_hassan">Beni Hassan</name> and the Pyramids on my way to <name type="place" ref="#cairo">Cairo</name>. I found my kind friend the Copt <name type="person" ref="#wassef">Wassef</name> kinder than ever. He went off to telegraph to <name type="place" ref="#alexandria">Alexandria</name> for me, and showed so much feeling and real
+            kindness that I was quite touched.</p>
+
+         <p>I was grieved to hear that you had been ill again, dearest <name type="person" ref="#sarah_austin">Mutter</name>. The best is that I
+            feel so much better that I think I may come home again without fear; I still have an
+            irritable cough, but it has begun to have lucid intervals, and is far less frequent. I
+            can walk four or five miles and my appetite is good. All this in spite of really cold
+            weather in a boat where nothing shuts within two fingers’ breadths. I long to be again
+            with my own people.</p>
+
+         <p>Please send this to <name type="person" ref="#alick">Alick</name>, to whom I will write
+            again from <name type="place" ref="#cairo">Cairo</name>.</p>
+      </body>
+   </text>
+</TEI>

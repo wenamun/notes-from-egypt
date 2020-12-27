@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>NFE Place Authority XML Schema</title>
+        <author xml:id="FG">Frank Grieshaber</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>NFE Project</publisher>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 4.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Created using the ROMA Beta version, based on TEI Minimal.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change who="FG" when="2020-12-26">generated first version of NFE schema based on TEI Minimal</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Notes From Egypt: Places Authority</head>
+      <p>This TEI ODD defines a TEI customization that is as minimal as possible and the schema
+        generated from it will validate the place authority file used in the NFE project
+        (https://notesfromegypt.info); the following elements are allowed: <list rend="numbered">
+          <item><gi>teiHeader</gi> from the header module to store required metadata</item>
+          <item><gi>fileDesc</gi> from the header module to record information about this
+            file</item>
+          <item><gi>titleStmt</gi> from the header module to record information about the
+            title</item>
+          <item><gi>publicationStmt</gi> from the header module to detail how it is published</item>
+          <item><gi>sourceDesc</gi> from the header module to record where it is from</item>
+          <item><gi>p</gi> from the core module for use in the header and the body</item>
+          <item><gi>title</gi> from the core module for use in the titleStmt</item>
+          <item><gi>TEI</gi> from the textstructure module because what is a TEI file without
+            that?</item>
+          <item><gi>text</gi> from the textstructure module to hold some text</item>
+          <item><gi>body</gi> from the textstructure module as a place to put that text</item>
+          <item><gi>listPlace</gi> from the namesdates module to list nested place elements</item>
+          <item><gi>place</gi> from the namesdates module to hold information about place</item>
+          <item><gi>placeName</gi> from the namesdates module to add the name of the place</item>
+          <item><gi>location</gi> from the namesdates module to add the location of the place</item>
+          <item><gi>geo</gi> from the namesdates module to add the geographic coordinates of the
+            place</item>
+          <item><gi>note</gi> from the core module to add a note to describe the place</item>
+          <item><gi>idno</gi> from the header module to add links to external resources and
+            gazetteers</item>
+        </list>
+      </p>
+      <schemaSpec ident="tei_nfe_place" start="TEI" prefix="tei_" targetLang="en" docLang="en">
+
+        <!-- required minimal header elements -->
+        <moduleRef key="header" include="teiHeader fileDesc titleStmt publicationStmt sourceDesc idno"/>
+
+        <!-- required core elements (p and title for use in titleStmt) -->
+        <moduleRef key="core" include="p title note"/>
+
+        <!-- required textstructure elements (TEI, text, and body) -->
+        <moduleRef key="textstructure" include="TEI text body"/>
+
+        <!-- required module tei instantiates lots of classes used for further expansion of this odd -->
+        <moduleRef key="tei"/>
+
+        <!-- additional elements for modelling place information -->
+        <moduleRef key="namesdates" include="listPlace place placeName location geo"/>
+      
+      </schemaSpec>
+    </body>
+  </text>
+</TEI>

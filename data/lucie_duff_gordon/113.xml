@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, LUXOR, December 20, 1867.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/113">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <date when="1867-12-20">20 December 1867</date>
+               <rs type="place" ref="http://www.geonames.org/360502">Luxor</rs>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/315623459">Sir Alexander Duff
+                  Gordon</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <name type="person" ref="#alick">Alick</name>, </p>
+         <p> We arrived here all safe three days ago. I think of starting for <name type="place" ref="#nubia">Nubia</name> directly after Christmas Day, which we must keep here. We
+            have lovely weather. <name type="person" ref="#maurice">Maurice</name> is going with a
+            friend of my friends, a Bedawee, to shoot, I hope among the Abab’deh he will get some
+            gazelle shooting. I shall stop at Syaleh to visit the Sheykh’s mother, and with them
+               <name type="person" ref="#maurice">Maurice</name> could go for some days into the
+            desert. As to crocodiles, Inshallah, we will eat their hearts, and not they ours. You
+            may rely on it that <name type="person" ref="#maurice">Maurice</name> is ‘on the head
+            and in the eye’ of all my crew, and will not be allowed to bathe in ‘unclean places.’
+               <name type="person" ref="#reis">Reis</name> Mohammed stopped him at Gebel Abu’l Foda.
+            You would be delighted to see how different he looks; all his clothes are too tight now.
+            He says he is thoroughly happy, and that he was never more amused than when with me,
+            which I think very flattering. </p>
+         <p> Half of the old house at Luxor fell down into the temple beneath six days before I
+            arrived; so there is an end of the _Maison de France_, I suppose. It might be made very
+            nice again at a small expense, but I suppose the Consul will not do it, and certainly I
+            shall not unless I want it again. Nothing now remains solid but the three small front
+            rooms and the big hall with two rooms off it. All the part I lived in is gone, and the
+            steps, so one cannot get in. Luckily Yussuf had told Mohammed to move my little
+            furniture to the part which is solid, having a misgiving of the rest. He has the most
+            exquisite baby, an exact minature of himself. He is in a manner my godson, being named
+            Noor ed-Deen Hishan Abu-l-Hajjaj, to be called _Noor_ like me.</p>
+      </body>
+   </text>
+</TEI>

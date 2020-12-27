@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On board the Nile Boat Mary Victoria, about 8 miles below Dekkeh,
+               Nubia. January 5th, 1851.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from https://archive.org/details/lettersfromegypt00brom</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/william-arnold-bromfield/letters/12">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/160825459">William Arnold
+                  Bromfield</name>
+               <name type="place" ref="http://www.geonames.org/7031558">ad-Dakka</name>
+               <date when="1851-01-05">5 January 1851</date>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person">Eliza Bromfield</name>
+               <name type="place" ref="http://www.geonames.org/2638911">Ryde</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>My dear E</p>
+
+         <p>An opportunity will be given me on our arrival at Wady Halfeh (the second Cataract,) or
+            perhaps sooner, of dispatching these two letters to <name type="place" ref="#cairo">Cairo</name>. I am extremely vexed at being in a position which debars me, and has
+            so long debarred me, from receiving news of you; but I am thankful at the same time,
+            that the channel of communication homewards has not been cut olF, so that I can allay
+            your anxiety from time to time, by means of Government or travellers' boats returning to
+               <name type="place" ref="#cairo">Cairo</name>.</p>
+
+         <p>We are now wending our way slowly, but surely, to that Ultima Thule of most Egyptian
+            travellers, the second Cataract at Wady Halfeh, enjoying the sun and warmth of the
+            tropic which we passed yesterday about noon, near <name type="place" ref="#kalabshee">Kalabshee</name>. The evenings are no longer
+            anything like so chilly as they were but a few days since: but the mornings are as fresh
+            still as in England, and cool for the latitude. At <name type="place" ref="#assouan">Assouan</name>, where we arrived on the 30th, we had a very violent gale of wind for
+            nearly twenty -four hours, from the northward, which made the air feel quite chilly all
+            day on the 31st, and filled the atmosphere with sand from the desert.</p>
+
+         <p>We expect to reach Wady Halfeh in four or five days; from whence we propose setting out
+            with six camels, our two servants Ameen and Mohammed, our Egyptian cook Saad, and one or
+            two of the boat's crew, for Dongola and Meroe, about fifteen days journey into the
+            interior. We are promised plenty of sport, gazelles and other game; and in a large
+            island in the Nile called Argo, there is a solitary hippopotamus well known to the
+            natives, who can at any time find out his haunts, and point him out to strangers. To him
+            we mean to pay a visit, and if possible shoot him, but they say, he bears a charmed
+            life, and laughs at balls, dozens of which his impenetrable hide has defied already, so
+            we can hardly hope to carry olf his head for a trophy; still it will be something to see
+            a hippopotamus in his native wilds.</p>
+
+         <p>Our servants and crew (with the exception of the cook Saad, who is an Egyptian, and a
+            Coptic Christian), being all Nubians, are delighted at finding themselves in their own
+            country, and our young reis and the pilot have already visited their native villages,
+            where we allowed them to go ashore to their friends for a few hours. Ameen, as a native
+            of Meroe, and Mohammed, of Dongola, are quite overjoyed at the prospect of seeing their
+            remote homes once more, for the love of country is very strong among the Nubians.</p>
+
+         <p>We have engaged the pilot who conducts our little bark through the intricate navigation
+            of the river between the first and second cataracts, to take charge of the boat at Wady
+            Halfeh for two piastres per diem, (about four pence sterling,) during our expedition to
+            the interior of Nubia, or more properly, into the Berber country, for Nubia Proper is
+            included in the district between the first and second Cataracts. This pilot, we took on
+            board at <name type="place" ref="#assouan">Assouan</name>, where his contract was
+            signed, sealed, and delivered with due form and ceremony before the Turkish authorities
+            in our presence. We purchased an excellent tent of a most obliging Frenchman named
+            Venderg, a gun merchant, on his way down the river to <name type="place" ref="#cairo">Cairo</name> from Kordufan with a cargo of that article; for which we paid only the
+            small sum of 200 piastres, or about £2 sterling. We shall leave most of our clothing and
+            other things in the boat, taking no more than is absolutely necessary for the
+            expedition, which will occupy us a month at least; and probably six weeks will elapse
+            before we return to Wady Halfeh, and commence our return voyage down the Nile. We do not
+            expect to fare very luxuriously on our route, but we take with us a good supply of rice,
+            coffee, and maccaroni, and our guns w T ill continue no doubt, as heretofore, to furnish
+            our larder with wild fowl, and, as I hope, venison also, for meat is not to be looked
+            for in Nubia, and is execrably bad all over Egypt, with a few occasional exceptions.
+            Poultry, we shall no doubt, be able to procure now and then, should our supply of game
+            run short, and excellent vegetables my fellow travellers can always enjoy, for the
+            valley of the Nile is one vast uninterrupted kitchen garden, from the shores of the
+            Mediterranean to the second cataract, a distance of a thousand miles; and I believe it
+            continues to be such a garden of herbs far beyond that point into Abyssinia. In this
+            land of ancient Ethiopia, or the Cush of Scripture, where we now are, the wheat and
+            barley are at present, nearly a yard high, but not as yet in ear; though they will be
+            ready for the sickle in March. The maize and Guinea corn harvest is just concluded, and
+            the cotton, of which great quantities are grown from below <name type="place" ref="#thebes">Thebes</name> upwards, is in flower, and young pod. Senna, both wild
+            and cultivated, is a great article of transmission hence to <name type="place" ref="#cairo">Cairo</name> and <name type="place" ref="#alexandria">Alexandria </name>
+            for exportation to Europe, and the Khenna shrub, so much used for dyeing the nails and
+            hands red, is another valuable production of Nubia, and plentifully adorns the banks of
+            the Nile; whilst whole fields of onions, lentils, lettuces, beans, lupins, peas,
+            radishes, and most of the remaining vegetables of Lower Egypt, cover both sides of the
+            river in this narrow valley of Nubia, besides tobacco, the castor oil plant, and a host
+            of leguminosa3 unknown in British gardens, such as ochroes, cocoas, &amp;c. &amp;c.</p>
+
+         <p>On we glide daily towards the south, under a gloriously bright unclouded sky, and a
+            delicious temperature that scarcely any one would at present consider in the least
+            oppressive: but when we get fairly within the tropics as at Meroe in 19° lat. the
+            advancing season will soon begin to make itself felt, and we must expect very hot
+            weather a month or six weeks hence, and to experience the Khamseen winds in full force
+            on or before our arrival at <name type="place" ref="#cairo">Cairo</name>.</p>
+
+         <p>Here already, above the <name type="place" ref="#first_cataract">first cataract</name>,
+            the population has much diminished, the villages are smaller, fewer, and farther apart,
+            the inhabitants are darker than in Egypt, and most of them go all but quite naked, and
+            are usually armed with a spear and shield; they are more independent in their bearing
+            than the fellahs of Egypt, and more cleanly in their habits. The valley of the Nile
+            between the cataracts is pretty, but somewhat monotonous; a very narrow strip of highly
+            cultivated land on each side of the river, often not a hundred yards wide, separating
+            the latter from the boundless deserts of moving sand: but the rude grandeur of the
+            granite and sandstone rocks is in many parts extremely imposing, especially at <name type="place" ref="#assouan">Assouan</name>, and above the cataract at Philas, and
+            higher up. The scenery of the <name type="place" ref="#first_cataract">first
+               cataract</name> itself, is extremely fine, and has been likened with some truth to
+            that of Glengariff in Ireland.</p>
+
+         <p>I am collecting and drying all the plants I can find in the valley of the Nile from
+               <name type="place" ref="#alexandria">Alexandria </name> to our farthest limit, and
+            regret exceedingly not having brought out a set of my own drying boards, with a copious
+            supply of paper and mill-boards, as I am reduced to using a very i inferior and
+            troublesome apparatus lent me by Mr. Trail; my own little boards being far two small to
+            be of any service, and I have been forced to put up with a very coarse paper, purchased
+            from time to time at the various towns along the Nile: since however, the sun is rarely
+            obscured, or hides his face for a moment, in this climate, I can manage to dry the
+            specimens very fairly with paper which it would be hardly possible to make use of
+            otherwise, with the limited quantity I have at command; but the drying of the plants
+            goes on speedily and uninterruptedly the whole day long, by placing the boards strapped
+            together on the roof of our boat's cabin in the sun, which of course, is never off the
+            roof between the times of rising and setting; a heavy stone being laid on the boards to
+            give additional pressure; and the whole being taken in at night, on account of the dews
+            which are sometimes very heavy on the river.</p>
+
+         <p>From October to April is the vegetating season in Upper Egypt and Nubia: from the middle
+            of April, to the middle or end of September, the great heat and drought arrest the
+            growth of, and wither up herbaceous plants of most kinds; but the very few indigenous
+            trees, being naturally evergreen, resist the intense heat of the long, sultry, cloudless
+            summer, uninjured. The flora of the Nile valley to its termination in Nubia, is of a
+            singularly northern character: more than nine tenths of the entire vegetation being made
+            up of annual or perennial herbaceous plants of an ordinary looking weedy character,
+            strongly contrasting with the tropical type of the cultivation, sugar, indigo, sessame,
+            cotton, Guinea com, &amp;c. The number of species is not great, and many of the plants
+            are extremely social or gregarious, which is very unusual in countries so near the
+            equator. Few of the plants of Egypt, and (as far as I have yet seen), of Nubia, have
+            much beauty of blossom, brightness of colour, or gracefulness of form; and they are
+            almost all, either scentless, or unpleasant in odour. The mere lovers of " wild flowers"
+            would find themselves grievously disappointed in Egyptian botany; to them the country
+            would be a flowerless land; but to me, this peculiarity is extremely interesting,
+            proving, what I have always advanced, that there is no necessary inseparable connection
+            between warmth of climate, intense and continuous solar light, and a richly coloured,
+            and varied vegetation; as otherwise, how can it be accounted for that the rich, damp,
+            alluvial soil of the Nile, and the dry hot sands beyond, are incapable of sustaining a
+            vegetation equally varied and luxuriant as that of our own bleak fields at home, or half
+            the number of pretty flowering-plants on the same area of ground ? Not a few of the
+            Egyptian and Nubian plants are common weeds in England, or, if not identical in species,
+            belonging to the same genera with our own, and are not a whit more handsome in form and
+            colour, or superior in size to their British congeners. It is not a little strange to
+            find the hosts of warm aromatic sub-shrubs and perennials, that so abound on the shores
+            of Spain, the south of France, Greece and other countries of the Mediterranean,
+            disappearing almost entirely on the still more southerly and sunny valley of the Nile,
+            where they are replaced by a few sparingly distributed tropical, or sub-tropical plants,
+            whilst the remaining vegetation is of a type more plain and northern than that of the
+            countries just named. The same northern type prevails in the other departments of
+            nature's creation. Very few of the birds have much beauty of colouring, and those
+            commonly seen, are either identical with, or are related to the species with which we
+            are familiar in England, such as the common sparrow, the grey wagtail, the Eoyston crow,
+            the sky lark, which abounds in every field in Lower and Central Egypt, the Nile plover,
+            very like our common peewit, (also a native,) turtle doves, blue rock pigeons, besides
+            the kestrel, hen-harrier, and various other hawks identical with, or closely resembling
+            British species, as are the owl, kingfisher, and many of the water fowl, some of which
+            latter, as the flamingo, egrets, &amp;c, are common to this country and southern Europe.
+            Of course, there are many birds exclusively African, as pelicans, paddy-birds, &amp;c,
+            but these are seldom distinguished by any elegance or gaiety of plumage: although of
+            course there are certain exceptions to this general sobriety of colouring. As regards
+            insects, I will only mention, that of the few butterflies that flit about the fields of
+            this land of unclouded sunshine and high temperature, that which is by far the most
+            frequently seen, is our English painted lady (Cynthias Cardui), a species common with us
+            in certain years during the latter part of summer and autumn; I have noticed as yet but
+            a single insect of this order at all superior in size to the largest of our English
+            lepidoptera: the rest few in number, as regards the species, and not greatly abounding
+            individually, do not exceed our native butterflies either in point of size, or beauty of
+            colouring; which is another proof of the j position before alluded to.</p>
+
+         <p>January 7th, We are drawing very near to Korosko, and to Deyr, now the capital of Nubia,
+            at both which places we shall arrive tomorrow if the wind is in our favour, which it
+            will probably be, as the reign of the north wind seems now established for the season.
+            To day we did not make much progress, having been obliged to track most part of it, as,
+            in this tranquil climate, the wind is perpetually falling to calm, and the bends and
+            windings of the river are continually rendering a fair wind a contrary one, and vice
+            versa. The day after tomorrow we shall probably see Abousembal, or Ipsambul, one of the
+            finest remains of Egyptian temples existing; and on the 10th or 11th, we hope to reach
+            the foot of the second cataract at Wacly Halfeh, where we shall probably remain two or
+            more days, to hire camels, and procure some necessaries for our journey into the
+            interior. Will you tell Mr. Lawrence that I am collecting seeds of every kind that I can
+            meet with, including some of the vegetables grown in Egypt for the table, which are
+            curious; but most, if not all of them, are like the fruits, much inferior to those of
+            our own land, and this, when even of the same species with English ones, as cabbages,
+            carrots, lettuces, &amp;c., but the onions are greatly superior to ours in size and
+            mildness. I intend to forward to England from <name type="place" ref="#cairo">Cairo</name> all the seeds I shall have collected up to the date of my transmitting
+            my dried Flora of the valley of the Nile: as I cannot of course, travel into Syria
+            encumbered with these bulky and perishable articles.</p>
+
+         <p>Although we are now between the tropics, the nights are chilly, obliging us to keep the
+            doors of our cabin closed towards evening: the mornings too, for a couple of hours
+            before and after sunrise are disagreeably cool, and even during the whole of this
+            morning till about 1 p.m. the fresh northerly breeze drove Mr. P. and myself to sit in
+            the sun at the fore part of the boat for warmth. We now seldom see a sail besides our
+            own; we are at this moment moored as usual for the night under the steep westward bank
+            of the mighty river whose current we have been stemming for forty three days, through
+            nearly a thousand miles of boundless desert on either hand, and which in this part of
+            our course is never half a mile from either bank, mostly within a hundred yards; and in
+            many places, you have but to reach the tops of one or other of the banks, to find
+            yourself at once amidst the sand-drifts and savage rocks, that with but few
+            interruptions stretch across the whole of this vast continent of Africa. The views
+            indeed of the desert as we glide onward, are extremely picturesque in every part of the
+            Nile valley, but most particularly so on approaching the <name type="place" ref="#first_cataract">first cataract</name>, when vast masses of dark coloured rocks
+            rise from the ocean of white, yellow, or reddish sand into rugged hills piled in
+            unimaginable confusion one upon another, the palm and acacia-clad banks of the Nile
+            running like two narrow edgings of lightest green along an undulating band of silver,
+            for the river here is much clearer than lower down its course, even in Upper Egypt. At
+            this hour (10 o'clock p.m.) my two fellow-travellers have retired to their berths, the
+            reisj crew, and our servants are all stretched on the deck of the boat, or on that of
+            our cabin over our heads, wrapped up in their blankets, capote, or other garments
+            protecting them from the cold night air, fast asleep; whilst the only sounds heard are
+            the chirping of crickets on the bank above us, and the melancholy howl, or yell of
+            troops of roving jackalls in the adjacent desert It is the rapid radiation from the
+            boundless waste of treeless and herbless sand and rock into the dry unclouded heavens,
+            which goes on unceasingly from sunset to sunrise, that causes the extraordinary and
+            trying inequality of temperature between day and night, which, at this season more
+            particularly, is one of the few inconveniences of which travellers have to complain in
+            this climate. Such is the extreme dryness of the air in the desert, that a plant I
+            gathered in my walk to day, though only carried in the hand for about an hour and a
+            half, was by the time I returned on board the boat, utterly unfit for pressing, not
+            being merely withered, but actually dried up, parched and crisped, as if it had been put
+            into an oven.</p>
+
+         <p>Korosko, Tropical Nubia, January 8th, a little below Deyr. We are lying here, made fast
+            under the steep bank of the river for the night, in company with two boats belonging to
+            Mr, Melly of Liverpool, who with his family (his wife, a daughter, and two sons), is
+            absent on a trip to Kordufan, from whence lie is not expected back for three months: the
+            boats in the meantime awaiting his return at Korosko, which is the nearest point of
+            departure for that province.</p>
+
+         <p>This is a very small poor place, but the emporium of the caravans from Kordufan with
+            goods destined for the Egyptian capital.</p>
+
+         <p>And now I fear that I must maintain an unwilling silence for some weeks, till we again
+            return from living in tents, and journeying on camels through deserts and barbarous
+            tribes, to our snugger and more civilized mode of life on board the Mary Victoria.</p>
+
+         <p>With kindest regards to all friends, Believe me, always, Your affectionate Brother,
+            William Arnold Bromfield.</p>
+      </body>
+   </text>
+</TEI>

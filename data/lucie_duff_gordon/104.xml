@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, CAIRO, July 8, 1867.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/104">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <date when="1867-07-08">8 July 1867</date>
+               <rs type="place" ref="http://www.geonames.org/360630">Cairo</rs>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/315623459">Sir Alexander Duff
+                  Gordon</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <name type="person" ref="#alick">Alick</name>, </p>
+         <p> I arrived to-day, after thirty-eight days’ voyage, one month of ceaseless furious wind.
+            My poor men had a hard pull down against it. However I am feeling better than when I
+            left Luxor. </p>
+         <p>
+            <name type="person" ref="#omar">Omar</name> has just brought a whole cargo of your
+            letters, the last of the 26 June. Let me know your plans. If you can go up the river I
+            might send the boat beforehand to <name type="place" ref="#minieh">Minieh</name>, so far
+            there is a railway now, which would break the neck of the tedious part of the voyage for
+            you if you are pressed for time. I must send this off at once to catch early post
+            to-morrow. Excuse haste, I write in all the bustle of arrival.</p>
+      </body>
+   </text>
+</TEI>

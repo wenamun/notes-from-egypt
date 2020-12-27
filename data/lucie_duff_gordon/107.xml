@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, BOULAK, August 7, 1867.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/107">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <date when="1867-08-07">7 August 1867</date>
+               <rs type="place" ref="http://www.geonames.org/360630">Cairo</rs>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/315623459">Sir Alexander Duff
+                  Gordon</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>MY Dearest <name type="person" ref="#alick">Alick</name>, </p>
+         <p> Two sailors of mine of last year went to Paris in the dahabieh for the Empress, and are
+            just come back. When I see them I expect I shall have some fun out of their account of
+            their journey. Poor Adam’s father died of grief at his son’s going, nothing would
+            persuade him that Adam would come back safe, and having a heart complaint, he died. And
+            now the lad is back, well and with fine clothes, but is much cut up, I hear, by his
+            father’s death. Please send me a tremendous whistle; mine is not loud enough to wake
+               <name type="person" ref="#omar">Omar</name> at the other end of the cabin; a
+            boatswain’s whistle or something in the line of the ‘last trump’ is needed to wake
+            sleeping Arabs. </p>
+         <p> My pretty neighbour has gone back into the town. She was a nice little woman, and
+            amused me a good deal. I see that a good respectable Turkish <foreign xml:lang="ar">hareem</foreign> is an excellent school of useful accomplishments—needlework,
+            cookery, etc. But I observed that she did not care a bit for the Pasha, by whom she had
+            a child, but was extremely fond of ‘her lady,’ as she politely called her, also that
+            like every Circassian I ever knew, she regarded being sold as quite a desirable fate,
+            and did not seem sorry for her parents, as the negroes always are. </p>
+         <p> The heat has been prodigious, but I am a good deal better. Yesterday the Nile had risen
+            above ten cubits, and the cutting of the Kalig took place. The river is pretty full now,
+            but they say it will go down fast this year. I don’t know why. It looks very beautiful,
+            blood-red and tossed into waves by the north wind fighting the rapid stream. </p>
+         <p> Good-bye dear <name type="person" ref="#alick">Alick</name>, I hope to hear a better
+            account of your health soon. </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, LUXOR, May 10, 1866.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/78">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <date when="1866-05-10">10 May 1866</date>
+               <rs type="place" ref="http://www.geonames.org/360502">Luxor</rs>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/315623459">Sir Alexander Duff
+                  Gordon</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <name type="person" ref="#alick">Alick</name>, </p>
+         <p> The real summer heat—the _Skems el-Kebeer_ (big sun) has fairly set in, and of course I
+            am all the better. You would give my camel a good backsheesh if you saw how prodigiously
+            fat I have grown on her milk; it beats codliver-oil hollow. You can drink a gallon
+            without feeling it, it is so easy of digestion. </p>
+         <p> I have lent the dahabieh to Mustapha and to one or two more, to go to <name type="place" ref="#kenneh">Keneh</name> on business, and when she returns (which will
+            be to-day) I shall make ready to depart too, and drop down stream. <name type="person" ref="#omar">Omar</name> wants me to go down to Damietta, to ‘amuse my mind and dilate
+            my stomach’ a little; and I think of doing so. </p>
+         <p> Palgrave was here about a fortnight ago, on Mustapha’s and Mariette’s business. ‘By
+            God! this English way is wonderful,’ said a witness, ‘that English Bey questioned me
+            till my stomach came out.’ I loved Mustapha Bey, who was with him; such a nice, kind,
+            gentle creature, and very intelligent and full of good sense. I rejoice to hear that he
+            returns my liking, and has declared himself ‘one of my darweeshes.’ Talking of
+            darweeshes reminds me of the Festival of Sheykh Gibrieel this year. I had forgotten the
+            day, but in the evening some people came for me to go and eat some of the meat of the
+            Sheykh, who is also a good patron of mine, they say; being a poor man’s saint, and of a
+            humble spirit, it is said he favours me. There was plenty of meat and _melocheea_ and
+            bread; and then _zikrs_ of different kinds, and a _Gama el Fokara_ (assembly of the
+            poor). _Gama_ is the true word for Mosque—_i.e._, Meeting, which consists in a great
+            circle of men seated thick on the ground, with two poets facing each other, who
+            improvise religious verses. On this occasion the rule of the game was to end each stanza
+            with a word having the sound of _wahed_ (one), or _el Had_ (the first). Thus one sung:
+            ‘Let a man take heed how he walks,’ etc., etc.; and ‘pray to God not to let him fall,’
+            which sound like _Had_. And so they went on, each chanting a verse alternately. One
+            gesticulated almost as much as an Italian and pronounced beautifully; the other was
+            quiet, but had a nice voice, and altogether it was very pretty. At the end of each verse
+            the people made a sort of chorus, which was sadly like the braying of asses. The _zikr_
+            of the Edfoo men was very curious. Our people did it quietly, and the _moonsheed_ sang
+            very sweetly—indeed ‘the song of the moonsheed is the sugar in the sherbet to the
+            Zikkeer,’ said a man who came up when it was over, streaming with perspiration and
+            radiant with smiles. Some day I will write to you the whole ‘_grund Idee_’ of a _zikr_,
+            which is, in fact, an attempt to make present ‘the communion of saints,’ dead or living.
+            As I write arrives the Arooset er-rallee, and my crew furl her big sail quite ‘Bristol
+            fashion.’ My men have come together again, some from <name type="place" ref="#nubia">Nubia</name> and some from the Delta; and I shall go down with my old lot. </p>
+         <p>
+            <name type="person" ref="#omar">Omar</name> and Achmet have implored me not to take
+            another maid at all; they say they live like Pashas now they have only the lady to
+            please; that it will be a pleasure to ‘lick my shoes clean,’ whereas the boots of the
+            _Cameriera_ were intolerable. The feeling of the Arab servants towards European
+            colleagues is a little like that of ‘niggers’ about ‘mean whites’—mixed hatred, fear,
+            and scorn. The two have done so well to make me comfortable that I have no possible
+            reason for insisting on encumbering myself with ‘an old man of the sea,’ in the shape of
+            a maid; and the difference in cost is immense. The one dish of my dinner is ample relish
+            to their bread and beans, while the cooking for a maid, and her beer and wine, cost a
+            great deal. <name type="person" ref="#omar">Omar</name> irons my clothes very tidily,
+            and little Achmet cleans the house as nicely as possible. I own I am quite as much
+            relieved by the absence of the ‘civilized element’ as my retainers are. </p>
+         <p> Did I describe the Coptic Good Friday? Imagine 450 _Rekahs_ in church! I have seen many
+            queer things, but nothing half so queer as the bobbing of the Copts. </p>
+         <p> I went the other day to the old church six or eight miles off, where they buried the
+            poor old Bishop who died a week ago. Abu Khom, a Christian _shaheed_ (martyr), is buried
+            there. He appeared to Mustapha’s father when lost in the desert, and took him safe home.
+            On that occasion he was well mounted, and robed all in white, with a _litham_ in over
+            his face. No one dares to steal anything near his tomb, not one ear of corn. He revealed
+            himself long ago to one of the descendants of Abu-l-Hajjaj, and to this day every Copt
+            who marries in Luxor gives a pair of fowls to the family of that Muslim in remembrance
+            of Abu Khom. </p>
+         <p> I shall leave Luxor in five or six days—and write now to stop all letters in <name type="place" ref="#cairo">Cairo</name>. </p>
+         <p> I don’t know what to do with my sick; they come from forty miles off, and sometimes
+            twenty or thirty people sleep outside the house. I dined with the Maōhn last night—‘pot
+            luck’—and was much pleased. The dear old lady was so vexed not to have a better dinner
+            for me that she sent me a splendid tray of _baklaweh_ this morning to make up for
+            it.</p>
+      </body>
+   </text>
+</TEI>

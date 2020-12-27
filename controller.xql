@@ -6,6 +6,8 @@ declare variable $exist:controller external;
 declare variable $exist:prefix external;
 declare variable $exist:root external;
 
+import module namespace util="http://exist-db.org/xquery/util";
+
 if ($exist:path eq '') then
     <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
         <redirect url="{request:get-uri()}/"/>
@@ -16,7 +18,75 @@ else if ($exist:path eq "/") then
     <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
         <redirect url="index.html"/>
     </dispatch>
+
+else if (contains(lower-case($exist:path), "/rest/")) then
+    let $path := replace($exist:path, "nfe/", "")
+    let $token := fn:tokenize($path, "/")
+    let $collection := $token[4]
+    let $item := $token[5]
+	return
+	(:util:log("error", $exist:path|| "###"||$collection || "###" || $item) :)
+	<dispatch xmlns="http://exist.sourceforge.net/NS/exist">
+		<forward url="{$exist:controller}/data/{$collection}/{$item}"/>
+		 
+	</dispatch>
+
+
+else if (starts-with(lower-case($exist:path), "/test")) then
+    let $token := fn:tokenize($exist:path, "/")
+    let $collection := $token[3]
+    let $item := $token[4]
+	return
+	<dispatch xmlns="http://exist.sourceforge.net/NS/exist">
+		<forward url="{$exist:controller}/test.html"/>
+		 <view>
+			<forward url="{$exist:controller}/modules/view.xql">				 
+				 <add-parameter name="path" value="{$exist:path}"/>
+				 <add-parameter name="collection" value="{$collection}"/>
+                 <add-parameter name="item" value="{$item}.xml"/>
+		     </forward>
+		</view>
+	</dispatch>
+
+
+else if (starts-with(lower-case($exist:path), "/map")) then
+    <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
+        <forward url="{$exist:controller}/show_map.html"/>
+        <view>
+            <forward url="{$exist:controller}/modules/view.xql">
+            </forward>
+        </view>
+    </dispatch>
+
+else if (starts-with(lower-case($exist:path), "/place")) then
+    <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
+        <forward url="{$exist:controller}/show_place.html"/>
+        <view>
+            <forward url="{$exist:controller}/modules/view.xql">
+                <add-parameter name="placename" value="cairo"/>
+            </forward>
+        </view>
+    </dispatch>
+
+
+else if (contains($exist:path, "/notes/") ) then
+    let $token := fn:tokenize($exist:path, "/")
+    let $collection := $token[3]
+    let $item := $token[4]    
+    (: return util:log("warn", concat("###", $collection, $item)) :)
+    return
+    <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
+        <forward url="{$exist:controller}/show_item.html"/>
+        <view>
+            <forward url="{$exist:controller}/modules/view.xql">
+                <add-parameter name="collection" value="{$collection}"/>
+                <add-parameter name="item" value="{$item}.xml"/>
+            </forward>
+        </view>
+    </dispatch>
     
+    
+   
 else if (ends-with($exist:resource, ".html")) then
     (: the html page is run through view.xql to expand templates :)
     <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
@@ -28,6 +98,8 @@ else if (ends-with($exist:resource, ".html")) then
 			<forward url="{$exist:controller}/modules/view.xql"/>
 		</error-handler>
     </dispatch>
+
+    
 (: Resource paths starting with $shared are loaded from the shared-resources app :)
 else if (contains($exist:path, "/$shared/")) then
     <dispatch xmlns="http://exist.sourceforge.net/NS/exist">

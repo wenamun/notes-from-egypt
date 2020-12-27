@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon. BOAT OFF EMBABEH, November 21, 1862.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/2">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <rs type="place" ref="http://www.geonames.org/355549">Imbābah</rs>
+               <date when="1862-11-21">21 November 1862</date>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/315623459">Sir Alexander Duff
+                  Gordon</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <name type="person" ref="#alick">Alick</name>,</p>
+         <p>We embarked yesterday, and after the fashion of Eastern caravans are abiding to-day at a
+            village opposite <name type="place" ref="#cairo">Cairo</name>; it is
+            <date>Friday</date>, and therefore would be improper and unlucky to set out on our
+            journey. The scenes on the river are wonderfully diverting and curious, so much life and
+            movement. But the boatmen are sophisticated; my crew have all sported new white drawers
+            in honour of the Sitti Ingleezee's supposed modesty--of course compensation will be
+            expected. Poor fellows! they are very well mannered and quiet in their rags and misery,
+            and their queer little humming song is rather pretty, 'Eyah Mohammad, eyah Mohammad,'
+               <hi rendition="italic"><foreign xml:lang="lat">ad infinitum</foreign></hi>, except
+            when an energetic man cries 'Yallah!'--<hi rendition="italic"><foreign xml:lang="lat">i.e</foreign></hi>., 'O God!'--which means 'go it' in everyday life. <name type="person" ref="#omar">Omar</name> is gone to fetch one or two more 'unconsidered
+            trifles,' and I have been explaining the defects to be remedied in the cabin door,
+            broken window, etc., to my <name type="person" ref="#reis">Reis</name> with the help of six words of
+            Arabic and dumb show, which they understand and answer with wonderful quickness.</p>
+         <p>The air on the river is certainly quite celestial--totally unlike the damp, chilly
+            feeling of the hotel and Frank quarter of <name type="place" ref="#cairo">Cairo</name>.
+            The <name type="place" ref="#isbekeeyeh">Isbekeeyeh</name>, or public garden, where all
+            the Franks live, was a lake, I believe, and is still very damp.</p>
+         <p>I shall go up to the <name type="place" ref="#second_cataract">second Cataract</name> as
+            fast as possible, and return back at leisure. <name type="person" ref="#hekekian_bey">Hekekian Bey</name>
+            came to take leave yesterday, and lent me several books; pray tell Senior what a
+            kindness his introduction was. It would have been rather dismal in <name type="place" ref="#cairo">Cairo</name>--if one could be dismal there--without a soul to speak to.
+            I was sorry to know no Turks or Arabs, and have no opportunity of seeing any but the
+            tradesman of whom I bought my stores but that was very amusing. The young man of whom I
+            bought my <hi rendition="italic"><foreign xml:lang="ar">finjaans</foreign></hi> was so
+            handsome, elegant and melancholy that I know he was the lover of the Sultan's favourite
+            slave. How I wish you were here to enjoy all this, so new, so beautiful, and yet so
+            familiar, life--and you would like the people, poor things! they are complete children,
+            but amiable children.</p>
+         <p>I went into the village here, where I was a curiosity, and some women took me into their
+            houses and showed me their sleeping-place, cookery, poultry, etc.; and a man followed me
+            to keep off the children, but no <foreign xml:lang="ar">backsheesh</foreign> was asked
+            for, which showed that Europeans were rare there. The utter destitution is terrible to
+            see, though in this climate of course it matters less, but the much-talked-of dirt is
+            simply utter poverty. The poor souls are as clean as Nile mud and water will make their
+            bodies, and they have not a second shirt, or any bed but dried mud.</p>
+         <p>Give my love to my darlings, and don't be uneasy if you don't get letters. My cough has
+            been better now for five days without a bad return of it, so I hope it is really better;
+            it is the first reprieve for so long. The sun is so hot, a regular broil, <date>November
+               21</date>, and all doors and windows open in the cabin--a delicious breeze.</p>
+      </body>
+   </text>
+</TEI>

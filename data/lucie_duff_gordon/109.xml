@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Sir Alexander Duff Gordon, BOULAK, September 7, 1867.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/109">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <date when="1867-09-07">7 September 1867</date>
+               <rs type="place" ref="http://www.geonames.org/360630">Cairo</rs>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/315623459">Sir Alexander Duff
+                  Gordon</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <name type="person" ref="#alick">Alick</name>, </p>
+         <p> Many thanks for your letter and for all the trouble you have taken. I wish you were
+            better. </p>
+         <p> There is such a group all stitching away at the big new sail; <name type="person" ref="#omar">Omar</name>, the <name type="person" ref="#reis">Reis</name>, two or
+            three volunteers, some old sailors of mine, and little Darfour. If I die I think you
+            must have that tiny nigger over; he is such a merry little soul, I am sure you would
+            love him, he is quite a civilized being and has a charming temper, and he seems very
+            small to be left alone in the world. </p>
+         <p> I hope <name type="person" ref="#maurice">Maurice</name> is not of the faction of the
+            _ennuyés_ of this generation. I am more and more of <name type="person" ref="#omar">Omar</name>’s opinion, who said, with a pleased sigh, as we sat on the deck under
+            some lovely palm-trees in the bright moon-light, moored far from all human dwellings,
+            ‘how sweet are the quiet places of the world.’ </p>
+         <p> I wonder when Europe will drop the absurd delusion about Christians being persecuted by
+            Muslims. It is absolutely the other way,—here at all events. The Christians know that
+            they will always get backed by some Consul or other, and it is the Muslims who go to the
+            wall invariably. The brute of a Patriarch is resolved to continue his persecution of the
+            converts, and I was urged the other day by a Sheykh to go to the Sheykh ul-Islam himself
+            and ask him to demand equal rights for all religions, which is the law, on behalf of
+            these Coptic Protestants. Everywhere the Ulema have done what they could to protect
+            them, even at <name type="place" ref="#siout">Siout</name>, where the American
+            missionaries had caused them (the Ulemas) a good deal of annoyance on a former occasion.
+            No one in Europe can conceive how much the Copts have the upper hand in the villages.
+            They are backed by the Government, and they know that the Europeans will always side
+            with them. </p>
+         <p> _September_ 13.—<name type="person" ref="#omar">Omar</name> is crazy with delight at
+            the idea of <name type="person" ref="#maurice">Maurice</name>’s arrival, and <name type="person" ref="#reis">Reis</name> Mohammed is planning what men to take who can
+            make fantasia, and not ask too much wages. Let me know what boat <name type="person" ref="#maurice">Maurice</name> comes by that I may send <name type="person" ref="#omar">Omar</name> to <name type="place" ref="#alexandria">Alexandria </name> to
+            meet him. <name type="person" ref="#omar">Omar</name> begs me to give you and Sitti
+            Rainie his best salaam, and his assurance that he will take great care of the young
+            master and ‘keep him very tight.’ I think <name type="person" ref="#maurice">Maurice</name> will be diverted with small Darfour. Mabrook now really cooks very
+            fairly under <name type="person" ref="#omar">Omar</name>’s orders, but he is beyond
+            belief uncouth, and utters the wildest howls now that his voice is grown big and strong
+            like himself. Moreover he ‘won’t be spoken to,’ as our servants say; but he is honest,
+            clean, and careful. I should not have thought any human creature could remain so
+            completely a savage in a civilized community. I rather respect his savage _hauteur_,
+            especially as it is combined with truth and honesty.</p>
+      </body>
+   </text>
+</TEI>

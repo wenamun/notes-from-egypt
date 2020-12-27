@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mrs. Austin, CAIRO, Monday, November 27, 1865.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/64">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <date when="1865-11-27">27 November 1865</date>
+               <rs type="place" ref="http://www.geonames.org/360630">Cairo</rs>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/59830344">Sarah Austin</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <foreign xml:lang="de"><name type="person" ref="#sarah_austin">Mutter</name></foreign>, </p>
+         <p> I arrived here last night and found a whole heap of letters—and yours I will answer
+            first. I had no heart to write any more from <name type="place" ref="#alexandria">Alexandria </name> where I was worried out of all courage and strength. At last
+            after endless delays and vexations the dahabieh was _tant bien que mal_ ready. </p>
+         <p> Talk of Arab dawdle! after what I went through—and now I have to wait here for fresh
+            repairs, as we came up baling all the way and I fear cursing the Christian workmen who
+            had bungled so shamefully. </p>
+         <p> However that is over, and I am much better as to my cough—indeed it is all but gone.
+               <name type="person" ref="#omar">Omar</name> was very ill having had dysentery for two
+            months, but he too is well again. He is very grateful for your kind mention of him and
+            says, ‘Send the Great Mother my best Salaam, and tell her her daughter’s people are my
+            people, and where she goes I will go too, and please God I will serve her rich or poor
+            till “He who separates us” shall take me from her.’ The words of Ruth came after all
+            these centuries quite fresh from the soft Egyptian lips. </p>
+         <p> The ‘He who separated us’ I must explain to you. It is one of the attributes of God,
+            _The Separator of Religions_ implies toleration and friendship by attributing the two
+            religions alike to God—and is never used towards one whose religion is not to be
+            respected. </p>
+         <p> I have got a levee of former reis’s, sailors, etc. some sick—but most come to talk. </p>
+         <p> The climate changes quite suddenly as one leaves the Delta, and here I sit at eight in
+            the evening with open doors and windows. </p>
+         <p> I am so glad to hear of the great success of my dear Father’s book, and to think of
+            your courage in working at it still. </p>
+         <p> I suppose I shall be here a week longer as I have several jobs to do to my boat, and I
+            shall try to get towed up so as to send back the boat as soon as possible in order to
+            let her. Ali will give £80 a month for her if he gets a party of four to take up. I pay
+            my <name type="person" ref="#reis">Reis</name> five napoleons a month while travelling
+            and three while lying still. He is a good, active little fellow. </p>
+         <p> We were nearly smashed under the railway bridge by an iron barge—and _Wallah_! how the
+               <name type="person" ref="#reis">Reis</name> of the bridge did whack the <name type="person" ref="#reis">Reis</name> of the barge. I thought it a sad loss of time,
+            but <name type="person" ref="#reis">Reis</name> Ali and my <name type="person" ref="#reis">Reis</name> Mohammed seemed to look on the stick as the most effective
+            way of extricating my anchor from the Pasha’s rudder. My crew can’t say ‘Urania’ so they
+            sing ‘go along, oh darling bride’ _Arooset er-ralee_, as the little Sitt’s best
+            description, and ‘Arooset er-ralee’ will be the dahabieh’s exoteric name—as ‘_El
+            Beshoosheeh_, is my popular name.</p>
+      </body>
+   </text>
+</TEI>

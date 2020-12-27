@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mrs. Austin, CAIRO, December 5, 1865.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text taken from http://www.gutenberg.org/ebooks/17816</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc ref="http://notes-from-egypt.info/lucie-duff-gordon/letters/65">
+            <correspAction type="sent">
+               <name type="person" ref="https://viaf.org/viaf/66577149">Lucie Duff Gordon</name>
+               <date when="1865-12-05">5 December 1865</date>
+               <rs type="place" ref="http://www.geonames.org/360630">Cairo</rs>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" ref="https://viaf.org/viaf/59830344">Sarah Austin</name>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Dearest <foreign xml:lang="de"><name type="person" ref="#sarah_austin">Mutter</name></foreign>, </p>
+         <p> _Alhamdulillah_—now I am at rest. I have got all the boat in order. My captain, <name type="person" ref="#reis">Reis</name> Mohammed, is very satisfactory, and to-day we
+            sail as soon as <name type="person" ref="#omar">Omar</name> comes back with the meat,
+            etc. from market. </p>
+         <p> I received Meadow’s review; I wish he had not said so much about me in it. </p>
+         <p> Mohammed Gazowee begs to give his best Salaam to Sheykh Stanley whom he longs to see
+            again. He says that all the people said he was not a Christian, for he was not proud
+            ever towards them as Christians are, but a real Sheykh, and that the Bedaween still talk
+            of Sheykh Stanley and of his piety. The old half-witted jester of Luxor has found me
+            out—he has wandered down here to see his eldest son who is serving in the army. He had
+            brought a little boy with him, but is ‘afraid for him’ here, I don’t know why, and has
+            begged me to take the child up to his mother. These licensed _possenreisser_ are like
+            our fools in old times—but less witty than we fancy them to have been—thanks to
+            Shakespeare, I suppose. Each district has one who attends all _moolids_ and other
+            gatherings of the people, and picks up a living. He tells me that the Turkish Názir of
+            Zeneea has begun some business against our Kadee, Sheykh Ibraheem, and Sheykh Yussuf,
+            accused them of something—he does not know what—_perhaps of being friends of Hajjee
+            Sultan, or of stealing wood_!! If all the friends of Hajjee Sultan are to be prosecuted
+            that will include the whole Saeed. </p>
+         <p> Of course I am anxious about my friends. All Haleem Pasha Oghdee’s villages have been
+            confiscated (those tributary to him for work) _sous prétexte_ that he ill-used the
+            people, _n.b._ he alone paid them—a bad example. Pharoah is indeed laying intolerable
+            burthens—not on the Israelites—but on the fellaheen. </p>
+         <p>
+            <name type="person" ref="#omar">Omar</name> said of the great dinner to-day, ‘I think
+            all the food will taste of blood, it is the blood of the poor, and more _haram_ than any
+            pork or wine or blood of beasts.’ Of course such sentiments are not to be repeated—but
+            they are general. The _meneggets_ who picked and made ten mattrasses and fourteen
+            cushions for me in half a day, were laughing and saying, ‘for the Pasha’s boat we work
+            also, at so much a day and we should have done it in four days.’ ‘And for me if I paid
+            by the day instead of by the piece, how long?’ ‘One day instead of half, O Lady, for
+            fear thou shouldest say to us, you have finished in half a day and half the wages is
+            enough for you.’ That is the way in which all the work is done for _Effendeena_—no
+            wonder his steamers don’t pay. </p>
+         <p> I saw <name type="person" ref="#ross">Ross</name> yesterday—he tells me the Shereef of
+               <name type="place" ref="#mecca">Mecca</name> has sent him a horse.</p>
+      </body>
+   </text>
+</TEI>
