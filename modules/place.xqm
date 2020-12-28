@@ -38,6 +38,9 @@ declare function place:show_placeinfo($node as node(), $model as map(*), $placen
         <div> 
             <h3>{$name}</h3>
             <p>{$note}</p>
+            <p><strong>Linked Open Data:</strong><br/>
+            <a href="./place/{$placename}/json">JSON-LD (Schema.org)</a>
+            </p>
             <p style="margin-top:2em;"><strong>See also:</strong><br/>
             <a href="{$geonames}">{$geonames}</a> <br/>
             <a href="{$wikipedia}">{$wikipedia}</a></p>

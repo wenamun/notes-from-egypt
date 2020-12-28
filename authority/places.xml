@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe_places.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe_places.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -218,13 +219,6 @@
                         kilometres north of Cairo. </note>
                     <idno type="geonames">https://www.geonames.org/358048</idno>
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Damietta</idno>
-                </place>
-                <place xml:id="delta">
-                    <placeName xml:lang="en">Delta</placeName>
-                    <location>
-                        <geo> </geo>
-                    </location>
-                    <idno type="geonames"> </idno>
                 </place>
                 <place xml:id="dendera">
                     <placeName xml:lang="en">Dendera</placeName>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,8 +76,8 @@
             less than Mar Girghis, our own <name type="person" ref="#st_george">St. George</name>
             himself. Why he selected a Mussulman mason I suppose he best knows.</p>
 
-         <p>In a week I shall be in <name type="place" ref="#nubia">Nubia</name>. Some year we must
-            all make this voyage; you would revel in it. Kiss my darlings for me.</p>
+         <p>In a week I shall be in Nubia. Some year we must all make this voyage; you would revel
+            in it. Kiss my darlings for me.</p>
       </body>
    </text>
 </TEI>

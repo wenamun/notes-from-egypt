@@ -25,13 +25,39 @@ else if (contains(lower-case($exist:path), "/rest/")) then
     let $collection := $token[4]
     let $item := $token[5]
 	return
-	(:util:log("error", $exist:path|| "###"||$collection || "###" || $item) :)
 	<dispatch xmlns="http://exist.sourceforge.net/NS/exist">
 		<forward url="{$exist:controller}/data/{$collection}/{$item}"/>
-		 
 	</dispatch>
 
+else if (starts-with(lower-case($exist:path), "/place") and ends-with(lower-case($exist:path), "/json") ) then
+    let $token := fn:tokenize($exist:path, "/")
+    let $name := $token[3]
+    return
+    <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
+		<forward url="{$exist:controller}/test.html"/>
+		 <view>
+			<forward url="{$exist:controller}/modules/json_ld.xql">
+                 <add-parameter name="name" value="{$name}"/>
+                 <add-parameter name="type" value="place"/>
+		     </forward>
+		</view>
+	</dispatch>
 
+else if (starts-with(lower-case($exist:path), "/person") and ends-with(lower-case($exist:path), "/json") ) then
+    let $token := fn:tokenize($exist:path, "/")
+    let $name := $token[3]
+    return
+    <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
+		<forward url="{$exist:controller}/test.html"/>
+		 <view>
+			<forward url="{$exist:controller}/modules/json_ld.xql">
+                 <add-parameter name="name" value="{$name}"/>
+                 <add-parameter name="type" value="person"/>
+		     </forward>
+		</view>
+	</dispatch>
+
+(:
 else if (starts-with(lower-case($exist:path), "/test")) then
     let $token := fn:tokenize($exist:path, "/")
     let $collection := $token[3]
@@ -47,7 +73,7 @@ else if (starts-with(lower-case($exist:path), "/test")) then
 		     </forward>
 		</view>
 	</dispatch>
-
+:)
 
 else if (starts-with(lower-case($exist:path), "/map")) then
     <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
@@ -58,6 +84,7 @@ else if (starts-with(lower-case($exist:path), "/map")) then
         </view>
     </dispatch>
 
+(:
 else if (starts-with(lower-case($exist:path), "/place")) then
     <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
         <forward url="{$exist:controller}/show_place.html"/>
@@ -67,7 +94,7 @@ else if (starts-with(lower-case($exist:path), "/place")) then
             </forward>
         </view>
     </dispatch>
-
+:)
 
 else if (contains($exist:path, "/notes/") ) then
     let $token := fn:tokenize($exist:path, "/")
@@ -84,8 +111,6 @@ else if (contains($exist:path, "/notes/") ) then
             </forward>
         </view>
     </dispatch>
-    
-    
    
 else if (ends-with($exist:resource, ".html")) then
     (: the html page is run through view.xql to expand templates :)
@@ -98,7 +123,6 @@ else if (ends-with($exist:resource, ".html")) then
 			<forward url="{$exist:controller}/modules/view.xql"/>
 		</error-handler>
     </dispatch>
-
     
 (: Resource paths starting with $shared are loaded from the shared-resources app :)
 else if (contains($exist:path, "/$shared/")) then

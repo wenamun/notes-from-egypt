@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe_people.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe_people.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -56,7 +57,7 @@
                 </person>
                 <person xml:id="achmet">
                     <name>Achmet</name>
-                    <note>One of the crew of Lucy Duff Gordons boat, the cook for the crew</note>
+                    <note>One of the crew of Lucie Duff Gordons boat, the cook for the crew</note>
                 </person>
                 <person xml:id="ali_asleemee">
                     <name>Ali Asleemee</name>
@@ -74,7 +75,7 @@
                 </person>
                 <person xml:id="sarah_austin">
                     <name>Sarah Austin</name>
-                    <note>Sarah Austin (1793–1867), mother of Lucy Duff Gordon, was an English
+                    <note>Sarah Austin (1793–1867), mother of Lucie Duff Gordon, was an English
                         editor, linguist and translator from German</note>
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Sarah_Austin_(translator)</idno>
                     <idno type="gnd">http://d-nb.info/gnd/116215208</idno>
@@ -95,7 +96,7 @@
                 </person>
                 <person xml:id="andrasool">
                     <name>Andrasool</name>
-                    <note>Crew member of Lucy Duff Gordons boat.</note>
+                    <note>Crew member of Lucie Duff Gordons boat.</note>
                 </person>
                 <person xml:id="bacchus">
                     <name>Bacchus/Dionysus</name>
@@ -218,7 +219,7 @@
                 </person>
                 <person xml:id="janet">
                     <name>Janet Ann Ross</name>
-                    <note>Janet Ann Ross (1842–1927), daughter of Lucy Duff Gordon, was an English
+                    <note>Janet Ann Ross (1842–1927), daughter of Lucie Duff Gordon, was an English
                         historian, biographer, and Tuscan cookbook author.</note>
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Janet_Ross</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q6153581</idno>
@@ -272,7 +273,7 @@
                 </person>
                 <person xml:id="maurice">
                     <name>Maurice Duff Gordon</name>
-                    <note>4th Duff-Gordon baronet (1849–1896), son of Lucy Duff Gordon</note>
+                    <note>4th Duff-Gordon baronet (1849–1896), son of Lucie Duff Gordon</note>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q75503229</idno>
                 </person>
                 <person xml:id="mehemet_ali">
@@ -330,7 +331,7 @@
                 </person>
                 <person xml:id="omar">
                     <name>Omar Abou el-Haláweh</name>
-                    <note>Personal servant of Lady Lucy Duff Gordon during her stay in Egypt</note>
+                    <note>Personal servant of Lady Lucie Duff Gordon during her stay in Egypt</note>
                 </person>
                 <person xml:id="osiris">
                     <name>Osiris</name>
@@ -346,7 +347,7 @@
                 </person>
                 <person xml:id="osman">
                     <name>Osman</name>
-                    <note>Member of the crew of Lucy Duff Gordons boat.</note>
+                    <note>Member of the crew of Lucie Duff Gordons boat.</note>
                 </person>
                 <person xml:id="parker">
                     <name>Parker</name>
@@ -429,7 +430,7 @@
                 </person>
                 <person xml:id="reis">
                     <name>Reis</name>
-                    <note>This refers to teh captain of Lucy Duff Gordons ship during her stay in
+                    <note>This refers to the captain of Lucie Duff Gordons ship during her stay in
                         Egypt</note>
                 </person>
                 <person xml:id="ross">
@@ -458,7 +459,7 @@
                 </person>
                 <person xml:id="shereef">
                     <name>Shereef</name>
-                    <note>Crew member of Lucy Duff Gordons boat.</note>
+                    <note>Crew member of Lucie Duff Gordons boat.</note>
                 </person>
                 <person xml:id="sid_achmet_el_berberi">
                     <name>Sid Achmet el-Berberi</name>
@@ -501,7 +502,7 @@
                 </person>
                 <person xml:id="zankalonee">
                     <name>Zankalonee</name>
-                    <note>Crew member on Lucy Duff Gordons boat.</note>
+                    <note>Crew member on Lucie Duff Gordons boat.</note>
                 </person>
             </listPerson>
         </body>
