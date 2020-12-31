@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,7 +18,9 @@
             <correspAction type="sent">
                <name type="person" ref="https://viaf.org/viaf/160825459">William Arnold
                   Bromfield</name>
-               <name type="place" ref="http://www.geonames.org/360630"><name type="place" ref="#cairo">Cairo</name></name>
+               <name type="place" ref="http://www.geonames.org/360630">
+                        <name type="place" ref="#cairo">Cairo</name>
+                    </name>
                <name type="place" ref="http://www.geonames.org/358048">Damietta</name>
                <date when="1851-07-10">10 July 1851</date>
             </correspAction>
@@ -30,7 +33,8 @@
    </teiHeader>
    <text>
       <body>
-         <p>Dear E</p>
+         <p>Dear <name type="person" ref="#eliza_bromfield">E</name>
+            </p>
 
          <p>I left <name type="place" ref="#cairo">Cairo</name> for <name type="place" ref="#suez">Suez </name> about eleven a.m. June 24th on a donkey, accompanied by its Arab owner
             on foot, to whoni I paid on my return to <name type="place" ref="#cairo">Cairo</name>
@@ -200,7 +204,7 @@
 
          <p>The next morning I started in a boat for the Akbar, lying a mile or two from the town,
             where the water is too shallow for any but small craft to come up. The Akbar is an old
-            vessel, and somewhat shaky from hard service on her accustomed station between <name type="place" ref="#suez">Suez </name> and Bombay during the monsoons: so she now lays
+            vessel, and somewhat shaky from hard service on her accustomed station between <name type="place" ref="#suez">Suez </name> and <name type="place" ref="#bombay">Bombay</name> during the monsoons: so she now lays
             up in harbour in that season, and runs during the fine months only. I was very
             obligingly received on board, and invited to sleep there that night, an invitation which
             to my regret I incautiously accepted. The sleeping berths I was informed I should find
@@ -282,7 +286,8 @@
             recipients of Bass's pale ale, port, sherry, claret, or some more vulgar beverage of
             Anglo-Indian consumption.</p>
 
-         <p><name type="place" ref="#suez">Suez </name> was nearly depopulated a year or two ago, as
+         <p>
+                <name type="place" ref="#suez">Suez </name> was nearly depopulated a year or two ago, as
             I remarked before, by the cholera; more than half the inhabitants having been carried
             olF by it; the place itself is however extremely healthy. The country around is a dreary
             treeless waste, without cultivation: but the fine view over the Red Sea, and the

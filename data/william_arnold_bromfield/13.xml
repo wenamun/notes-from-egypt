@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,7 +19,9 @@
             <correspAction type="sent">
                <name type="person" ref="https://viaf.org/viaf/160825459">William Arnold
                   Bromfield</name>
-               <name type="place" ref="http://www.geonames.org/379252"><name type="place" ref="#khartoum">Khartoum </name></name>
+               <name type="place" ref="http://www.geonames.org/379252">
+                        <name type="place" ref="#khartoum">Khartoum </name>
+                    </name>
                <date when="1851-03-20">20 March 1851</date>
             </correspAction>
             <correspAction type="received">
@@ -30,7 +33,8 @@
    </teiHeader>
    <text>
       <body>
-         <p>My dear E</p>
+         <p>My dear <name type="person" ref="#eliza_bromfield">E</name>
+            </p>
 
          <p>Since my last was dispatched from Wady Halfeh for <name type="place" ref="#cairo">Cairo</name>, through the favour of a gentleman going down the river, our little
             party has penetrated to this remote town, almost in the very heart of tropical Africa,
@@ -203,7 +207,7 @@
             often with a cold and high wind blow: ing on our beds, and even on our persons, without
             the slightest ill elfect.</p>
 
-         <p>The following are the temperatures, as taken by my pocket thermometer :— 1851. Shade.
+         <p>The following are the temperatures, as taken by my pocket thermometer:— 1851. Shade.
             Sun. Time. Feb. 24th, desert between Meroweh &amp; Shendy. . 87° . . H4o on hot sand. .
             11 30 a.m. „ 27th, „ „ 95o..l26o „ 120p.m. Mar. 1st, Metummeh, in the tent 98° . . 137©
             on dry earth. .20,, „ 2nd, „ „ .. .. 101o..l46o „ noon. „ 2nd, „ „ .... 106o..l42o „ 2

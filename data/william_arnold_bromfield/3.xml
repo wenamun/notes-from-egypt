@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Sheppard's British Hotel, Uzbekieh, <name type="place" ref="#cairo">Cairo</name>, October 29th, 1850.</title>
+            <title>Sheppard's British Hotel, Uzbekieh, <name type="place" ref="#cairo">Cairo</name>,
+               October 29th, 1850.</title>
          </titleStmt>
          <publicationStmt>
             <p/>
@@ -18,7 +20,8 @@
                <name type="person" ref="https://viaf.org/viaf/160825459">William Arnold
                   Bromfield</name>
                <name type="place" ref="http://www.geonames.org/360630">Sheppard's British Hotel,
-                  Uzbekieh, <name type="place" ref="#cairo">Cairo</name></name>
+                  Uzbekieh, <name type="place" ref="#cairo">Cairo</name>
+                    </name>
                <date when="1850-10-29">29 October 1850</date>
             </correspAction>
             <correspAction type="received">
@@ -30,7 +33,8 @@
    </teiHeader>
    <text>
       <body>
-         <p> My dear E</p>
+         <p> My dear <name type="person" ref="#eliza_bromfield">E</name>
+            </p>
 
          <p>In my last letter dispatched from this interestingcity, I had not space left for any
             account of my voyage of thirty hours from <name type="place" ref="#alexandria">Alexandria </name>, which I shall now proceed with, before giving you my impressions
@@ -84,7 +88,7 @@
             wardrobe, previously made into a bundle, being flung after him. Our starting point on
             the Mahmoudeh Canal was about two miles from the hotel; the canal itself is of great
             width, and a wonderful undertaking, when one considers that it was finished through its
-            entire length of about fifty miles, within a twelvemonth : but the reflection that the
+            entire length of about fifty miles, within a twelvemonth: but the reflection that the
             convenience to travellers derived from it was owing to a terrible exercise of arbitrary
             power, and attended with a fearful sacrifice of human life, became the predominant
             feeling at the sight of it.</p>
@@ -117,8 +121,8 @@
             him while on board; he ate 3 drank, talked, and smoked, like all the rest, and his
             Highness favoured us with his company in an omnibus expedition on the Desert, which he
             appeared to enjoy as much as any of us. I fancy however that Khereddin Pasha holds a
-            sort of brevet rank, as I understand he has no province to rule over : he is said to be
-            a man of great energy and some talent : he certainly is marvellously inclined to good
+            sort of brevet rank, as I understand he has no province to rule over: he is said to be a
+            man of great energy and some talent: he certainly is marvellously inclined to good
             fellowship, and I think were he in power, could never prove a harsh or tyrannical
             governor, to judge from his countenance only.</p>
 
@@ -132,38 +136,38 @@
             mosques, the minarets of which are the only buildings that have the smallest pretension
             to anything like architectural design or skill. Of these towns or large villages, no one
             but the Arab knows the names, so that could I have remembered them 3 there was no
-            possibility of learning their different designations : some of them were doubtless on
-            the sites of ancient places of celebrity. Groves of date-palms which here shoot up to
-            fifty, sixty, and seventy feet, usually surround these places, with here and there a
-            spreading sycamore or acacia. A most oppressive tax of three piastres annually is levied
-            on every date tree, which, when their great number is considered, and the extreme
-            poverty of the inhabitants, must be a cruel impost, but I have great doubts of the
-            correctness of the statement, as a tax of rather more than sixpence on every tree, where
-            these amount to many hundreds, perhaps even thousands, is more than I can well conceive
-            so destitute a population able to pay, being mainly, if not entirely made up of fellahs
-            or cultivators of the soil, a wretched, half clad race, of coarse, ugly features, and
-            squalid to the last degree. Camels, dromedaries, donkeys, and huge buffaloes, with a few
-            dark brown sheep, are their chief possessions; the buffaloes may be seen continually
-            lying in mid river, with their noses alone out of the water, or swimming across to the
-            opposite bank, quiet inoffensive animals, used both for draught and burden. We remarked
-            many persons ploughing with a camel and a buffalo yoked together in most ill assorted
-            fellowship. Dovecotes swarming with myriads of pigeons, rose high above the houses in
-            some of the larger towns,, of a conical shape, like immense haystacks, and pierced with
-            innumerable holes for the birds to enter in and come out. Pigeons are a great article of
-            consumption in Egypt, where poultry takes the place of butchers' meat in a great
-            measure. These Egyptian towns have the same light brown colour as the soil; there is
-            nothing to break the uniformity of their aspect, no contrast of colouring; the only
-            arborescent vegetation is the date palm dispersed in groups, or forming groves, but
-            giving no shade, which can only be had under an occasional acacia, sycamore, or nabr, a
-            gigantic but common species of buckthorn, the small fruit of which is eaten by the Arabs
-            : while the unvarying glare, and sameness of splendour in the sky, must soon fatigue and
-            satiate the eye that has no diversity of scenery or of objects to turn to for relief on
-            the earth beneath. The flats of Holland have more to interest than the Delta of the
-            Nile; for there one sees a population flourishing in plenty and comfort: here, nothing
-            but a people in the lowest condition as regards civilization, poor, and oppressed beyond
-            that of any other country. I was coniderably disappointed in the verdure of the Delta,
-            of which one hears so much : the cultivation, such as it is, appears to occupy patches;
-            a great part of the river banks is still untilled, and either bare of vegetation, or
+            possibility of learning their different designations: some of them were doubtless on the
+            sites of ancient places of celebrity. Groves of date-palms which here shoot up to fifty,
+            sixty, and seventy feet, usually surround these places, with here and there a spreading
+            sycamore or acacia. A most oppressive tax of three piastres annually is levied on every
+            date tree, which, when their great number is considered, and the extreme poverty of the
+            inhabitants, must be a cruel impost, but I have great doubts of the correctness of the
+            statement, as a tax of rather more than sixpence on every tree, where these amount to
+            many hundreds, perhaps even thousands, is more than I can well conceive so destitute a
+            population able to pay, being mainly, if not entirely made up of fellahs or cultivators
+            of the soil, a wretched, half clad race, of coarse, ugly features, and squalid to the
+            last degree. Camels, dromedaries, donkeys, and huge buffaloes, with a few dark brown
+            sheep, are their chief possessions; the buffaloes may be seen continually lying in mid
+            river, with their noses alone out of the water, or swimming across to the opposite bank,
+            quiet inoffensive animals, used both for draught and burden. We remarked many persons
+            ploughing with a camel and a buffalo yoked together in most ill assorted fellowship.
+            Dovecotes swarming with myriads of pigeons, rose high above the houses in some of the
+            larger towns,, of a conical shape, like immense haystacks, and pierced with innumerable
+            holes for the birds to enter in and come out. Pigeons are a great article of consumption
+            in Egypt, where poultry takes the place of butchers' meat in a great measure. These
+            Egyptian towns have the same light brown colour as the soil; there is nothing to break
+            the uniformity of their aspect, no contrast of colouring; the only arborescent
+            vegetation is the date palm dispersed in groups, or forming groves, but giving no shade,
+            which can only be had under an occasional acacia, sycamore, or nabr, a gigantic but
+            common species of buckthorn, the small fruit of which is eaten by the Arabs : while the
+            unvarying glare, and sameness of splendour in the sky, must soon fatigue and satiate the
+            eye that has no diversity of scenery or of objects to turn to for relief on the earth
+            beneath. The flats of Holland have more to interest than the Delta of the Nile; for
+            there one sees a population flourishing in plenty and comfort: here, nothing but a
+            people in the lowest condition as regards civilization, poor, and oppressed beyond that
+            of any other country. I was coniderably disappointed in the verdure of the Delta, of
+            which one hears so much: the cultivation, such as it is, appears to occupy patches; a
+            great part of the river banks is still untilled, and either bare of vegetation, or
             producing coarse herbage, the nature of which I could not determine, but it is most
             monotonous in its character, and we were seldom near enough to the shore to ascertain
             the kind of crop with certainty. Maize seemed to be one of the most important
@@ -294,7 +298,7 @@
             but there is a possibility of their coming against you unawares from behind, since
             unless furnished with bells, which is not always the case, their tread is quite
             inaudible, and you might be swept off your donkey by the enormous loads which project
-            from their sides : but I have not witnessed or heard of such an occurrence. The approach
+            from their sides: but I have not witnessed or heard of such an occurrence. The approach
             of a carriage is always announced in time to avoid it, by a courier on foot, who cracks
             a ponderous whip to clear the way. Every one of rank amongst the natives, on driving, or
             riding out on horseback, is preceded by a running footman, attired with sash or girdle,

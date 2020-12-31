@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Alexandria, October 22nd,
-               1850.</title>
+            <title>Alexandria, October 22nd, 1850.</title>
          </titleStmt>
          <publicationStmt>
             <p/>
@@ -18,7 +18,9 @@
             <correspAction type="sent">
                <name type="person" ref="https://viaf.org/viaf/160825459">William Arnold
                   Bromfield</name>
-               <name type="place" ref="http://www.geonames.org/361058"><name type="place" ref="#alexandria">Alexandria </name></name>
+               <name type="place" ref="http://www.geonames.org/361058">
+                  <name type="place" ref="#alexandria">Alexandria</name>
+               </name>
                <date when="1850-10-22">22 October 1850</date>
             </correspAction>
             <correspAction type="received">
@@ -30,20 +32,20 @@
    </teiHeader>
    <text>
       <body>
-         <p>My dear E</p>
+         <p>My dear <name type="person" ref="#eliza_bromfield">E</name>
+            </p>
 
          <p>I dispatched my first communication from this place by the Medina steamer yesterday, and
             I hope it will be safely received by you in about ten or twelve days.</p>
 
-         <p>This morning I called on the British Consul, Mr. Gilbert, and received from him a kind
-            note from Sir Gardner Wilkinson, enclosed under cover with a second to Dr. Abbot, of
-               <name type="place" ref="#cairo">Cairo</name>, for whom I have an introductory letter.
-            I delivered yesterday Mr. Fagan's letter to the Rev. James Winder, our Chaplain here,
-            who received me very obligingly. 1 fancy that here, hospitality, in out English sense of
-            the word, is not the order of the day, owing probably not to any want of that virtue in
-            the British residents, but to the difficulties they lie under in its exercise, with
-            their small establishments, and unmanageable Arab servants, from whom punctuality is
-            hardly to be expected, and whose sloth is proverbial.</p>
+         <p>This morning I called on the British Consul, Mr. <name type="person" ref="#gilbert">Gilbert</name>, and received from him a kind note from <name type="person" ref="#garnder_wilkinson">Sir Gardner Wilkinson</name>, enclosed under cover with a
+            second to <name type="person" ref="#abbott">Dr. Abbot</name>, of <name type="place" ref="#cairo">Cairo</name>, for whom I have an introductory letter. I delivered
+            yesterday Mr. Fagan's letter to the Rev. James Winder, our Chaplain here, who received
+            me very obligingly. I fancy that here, hospitality, in out English sense of the word, is
+            not the order of the day, owing probably not to any want of that virtue in the British
+            residents, but to the difficulties they lie under in its exercise, with their small
+            establishments, and unmanageable Arab servants, from whom punctuality is hardly to be
+            expected, and whose sloth is proverbial.</p>
 
          <p>This hotel, (Ray's), on the Frank Square, is really as comfortable as most foreign
             houses of the kind on the continent of Europe. I have a very large, airy, and lofty
@@ -57,22 +59,22 @@
             </name>, on account of the damp which accompanies it), must be in a great degree
             excluded. The cuisine is very good: but butcher's meat indifferent, the mutton just
             tolerable, the beef, I am told, very bad, but this I have not seen yet, and I believe it
-            rarely comes to table : I suspect that in most cases it is buffalo beef, and that I
+            rarely comes to table: I suspect that in most cases it is buffalo beef, and that I
             cannot imagine either tender or palatable. I have seen herds of these animals in the
             streets, and occasionally a few oxen, perhaps of Barbary race, but very different from
             our British breeds. The Egyptian buffalo is a large creature, with comparatively short
             horns turned downwards, and is as perfectly quiet and inoffensive as the English ox,
             and, like that, is used for draught. Poultry and fish are the chief sources of animal
             diet, with pigeons and various small birds. The poultry is diminutive, and is reared on
-            the flat roofs of the houses : fowls are never seen in the streets, as the swarms of
-            vagrant dogs would give them no quarter, At night the whole town resounds with the
+            the flat roofs of the houses: fowls are never seen in the streets, as the swarms of
+            vagrant dogs would give them no quarter. At night the whole town resounds with the
             crowing of cocks, the incessant barking and snarling of the dogs, and the braying of
             innumerable donkeys. The butter here is intolerable, and as well as the milk, is for the
             most part the produce of the goats which one meets everywhere driven about the streets;
             I have given up all idea of tasting butter till I get back to dear old England. The
             water at <name type="place" ref="#alexandria">Alexandria </name> is delivered to the
             consumers in the city in skins slung across the backs of camels. The appearance of these
-            water-skins is very far from recommending the pure element to thirsty lips : but I have
+            water-skins is very far from recommending the pure element to thirsty lips: but I have
             already learned the necessity of not being over nice in anything relating to eating and
             drinking in Egypt, as far at least as regards the raw material. The water at <name type="place" ref="#alexandria">Alexandria </name> is wholly derived from the
             inundation of the Nile, which is suffered to flow into the large subterranean cisterns
@@ -81,162 +83,160 @@
             year's inundation. The mouths of these cisterns, looking like wells, may be seen in
             various parts of the city, and are usually surrounded by a crowd of water-carriers with
             their camels; the water is either drawn up in leathern buckets, or by a rude water-wheel
-            called a Sa'ckiegeh, having earth ern jars fastened around the circumference of the
+            called a Sa'ckiegeh, having earthern jars fastened around the circumference of the
             wheel, which is worked by a horse. The soil at <name type="place" ref="#alexandria">Alexandria </name> is impregnated with salt, which is, I presume, the cause of its
             dreary and absolute sterility, wherever the hand of man has not improved its nature. The
             great Frank Square is supposed to have been the site of the ancient docks, the soil in
             which has been raised by continual accumulations from, buildings, and perhaps natural
-            de- posits, because sea-weed is found at a certain depth below the surface, and during
+            deposits, because sea-weed is found at a certain depth below the surface, and during
             heavy rains water rises through the soil and covers the Square with pools, that leave on
             subsiding, by absorption underground, and by evaporation, a saline incrustation, as I
-            remarked after the heavy showers a day or two agoThe Nile water of the old under-ground
-            cisterns is very clear, nor do I perceive any unpleasant taste in it, or find it
-            disagree : but I do not often drink it alone, but mixed with Claret or Burgundy, a wine
-            I prefer to Sherry, which is not good here, and very dear besides. The general price for
-            both French and Spanish wines of all kinds is thirty piastres, about five shillings, the
-            bottle. Marsala alone is much cheaper, only fifteen piastres; pale ale and porter, ten
-            piastres or one shilling and eight-pence the bottle, which is exorbitant, being
-            two-thirds more than the retail price in England. The fruit here is very indifferent,
-            with the exception of a small species of fig, bananas, and dates; the latter are most
-            abundant, there being whole groves of date-palms in different quarters of the city, and
-            hardly a garden, however small, without several of these trees, which are now loaded
-            with their great pendulous clusters of ripe fruit, making a splendid, although somewhat
-            monotonous appearance : the growth of the date-palm being so extremely formal, that
-            every tree looks like a reflection of its next neighbour in a mirror. The date has
-            nothing of the light feathery aspect, and wants the majestic stature of the cocoa-nut,
-            arica, and other tropical palms; here, it seldom exceeds thirty or thirty-five feet, and
-            usually not more than twenty-five; and its rather stiff leaves have a sea-green tint,
-            not the soft bright verdure of more southern palms. I see three varieties of date in the
-            markets, one a large yellow or orange coloured sort, another of a bright red, and a
-            third of a dark purple or plum colour : but the date not being a fruit much to my taste,
-            fresh or dried, I patronize them very little. The only grapes I have seen here, are a
-            large, oval, fleshy, and insipid fruit, of a muddy opaque white, tinged here and there
-            with red, and looking much like the white grape imported in jars from Lisbon, and so
-            often seen in our shops; but the season of grapes is nearly gone by, so I ought not
-            perhaps to conclude that I have eaten the choicest fruit of the vine, although I am told
-            that very few are good at Alexandria.</p>
+            remarked after the heavy showers a day or two ago. The Nile water of the old
+            under-ground cisterns is very clear, nor do I perceive any unpleasant taste in it, or
+            find it disagree: but I do not often drink it alone, but mixed with Claret or Burgundy,
+            a wine I prefer to Sherry, which is not good here, and very dear besides. The general
+            price for both French and Spanish wines of all kinds is thirty piastres, about five
+            shillings, the bottle. Marsala alone is much cheaper, only fifteen piastres; pale ale
+            and porter, ten piastres or one shilling and eight-pence the bottle, which is
+            exorbitant, being two-thirds more than the retail price in England. The fruit here is
+            very indifferent, with the exception of a small species of fig, bananas, and dates; the
+            latter are most abundant, there being whole groves of date-palms in different quarters
+            of the city, and hardly a garden, however small, without several of these trees, which
+            are now loaded with their great pendulous clusters of ripe fruit, making a splendid,
+            although somewhat monotonous appearance: the growth of the date-palm being so extremely
+            formal, that every tree looks like a reflection of its next neighbour in a mirror. The
+            date has nothing of the light feathery aspect, and wants the majestic stature of the
+            cocoa-nut, arica, and other tropical palms; here, it seldom exceeds thirty or
+            thirty-five feet, and usually not more than twenty-five; and its rather stiff leaves
+            have a sea-green tint, not the soft bright verdure of more southern palms. I see three
+            varieties of date in the markets, one a large yellow or orange coloured sort, another of
+            a bright red, and a third of a dark purple or plum colour: but the date not being a
+            fruit much to my taste, fresh or dried, I patronize them very little. The only grapes I
+            have seen here, are a large, oval, fleshy, and insipid fruit, of a muddy opaque white,
+            tinged here and there with red, and looking much like the white grape imported in jars
+            from <name type="place" ref="#lisbon">Lisbon</name>, and so often seen in our shops; but
+            the season of grapes is nearly gone by, so I ought not perhaps to conclude that I have
+            eaten the choicest fruit of the vine, although I am told that very few are good at <name type="place" ref="#alexandria">Alexandria</name>.</p>
 
-         <p>To an utter stranger to the East, like myself, Alexandria is an entertaining place,
-            although said to present less of an oriental character than many others. Viewed from a
-            distance, or from the lofty crow's nest on the roof of my hotel, the place has a very
-            imposing appearance. The fine harbour now covered with shipping, the blue expanse of the
-            Mediterranean on the north, and the vast mass of houses in the rear, the numerous
-            country villas of the Franks and wealthier natives in the distance, the large gardens
-            and plantations of date trees which occupy a great space within the walls, and the noble
-            area of the Frank Square on which I am looking down, all lighted up by a bright sun or
-            moon, (for the latter is now at the full), furnish certainly a fine panorama ; but not
-            one of these objects will bear the test of a close inspection; a profusion of mortar and
-            whitewash are the elements of all this appearance of splendour. The glare is excessive
-            on every side, there is no shade, no relief from the hot dazzling white of every thing
-            around; the very ground is lime dust, partly derived from the mounds of rubbish that
-            block up every piece of waste or vacant ground, partly from the naturally white
-            calcareous rock of the vicinity. Outside the walls, the most absolute sterility reigns;
-            vast mounds of broken pottery and building rubbish, with scarcely a trace of vegetation:
-            only here and tliere a thin wiry grass, (Cynodon Dactylon), a few patches of the
-            castor-oil plant, acacias or prickly pear, or a little patch of garden maintained by
-            constant irrigation, meet the eye : but some of the roads leading out of the city
-            eastward, were planted by the late Pasha with acacias, Acacia lebbek, which are now
-            thriving, and within the walls are similar avenues of acacias and tamarisks, but too
-            young to afford much shade at present. The Frank Square is a parallelogram of noble
-            dimensions, and viewed by moonlight looks quite magnificent, but wretched taste and
-            dilapidation are its distinguishing features by daylight : whitewash, falling stucco,
-            plaster, and decaying wood-work, being the materials which light up with such effect at
-            night, or in perspective by day. Between this square and the harbour, is spread a vast
-            labyrinth of intricate streets, lanes, and alleys of wretched houses, densely inhabited
-            by a mixed population of all nations, and of every imaginable costume. Some of the
-            streets are very long and tolerably wide, but most of them are extremely narrow, close,
-            and crooked, but highly entertaining to thread one's way through, amongst the motley
-            groups of human beings, camels, donkeys, and dogs, with which they are absolutely
-            thronged. The dogs here are a serious nuisance from their numbers, and disposition to
-            growl and bark at Frank passengers, between whom and the faithful, they distinguish with
-            great acuteness, never molesting the latter. The race is lean, wolfish, and prick-eared,
-            with long whitish or reddish hair, extremely lazy, lying about in the roads in the sun,
-            and giving themselves no trouble except to fly out and bark at the unoffending infidel,
-            especially if he happens to be on foot. However, they are great cowards, seldom
-            attempting to bite excepting unawares, or at an advantage; the merely pretending to
-            stoop and pick up a stone, putting them to flight instanter. The dogs inhabiting the
-            towns are less troublesome to strangers than those which haunt the miserable hovels of
-            mud or unbaked brick outside the walls, near which, it is sometimes hardly safe to pass
-            for the multitude of these animals.</p>
+         <p>To an utter stranger to the East, like myself, <name type="place" ref="#alexandria">Alexandria</name> is an entertaining place, although said to present less of an
+            oriental character than many others. Viewed from a distance, or from the lofty crow's
+            nest on the roof of my hotel, the place has a very imposing appearance. The fine harbour
+            now covered with shipping, the blue expanse of the Mediterranean on the north, and the
+            vast mass of houses in the rear, the numerous country villas of the Franks and wealthier
+            natives in the distance, the large gardens and plantations of date trees which occupy a
+            great space within the walls, and the noble area of the Frank Square on which I am
+            looking down, all lighted up by a bright sun or moon, (for the latter is now at the
+            full), furnish certainly a fine panorama ; but not one of these objects will bear the
+            test of a close inspection; a profusion of mortar and whitewash are the elements of all
+            this appearance of splendour. The glare is excessive on every side, there is no shade,
+            no relief from the hot dazzling white of every thing around; the very ground is lime
+            dust, partly derived from the mounds of rubbish that block up every piece of waste or
+            vacant ground, partly from the naturally white calcareous rock of the vicinity. Outside
+            the walls, the most absolute sterility reigns; vast mounds of broken pottery and
+            building rubbish, with scarcely a trace of vegetation: only here and there a thin wiry
+            grass, (Cynodon Dactylon), a few patches of the castor-oil plant, acacias or prickly
+            pear, or a little patch of garden maintained by constant irrigation, meet the eye: but
+            some of the roads leading out of the city thriving, and within the walls are similar
+            avenues of acacias and tamarisks, but too young to afford much shade at present. The
+            Frank Square is a parallelogram of noble dimensions, and viewed by moonlight looks quite
+            magnificent, but wretched taste and dilapidation are its distinguishing features by
+            daylight: whitewash, falling stucco, plaster, and decaying wood-work, being the
+            materials which light up with such effect at night, or in perspective by day. Between
+            this square and the harbour, is spread a vast labyrinth of intricate streets, lanes, and
+            alleys of wretched houses, densely inhabited by a mixed population of all nations, and
+            of every imaginable costume. Some of the streets are very long and tolerably wide, but
+            most of them are extremely narrow, close, and crooked, but highly entertaining to thread
+            one's way through, amongst the motley groups of human beings, camels, donkeys, and dogs,
+            with which they are absolutely thronged. The dogs here are a serious nuisance from their
+            numbers, and disposition to growl and bark at Frank passengers, between whom and the
+            faithful, they distinguish with great acuteness, never molesting the latter. The race is
+            lean, wolfish, and prick-eared, with long whitish or reddish hair, extremely lazy, lying
+            about in the roads in the sun, and giving themselves no trouble except to fly out and
+            bark at the unoffending infidel, especially if he happens to be on foot. However, they
+            are great cowards, seldom attempting to bite excepting unawares, or at an advantage; the
+            merely pretending to stoop and pick up a stone, putting them to flight instanter. The
+            dogs inhabiting the towns are less troublesome to strangers than those which haunt the
+            miserable hovels of mud or unbaked brick outside the walls, near which, it is sometimes
+            hardly safe to pass for the multitude of these animals.</p>
 
-         <p>In the way of antiquities, there is scarcely anything worthy of notice at Alexandria,
-            although Greek inscriptions are sometimes met with in removing the mounds of rubbish
-            that have been accumulating for ages in and around the city. Of course, I paid a visit
-            to Pompey's pillar, and the two obelisks known as Cleopatra's needles, and I cannot say
-            that I was at all struck with either. The former stands on a desolate hill surrounded by
-            mounds of rubbish, and is as badly executed, and as ill-designed a column as can be; the
-            base is in a very dilapidated state, and the shaft bedaubed in huge black letters with
-            the patronymics of two ambitious aspirants for fame. The obelisks are close to the shore
-            of the harbour, the only one still standing looks as if it could not do so any very
-            great time longer, being supported solely on crumbling blocks of stone, the
-            hieroglyphics with which it is covered are in a great measure obliterated on the two
-            sides most exposed to the sea breeze : those on the remaining faces are in better
-            preservation. A paltry shed, and a guardhouse for soldiers, stand close by the erect
-            obelisk, the other lies a short distance off, half buried in the soil. Some fine columns
-            of red granite of Upper Egypt, may be seen lying here and there in the city, that have
-            been dug out in making foundations. There are no fine mosques in Alexandria, but a few
-            of the minarets are interesting in their own peculiar barbaric style of architecture.
-            None of the convents, or other buildings public or private, have the least pretension to
-            beauty, most of them being white-washed structures of the poorest design, and, in
-            general, extremely out of repair. The harem and palace of the Pasha are imposing in
-            their way, with a rather pretty garden, open to the public, but the palace is quite
-            dismantled, as his Highness very seldom honours Alexandria with a visit, which I do not
-            wonder at, as the place can have little attraction for any one; nor has the reigning
-            Pasha the same motives as his renowned predecessor for making Alexandria one of his
-            residences, since naval affairs engage but little of his attention, and he has sunk to
-            be the mere vassal and representative of his master the Sultan, who it is rumoured, is
-            far from being satisfied with his administration of affairs in Egypt, and would probably
-            have deposed Albas Pasha, were not his hereditary right to rule the country guaranteed
-            to him by the great European powers.</p>
+         <p>In the way of antiquities, there is scarcely anything worthy of notice at <name type="place" ref="#alexandria">Alexandria</name>, although Greek inscriptions are
+            sometimes met with in removing the mounds of rubbish that have been accumulating for
+            ages in and around the city. Of course, I paid a visit to Pompey's pillar, and the two
+            obelisks known as Cleopatra's needles, and I cannot say that I was at all struck with
+            either. The former stands on a desolate hill surrounded by mounds of rubbish, and is as
+            badly executed, and as ill-designed a column as can be; the base is in a very
+            dilapidated state, and the shaft bedaubed in huge black letters with the patronymics of
+            two ambitious aspirants for fame. The obelisks are close to the shore of the harbour,
+            the only one still standing looks as if it could not do so any very great time longer,
+            being supported solely on crumbling blocks of stone, the hieroglyphics with which it is
+            covered are in a great measure obliterated on the two sides most exposed to the sea
+            breeze: those on the remaining faces are in better preservation. A paltry shed, and a
+            guardhouse for soldiers, stand close by the erect obelisk, the other lies a short
+            distance off, half buried in the soil. Some fine columns of red granite of Upper Egypt,
+            may be seen lying here and there in the city, that have been dug out in making
+            foundations. There are no fine mosques in <name type="place" ref="#alexandria">Alexandria</name>, but a few of the minarets are interesting in their own peculiar
+            barbaric style of architecture. None of the convents, or other buildings public or
+            private, have the least pretension to beauty, most of them being white-washed structures
+            of the poorest design, and, in general, extremely out of repair. The harem and palace of
+            the Pasha are imposing in their way, with a rather pretty garden, open to the public,
+            but the palace is quite dismantled, as his Highness very seldom honours <name type="place" ref="#alexandria">Alexandria</name> with a visit, which I do not wonder
+            at, as the place can have little attraction for any one; nor has the reigning Pasha the
+            same motives as his renowned predecessor for making <name type="place" ref="#alexandria">Alexandria</name> one of his residences, since naval affairs engage but little of
+            his attention, and he has sunk to be the mere vassal and representative of his master
+            the Sultan, who it is rumoured, is far from being satisfied with his administration of
+            affairs in Egypt, and would probably have deposed Albas Pasha, were not his hereditary
+            right to rule the country guaranteed to him by the great European powers.</p>
 
-         <p>The only really handsome building in Alexandria, will be the English church in the Frank
-            Square, which is now advancing although with extreme slowness towards completion. The
-            truth is, the building is on such a scale of magnificence as is vastly disproportioned
-            to the wants of the Protestant population of Alexandria, of which very small community
-            many are not members of the established church, but dissenters, or presbyterians,
-            &amp;c, but who favour the undertaking because they think it preferable to have any
-            Protestant place of worship rather than none at all. The original Government grant was
-            lavished on a design by an English architect, Mr. Wylde, and the walls of the structure
-            built of a most unnecessary thickness, which, together with the quantity of tracery and
-            other ornament, soon exhausted the funds, and the church, although not yet roofed in,
-            and without the tower, has already cost upwards of four thousand pounds. Subscriptions
-            continue however to come in, although slowly, from persons visiting or passing through
-            Egypt on their way to India, and workmen are always doing something towards finishing
-            the church. Mr. Winder has been about fifteen years in Alexandria, is a very well
-            informed man, and seems to be an Oriental as well as Hebrew scholar. He tells me that
-            the society of Alexandria is very limited, and that he leads a very secluded life,
-            amusing himself, I should suppose, chiefly with his books; for as to any other means of
-            passing time agreeably, neither the social, nor certainly the natural attractions in or
-            about the city&gt; offer the least scope to a permanent resident; for even to a stranger
-            like myself, the objects of interest here are extremely few. Filth, disease, and the
-            most abject poverty, meet you at every step; when you walk out you are everywhere
-            annoyed by the dogs; the glare from the white ground and still whiter buildings and
-            rubbish heaps is excessive, the heat, as you may suppose, not diminished by reflection,
-            and clouds of lime dust; and there is no shade except in the gardens : there has however
-            been a cool breeze during my stay, and the nights have been delightfully fresh and
-            pleasant. The mosquitoes torment you in your apartment without a moment's respite as
-            soon as the sun goes down, and in a less degree during the day. Another enemy, so minute
-            as to be scarcely visible to the naked eye, and which is here called a sand-fly, is very
-            troublesome by the tickling sensation it causes in running over the back of the hands,
-            and by the occasional bite it inflicts, which is like the contact of a minute particle
-            of some ignited matter. The abundance of mosquitoes at Alexandria is probably clue to
-            the underground cisterns, of which so many remain in as good repair as in ancient times,
-            and to the vast surface of stagnant, and half fresh, half sea-water of the Lake
-            Mareotis, which is the cause likewise of the fever and dysentery, that in addition to
-            the cholera, (which is again on the increase), are sadly prevalent at this moment in the
-            city. The season, this year, as I learn from Mr. Davidson, the Company's chief agent at
-            Alexandria, has been remarkably sickly, the heat unusually prolonged, and the rise of
-            the Nile somewhat less than it ought to be. After heavy showers the streets are in a
-            puddle, like thick cream, and their extreme narrowness hinders the evaporation of the
-            water with which they are sprinkled daily by the watercarriers, and which always keeps
-            them damp as w T ell as dirty. Hence, a low typhus fever is one of the great sources of
-            the mortality in Alexandria, which is so excessive as to amount to one-tenth of the
-            entire population annually, as appears by the returns of the last twenty years. In
-            London the average annual mortality is only one in forty or forty-five of the whole
-            population. Betw r een the 20th and 26th the cases of cholera had increased from two,
+         <p>The only really handsome building in <name type="place" ref="#alexandria">Alexandria</name>, will be the English church in the Frank Square, which is now
+            advancing although with extreme slowness towards completion. The truth is, the building
+            is on such a scale of magnificence as is vastly disproportioned to the wants of the
+            Protestant population of <name type="place" ref="#alexandria">Alexandria</name>, of
+            which very small community many are not members of the established church, but
+            dissenters, or presbyterians, &amp;c, but who favour the undertaking because they think
+            it preferable to have any Protestant place of worship rather than none at all. The
+            original Government grant was lavished on a design by an English architect, Mr. Wylde,
+            and the walls of the structure built of a most unnecessary thickness, which, together
+            with the quantity of tracery and other ornament, soon exhausted the funds, and the
+            church, although not yet roofed in, and without the tower, has already cost upwards of
+            four thousand pounds. Subscriptions continue however to come in, although slowly, from
+            persons visiting or passing through Egypt on their way to India, and workmen are always
+            doing something towards finishing the church. Mr. Winder has been about fifteen years in
+               <name type="place" ref="#alexandria">Alexandria</name>, is a very well informed man,
+            and seems to be an Oriental as well as Hebrew scholar. He tells me that the society of
+               <name type="place" ref="#alexandria">Alexandria</name> is very limited, and that he
+            leads a very secluded life, amusing himself, I should suppose, chiefly with his books;
+            for as to any other means of passing time agreeably, neither the social, nor certainly
+            the natural attractions in or about the city, offer the least scope to a permanent
+            resident; for even to a stranger like myself, the objects of interest here are extremely
+            few. Filth, disease, and the most abject poverty, meet you at every step; when you walk
+            out you are everywhere annoyed by the dogs; the glare from the white ground and still
+            whiter buildings and rubbish heaps is excessive, the heat, as you may suppose, not
+            diminished by reflection, and clouds of lime dust; and there is no shade except in the
+            gardens: there has however been a cool breeze during my stay, and the nights have been
+            delightfully fresh and pleasant. The mosquitoes torment you in your apartment without a
+            moment's respite as soon as the sun goes down, and in a less degree during the day.
+            Another enemy, so minute as to be scarcely visible to the naked eye, and which is here
+            called a sand-fly, is very troublesome by the tickling sensation it causes in running
+            over the back of the hands, and by the occasional bite it inflicts, which is like the
+            contact of a minute particle of some ignited matter. The abundance of mosquitoes at
+               <name type="place" ref="#alexandria">Alexandria</name> is probably clue to the
+            underground cisterns, of which so many remain in as good repair as in ancient times, and
+            to the vast surface of stagnant, and half fresh, half sea-water of the Lake Mareotis,
+            which is the cause likewise of the fever and dysentery, that in addition to the cholera,
+            (which is again on the increase), are sadly prevalent at this moment in the city. The
+            season, this year, as I learn from Mr. Davidson, the Company's chief agent at <name type="place" ref="#alexandria">Alexandria</name>, has been remarkably sickly, the
+            heat unusually prolonged, and the rise of the Nile somewhat less than it ought to be.
+            After heavy showers the streets are in a puddle, like thick cream, and their extreme
+            narrowness hinders the evaporation of the water with which they are sprinkled daily by
+            the watercarriers, and which always keeps them damp as well as dirty. Hence, a low
+            typhus fever is one of the great sources of the mortality in <name type="place" ref="#alexandria">Alexandria</name>, which is so excessive as to amount to one-tenth
+            of the entire population annually, as appears by the returns of the last twenty years.
+            In London the average annual mortality is only one in forty or forty-five of the whole
+            population. Between the 20th and 26th the cases of cholera had increased from two,
             three, five, to eleven per diem.</p>
 
-         <p>Believe me, My dear E, Your affectionate Brother, William Arnold Beomfield.</p>
+         <p>Believe me, My dear <name type="person" ref="#eliza_bromfield">E</name>, Your
+            affectionate Brother, William Arnold Beomfield.</p>
       </body>
    </text>
 </TEI>

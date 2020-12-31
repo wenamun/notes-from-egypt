@@ -40,7 +40,7 @@ declare function local:export_place_to_json_ld($placename as xs:string) as xs:st
     )
 )};
 
-(: returns JSON-LD representation of place :)
+(: returns JSON-LD representation of person :)
 declare function local:export_person_to_json_ld($personname as xs:string) as xs:string?{
     
     let $person := doc('/db/apps/nfe/authority/people.xml')//tei:person[@xml:id = lower-case($personname)]

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -19,7 +20,9 @@
             <correspAction type="sent">
                <name type="person" ref="https://viaf.org/viaf/160825459">William Arnold
                   Bromfield</name>
-               <name type="place" ref="http://www.geonames.org/360630"><name type="place" ref="#cairo">Cairo</name></name>
+               <name type="place" ref="http://www.geonames.org/360630">
+                        <name type="place" ref="#cairo">Cairo</name>
+                    </name>
                <date when="1850-11-26">26 November 1850</date>
             </correspAction>
             <correspAction type="received">
@@ -31,7 +34,8 @@
    </teiHeader>
    <text>
       <body>
-         <p>My dear E</p>
+         <p>My dear <name type="person" ref="#eliza_bromfield">E</name>
+            </p>
          <p>I am now fairly afloat with Lieutenant Pengelly and Mr. Lakes in our aquatic habitation,
             and probable domicile for three or perhaps four months to come. We feel already quite at
             home, and exceedingly comfortable in the Mary Victoria, and hitherto have had very
@@ -165,7 +169,8 @@
             empire would be fearfully compromised by foreign occupation of this country, if it did
             not eventuate in its loss.</p>
 
-         <p><name type="place" ref="#minieh">Minieh</name>, lat. 28. 7. December 2nd. A week's
+         <p>
+                <name type="place" ref="#minieh">Minieh</name>, lat. 28. 7. December 2nd. A week's
             sailing with light airs and calms, and an occasionally favourable breeze, has brought us
             thus far on our voyage, nearly half way to the great centre of attraction, <name type="place" ref="#thebes">Thebes</name>; a degree of progress we owe to the
             unwearied exertions of our willing and light hearted crew of Nubians, in tracking during

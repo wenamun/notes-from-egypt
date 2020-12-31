@@ -19,6 +19,16 @@
     <text>
         <body>
             <listPerson>
+                <person xml:id="abbott">
+                    <name>Dr. Henry Abbott</name>
+                    <note>Dr. Henry Abbott (1812-1859) was a British physician and amateur collector
+                        of Egyptian antiquities who practiced in Cairo. During his residence in
+                        Egypt between 1832 and 1852, Dr. Abbott began to accompany archaeologists
+                        and explorers on digs and actively participate in excavations throughout the
+                        country. The famous Abbott papyrus was named after him.</note>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q77339120</idno>
+                    <idno type="viaf">https://viaf.org/viaf/2249905</idno>
+                </person>
                 <person xml:id="abdallah_pasha">
                     <name>Abdallah Pasha</name>
                     <note>Abdullah Pasha ibn Ali (commonly referred to simply as Abdullah Pasha;
@@ -117,9 +127,9 @@
                 <person xml:id="brigg">
                     <name>Brigg</name>
                 </person>
-                <person xml:id="de_leo_bey">
-                    <name>De Leo Bey</name>
-                    <note>surgeon-in-chief of the Pasha’s troops</note>
+                <person xml:id="eliza_bromfield">
+                    <name>Eliza Bromfield</name>
+                    <note>Sister of William Arnold Bromfeld</note>
                 </person>
                 <person xml:id="claude">
                     <name>Claude</name>
@@ -139,6 +149,20 @@
                 </person>
                 <person xml:id="ellen">
                     <name>Ellen</name>
+                </person>
+                <person xml:id="garnder_wilkinson">
+                    <name>Sir John Gardner Wilkinson</name>
+                    <note>Sir John Gardner Wilkinson (5 October 1797 – 29 October 1875) was an
+                        English traveller, writer and pioneer Egyptologist of the 19th century. He
+                        is often referred to as "the Father of British Egyptology".</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/John_Gardner_Wilkinson</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q923032</idno>
+                    <idno type="viaf">https://viaf.org/viaf/69000129</idno>
+                    <idno type="gnd">https://d-nb.info/gnd/119112469</idno>
+                </person>
+                <person xml:id="gilbert">
+                    <name>Gilbert</name>
+                    <note>British consul in Alexandria</note>
                 </person>
                 <person xml:id="girgis">
                     <name>Girgis</name>
@@ -243,6 +267,10 @@
                 <person xml:id="lord_lansdowne">
                     <name>Lord Lansdowne</name>
                 </person>
+                <person xml:id="de_leo_bey">
+                    <name>De Leo Bey</name>
+                    <note>surgeon-in-chief of the Pasha’s troops</note>
+                </person>
                 <person xml:id="de_lesseps">
                     <name>de Lesseps</name>
                     <note>Ferdinand Marie, vicomte de Lesseps GCSI (French: [də lesɛps]; 19 November
@@ -335,8 +363,8 @@
                 </person>
                 <person xml:id="osiris">
                     <name>Osiris</name>
-                    <note>Osiris (/oʊˈsaɪrɪs/, from Egyptian wsjr, Coptic ⲟⲩⲥⲓⲣⲉ) is the god
-                        of fertility, agriculture, the afterlife, the dead, resurrection, life, and
+                    <note>Osiris (/oʊˈsaɪrɪs/, from Egyptian wsjr, Coptic ⲟⲩⲥⲓⲣⲉ) is the god of
+                        fertility, agriculture, the afterlife, the dead, resurrection, life, and
                         vegetation in ancient Egyptian religion. He was classically depicted as a
                         green-skinned deity with a pharaoh's beard, partially mummy-wrapped at the
                         legs, wearing a distinctive atef crown, and holding a symbolic crook and
@@ -410,16 +438,16 @@
                 </person>
                 <person xml:id="ramses">
                     <name>Ramses II (The Great)</name>
-                    <note>Ramesses II /ˈræməsiːz, ˈræmsiːz, ˈræmziːz/ (variously also spelt
-                        Rameses or Ramses, Ancient Egyptian: rꜥ-ms-sw "Ra is the one who bore
-                        him", Koinē Greek: Ῥαμέσσης, romanized: Rhaméssēs, c. 1303 BC – July or
-                        August 1213; reigned 1279–1213 BC), also known as Ramesses the Great, was
-                        the third pharaoh of the Nineteenth Dynasty of Egypt. He is often regarded
-                        as the greatest, most celebrated, and most powerful pharaoh of the New
-                        Kingdom, itself the most powerful period of Ancient Egypt. He is known as
-                        Ozymandias in Greek sources (Koinē Greek: Οσυμανδύας, romanized:
-                        Osymandýas), from the first part of Ramesses's regnal name, Usermaatre
-                        Setepenre, "The Maat of Ra is powerful, Chosen of Ra".</note>
+                    <note>Ramesses II /ˈræməsiːz, ˈræmsiːz, ˈræmziːz/ (variously also spelt Rameses
+                        or Ramses, Ancient Egyptian: rꜥ-ms-sw "Ra is the one who bore him", Koinē
+                        Greek: Ῥαμέσσης, romanized: Rhaméssēs, c. 1303 BC – July or August 1213;
+                        reigned 1279–1213 BC), also known as Ramesses the Great, was the third
+                        pharaoh of the Nineteenth Dynasty of Egypt. He is often regarded as the
+                        greatest, most celebrated, and most powerful pharaoh of the New Kingdom,
+                        itself the most powerful period of Ancient Egypt. He is known as Ozymandias
+                        in Greek sources (Koinē Greek: Οσυμανδύας, romanized: Osymandýas), from the
+                        first part of Ramesses's regnal name, Usermaatre Setepenre, "The Maat of Ra
+                        is powerful, Chosen of Ra".</note>
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Ramesses_II</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1523</idno>
                     <idno type="viaf">https://viaf.org/viaf/7363190/</idno>

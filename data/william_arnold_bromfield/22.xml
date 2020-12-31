@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,7 +18,9 @@
             <correspAction type="sent">
                <name type="person" ref="https://viaf.org/viaf/160825459">William Arnold
                   Bromfield</name>
-               <name type="place" ref="http://www.geonames.org/360630"><name type="place" ref="#cairo">Cairo</name></name>
+               <name type="place" ref="http://www.geonames.org/360630">
+                        <name type="place" ref="#cairo">Cairo</name>
+                    </name>
                <name type="place" ref="http://www.geonames.org/358048">Damietta</name>
                <date when="1851-07-12">12 July 1851</date>
             </correspAction>
@@ -30,7 +33,8 @@
    </teiHeader>
    <text>
       <body>
-         <p>My dear E</p>
+         <p>My dear <name type="person" ref="#eliza_bromfield">E</name>
+            </p>
 
          <p>The present time finds me once more in one of Mr. Page's comfortable Diabeeyehs or
             travelling Nileboats, almost an exact counterpart of the Mary Victoria but rather

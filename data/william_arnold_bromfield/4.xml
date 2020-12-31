@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,7 +19,8 @@
                <name type="person" ref="https://viaf.org/viaf/160825459">William Arnold
                   Bromfield</name>
                <name type="place" ref="http://www.geonames.org/360630">Sheppard's Hotel, Usbekieh,
-                     <name type="place" ref="#cairo">Cairo</name></name>
+                     <name type="place" ref="#cairo">Cairo</name>
+                    </name>
                <date when="1850-11-07">7 November 1850</date>
             </correspAction>
             <correspAction type="received">
@@ -30,7 +32,8 @@
    </teiHeader>
    <text>
       <body>
-         <p>My dear E</p>
+         <p>My dear <name type="person" ref="#eliza_bromfield">E</name>
+            </p>
 
          <p>Having returned from an expedition to the Pyramids yesterday, I hasten to give you a
             narrative of our proceedings to and from those wonderful structures, and the impression
@@ -373,7 +376,7 @@
          <p>The Sphinx I found with the features much more mutilated than is generally represented
             in public accounts; indeed, very few lineaments of the human face remain, and viewed
             from behind, the head has a grotesque, almost ludicrous aspect, like an immense bob wig
-            : but the front view of this wonderful structure is very striking: it is wonderful only
+           : but the front view of this wonderful structure is very striking: it is wonderful only
             however from its colossal size, for the stone is the same with that composing the
             Pyramids, and extremely soft. I searched carefully for some small memorial of antiquity,
             a scarabaeus, or mummy of glass or earthenware, but could pick up nothing, although the

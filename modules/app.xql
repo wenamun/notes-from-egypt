@@ -204,6 +204,7 @@ declare function app:print_header($node as node(), $model as map(*))
 											</li>
 											<li><a href="search_form.html">Fulltext Search</a></li>
 											<li><a href="show_map.html">Map</a></li>
+											<li><a href="show_timeline.html">Timeline</a></li>
 											<li><a href="#">Indexes</a>
 											<ul>
 											    <li><a href="show_indices.html?type=places">Places</a></li>

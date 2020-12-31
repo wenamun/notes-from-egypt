@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,8 +32,9 @@
    </teiHeader>
    <text>
       <body>
-         <p>My dear E</p>
-
+         <p>My dear <name type="person" ref="#eliza_bromfield">E</name>
+            </p>
+         
          <p>A charming breeze is wafting us merrily up the Nile, and the plague of flies has ceased
             for the present, as by dint of brushing them out of the cabin with flyflaps and towels,
             we have succeeded in reducing their numbers within the limits of moderation, and so long
@@ -45,8 +47,9 @@
             the canes are occasionally much injured by frost in this latitude, 28°, and that in
             January sharp hoar frosts are not un frequent, ice having been formed last winter there
             one fourth of an inch in thickness.</p>
-
-         <p><name type="place" ref="#minieh">Minieh</name> is one of the largest provincial towns of
+         
+         <p>
+            <name type="place" ref="#minieh">Minieh</name> is one of the largest provincial towns of
             Central Egypt, and has a garrison of 800 troops, the depot of four regiments of cavalry.
             Like all other towns in this country, it is a confused assemblage of narrow streets and
             alleys, made up of dirt and rubbish, and dilapidation; the abodes of the lower classes
@@ -96,7 +99,7 @@
             play, of great strength, and when feeding, of some ferocity; tokens, it will be well to
             attend to in time, as in a few more months, the unrestrained liberty he now enjoys, may
             be perverted to the harm of those about him.</p>
-
+         
          <p>Manfalout, December 7th. We arrived at this place, the ancient Crocodilopolis, about
             noon, and have now completed the half of our voyage between <name type="place" ref="#cairo">Cairo</name> and <name type="place" ref="#thebes">Thebes</name>. The
             wind has been exceedingly variable, and often, none at all, which has obliged us to get
@@ -111,7 +114,7 @@
             the governor or other principal officer of the district, are the only buildings at all
             distinguishable in the cities of this country, from the mass of dirty, dilapidated, or
             half finished habitations which compose them.</p>
-
+         
          <p>A pretty little Egyptian boy, about ten or eleven years of age, volunteered to conduct
             us where doves were to be found, on which gentle bipeds, I am ashamed to say, we have
             been satiating our carnivorous appetites for this fortnight past, for which I can only
@@ -132,7 +135,7 @@
             shame at becoming the recipient, which astonished us in a country where avarice is the
             ruling passion from the highest to the lowest, and where a present or remuneration is
             demanded by every man, woman, and child, for the smallest service.</p>
-
+         
          <p>Manfalout boasts a tolerable <foreign xml:lang="ar">bazaar</foreign>, where, during our
             visit we were much amused by the curiosity of the rude Arnout soldiery, some of whom are
             quartered here, in inspecting our fire arms, my highly finished double barrelled gun
@@ -154,11 +157,11 @@
             and says he has got money in a Savings bank. He occasionally finds means of sending his
             brother Ameen little presents, such as an English penknife, but the latter does not seem
             to relish the idea of quitting Egypt for England, as from his known respectability at
-               <name type="place" ref="#cairo">Cairo</name>, Ameen is sure of a comfortable
+            <name type="place" ref="#cairo">Cairo</name>, Ameen is sure of a comfortable
             livelihood, as servant or dragoman to travellers going up the Nile. Ameen is much
             pleased at my offer to become the bearer of a letter to his brother on my return home
             next year.</p>
-
+         
          <p>The scenery for several days past has been interesting, the left, or eastern bank of the
             Nile, being uniformly bounded by a lofty limestone ridge, increasing in height and
             boldness as we advance southward, sometimes receding to a distance of several miles from
@@ -204,7 +207,7 @@
             am sure our friends at home would laugh were they to see us, nor am I certain that they
             would not envy us our river life, and river home in this most splendid and rainless
             climate.</p>
-
+         
          <p>The soil of the valley of the Nile, particularly that part left dry by the now receding
             waters, is a sandy loam of a deep brown colour, and of the consistence nearly of paste,
             so that like that, it is quite plastic, and can be kneaded with the fingers as dough. It
@@ -237,8 +240,9 @@
             undergoing alteration: so that even were it navigable for vessels of any great burden,
             which the innumerable shallows and shifting banks preclude, any survey would in a few
             years be wholly obsolete and useless.</p>
-
-         <p><name type="place" ref="#siout">Siout</name>, Esiout, or Osiout, December 9th. We
+         
+         <p>
+            <name type="place" ref="#siout">Siout</name>, Esiout, or Osiout, December 9th. We
             arrived at this place, at present the capital of Upper Egypt, and the ancient Lycopolis,
             after a tedious passage from Manfalout, owing to the wind failing us entirely. As we
             propose stopping a day or two here on our return voyage, to visit the tombs and grottos
@@ -268,7 +272,7 @@
             two in visiting the <foreign xml:lang="ar">bazaar</foreign>s and the few other objects
             of interest it presents, we took leave for a time of the capital of Upper Egypt, and
             returned to our boat at El Khamra.</p>
-
+         
          <p>Believe me, Dear E Your affectionate Brother, William Arnold Beomfield.</p>
       </body>
    </text>

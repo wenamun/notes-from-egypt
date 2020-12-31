@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -20,7 +21,9 @@
             <correspAction type="sent">
                <name type="person" ref="https://viaf.org/viaf/160825459">William Arnold
                   Bromfield</name>
-               <name type="place" ref="http://www.geonames.org/356859"><name type="place" ref="#philae">Philae</name></name>
+               <name type="place" ref="http://www.geonames.org/356859">
+                        <name type="place" ref="#philae">Philae</name>
+                    </name>
                <name type="place" ref="http://www.geonames.org/359792">Aswan</name>
                <date when="1851-04-30">30 April 1851</date>
             </correspAction>
@@ -33,7 +36,8 @@
    </teiHeader>
    <text>
       <body>
-         <p>My dear E</p>
+         <p>My dear <name type="person" ref="#eliza_bromfield">E</name>
+            </p>
 
          <p>I thank God! we are now (April 30th) on the eve of quitting the regions of absolute
             savagedom for the comparative civilization of Egypt, at whose southern portal we are
@@ -101,7 +105,8 @@
             a few minutes once or twice since leaving <name type="place" ref="#cairo">Cairo</name>,
             November 24th.</p>
 
-         <p><name type="place" ref="#philae">Philae</name> looked more lovely and picturesque to our
+         <p>
+                <name type="place" ref="#philae">Philae</name> looked more lovely and picturesque to our
             way-worn eyes, as we passed under her ruin-crowned banks than she did on our upward
             course; being the first herald of our approach to regions of comparative civilization
             and plenty; for our Nubian and Ethiopian trip has been somewhat trying to body as well

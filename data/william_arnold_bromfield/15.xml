@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -30,7 +31,8 @@
    </teiHeader>
    <text>
       <body>
-         <p>My dear E</p>
+         <p>My dear <name type="person" ref="#eliza_bromfield">E</name>
+            </p>
 
          <p>Behold me once more on board our snug little boat gliding down the mighty stream towards
                <name type="place" ref="#cairo">Cairo</name>, which we hope to reach about the last
@@ -345,7 +347,7 @@
             qualities positively injurious as food, are abandoned to the crocodiles and other river
             monsters.</p>
 
-         <p>Ever my dear E., Your affectionate Brother, William Arnold Bromfield.</p>
+         <p>Ever my dear <name type="person" ref="#eliza_bromfield">E</name>., Your affectionate Brother, William Arnold Bromfield.</p>
       </body>
    </text>
 </TEI>

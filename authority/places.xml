@@ -72,6 +72,17 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Alexandria</idno>
                     <idno type="geonames">https://www.geonames.org/361058</idno>
                 </place>
+                <place xml:id="algiers">
+                    <placeName xml:lang="en">Algiers</placeName>
+                    <location>
+                        <geo>36.753889, 3.058889</geo>
+                    </location>
+                    <note>Algiers (/ælˈdʒɪərz/ al-JEERZ; Arabic: الجزائر‎; Berber: Dzayer; French:
+                        Alger) is the capital and largest city of Algeria. Algiers is located on the
+                        Mediterranean Sea and in the north-central portion of Algeria.</note>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Algiers</idno>
+                    <idno type="geonames">https://www.geonames.org/2507480</idno>
+                </place>
                 <place xml:id="alhambra">
                     <placeName xml:lang="en">Alhambra</placeName>
                     <location>
@@ -165,6 +176,17 @@
                     </location>
                     <idno type="geonames"/>
                 </place>
+                <place xml:id="bombay">
+                    <placeName xml:lang="en">Bombay</placeName>
+                    <location>
+                        <geo>18.975, 72.825833</geo>
+                    </location>
+                    <note>Mumbai (English: /mʊmˈbaɪ/, Marathi: [ˈmumbəi]; also known as Bombay
+                        /bɒmˈbeɪ/, the official name until 1995) is the capital city of the Indian
+                        state of Maharashtra.</note>
+                    <idno type="geonames">http://sws.geonames.org/1275339/</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Mumbai</idno>
+                </place>
                 <place xml:id="boulak">
                     <placeName xml:lang="en">Boulaq</placeName>
                     <location>
@@ -205,6 +227,31 @@
                         minarets" for its preponderance of Islamic architecture.</note>
                     <idno type="geonames">http://sws.geonames.org/360630</idno>
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Cairo</idno>
+                </place>
+
+                <place xml:id="cape_finisterre">
+                    <placeName xml:lang="en">Cape Finisterre</placeName>
+                    <location>
+                        <geo>42.8825, -9.272222</geo>
+                    </location>
+                    <note>Cape Finisterre (/ˌfɪnɪˈstɛər/, also US: /-tɛri/;[3] Galician: Cabo
+                        Fisterra [fisˈtɛrɐ]; Spanish: Cabo Finisterre [finisˈtere]) is a rock-bound
+                        peninsula on the west coast of Galicia, Spain. </note>
+                    <idno type="geonames">https://www.geonames.org/3122425</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Cape_Finisterre</idno>
+                </place>
+                <place xml:id="constantinople">
+                    <placeName xml:lang="en">Constantinople</placeName>
+                    <location>
+                        <geo>41.013889, 28.955556</geo>
+                    </location>
+                    <note>Constantinople (/ˌkɒnstæntɪˈnoʊpəl/ Greek: Κωνσταντινούπολη; Latin:
+                        Cōnstantīnopolis; Turkish: Kostantiniye) was the capital city of the Roman
+                        Empire (330–395), the Byzantine Empire (395–1204 and 1261–1453), the brief
+                        Crusader state known as the Latin Empire (1204–1261), and the Ottoman Empire
+                        (1453–1923).</note>
+                    <idno type="geonames">https://www.geonames.org/745044</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Constantinople</idno>
                 </place>
                 <place xml:id="damietta">
                     <placeName xml:lang="en">Damietta</placeName>
@@ -323,6 +370,20 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Gabal_El_Haridi</idno>
                     <idno type="geonames">https://www.geonames.org/356103</idno>
                 </place>
+                <place xml:id="gibraltar">
+                    <placeName xml:lang="en">Gibraltar</placeName>
+                    <location>
+                        <geo>36.131667, -5.351667</geo>
+                    </location>
+                    <note>Gibraltar (/dʒɪˈbrɔːltər/ jih-BRAWL-tər, Spanish: [xiβɾalˈtaɾ]) is a
+                        British Overseas Territory located at the southern tip of the Iberian
+                        Peninsula. It has an area of 6.7 km2 and is bordered to the north by Spain.
+                        The landscape is dominated by the Rock of Gibraltar at the foot of which is
+                        a densely populated town area, home to over 32,000 people, primarily
+                        Gibraltarians.</note>
+                    <idno type="geonames">https://www.geonames.org/2411586</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Gibraltar</idno>
+                </place>
                 <place xml:id="girgeh">
                     <placeName xml:lang="en">Girga</placeName>
                     <location>
@@ -419,6 +480,16 @@
                     <idno type="geonames">https://www.geonames.org/353802</idno>
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Kom_Ombo</idno>
                 </place>
+                <place xml:id="lisbon">
+                    <placeName xml:lang="en">Lisbon</placeName>
+                    <location>
+                        <geo>38.725267, -9.150019</geo>
+                    </location>
+                    <note>Lisbon (/ˈlɪzbən/; Portuguese: Lisboa; [liʒˈboɐ] (About this
+                        soundlisten)) is the capital and the largest city of Portugal</note>
+                    <idno type="geonames">https://www.geonames.org/2267057</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Lisbon</idno>
+                </place>
                 <place xml:id="mahmoudieh_canal">
                     <placeName xml:lang="en">Mahmoudia Canal</placeName>
                     <location>
@@ -431,6 +502,32 @@
                         water from the Nile.</note>
                     <idno type="geonames"> </idno>
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Mahmoudiyah_Canal</idno>
+                </place>
+                <place xml:id="malta">
+                    <placeName xml:lang="en">Malta</placeName>
+                    <location>
+                        <geo>35.9, 14.516667</geo>
+                    </location>
+                    <note>Malta (/ˈmɒltə/, /ˈmɔːltə/ (About this soundlisten); in Maltese: [ˈmɐltɐ];
+                        Italian: [ˈmalta]), officially known as the Republic of Malta (Maltese:
+                        Repubblika ta' Malta) and formerly Melita, is a Southern European island
+                        country consisting of an archipelago in the Mediterranean Sea.</note>
+                    <idno type="geonames">https://www.geonames.org/2562770</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Malta</idno>
+                </place>
+                <place xml:id="marseilles">
+                    <placeName xml:lang="en">Marseille</placeName>
+                    <location>
+                        <geo>43.2964, 5.37</geo>
+                    </location>
+                    <note>Marseille (/mɑːrˈseɪ/ mar-SAY, also spelled in English as Marseilles;
+                        French: [maʁsɛj] (About this soundlisten), locally [maχˈsɛjə] (About this
+                        soundlisten); Occitan: Marselha [maʀˈsejɔ, -ˈsijɔ]) is the prefecture of the
+                        department of Bouches-du-Rhône and region of Provence-Alpes-Côte d'Azur in
+                        France. It is located on the Mediterranean coast near the mouth of the
+                        Rhône. </note>
+                    <idno type="geonames">https://www.geonames.org/2995469</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Marseille</idno>
                 </place>
                 <place xml:id="mecca">
                     <placeName xml:lang="en">Mecca</placeName>
@@ -515,6 +612,19 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q611867</idno>
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Sennar</idno>
                 </place>
+                <place xml:id="southampton">
+                    <placeName xml:lang="en">Southampton</placeName>
+                    <location>
+                        <geo>50.9, -1.4 </geo>
+                    </location>
+                    <note>Southampton (/saʊθˈ(h)æmptən/ (About this soundlisten)) is a city in
+                        Hampshire, South East England, 110 km south-west of London and 24 km west of
+                        Portsmouth. A major port, and close to the New Forest, it lies at the
+                        northernmost point of Southampton Water, at the confluence of the River Test
+                        and Itchen, with the River Hamble joining to the south.</note>
+                    <idno type="geonames">https://www.geonames.org/2637487</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Southampton</idno>
+                </place>
                 <place xml:id="siout">
                     <placeName xml:lang="en">Asyut</placeName>
                     <location>
@@ -574,6 +684,18 @@
                         private and royal cemeteries and funerary complexes can be found.</note>
                     <idno type="geonames">https://www.geonames.org/347342</idno>
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Thebes,_Egypt</idno>
+                </place>
+                <place xml:id="valetta">
+                    <placeName xml:lang="en">Valetta</placeName>
+                    <location>
+                        <geo>35.898333, 14.5125</geo>
+                    </location>
+                    <note>Valletta (/vəˈlɛtə/, Maltese: il-Belt Valletta, Maltese pronunciation:
+                        [vɐˈlːɛtːɐ]) is the capital city of Malta. It is located in the South
+                        Eastern Region of the main island, between Marsamxett Harbour to the west
+                        and the Grand Harbour to the east.</note>
+                    <idno type="geonames">https://www.geonames.org/https://www.geonames.org/2562305</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Valletta</idno>
                 </place>
                 <place xml:id="wady_halfeh">
                     <placeName xml:lang="en">Wadi Halfa</placeName>

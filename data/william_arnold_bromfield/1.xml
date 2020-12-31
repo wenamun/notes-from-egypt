@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Sultan Steamek, at Sea, between Cape St. Vincent and Gibraltar, October
-               4th, 1850.</title>
+            <title>Sultan Steamek, at Sea, between Cape St. Vincent and Gibraltar, October 4th,
+               1850.</title>
          </titleStmt>
          <publicationStmt>
             <p/>
@@ -31,22 +32,23 @@
    </teiHeader>
    <text>
       <body>
-         <p>My dear E</p>
+         <p>My dear <name type="person" ref="#eliza_bromfield">E</name>
+            </p>
 
-         <p>Early to-morrow we shall probably be at Gibraltar, and as the vessel will remain for a
-            few hours only to coal before continuing her course to Malta, but little time will be
-            afforded for going ashore, and none left for writing to England. The delightfully calm
-            and now sunny weather enables me to sit down and give you a short account of our
-            progress since we left Southampton, which, till to day, the rough state of the sea would
-            not permit me to do, and even now, the vibration of the vessel, as you will perceive,
-            makes writing not the most agreeable or easy task.</p>
+         <p>Early to-morrow we shall probably be at <name type="place" ref="#gibraltar">Gibraltar</name>, and as the vessel will remain for a few hours only to coal before
+            continuing her course to <name type="place" ref="#malta">Malta</name>, but little time
+            will be afforded for going ashore, and none left for writing to England. The
+            delightfully calm and now sunny weather enables me to sit down and give you a short
+            account of our progress since we left <name type="place" ref="#southampton">Southampton</name>, which, till to day, the rough state of the sea would not permit
+            me to do, and even now, the vibration of the vessel, as you will perceive, makes writing
+            not the most agreeable or easy task.</p>
 
          <p>Our number of passengers altogether amounts to about thirty, and we have a very heavy
-            cargo of goods on board. We shall arrive I trust at Malta on Wednesday or Thursday, when
-            I must put myself in quarantine for three days, until the Government steamer is ready to
-            take me and the Indian passengers to <name type="place" ref="#alexandria">Alexandria
-            </name>, on arriving at which place, we shall be admitted without delay to pratique,
-            which would not be the case, if we had communicated or gone ashore at Malta.</p>
+            cargo of goods on board. We shall arrive I trust at <name type="place" ref="#malta">Malta</name> on Wednesday or Thursday, when I must put myself in quarantine for
+            three days, until the Government steamer is ready to take me and the Indian passengers
+            to <name type="place" ref="#alexandria">Alexandria </name>, on arriving at which place,
+            we shall be admitted without delay to pratique, which would not be the case, if we had
+            communicated or gone ashore at <name type="place" ref="#malta">Malta</name>.</p>
 
          <p>We had very heavy weather in crossing the Bay of Biscay, a great deal of sea, and a
             constantly over-cast sky of whity-brown, with occasional rain and fog, from which we did
@@ -67,22 +69,22 @@
             so luxurious and profuse as on board the West India packets, but what is much better, it
             is good, plain and substantial, with wine (port and sherry) and spirits included;
             champagne twice a week. We have plenty of room, and the passengers are all disposed to
-            be soeiable and pleased with each other, a state of things which can hardly be otherwise
+            be sociable and pleased with each other, a state of things which can hardly be otherwise
             with such a Captain to preside over our little society.</p>
 
          <p>Head winds retarded our progress down channel, and afterwards the wind and heavy sea
             were not in favour of quick progress; on the whole however, we have done very fairly,
             and our passage hitherto cannot be considered a bad one, although somewhat long. I am
-            told that the passage from Southampton to Gibraltar has been made by the " Sultan " in
-            four days and twenty hours, more than once; the distance is 1142 miles nautical. I have
-            just heard that there is great probability that the quarantine betwixt Malta and <name type="place" ref="#alexandria">Alexandria </name> has been suspended, and that
-            vessels will be at once admitted to pratique at the latter place, if they can procure a
-            clean bill of health from the former; if this should prove true, there will be no
-            necessity for any of our party putting ourselves in quarantine on arriving at Malta, but
-            we can go quietly on shore to our hotel, undisturbed by the fear of having to expiate
-            the deed in the Lazaretto at <name type="place" ref="#alexandria">Alexandria </name>,
-            for I know not how many days. We cannot be sure of this good report being true, till we
-            arrive at Gibraltar, or even perhaps at Malta; but the authorities at Gibraltar will
+            told that the passage from <name type="place" ref="#southampton">Southampton</name> to
+               <name type="place" ref="#gibraltar">Gibraltar</name> has been made by the " Sultan "
+            in four days and twenty hours, more than once; the distance is 1142 miles nautical. I
+            have just heard that there is great probability that the quarantine betwixt <name type="place" ref="#malta">Malta</name> and <name type="place" ref="#alexandria">Alexandria </name> has been suspended, and that vessels will be at once admitted to
+            pratique at the latter place, if they can procure a clean bill of health from the
+            former; if this should prove true, there will be no necessity for any of our party
+            putting ourselves in quarantine on arriving at <name type="place" ref="#malta">Malta</name>, but we can go quietly on shore to our hotel, undisturbed by the fear
+            of having to expiate the deed in the Lazaretto at <name type="place" ref="#alexandria">Alexandria </name>, for I know not how many days. We cannot be sure of this good
+            report being true, till we arrive at <name type="place" ref="#gibraltar">Gibraltar</name>, or even perhaps at <name type="place" ref="#malta">Malta</name>;
+            but the authorities at <name type="place" ref="#gibraltar">Gibraltar</name> will
             probably be apprized of a relaxation of the lately existing quarantine laws to the
             eastward. </p>
 
@@ -92,32 +94,32 @@
 
          <p>October 4th, 8 p.m. The sea is calm as a mirror; our noble vessel making her way fast
             towards the entrance of the Strait, with a motion scarcely perceptible below.
-            Unfortunately we shall not arrive at Gibraltar by day-light. We have kept so far out to
-            sea, that the coast of Spain and Portugal has been unseen from the deck, but we are to
-            have a splendid view of the Spanish shore to-morrow, and a good glimpse of Algiers. Had
-            the weather been fine and clear, we should have run close along shore a great part of
-            the way from Cape Finisterre to Gibraltar. As we shall remain on shore for several
-            hours, I hope to see a good deal of the place on this first visit, and will do all I can
-            to find out Major H 's tomb in the military burial ground, and report on its state for
-            his sister's information. </p>
+            Unfortunately we shall not arrive at <name type="place" ref="#gibraltar">Gibraltar</name> by day-light. We have kept so far out to sea, that the coast of
+            Spain and Portugal has been unseen from the deck, but we are to have a splendid view of
+            the Spanish shore to-morrow, and a good glimpse of <name type="place" ref="#algiers">Algiers</name>. Had the weather been fine and clear, we should have run close along
+            shore a great part of the way from <name type="place" ref="#cape_finisterre">Cape
+               Finisterre</name> to <name type="place" ref="#gibraltar">Gibraltar</name>. As we
+            shall remain on shore for several hours, I hope to see a good deal of the place on this
+            first visit, and will do all I can to find out Major H 's tomb in the military burial
+            ground, and report on its state for his sister's information. </p>
 
-         <p>Gibraltar , October; 5th. We arrived here this morning very early, and I was up and on
-            deck, at six o'clock, to admire the magnificent view of the Bay and Rock of Gibraltar,
-            which fully came up to, and I may almost say, surpassed the idea I had formed of it.
-            From arriving so early, our supply of coals had been got in sooner than was anticipated,
-            and the Captain announced his intention of starting for Malta at noon instead of at 2
-            p.m., so that we had two hours less for going ashore than we had calculated upon. As a
-            permit for ascending the " Rock " could not be had so early from the townmajor's office,
-            I gave up all idea of going to the summit this time, and contented myself with
-            perambulating the lower parts of the Rock and the town, and botanizing along the shore
-            between the new and old towns. However, I gained a very considerable elevation, quite
-            sufficient to give me a perfect view of the glorious panorama of sea and land, in
-            survevinar which, I found my telescope a most invaluable companion. With what raptures
-            would my dear E have looked on the majestic mountains of Spain, and the vast Atlas range
-            on the opposite coast of Africa, lighted up by a bright sun, with the deep blue of the
-            bay beneath; and how often I wished for her at my side, for there was a dry fresh breeze
-            on the rock that would have made the temperature perfectly supportable, if not almost
-            agreeable to her.</p>
+         <p>
+                <name type="place" ref="#gibraltar">Gibraltar</name> , October; 5th. We arrived here
+            this morning very early, and I was up and on deck, at six o'clock, to admire the
+            magnificent view of the Bay and Rock of <name type="place" ref="#gibraltar">Gibraltar</name>, which fully came up to, and I may almost say, surpassed the idea I
+            had formed of it. From arriving so early, our supply of coals had been got in sooner
+            than was anticipated, and the Captain announced his intention of starting for <name type="place" ref="#malta">Malta</name> at noon instead of at 2 p.m., so that we had
+            two hours less for going ashore than we had calculated upon. As a permit for ascending
+            the " Rock " could not be had so early from the townmajor's office, I gave up all idea
+            of going to the summit this time, and contented myself with perambulating the lower
+            parts of the Rock and the town, and botanizing along the shore between the new and old
+            towns. However, I gained a very considerable elevation, quite sufficient to give me a
+            perfect view of the glorious panorama of sea and land, in survevinar which, I found my
+            telescope a most invaluable companion. With what raptures would <name type="person" ref="#eliza_bromfield">E</name> have looked on the majestic mountains of Spain, and
+            the vast Atlas range on the opposite coast of Africa, lighted up by a bright sun, with
+            the deep blue of the bay beneath; and how often I wished for her at my side, for there
+            was a dry fresh breeze on the rock that would have made the temperature perfectly
+            supportable, if not almost agreeable to her.</p>
 
          <p>The chief defect of the landscape is the want of wood, which gives an air of nakedness
             and sameness to the mountains, but they are sprinkled with low bushes and tufted plants
@@ -131,116 +133,113 @@
             remarked many very handsome Spanish faces, such as we see depicted by the old masters,
             but numbers had very ordinary ones, although fine black eyes are nearly universal. I
             shall hope to spend a week or a fortnight at this interesting place on my return; as
-            yet, I have only an imperfect idea of Gibraltar, We had a splendid view of the back of
-            the rock, as we rounded Europa Point, a bare, black precipice, totally devoid of
-            vegetation; and immediately the high mountains of Andalusia came into view, part, I
-            believe, of the Sierra Nevada; but a slight haze, and our distance from them, only
-            rendered their outlines visible, which were very fine.</p>
+            yet, I have only an imperfect idea of <name type="place" ref="#gibraltar">Gibraltar</name>, We had a splendid view of the back of the rock, as we rounded
+            Europa Point, a bare, black precipice, totally devoid of vegetation; and immediately the
+            high mountains of Andalusia came into view, part, I believe, of the Sierra Nevada; but a
+            slight haze, and our distance from them, only rendered their outlines visible, which
+            were very fine.</p>
 
-         <p>Sunday, October 6th, (between Gibraltar and Malta). We are now in the enjoyment of
-            almost tropical weather, careering over the blue Mediterranean at ten knots an hour,
-            with no wind, but with an uneasy swell, sufficient to affect me in a slight degree when
-            sitting erect below to write, as I am doing now. Divine service has just been performed
-            in the saloon; and the whole ship's crew mustered in their best attire; a most copious
-            supply of bibles and prayer-books being distributed on the table from a stock kept on
-            board by the " Company." The chief officer acted as reader.</p>
+         <p>Sunday, October 6th, (between <name type="place" ref="#gibraltar">Gibraltar</name> and
+               <name type="place" ref="#malta">Malta</name>). We are now in the enjoyment of almost
+            tropical weather, careering over the blue Mediterranean at ten knots an hour, with no
+            wind, but with an uneasy swell, sufficient to affect me in a slight degree when sitting
+            erect below to write, as I am doing now. Divine service has just been performed in the
+            saloon; and the whole ship's crew mustered in their best attire; a most copious supply
+            of bibles and prayer-books being distributed on the table from a stock kept on board by
+            the "Company." The chief officer acted as reader.</p>
 
          <p>One of our most active stewards broke his leg this morning in running up a short ladder
             from the main to the quarter-deck; the foot having caught in between two of the steps,
             the bone was snapped across by the impetus acquired.</p>
 
-         <p>Monday, October 1th. Getting on famously, nine and a half knots an hour. Passed Algiers
-            this morning about seven o'clock, but at too great a distance to distinguish anything on
-            shore; we have seen merely a glimpse of the African continent since leaving Gibraltar.
-            The uneasy motion of the sea still continues, and there is no wind to keep the ship
-            steady. The thermometer this morning in the Captain's cabin on deck, was 78 at 9 a.m.
-            The weather since we arrived at Gibraltar, has been like our own in the height of
-            summer, with a sky very similar in aspect, that is, streaked, mottled, and partly
-            overspread with fleecy clouds. To-day the atmosphere is less clear. I cannot perceive
-            the slightest increase of depth in the blue tone of the sky since we left Southampton,
-            although we are nearly 300 miles within that sea so renowned, in popular belief, for the
-            azure purity of its heaven. The starlight too is not a whit more brilliant than with us
-            on ordinary clear nights. The warmth of the climate is already exerting a most
-            beneficial influence on me; I am in excellent spirits, appetite and digestion perfect ;
-            and only long to escape the tedium of the voyage, which, however I contrive to while
-            away very tolerably. There are I find eleven of us going on to <name type="place" ref="#alexandria">Alexandria </name>, but no one excepting myself, will stop in
-            Egypt; the rest are all for Bombay.</p>
+         <p>Monday, October 1th. Getting on famously, nine and a half knots an hour. Passed <name type="place" ref="#algiers">Algiers</name> this morning about seven o'clock, but at
+            too great a distance to distinguish anything on shore; we have seen merely a glimpse of
+            the African continent since leaving <name type="place" ref="#gibraltar">Gibraltar</name>. The uneasy motion of the sea still continues, and there is no wind to
+            keep the ship steady. The thermometer this morning in the Captain's cabin on deck, was
+            78 at 9 a.m. The weather since we arrived at <name type="place" ref="#gibraltar">Gibraltar</name>, has been like our own in the height of summer, with a sky very
+            similar in aspect, that is, streaked, mottled, and partly overspread with fleecy clouds.
+            To-day the atmosphere is less clear. I cannot perceive the slightest increase of depth
+            in the blue tone of the sky since we left <name type="place" ref="#southampton">Southampton</name>, although we are nearly 300 miles within that sea so renowned, in
+            popular belief, for the azure purity of its heaven. The starlight too is not a whit more
+            brilliant than with us on ordinary clear nights. The warmth of the climate is already
+            exerting a most beneficial influence on me; I am in excellent spirits, appetite and
+            digestion perfect ; and only long to escape the tedium of the voyage, which, however I
+            contrive to while away very tolerably. There are I find eleven of us going on to <name type="place" ref="#alexandria">Alexandria </name>, but no one excepting myself, will
+            stop in Egypt; the rest are all for <name type="place" ref="#bombay">Bombay</name>.</p>
 
          <p>October 8th. Much cooler to day, very fine, but a good deal of cloud floating in the sky
             at one time; our speed is increased to nearly eleven knots an hour; the motion of the
             ship very disagreeable, but no one ill on board. Passed some islands, the largest of
             which was Galita, all said to be uninhabited, very bare and bleak. Towards evening we
             neared the coast of Africa, and had a good view of Cape Bona, the highest headland
-            between Gibraltar and Malta. We were not near enough to distinguish any object on shore,
-            and the line of coast though bold, had no particularly foreign or exotic character about
-            it, nor was it invested with that clear transparent atmosphere one hears so much about
-            in the Mediterranean, whose waves however had all the deep azure I remember to have been
-            struck with in 1827. Algiers was sighted in the morning, but at far too great a distance
-            to get even a distinct view of the town. The evening was very clear and calm, but rather
-            cool. We expect to reach Malta to-morrow between 3 and 4 p.m., and, as you may suppose,
-            are extremely anxious to learn our fate, whether it is to quarantine or pratique we are
-            to be admitted. No one will rejoice more than myself to step ashore there, to have a
-            bath, and a cup of tolerable tea or coffee, both of which are scarce luxuries on board
-            packet ships.</p>
+            between <name type="place" ref="#gibraltar">Gibraltar</name> and <name type="place" ref="#malta">Malta</name>. We were not near enough to distinguish any object on
+            shore, and the line of coast though bold, had no particularly foreign or exotic
+            character about it, nor was it invested with that clear transparent atmosphere one hears
+            so much about in the Mediterranean, whose waves however had all the deep azure I
+            remember to have been struck with in 1827. <name type="place" ref="#algiers">Algiers</name> was sighted in the morning, but at far too great a distance to get
+            even a distinct view of the town. The evening was very clear and calm, but rather cool.
+            We expect to reach <name type="place" ref="#malta">Malta</name> to-morrow between 3 and
+            4 p.m., and, as you may suppose, are extremely anxious to learn our fate, whether it is
+            to quarantine or pratique we are to be admitted. No one will rejoice more than myself to
+            step ashore there, to have a bath, and a cup of tolerable tea or coffee, both of which
+            are scarce luxuries on board packet ships.</p>
 
          <p>Should we be under the necessity of putting ourselves in quarantine, the Lazaretto at
-            Malta is spoken of as by no means uncomfortable quarters, and our term of durance will
-            be past when the over-land mail steamer from Marseilles comes to our relief. It is the
-            being at a place which one is forbidden to ramble over, that makes quarantine in this
-            case so provoking. Our evenings pass off very agreeably, the young ladies being now all
-            recovered from sea-sickness; the piano, which is really a very good one, is in constant
-            requisition, and singing and playing while away the time pleasantly. This voyage is the
-            first I have made in which no cards have been introduced; and although wine, spirits,
-            and other beverages are supplied gratis by the " Company," not one of our passengers has
-            indulged in liberal potations. Lights are put out in the saloon at halfpast ten, but the
-            floating wick lamps in the sleeping or state rooms, are allowed to burn themselves out,
-            and usually last till daylight.</p>
+               <name type="place" ref="#malta">Malta</name> is spoken of as by no means
+            uncomfortable quarters, and our term of durance will be past when the over-land mail
+            steamer from <name type="place" ref="#marseilles">Marseilles</name> comes to our relief.
+            It is the being at a place which one is forbidden to ramble over, that makes quarantine
+            in this case so provoking. Our evenings pass off very agreeably, the young ladies being
+            now all recovered from sea-sickness; the piano, which is really a very good one, is in
+            constant requisition, and singing and playing while away the time pleasantly. This
+            voyage is the first I have made in which no cards have been introduced; and although
+            wine, spirits, and other beverages are supplied gratis by the "Company," not one of our
+            passengers has indulged in liberal potations. Lights are put out in the saloon at
+            halfpast ten, but the floating wick lamps in the sleeping or state rooms, are allowed to
+            burn themselves out, and usually last till daylight.</p>
 
-         <p>October 9th. A most beautiful morning, very clear and moderately warm. Malta is now in
-            sight, (10 a.m.) and a few hours will terminate three-fourths of the passage to <name type="place" ref="#alexandria">Alexandria </name>, which we expect to reach on the
-            nineteenth.</p>
+         <p>October 9th. A most beautiful morning, very clear and moderately warm. <name type="place" ref="#malta">Malta</name> is now in sight, (10 a.m.) and a few hours
+            will terminate three-fourths of the passage to <name type="place" ref="#alexandria">Alexandria </name>, which we expect to reach on the nineteenth.</p>
 
-         <p>October 10th. Malta Lazaretto. Our hope of being allowed to take pratique without
-            subjecting ourselves to quarantine at <name type="place" ref="#alexandria">Alexandria
-            </name> has been disappointed, and we were compelled to put ourselves in the latter
-            disagreeable position yesterday, on our arrival in the harbour of Valetta, about three
-            o'clock. Our party consists of twelve, all, except myself, going to India. The
-            quarantine buildings stand on a point of the harbour, isolated from the rest of the
-            town; and consist of ranges of apartments, very lofty, and beautifully clean,
-            white-washed, and with stone floors, and each room is abundantly supplied, with water.
-            The only furniture is a chair or two, a rough wash-hand stand and an iron bedstead. As
-            we are not, properly speaking, in quarantine, but only in the position of persons not
-            holding communication with an infected place, we are not allowed to have any servant to
-            assist us, because were any one coming off from the town to touch us, we should be
-            immediately in quarantine for the full time required to enable us to take pratique on
-            our arriving at <name type="place" ref="#alexandria">Alexandria </name>, that is, ten or
-            fifteen days at least. We must now perform the most menial offices for ourselves, make
-            our own beds, &amp;c, with a guardian ever watching us, whom, if we were to touch, we
-            should be obliged to perform full quarantine from that moment.</p>
+         <p>October 10th. <name type="place" ref="#malta">Malta</name> Lazaretto. Our hope of being
+            allowed to take pratique without subjecting ourselves to quarantine at <name type="place" ref="#alexandria">Alexandria </name> has been disappointed, and we were
+            compelled to put ourselves in the latter disagreeable position yesterday, on our arrival
+            in the harbour of <name type="place" ref="#valetta">Valetta</name>, about three o'clock.
+            Our party consists of twelve, all, except myself, going to India. The quarantine
+            buildings stand on a point of the harbour, isolated from the rest of the town; and
+            consist of ranges of apartments, very lofty, and beautifully clean, white-washed, and
+            with stone floors, and each room is abundantly supplied, with water. The only furniture
+            is a chair or two, a rough wash-hand stand and an iron bedstead. As we are not, properly
+            speaking, in quarantine, but only in the position of persons not holding communication
+            with an infected place, we are not allowed to have any servant to assist us, because
+            were any one coming off from the town to touch us, we should be immediately in
+            quarantine for the full time required to enable us to take pratique on our arriving at
+               <name type="place" ref="#alexandria">Alexandria </name>, that is, ten or fifteen days
+            at least. We must now perform the most menial offices for ourselves, make our own beds,
+            &amp;c, with a guardian ever watching us, whom, if we were to touch, we should be
+            obliged to perform full quarantine from that moment.</p>
 
          <p>The weather is extremely hot still; to clay, far warmer than any we have had since we
             left England, with an almost cloudless sky, the rainy season not having commenced.</p>
 
-         <p>Bedding must be paid for here as an extra, but Captain Brookes, of the " Sultan," with
+         <p>Bedding must be paid for here as an extra, but Captain Brookes, of the "Sultan," with
             great liberality, has ordered a quantity of mattresses, sheets, and blankets, to be sent
-            to us from the ship, which he will take back on his return from Constantinople. None of
-            us however could get much rest last night from the incessant attacks of mosquitoes; the
-            only insect annoyance we are exposed to here : we can, it is true, have mosquito
-            curtains by paying for them, but the narrowness of the beds themselves is another cause
-            of discomfort, not to be remedied, and we are fain to put up with our light misfortunes,
-            from which we look forward to be relieved on Sunday by the arrival of the steamer from
-            Marseilles, In our party of twelve, there are only four gentlemen including myself; the
-            rest are ladies, most of whom are girls, the daughters and nieces of Colonel S -, an
-            officer of the Indian army, returning with his wife to Bombay, a pleasing and
-            gentlemanly man. Mr. P , sl young cadet going out to join his regiment in India, and Dr.
-            F , are our other associates, and we form quite a sociable and merry party. Our way of
-            living is droll enough, as we must touch nobody, not even the guardian, or the persons
-            who bring us our meals, which are furnished from a trattoria close at hand, the owner of
-            which is himself in pratique. As an instance of the extreme absurdity of the quarantine
-            laws — although we are strictly forbidden to come in contact with any person employed in
-            conveying food or messages to us poor prisoners, yet we touch and taste fruit, bread,
-            vegetables, &amp;c, which they have handled, and money is allowed to pass freely between
-            us.</p>
+            to us from the ship, which he will take back on his return from <name type="place" ref="#constantinople">Constantinople</name>. None of us however could get much rest
+            last night from the incessant attacks of mosquitoes; the only insect annoyance we are
+            exposed to here: we can, it is true, have mosquito curtains by paying for them, but the
+            narrowness of the beds themselves is another cause of discomfort, not to be remedied,
+            and we are fain to put up with our light misfortunes, from which we look forward to be
+            relieved on Sunday by the arrival of the steamer from <name type="place" ref="#marseilles">Marseilles</name>, In our party of twelve, there are only four
+            gentlemen including myself; the rest are ladies, most of whom are girls, the daughters
+            and nieces of Colonel S, an officer of the Indian army, returning with his wife to <name type="place" ref="#bombay">Bombay</name>, a pleasing and gentlemanly man. Mr. P, a
+            young cadet going out to join his regiment in India, and Dr. F , are our other
+            associates, and we form quite a sociable and merry party. Our way of living is droll
+            enough, as we must touch nobody, not even the guardian, or the persons who bring us our
+            meals, which are furnished from a trattoria close at hand, the owner of which is himself
+            in pratique. As an instance of the extreme absurdity of the quarantine laws — although
+            we are strictly forbidden to come in contact with any person employed in conveying food
+            or messages to us poor prisoners, yet we touch and taste fruit, bread, vegetables,
+            &amp;c, which they have handled, and money is allowed to pass freely between us.</p>
 
          <p>October 11th. Another charming day, with a delicious breeze on the flat stone or stucco
             roof of our prison house. The ladies have discovered that there are worse inmates than
@@ -258,12 +257,12 @@
             called daws or cardinals, but our only real annoyance hitherto has been the
             mosquitoes.</p>
 
-         <p>Our rooms command a fine view of the town of La Valette and the Quarantine Harbour, and
+         <p>Our rooms command a fine view of the town of <name type="place" ref="#valetta">La Valette</name> and the Quarantine Harbour, and
             the terrace on the flat roof is extremely spacious. There we pass a great deal of our
             time after sunset, and there I find great amusement at all times with my telescope,
             which does service pro bono publico. We are permitted to have a boat, and row about the
             quarantine harbour, but our limits are rigidly defined, and we cannot enter the great
-            harbour, which I have not yet seen, but suppose that the " Medina " will go in to take
+            harbour, which I have not yet seen, but suppose that the "Medina" will go in to take
             passengers off on Sunday at twelve at noon, when, we are told, we shall be released from
             our not very irksome confinement. We breakfast at nine, dine at three, have tea at
             seven, and cheat the mosquitoes as long as we can by remaining on the house-top, upon
@@ -285,70 +284,72 @@
             days back.</p>
 
          <p>The view from our windows, verandah, and roof, is very fine, but immeasurably behind
-            that from the Bay and Eock of Gibraltar; for there is here no very bold scenery, and a
-            great deficiency of shadow in the landscape owing to the want of trees. There is not the
-            slightest appearance of the rainy season approaching at present, the temperature at this
-            moment, by the thermometer on the table at 1, p.m., is 73. The houses of La Valetta are
-            of a yellowish white free-stone, and with perfectly flat roofs. The Government House,
-            and the English Church built by Queen Adelaide, are two of the most conspicuous of the
-            public buildings, besides the walls and fortifications which are mantled with
-            caper-bushes, the branches of which, hang gracefully in thick verdant tresses. The
-            fruits supplied us here are very indifferent; the best are grapes, now going out of
-            season, but most of these are thick-skinned and insipid; the peaches very large, hard,
-            and worthless; the only pears we have seen were mellow, but sleepy, as are likewise the
-            apples; the dried figs are good, pomegranates very poor; melons passably good. Our
-            dining table is adorned with large bouquets of flowers? and we received a present of
-            some this morning, all very inferior to English flowers cf the same kind, and consisting
-            of only the few following; white and red China roses, (poor of their kind), sweet
-            scented verbena, heliotrope, and scarlet geranium, each and all of which would be
-            thought very mediocre samples of their varieties with us. I forgot to mention a few
-            dahlias, good in colour, but smaller than with us. It is not probable that these were
-            the choicest productions of the Maltese flower gardens; yet the two gift bouquets are
-            probably a pretty fair specimen of local cultivation. The potatoes here are excellent,
-            and the growth of the island.</p>
+            that from the Bay and Rock of <name type="place" ref="#gibraltar">Gibraltar</name>; for
+            there is here no very bold scenery, and a great deficiency of shadow in the landscape
+            owing to the want of trees. There is not the slightest appearance of the rainy season
+            approaching at present, the temperature at this moment, by the thermometer on the table
+            at 1, p.m., is 73. The houses of <name type="place" ref="#valetta">La Valetta</name> are of a yellowish white free-stone, and
+            with perfectly flat roofs. The Government House, and the English Church built by Queen
+            Adelaide, are two of the most conspicuous of the public buildings, besides the walls and
+            fortifications which are mantled with caper-bushes, the branches of which, hang
+            gracefully in thick verdant tresses. The fruits supplied us here are very indifferent;
+            the best are grapes, now going out of season, but most of these are thick-skinned and
+            insipid; the peaches very large, hard, and worthless; the only pears we have seen were
+            mellow, but sleepy, as are likewise the apples; the dried figs are good, pomegranates
+            very poor; melons passably good. Our dining table is adorned with large bouquets of
+            flowers? and we received a present of some this morning, all very inferior to English
+            flowers of the same kind, and consisting of only the few following; white and red China
+            roses, (poor of their kind), sweet scented verbena, heliotrope, and scarlet geranium,
+            each and all of which would be thought very mediocre samples of their varieties with us.
+            I forgot to mention a few dahlias, good in colour, but smaller than with us. It is not
+            probable that these were the choicest productions of the Maltese flower gardens; yet the
+            two gift bouquets are probably a pretty fair specimen of local cultivation. The potatoes
+            here are excellent, and the growth of the island.</p>
 
          <p>October 12th. Another glorious day, after a night of restlessness from our pitiless
             enemies the mosquitoes, and I am sorry to add, less cleanly, though not more annoying
             foes. We all look forward to release from prison to-morrow, or on Monday morning at
-            latest. We expect to find it as much warmer at <name type="place" ref="#alexandria">Alexandria </name>, as this place exceeds Gibraltar in that respect; for although in
-            very nearly the same latitude, Malta is surrounded by a sea of higher temperature than
-            the Atlantic, and there is not the same indraught of cool air from the adjacent coasts,
-            or ocean, or from the high mountains of the European or African shores, which keeps
-            Gibraltar comparatively cool. In Malta, the highest land I am told, is not above five or
-            six hundred feet, and there being no wood, and few trees of any size, the glare and heat
-            from the white rocks must be extreme. Of the city of La Yaletta, I can of course say
-            nothing, although so close to the main part of it; it seems to be well built, and has a
-            very imposing appearance from the water, but it is not so pretty an object as Ryde when
-            seen from the pier-head. Queen Adelaide's new church is, as I have observed, the most
-            conspicuous building on this side of the town, and its erection is said to have excited
-            the most violent opposition from the Romish priesthood, which is extremely bigoted in
-            Malta.</p>
+            latest. We expect to find it as much warmer at <name type="place" ref="#alexandria">Alexandria </name>, as this place exceeds <name type="place" ref="#gibraltar">Gibraltar</name> in that respect; for although in very nearly the same latitude,
+               <name type="place" ref="#malta">Malta</name> is surrounded by a sea of higher
+            temperature than the Atlantic, and there is not the same indraught of cool air from the
+            adjacent coasts, or ocean, or from the high mountains of the European or African shores,
+            which keeps <name type="place" ref="#gibraltar">Gibraltar</name> comparatively cool. In
+               <name type="place" ref="#malta">Malta</name>, the highest land I am told, is not
+            above five or six hundred feet, and there being no wood, and few trees of any size, the
+            glare and heat from the white rocks must be extreme. Of the city of <name type="place" ref="#valetta">La Valetta</name>, I can of
+            course say nothing, although so close to the main part of it; it seems to be well built,
+            and has a very imposing appearance from the water, but it is not so pretty an object as
+            Ryde when seen from the pier-head. Queen Adelaide's new church is, as I have observed,
+            the most conspicuous building on this side of the town, and its erection is said to have
+            excited the most violent opposition from the Romish priesthood, which is extremely
+            bigoted in <name type="place" ref="#malta">Malta</name>.</p>
 
-         <p><name type="place" ref="#alexandria">Alexandria </name> October 18th. We arrived off
-            this place last night, in the Government steamer ei Medina" from Marseilles, and entered
-            the harbour this morning at sunrise, after an unpleasant but not stormy passage : the
-            very uneasy motion of the vessel affecting every one of the passengers, being compounded
-            of pitching and rolling; the worst kind of motion, and there was hardly any wind. The
-            Medina, commanded as she is, by a Lieutenant in the Navy, exhibits a strange mixture of
-            civil and naval arrangements and usages, with nothing like the order, promptness, and
-            care, which one expects to see on Her Majesty's quarterdeck.</p>
+         <p>
+                <name type="place" ref="#alexandria">Alexandria </name> October 18th. We arrived off
+            this place last night, in the Government steamer "Medina" from <name type="place" ref="#marseilles">Marseilles</name>, and entered the harbour this morning at sunrise,
+            after an unpleasant but not stormy passage: the very uneasy motion of the vessel
+            affecting every one of the passengers, being compounded of pitching and rolling; the
+            worst kind of motion, and there was hardly any wind. The Medina, commanded as she is, by
+            a Lieutenant in the Navy, exhibits a strange mixture of civil and naval arrangements and
+            usages, with nothing like the order, promptness, and care, which one expects to see on
+            Her Majesty's quarterdeck.</p>
 
          <p>We entered the bay of <name type="place" ref="#alexandria">Alexandria </name> under as
-            English a looking sky as one could wish to have to remind one of home; and at Malta, the
-            night of Sunday when we started was much over-cast, but during the passage the weather
-            was uniformly fine. Picture to yourself our bright summer weather, when the heavens are
-            canopied with detached flocculent masses of white, upon a ground of pale blue, and you
-            have the exact idea of the prevailing aspect of the Arabian and Egyptian mackarel sky,
-            which is exactly what I expected to find it, and very nearly that of the tropics.</p>
+            English a looking sky as one could wish to have to remind one of home; and at <name type="place" ref="#malta">Malta</name>, the night of Sunday when we started was much
+            over-cast, but during the passage the weather was uniformly fine. Picture to yourself
+            our bright summer weather, when the heavens are canopied with detached flocculent masses
+            of white, upon a ground of pale blue, and you have the exact idea of the prevailing
+            aspect of the Arabian and Egyptian mackarel sky, which is exactly what I expected to
+            find it, and very nearly that of the tropics.</p>
 
          <p>On entering the Harbour of <name type="place" ref="#alexandria">Alexandria </name>, the
             weather looked very threatening, but cleared off, and became fine and extremely hot all
             day, with a cool delicious breeze, and fine at night. Judge therefore of my astonishment
             on rising this morning, to find it pouring with rain, accompanied by occasional claps of
-            thunder, but not very violent : the rain ceased before 10 a.m., and now, (19th at noon),
+            thunder, but not very violent: the rain ceased before 10 a.m., and now, (19th at noon),
             it is both damp and hot, and this makes the mosquitoes very active and troublesome in
-            broad day, which is not often the case : as to flies, I do not find more than in
-            England; not a tithe of the numbers that settled on everything at Malta.</p>
+            broad day, which is not often the case: as to flies, I do not find more than in
+            England; not a tithe of the numbers that settled on everything at <name type="place" ref="#malta">Malta</name>.</p>
 
          <p>We found all the men of war in the harbour decked out with flags, as we entered
             yesterday, it being a great Mahommedan festival; I believe that of Beiram. We saw
@@ -359,14 +360,12 @@
             all the party remained at <name type="place" ref="#alexandria">Alexandria </name>, was
             neither asked for my passport nor compelled to submit to Custom-house examination, but
             drove quietly off to the hotel, (Ray's), in the Frank Square, heartily glad to escape
-            from the closeness and confinement of our probationary sojourn at Malta, which had quite
-            ruined, pro. tern., the complexions of our lady fellow travellers, three of whom were
-            really very pretty.</p>
+            from the closeness and confinement of our probationary sojourn at <name type="place" ref="#malta">Malta</name>, which had quite ruined, pro. tem., the complexions of our
+            lady fellow travellers, three of whom were really very pretty.</p>
 
          <p>I have just learned that the Medina leaves this place on Monday with the English mail
-            via Marseilles, so that I must have this dispatch posted without further delay, and must
-            reserve my account of <name type="place" ref="#alexandria">Alexandria </name> for
-            another letter.</p>
+            via <name type="place" ref="#marseilles">Marseilles</name>, so that I must have this
+            dispatch posted without further delay, and must reserve my account of <name type="place" ref="#alexandria">Alexandria </name> for another letter.</p>
 
          <p>I enclose five little packets of seeds for Mr. Lawrence, to whom remember me.</p>
 
@@ -375,7 +374,8 @@
             heat of the sun raises into vapour, and renders the air extremely damp, giving fresh
             life and vigour to my friends the mosquitoes.</p>
 
-         <p>Believe me, My dear E, Your affectionate Brother, William Arnold Bromfield.</p>
+         <p>Believe me, My dear <name type="person" ref="#eliza_bromfield">E</name>, Your
+            affectionate Brother, William Arnold Bromfield.</p>
       </body>
    </text>
 </TEI>

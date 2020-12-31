@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -29,7 +30,8 @@
    </teiHeader>
    <text>
       <body>
-         <p>My dear E</p>
+         <p>My dear <name type="person" ref="#eliza_bromfield">E</name>
+            </p>
 
          <p>The excursion to the site of <name type="place" ref="#heliopolis">Heliopolis</name>, the
             On of Scripture, occupies about three hours on a good donkey, and was made by me in that
@@ -389,7 +391,7 @@
             charm with which, at far less cost of money and suffering, I was fortified by the
             Cairene exorcist.</p>
 
-         <p>Always my dear E., Your affectionate Brother, William Arnold Bromfield.</p>
+         <p>Always my dear <name type="person" ref="#eliza_bromfield">E</name>., Your affectionate Brother, William Arnold Bromfield.</p>
       </body>
    </text>
 </TEI>

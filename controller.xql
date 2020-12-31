@@ -29,10 +29,12 @@ else if (contains(lower-case($exist:path), "/rest/")) then
 		<forward url="{$exist:controller}/data/{$collection}/{$item}"/>
 	</dispatch>
 
-else if (starts-with(lower-case($exist:path), "/place") and ends-with(lower-case($exist:path), "/json") ) then
+else if (starts-with(lower-case($exist:path), "/place") and 
+        (ends-with(lower-case($exist:path), "/json") or ends-with(lower-case($exist:path), "/rdf")) ) then
     let $token := fn:tokenize($exist:path, "/")
     let $name := $token[3]
-    return
+    let $format := $token[4]
+    return if ($format = "json") then
     <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
 		<forward url="{$exist:controller}/test.html"/>
 		 <view>
@@ -42,15 +44,37 @@ else if (starts-with(lower-case($exist:path), "/place") and ends-with(lower-case
 		     </forward>
 		</view>
 	</dispatch>
+	else
+	<dispatch xmlns="http://exist.sourceforge.net/NS/exist">
+		<forward url="{$exist:controller}/test.html"/>
+		 <view>
+			<forward url="{$exist:controller}/modules/rdf.xql">
+                 <add-parameter name="name" value="{$name}"/>
+                 <add-parameter name="type" value="place"/>
+		     </forward>
+		</view>
+	</dispatch>
 
-else if (starts-with(lower-case($exist:path), "/person") and ends-with(lower-case($exist:path), "/json") ) then
+else if (starts-with(lower-case($exist:path), "/person") and 
+    (ends-with(lower-case($exist:path), "/json")) or ends-with(lower-case($exist:path), "/rdf")) then
     let $token := fn:tokenize($exist:path, "/")
     let $name := $token[3]
-    return
+    let $format := $token[4]
+    return if ($format = "json") then
     <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
 		<forward url="{$exist:controller}/test.html"/>
 		 <view>
 			<forward url="{$exist:controller}/modules/json_ld.xql">
+                 <add-parameter name="name" value="{$name}"/>
+                 <add-parameter name="type" value="person"/>
+		     </forward>
+		</view>
+	</dispatch>
+	else
+	<dispatch xmlns="http://exist.sourceforge.net/NS/exist">
+		<forward url="{$exist:controller}/test.html"/>
+		 <view>
+			<forward url="{$exist:controller}/modules/rdf.xql">
                  <add-parameter name="name" value="{$name}"/>
                  <add-parameter name="type" value="person"/>
 		     </forward>

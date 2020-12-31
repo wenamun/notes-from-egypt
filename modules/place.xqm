@@ -39,6 +39,7 @@ declare function place:show_placeinfo($node as node(), $model as map(*), $placen
             <h3>{$name}</h3>
             <p>{$note}</p>
             <p><strong>Linked Open Data:</strong><br/>
+            <a href="./place/{$placename}/rdf">RDF/XML</a><br/>
             <a href="./place/{$placename}/json">JSON-LD (Schema.org)</a>
             </p>
             <p style="margin-top:2em;"><strong>See also:</strong><br/>
@@ -59,6 +60,7 @@ declare function place:show_placeinfo($node as node(), $model as map(*), $placen
                 zoomOffset: -1
                 }}).addTo(mymap);
                 
+                mymap.scrollWheelZoom.disable();
                 L.marker([{$coordinates}]).addTo(mymap);
             </script>
         </div>
@@ -80,9 +82,8 @@ declare function place:show_all_places_on_map($node as node(), $model as map(*))
             'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
             id: 'mapbox/streets-v11',
             tileSize: 512,
-            zoomOffset: -1
-            }}).addTo(mymap);
-            
+            zoomOffset: -1,
+            }}).addTo(mymap);            
             { 
                 for $place in doc('/db/apps/nfe/authority/places.xml')//tei:place
                 return 

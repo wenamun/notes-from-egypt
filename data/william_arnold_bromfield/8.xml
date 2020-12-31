@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -30,7 +31,8 @@
    </teiHeader>
    <text>
       <body>
-         <p>My dear E</p>
+         <p>My dear <name type="person" ref="#eliza_bromfield">E</name>
+            </p>
 
          <p>Since my last, dated December 6th, was finished, we have advanced, as far as the town
             opposite to which I am now writing, towards the great centre of our Nilotic aspirations,
@@ -87,7 +89,8 @@
             western desert (the Lybian) is mostly much more distant, and looks like a majestic wall,
             behind which the sunsets, in cloudless skies, are truly magnificent.</p>
 
-         <p><name type="place" ref="#girgeh">Girgeh</name>, December ISth. This, almost the last
+         <p>
+                <name type="place" ref="#girgeh">Girgeh</name>, December ISth. This, almost the last
             town of any considerable size before reaching the cataracts, derives its name from St.
             George, the tutelar saint of the Copts, and is not on the site of any ancient place of
             note. We arrived here early in the morning, when Mr. P. and myself accompanied by Ameen,
@@ -212,7 +215,7 @@
             seeing how cold the morn- ings are now, and how low the temperature of the Nile is,
             compared with that which it attains a few months later or earlier than the present.</p>
 
-         <p>Always my dear E., Your affectionate Brother, William Arnold Bromfield.</p>
+         <p>Always my dear <name type="person" ref="#eliza_bromfield">E</name>., Your affectionate Brother, William Arnold Bromfield.</p>
       </body>
    </text>
 </TEI>

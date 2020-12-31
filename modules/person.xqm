@@ -37,6 +37,7 @@ declare function person:show_personinfo($node as node(), $model as map(*), $pers
         <h3>{$name}</h3>
         <p>{$note}</p>
         <p><strong>Linked Open Data:</strong><br/>
+            <a href="./person/{$personname}/rdf">RDF/XML</a><br/>
             <a href="./person/{$personname}/json">JSON-LD (Schema.org)</a>
         </p>
         {if ($links) then  <p style="margin-top:2em;margin-bottom:0rem;"><strong>See also:</strong></p> else () }
