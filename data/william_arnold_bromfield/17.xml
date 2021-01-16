@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +32,7 @@
    </teiHeader>
    <text>
       <body>
-         <p>Dear <name type="person" ref="#eliza_bromfield">E</name>
-            </p>
+         <p>Dear <name type="person" ref="#eliza_bromfield">E</name></p>
 
          <p>We continue slowly but steadily advancing towards the Egyptian capital, having left
                <name type="place" ref="#assouan">Assouan</name>, the most southerly frontier town of
@@ -394,8 +392,7 @@
             times of the year; and in winter, the mornings are cold enough to make a European, much
             more a native, shiver, even far within the tropics.</p>
 
-         <p>
-                <name type="place" ref="#siout">Siout</name>, or Assiout, Upper Egypt, May 18th.
+         <p><name type="place" ref="#siout">Siout</name>, or Assiout, Upper Egypt, May 18th.
             Continued northerly winds, and (so unlike their former selves), a lazy apathetic crew,
             whom neither threats nor persuasion can induce to pull at the oars lustily, unite to
             render our return voyage down the Nile, a very tedious one: we having been already
@@ -445,8 +442,7 @@
             certainly not the weather for any one to grow stout in, however much disposed thereto by
             constitution.</p>
 
-         <p>
-                <name type="place" ref="#minieh">Minieh</name> May 24th. We arrived here yesterday
+         <p><name type="place" ref="#minieh">Minieh</name> May 24th. We arrived here yesterday
             afternoon, and lucky it was that we did so, as a furious gale from the northward set in
             after dark, and continued to blow unabatedly all night, and though at this moment
             reduced to a fresh breeze, the weather holds out no prospect of our getting away for

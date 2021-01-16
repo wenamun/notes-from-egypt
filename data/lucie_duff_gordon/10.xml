@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -35,16 +34,11 @@
             Samaritans came with oil and wine and comforted me. It had an odd, dreary effect to hear
             my friend <name type="person" ref="#hekekian_bey">Hekekian Bey</name>, a learned old
             Armenian, and <name type="person" ref="#de_leo_bey">De Leo Bey</name>, my doctor,
-            discoursing Turkish at my bedside, while my faithful <name type="person" ref="#omar">Omar</name> cried and prayed <hi rendition="italic">
-                    <foreign xml:lang="ar">Yah
-                  Robbeena</foreign>
-                </hi>! <hi rendition="italic">
-                    <foreign xml:lang="ar">Yah
-                  Saatir</foreign>
-                </hi>! (O Lord! O Preserver!) ‘don’t let her die.’</p>
+            discoursing Turkish at my bedside, while my faithful <name type="person" ref="#omar">Omar</name> cried and prayed <hi rendition="italic"><foreign xml:lang="ar">Yah
+                  Robbeena</foreign></hi>! <hi rendition="italic"><foreign xml:lang="ar">Yah
+                  Saatir</foreign></hi>! (O Lord! O Preserver!) ‘don’t let her die.’</p>
 
-         <p>
-                <name type="person" ref="#alick">Alick</name> is quite right that I am in love with the
+         <p><name type="person" ref="#alick">Alick</name> is quite right that I am in love with the
             Arabs’ ways, and I have contrived to see and know more of family life than many
             Europeans who have lived here for years. When the Arabs feel that one really cares for
             them, they heartily return it. If I could only speak the language I could see anything.
@@ -84,20 +78,14 @@
             serpent-killer, calls himself <name type="person" ref="st_george">Mar Girgis (St.
                George)</name> , and is worshipped by Christians and Muslims in the same churches,
             and <name type="person" ref="#osiris">Osiris</name> holds his festivals as riotously as
-            ever at <name type="place" ref="#tanta">Tanta</name> in the Delta, under the name of Seyd el Bedawee. The <hi rendition="italic">
-                    <foreign xml:lang="ar">fellah</foreign>
-                </hi> women offer
+            ever at <name type="place" ref="#tanta">Tanta</name> in the Delta, under the name of Seyd el Bedawee. The <hi rendition="italic"><foreign xml:lang="ar">fellah</foreign></hi> women offer
             sacrifices to the Nile, and walk round ancient statues in order to have children. The
             ceremonies at births and burials are not Muslim, but ancient Egyptian.</p>
 
          <p>The Copts are far more close and reserved and backward than the Arabs, and they have
             been so repudiated by Europeans that they are doubly shy of us. The Europeans resent
             being called ‘Nazranee’ as a genteel Hebrew gentleman may shrink from ‘Jew.’ But I said
-            boldly, ‘<hi rendition="italic">
-                    <foreign xml:lang="ar">Ana Nazraneeh</foreign>
-                </hi>. <hi rendition="italic">
-                    <foreign xml:lang="ar">Alhamdulillah</foreign>
-                </hi>!’ (I am a
+            boldly, ‘<hi rendition="italic"><foreign xml:lang="ar">Ana Nazraneeh</foreign></hi>. <hi rendition="italic"><foreign xml:lang="ar">Alhamdulillah</foreign></hi>!’ (I am a
             Nazranee. Praise be to God), and found that it was much approved by the Muslims as well
             as the Copts. Curious things are to be seen here in religion—Muslims praying at the tomb
             of Mar Girgis (St. George) and the resting-places of Sittina Mariam and Seyidna Issa,
@@ -110,9 +98,7 @@
             dressed like a Greek statue—Ward es-Sham (the Rose of Syria)—was a feast to the eyes;
             and here, too, what grace and sweetness, and how good is a drink of Nile water out of an
             amphora held to your lips by a woman as graceful as she is kindly. ‘May it benefit
-            thee,’ she says, smiling with all her beautiful teeth and eyes. ‘<hi rendition="italic">
-                    <foreign xml:lang="ar">Alhamdulillah</foreign>
-                </hi>,’ you reply; and it is worth
+            thee,’ she says, smiling with all her beautiful teeth and eyes. ‘<hi rendition="italic"><foreign xml:lang="ar">Alhamdulillah</foreign></hi>,’ you reply; and it is worth
             thanking God for. The days of the beauty of <name type="place" ref="#cairo">Cairo</name>
             are numbered. The mosques are falling to decay, the exquisite lattice windows rotting
             away and replaced by European glass and jalousies. Only the people and the Government

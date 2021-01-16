@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,9 +17,7 @@
             <correspAction type="sent">
                <name type="person" ref="https://viaf.org/viaf/160825459">William Arnold
                   Bromfield</name>
-               <name type="place" ref="http://www.geonames.org/360630">
-                        <name type="place" ref="#cairo">Cairo</name>
-                    </name>
+               <name type="place" ref="http://www.geonames.org/360630"><name type="place" ref="#cairo">Cairo</name></name>
                <date when="1851-06-11">11 June 1851</date>
             </correspAction>
             <correspAction type="received">
@@ -32,8 +29,7 @@
    </teiHeader>
    <text>
       <body>
-         <p>My dear <name type="person" ref="#eliza_bromfield">E</name>
-            </p>
+         <p>My dear <name type="person" ref="#eliza_bromfield">E</name></p>
 
          <p>We arrived here on the 4th, after a tedious passage from <name type="place" ref="#minieh">Minieh</name>, the wind dead against us nearly the whole way, and our
             crew obstinately determined not to exert themselves at the oars except at such times as
@@ -64,8 +60,7 @@
             also propose making a trip to <name type="place" ref="#suez">Suez </name>, which in
             points of Scripture history possesses the highest interest.</p>
 
-         <p>
-                <name type="place" ref="#cairo">Cairo</name> alone would give a traveller a good two
+         <p><name type="place" ref="#cairo">Cairo</name> alone would give a traveller a good two
             months employment, in the endless variety which its labyrinthine mass of grotesque
             houses, narrow alleys, richly sculptured mosques, minarets, and tombs without number,
             offer to the eye; besides the diversity of life, of feature, of costume, and of colour,

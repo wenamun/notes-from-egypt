@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,8 +30,7 @@
    </teiHeader>
    <text>
       <body>
-         <p>Dear <name type="person" ref="#eliza_bromfield">E</name>
-            </p>
+         <p>Dear <name type="person" ref="#eliza_bromfield">E</name></p>
 
          <p>We are still detained here close prisoners by the gale, which continues to rage
             furiously day and night, but is most violent at the latter time; we are assured that it
@@ -80,8 +78,7 @@
             desire of doing right by the poor fellahs who toil only for the benefit of their
             rulers.</p>
 
-         <p>
-                <name type="place" ref="#minieh">Minieh</name>, May 27th. No prospect of stirring yet:
+         <p><name type="place" ref="#minieh">Minieh</name>, May 27th. No prospect of stirring yet:
             the uicczb LuiiLiiiuco do litibn cife ever, oiowmg a gaie ai night; the weather still
             extremely cool, the thermometer to-day at noon, only 78°. Mr. Pengelly continues very
             unwell: but in this large garrison town, the third in importance of all those above
@@ -144,8 +141,7 @@
             them to drink, a proceeding quite as original in its way as that of administering a dram
             to a turkey when about to be killed for the table.</p>
 
-         <p>
-                <name type="place" ref="#minieh">Minieh</name>, May 28th. The breeze continues to keep
+         <p><name type="place" ref="#minieh">Minieh</name>, May 28th. The breeze continues to keep
             us close prisoners, and a weary time we have of it, for the country around is very
             uninteresting, and our anxiety to reach <name type="place" ref="#cairo">Cairo</name>
             increases daily. A government steamer is reported to be hourly expected from <name type="place" ref="#siout">Siout</name>, when we hope to succeed in inducing the

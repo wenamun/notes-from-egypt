@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -10,7 +9,7 @@
             <p/>
          </publicationStmt>
          <sourceDesc>
-            <p>TText taken from https://archive.org/details/lettersfromegypt00brom</p>
+            <p>Text taken from https://archive.org/details/lettersfromegypt00brom</p>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -32,8 +31,7 @@
    </teiHeader>
    <text>
       <body>
-         <p>My dear <name type="person" ref="#eliza_bromfield">E</name>
-            </p>
+         <p>My dear <name type="person" ref="#eliza_bromfield">E</name></p>
 
          <p>I dispatched my first communication from this place by the Medina steamer yesterday, and
             I hope it will be safely received by you in about ten or twelve days.</p>

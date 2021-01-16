@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -32,8 +31,7 @@
    </teiHeader>
    <text>
       <body>
-         <p>My Dear <name type="person" ref="#eliza_bromfield">E</name>
-            </p>
+         <p>My Dear <name type="person" ref="#eliza_bromfield">E</name></p>
 
          <p>My last sheet left us at Luxor, on the evening of the 20th, moored close to the shore
             for the night, and just starting to take such a hasty glance at its lions, as we at

@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Sheppard's British Hotel, Uzbekieh, <name type="place" ref="#cairo">Cairo</name>,
+            <title>Sheppard's British Hotel, Uzbekieh, Cairo,
                October 29th, 1850.</title>
          </titleStmt>
          <publicationStmt>
@@ -20,8 +19,7 @@
                <name type="person" ref="https://viaf.org/viaf/160825459">William Arnold
                   Bromfield</name>
                <name type="place" ref="http://www.geonames.org/360630">Sheppard's British Hotel,
-                  Uzbekieh, <name type="place" ref="#cairo">Cairo</name>
-                    </name>
+                  Uzbekieh, <name type="place" ref="#cairo">Cairo</name></name>
                <date when="1850-10-29">29 October 1850</date>
             </correspAction>
             <correspAction type="received">
@@ -33,8 +31,7 @@
    </teiHeader>
    <text>
       <body>
-         <p> My dear <name type="person" ref="#eliza_bromfield">E</name>
-            </p>
+         <p> My dear <name type="person" ref="#eliza_bromfield">E</name></p>
 
          <p>In my last letter dispatched from this interestingcity, I had not space left for any
             account of my voyage of thirty hours from <name type="place" ref="#alexandria">Alexandria </name>, which I shall now proceed with, before giving you my impressions

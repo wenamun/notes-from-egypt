@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -30,8 +29,7 @@
    </teiHeader>
    <text>
       <body>
-         <p>My dear <name type="person" ref="#eliza_bromfield">E</name>
-            </p>
+         <p>My dear <name type="person" ref="#eliza_bromfield">E</name></p>
 
          <p>We set out at an early hour this morning for the town of <name type="place" ref="#kenneh">Kenneh</name> or Ginneh as it is sometimes written, it is situated
             about a mile or rather more from the Nile, which however when at its height overflows
@@ -66,8 +64,7 @@
             the fields of clover, carrots, and other crops, are perhaps not usually greater in size
             than in our own country.</p>
 
-         <p>
-                <name type="place" ref="#kenneh">Kenneh</name> is a town of some importance (the ancient
+         <p><name type="place" ref="#kenneh">Kenneh</name> is a town of some importance (the ancient
             Csenopolis or Neapolis,) the residence of a provincial governor, and garrisoned by
             troops. It is famous for its manufacture of porous earthern jars called gullahs, used
             all over Egypt for cooling drinking water, they are made here, and at a few other places

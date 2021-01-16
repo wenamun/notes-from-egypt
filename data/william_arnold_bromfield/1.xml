@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://notesfromegypt.info/schema/tei_nfe.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -32,8 +31,7 @@
    </teiHeader>
    <text>
       <body>
-         <p>My dear <name type="person" ref="#eliza_bromfield">E</name>
-            </p>
+         <p>My dear <name type="person" ref="#eliza_bromfield">E</name></p>
 
          <p>Early to-morrow we shall probably be at <name type="place" ref="#gibraltar">Gibraltar</name>, and as the vessel will remain for a few hours only to coal before
             continuing her course to <name type="place" ref="#malta">Malta</name>, but little time
@@ -103,8 +101,7 @@
             first visit, and will do all I can to find out Major H 's tomb in the military burial
             ground, and report on its state for his sister's information. </p>
 
-         <p>
-                <name type="place" ref="#gibraltar">Gibraltar</name> , October; 5th. We arrived here
+         <p><name type="place" ref="#gibraltar">Gibraltar</name> , October; 5th. We arrived here
             this morning very early, and I was up and on deck, at six o'clock, to admire the
             magnificent view of the Bay and Rock of <name type="place" ref="#gibraltar">Gibraltar</name>, which fully came up to, and I may almost say, surpassed the idea I
             had formed of it. From arriving so early, our supply of coals had been got in sooner
@@ -324,8 +321,7 @@
             excited the most violent opposition from the Romish priesthood, which is extremely
             bigoted in <name type="place" ref="#malta">Malta</name>.</p>
 
-         <p>
-                <name type="place" ref="#alexandria">Alexandria </name> October 18th. We arrived off
+         <p><name type="place" ref="#alexandria">Alexandria </name> October 18th. We arrived off
             this place last night, in the Government steamer "Medina" from <name type="place" ref="#marseilles">Marseilles</name>, and entered the harbour this morning at sunrise,
             after an unpleasant but not stormy passage: the very uneasy motion of the vessel
             affecting every one of the passengers, being compounded of pitching and rolling; the
